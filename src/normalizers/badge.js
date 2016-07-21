@@ -5,10 +5,10 @@ class BadgeNormalizer {
     static Normalize(badgesRaw) {
         return badgesRaw.map((badgeRaw) => {
             return {
-                type: badgeRaw.type,
-                id: badgeRaw.id,
-                formattedName: FormatName(badgeRaw.data.BadgeType, 1),
-                ranks: badgeRaw.data.BadgeRanks
+                Type: badgeRaw.type,
+                Id: badgeRaw.id,
+                FormattedName: FormatName(badgeRaw.data.BadgeType, 1),
+                Ranks: badgeRaw.data.BadgeRanks
             };
         });
     }
