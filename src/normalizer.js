@@ -1,4 +1,4 @@
-import { BadgeNormalizer, ItemNormalizer, PokemonNormalizer } from './normalizers/index.js';
+import { BadgeNormalizer, ItemNormalizer, PokemonNormalizer, MoveNormalizer } from './normalizers/index.js';
 import _ from 'lodash';
 import fs from 'fs';
 
@@ -29,6 +29,7 @@ class Normalizer {
         this.Save('Badge', BadgeNormalizer.Normalize(groupedAssets.Badge));
         this.Save('Item', ItemNormalizer.Normalize(groupedAssets.Item));
         this.Save('Pokemon', PokemonNormalizer.Normalize(groupedAssets.Pokemon));
+        this.Save('Move', MoveNormalizer.Normalize(groupedAssets.Move));
     }
 }
 
