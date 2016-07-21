@@ -3,11 +3,11 @@ import _ from 'lodash';
 import fs from 'fs';
 
 class Normalizer {
-    
-    static Save(type, data){
+
+    static Save(type, data) {
         const dir = 'output';
-        
-        if (!fs.existsSync(dir)){
+
+        if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
         }
 
@@ -26,10 +26,11 @@ class Normalizer {
             })
             .groupBy('type')
             .value();
+        let Moves = MoveNormalizer.Normalize(groupedAssets.Move);
         this.Save('Badge', BadgeNormalizer.Normalize(groupedAssets.Badge));
         this.Save('Item', ItemNormalizer.Normalize(groupedAssets.Item));
-        this.Save('Pokemon', PokemonNormalizer.Normalize(groupedAssets.Pokemon));
-        this.Save('Move', MoveNormalizer.Normalize(groupedAssets.Move));
+        this.Save('Move', Moves);
+        this.Save('Pokemon', PokemonNormalizer.Normalize(groupedAssets.Pokemon, Moves));
     }
 }
 

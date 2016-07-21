@@ -3,22 +3,23 @@ import _ from 'lodash';
 
 class MoveNormalizer {
     static Normalize(movesRaw) {
+        console.log(movesRaw);
         return movesRaw.map((moveRaw) => {
-            let [Id, Type, Name] = _(moveRaw.data.UniqueId)
-                .split('_')
-                .value();
-            Id = parseInt(Id.substring(1, Id.length));
+            let numericId = moveRaw.id.substring(1, moveRaw.id.length - 1);
+            numericId = numericId.split("_");
+            numericId = parseInt(numericId[0].substring(1))
+
             return {
-                Id : Id,
-                Name: FormatName(moveRaw.data.UniqueId, 2),
-                Type : FormatName(moveRaw.data.Type, 2),
-                Power : moveRaw.data.Power,
+                Id: numericId,
+                Name: FormatName(moveRaw.data.VfxName.substring(1, moveRaw.data.VfxName.length - 1), 0).replace('Fast', '').trim(),
+                Type: FormatName(moveRaw.data.Type, 2),
+                Power: moveRaw.data.Power,
                 Accuracy: moveRaw.data.AccuracyChance,
                 CriticalChance: moveRaw.data.CriticalChance,
                 TrainerLevelMin: moveRaw.data.TrainerLevelMin,
                 TrainerLevelMax: moveRaw.data.TrainerLevelMax,
                 Duration: moveRaw.data.DurationMs
-            }
+            };
         });
     }
 }
