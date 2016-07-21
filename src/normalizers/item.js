@@ -7,7 +7,6 @@ class ItemNormalizer {
             .map((itemRaw) => {
                 // General Properties
                 let item = {
-                    Type: itemRaw.type,
                     Id: itemRaw.id,
                     FormattedName: FormatName(itemRaw.id, 1),
                     ItemType : FormatName(itemRaw.data.ItemType, 2),

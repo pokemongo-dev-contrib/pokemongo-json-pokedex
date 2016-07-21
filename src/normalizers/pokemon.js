@@ -41,7 +41,6 @@ class PokemonNormalizer {
             });
 
             let pokemon = {
-                Type: pokemonRaw.type,
                 Id: Id,
                 Name: Name.toLowerCase().capitalizeFirstLetter(),
                 Types: Types,
