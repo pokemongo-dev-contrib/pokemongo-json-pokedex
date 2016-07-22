@@ -2,8 +2,34 @@ import {FormatName} from '../lib/helper';
 import _ from 'lodash';
 
 class PokemonNormalizer {
+    static ParseEvolutionId(idRaw) {
+        return parseInt(idRaw.replace('"', '').replace('\\', ''));
+    }
+    static GetEvolutionInformation(pokemons, evolution) {
+
+    }
+    static EvolutionNormalizer(pokemons, evolution, evolutionArray) {
+        if (evolutionArray === undefined) {
+            evolutionArray = [];
+        }
+        var evolutionPokemon = _(pokemons).find((pokemon) => {
+            return pokemon.Id == evolution.ParentEvolutionId;
+        });
+        if (evolutionPokemon) {
+            evolutionArray.push({
+                Id: evolutionPokemon.Id,
+                Name: evolutionPokemon.Name
+            });
+
+            if (evolutionPokemon.ParentEvolutionId) {
+                this.EvolutionNormalizer(pokemons, evolutionPokemon, evolutionArray);
+            }
+        }
+
+        return evolutionArray;
+    }
     static Normalize(pokemonsRaw, moves) {
-        return pokemonsRaw.map((pokemonRaw) => {
+        let pokemonNormalized = pokemonsRaw.map((pokemonRaw) => {
             let [Id, Type, Name] = _(pokemonRaw.data.UniqueId)
                 .split('_')
                 .value();
@@ -56,11 +82,21 @@ class PokemonNormalizer {
                 AverageHeight: pokemonRaw.data.PokedexHeightM,
                 AverageWeight: pokemonRaw.data.PokedexWeightKg
             };
+
             if (pokemonRaw.data.Evolution !== undefined) {
-                pokemon.EvolutionId = parseInt(pokemonRaw.data.Evolution.replace('"', '').replace('\\', ''));
+                pokemon.ParentEvolutionId = this.ParseEvolutionId(pokemonRaw.data.Evolution);
             }
             return _.omitBy(pokemon, _.isNil);
         });
+        pokemonNormalized = pokemonNormalized.map(pokemon => {
+            var evolutions = this.EvolutionNormalizer(pokemonNormalized, pokemon);
+            if (evolutions.length > 0) {
+                pokemon.ParentEvolutions = evolutions;
+            }
+            delete pokemon.ParentEvolutionId;
+            return pokemon;
+        });
+        return pokemonNormalized;
     }
 }
 
