@@ -8,26 +8,23 @@ class PokemonNormalizer {
     static GetEvolutionInformation(pokemons, evolution) {
 
     }
-    static EvolutionNormalizer(pokemons, evolution, evolutionArray) {
-        if (evolutionArray === undefined) {
-            evolutionArray = [];
-        }
-        var evolutionPokemon = _(pokemons).find((pokemon) => {
-            return pokemon.Id == evolution.ParentEvolutionId;
+    static EvolutionNormalizer(pokemons, evolution) {
+        let family = pokemons.filter(p => p.FamilyId === evolution.FamilyId);
+        return _.sortBy(family, p => parseInt(evolution.Id), 10).map(pokemon => {
+            return {
+                Id : pokemon.Id,
+                Name: pokemon.Name
+            };
         });
-        if (evolutionPokemon) {
-            evolutionArray.push({
-                Id: evolutionPokemon.Id,
-                Name: evolutionPokemon.Name
-            });
-
-            if (evolutionPokemon.ParentEvolutionId) {
-                this.EvolutionNormalizer(pokemons, evolutionPokemon, evolutionArray);
-            }
-        }
-
-        return evolutionArray;
     }
+    static CleanUp(pokemons){
+        return pokemons.map(pokemon => {
+            delete pokemon.ParentEvolutionId;
+            delete pokemon.FamilyId;
+            return pokemon;
+        });
+    }
+
     static Normalize(pokemonsRaw, moves) {
         let pokemonNormalized = pokemonsRaw.map((pokemonRaw) => {
             let [Id, Type, Name] = _(pokemonRaw.data.UniqueId)
@@ -78,6 +75,7 @@ class PokemonNormalizer {
                     DodgeInterval: pokemonRaw.data.Encounter.MovementTimerS,
                     AttackTimer: pokemonRaw.data.Encounter.AttackTimerS
                 },
+                FamilyId: pokemonRaw.data.FamilyId,
                 Stats: pokemonRaw.data.Stats,
                 AverageHeight: pokemonRaw.data.PokedexHeightM,
                 AverageWeight: pokemonRaw.data.PokedexWeightKg
@@ -90,12 +88,12 @@ class PokemonNormalizer {
         });
         pokemonNormalized = pokemonNormalized.map(pokemon => {
             var evolutions = this.EvolutionNormalizer(pokemonNormalized, pokemon);
-            if (evolutions.length > 0) {
-                pokemon.ParentEvolutions = evolutions;
-            }
-            delete pokemon.ParentEvolutionId;
+            pokemon.Evolutions = evolutions;
             return pokemon;
         });
+
+        this.CleanUp(pokemonNormalized);
+        
         return pokemonNormalized;
     }
 }
