@@ -13,7 +13,7 @@ class Normalizer {
 
         fs.writeFile('output/' + type + '.json', JSON.stringify(data));
     }
-    static Normalize(data) {
+    static Normalize(data, pokemonGoDataGraber) {
         const groupedAssets = _.chain(data.Items)
             .map(item => {
                 const keys = Object.keys(item);
@@ -30,7 +30,7 @@ class Normalizer {
         this.Save('Badge', BadgeNormalizer.Normalize(groupedAssets.Badge));
         this.Save('Item', ItemNormalizer.Normalize(groupedAssets.Item));
         this.Save('Move', Moves);
-        this.Save('Pokemon', PokemonNormalizer.Normalize(groupedAssets.Pokemon, Moves));
+        this.Save('Pokemon', PokemonNormalizer.Normalize(groupedAssets.Pokemon, Moves, pokemonGoDataGraber));
     }
 }
 

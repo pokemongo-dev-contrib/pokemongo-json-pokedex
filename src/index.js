@@ -5,5 +5,13 @@ fs.readFile('src/assets/raw.json', 'utf8', function (err, data) {
     if (err) {
         return console.log(err);
     }
-    Normalizer.Normalize(JSON.parse(data));
+
+
+    fs.readFile('src/assets/output.json', 'utf8', function (err, dataDataGraber) {
+        if (err) {
+            return console.log(err);
+        }
+        Normalizer.Normalize(JSON.parse(data), JSON.parse(dataDataGraber));
+
+    });
 });

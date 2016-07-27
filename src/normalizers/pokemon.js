@@ -12,12 +12,21 @@ class PokemonNormalizer {
         let family = pokemons.filter(p => p.FamilyId === evolution.FamilyId);
         return _.sortBy(family, p => parseInt(evolution.Id), 10).map(pokemon => {
             return {
-                Id : pokemon.Id,
+                Id: pokemon.Id,
                 Name: pokemon.Name
             };
         });
     }
-    static CleanUp(pokemons){
+
+    static WeaknessesNormalizer(pokemons) {
+        return pokemons.map(pokemon => {
+            let pokemonDatagraber = this.pokemonsDataGraber.filter(p => { return p.Number == pokemon.Id; })[0];
+            pokemon.Weaknesses = pokemonDatagraber.Weaknesses;
+            return pokemon;
+        });
+    }
+
+    static CleanUp(pokemons) {
         return pokemons.map(pokemon => {
             delete pokemon.ParentEvolutionId;
             delete pokemon.FamilyId;
@@ -25,7 +34,8 @@ class PokemonNormalizer {
         });
     }
 
-    static Normalize(pokemonsRaw, moves) {
+    static Normalize(pokemonsRaw, moves, pokemonsDataGraber) {
+        this.pokemonsDataGraber = pokemonsDataGraber;
         let pokemonNormalized = pokemonsRaw.map((pokemonRaw) => {
             let [Id, Type, Name] = _(pokemonRaw.data.UniqueId)
                 .split('_')
@@ -92,8 +102,9 @@ class PokemonNormalizer {
             return pokemon;
         });
 
+        pokemonNormalized = this.WeaknessesNormalizer(pokemonNormalized);
         this.CleanUp(pokemonNormalized);
-        
+
         return pokemonNormalized;
     }
 }
