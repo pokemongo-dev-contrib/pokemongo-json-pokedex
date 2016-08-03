@@ -22,6 +22,7 @@ class PokemonNormalizer {
         return pokemons.map(pokemon => {
             let pokemonDatagraber = this.pokemonsDataGraber.filter(p => { return p.Number == pokemon.Id; })[0];
             pokemon.Weaknesses = pokemonDatagraber.Weaknesses;
+            pokemon.Resistant = pokemonDatagraber.Resistant;
             return pokemon;
         });
     }
