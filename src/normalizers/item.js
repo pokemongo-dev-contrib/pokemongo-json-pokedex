@@ -16,7 +16,7 @@ class ItemNormalizer {
             .map((itemRaw) => {
                 // General Properties
                 let item = {
-                    FormattedName: FormatName(itemRaw.id, 1).replace('"', ''),
+                    Name: FormatName(itemRaw.id, 1).replace('"', ''),
                     Category: FormatName(itemRaw.data.Category, 2),
                     Id: itemRaw.data.UniqueId,
                     ItemSpecificData: {}
