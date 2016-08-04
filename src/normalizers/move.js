@@ -16,7 +16,11 @@ class MoveNormalizer {
                 CriticalChance: moveRaw.data.CriticalChance,
                 TrainerLevelMin: moveRaw.data.TrainerLevelMin,
                 TrainerLevelMax: moveRaw.data.TrainerLevelMax,
-                Duration: moveRaw.data.DurationMs
+                Duration: moveRaw.data.DurationMs,
+                Energy: {
+                    Delta: Math.abs(moveRaw.data.EnergyDelta),
+                    Times: Math.round(100 / Math.abs(moveRaw.data.EnergyDelta))
+                }
             };
         });
     }
