@@ -5,6 +5,11 @@
 		"noImplicitAny": false,
 		"sourceMap": true,
 		"emitDecoratorMetadata": true,
-		"experimentalDecorators": true
+		"experimentalDecorators": true,
+		"baseUrl": ".",
+		"paths": {
+			"core/*": ["src/core/*"],
+			"components/*": ["src/components/*"]
+		}
 	}
 }
