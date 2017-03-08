@@ -1,2 +1,4 @@
-/node_modules
-/.vscode
+node_modules
+src/**/*.js
+src/**/*.js.map
+build
