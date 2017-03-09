@@ -22,12 +22,13 @@
     "url": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer/issues"
   },
   "homepage": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^7.0.5",
+    "@types/underscore": "^1.7.36",
     "ts-loader": "^2.0.1",
     "typescript": "^2.2.1",
+    "underscore": "^1.8.3",
     "webpack": "^2.2.1"
   }
 }

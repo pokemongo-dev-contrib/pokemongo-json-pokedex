@@ -1,3 +1,5 @@
+import { Identifyable } from 'core/identifyable.interface';
+
 interface PokemonStats {
     baseStamina: number;
     baseAttack: number;
@@ -7,7 +9,7 @@ interface PokemonStats {
 interface PokemonEncounter {
     baseFleeRate: number;
     collisionRadius: number;
-    movementType: string;
+    movementType?: Identifyable;
     jumpTime: number;
     attackTimer: number;
     attackProbability: number;
@@ -24,23 +26,24 @@ interface PokemonCamera {
     cylinderGround: number;
     shoulderModeScale: number;
 }
-class Pokemon {
+class Pokemon implements Identifyable {
     public name: string;
+    public id: string;
     public modelScale: number;
-    public types: string[];
+    public types: Identifyable[];
     public encounter: PokemonEncounter;
     public camera: PokemonCamera;
     public stats: PokemonStats;
-    public quickMoves: string[];
-    public cinematicMoves: string[];
+    public quickMoves: Identifyable[];
+    public cinematicMoves: Identifyable[];
     public animationTime: number[];
     public evelutionPips: number;
-    public rarity: string;
+    public rarity: Identifyable;
     public height: number;
     public weight: number;
-    public familyId: string;
+    public family: Identifyable;
     public kmBuddyDistance: number;
-    public buddySize: string;
+    public buddySize: Identifyable;
     public modelHeight: number;
 }
 
