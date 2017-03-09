@@ -1,6 +1,7 @@
 var webpack = require('webpack');
 var path = require('path');
 var fs = require('fs');
+var TypedocWebpackPlugin = require('typedoc-webpack-plugin');
 
 var nodeModules = {};
 fs.readdirSync('node_modules')
@@ -25,5 +26,14 @@ module.exports = {
 			loader: 'ts-loader'
 		}]
 	},
-    externals: nodeModules
+	resolve: {
+		alias: {
+			core: './core',
+			components: './components/'
+		}
+	},
+	plugins: [
+		new TypedocWebpackPlugin({})
+	],
+	externals: nodeModules
 };

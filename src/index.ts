@@ -3,7 +3,7 @@ import * as path from 'path';
 import * as chalk from 'chalk';
 
 import { GameMaster } from 'core/game_master';
-import { PokemonParser } from './components/pokemon';
+import { PokemonParser } from './components/pokemon/pokemon.parser';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 
