@@ -4,18 +4,16 @@ import { Pokemon, PokemonMapper } from './';
 
 class PokemonParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
-    private pokemons: Pokemon[];
     constructor(private gameMaster: GameMaster) { }
-
-    private addPokemonToList(rawPokemon: ItemTemplate) {
-        console.log(PokemonMapper.Map(rawPokemon));
+    private isItemTemplatePokemon(item: ItemTemplate): boolean {
+        return this.regexp.test(item.templateId);
     }
 
-    public parse() {
-        this.gameMaster
+    public parse(): Pokemon[] {
+        return this.gameMaster
             .itemTemplates
-            .filter(item => this.regexp.test(item.templateId))
-            .forEach(this.addPokemonToList);
+            .filter(p => { return this.isItemTemplatePokemon(p); })
+            .map(p => PokemonMapper.Map(p));
     }
 }
 
