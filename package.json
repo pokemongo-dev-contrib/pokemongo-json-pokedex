@@ -7,6 +7,7 @@
     "prestart": "npm run build",
     "start": "node build/index.js",
     "build": "webpack",
+    "docs": "node_modules/.bin/typedoc --out docs",
     "fetch-game-master": "node bin/get-latest-game-master.js"
   },
   "repository": {
