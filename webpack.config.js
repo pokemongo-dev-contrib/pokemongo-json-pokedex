@@ -28,8 +28,8 @@ module.exports = {
 	},
 	resolve: {
 		alias: {
-			core: './core',
-			components: './components/'
+			'components': './src/components',
+			'core': './src/core'
 		}
 	},
 	plugins: [

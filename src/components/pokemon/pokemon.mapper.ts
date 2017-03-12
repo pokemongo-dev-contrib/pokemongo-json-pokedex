@@ -1,5 +1,5 @@
 import { Pokemon } from './pokemon.model';
-import { ItemTemplate } from 'core/game_master';
+import { ItemTemplate } from '../../core/game_master/gameMaster.interface';
 import Util from '../../shared/util';
 
 export class PokemonMapper {

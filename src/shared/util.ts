@@ -1,5 +1,5 @@
 import * as _ from 'underscore';
-import { Identifyable } from 'core/identifyable.interface';
+import { Identifyable } from '../core/identifyable.interface';
 
 export default class Util {
     public static FirstCharacter2Uppercase(text: string): string {

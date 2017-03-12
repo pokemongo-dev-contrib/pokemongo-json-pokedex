@@ -1,5 +1,5 @@
-import { GameMaster, ItemTemplate } from 'core/game_master';
-import { Parser } from 'core/parser';
+import { GameMaster, ItemTemplate } from '../../core/game_master';
+import { Parser } from '../../core/parser';
 import { Pokemon, PokemonMapper } from './';
 
 class PokemonParser implements Parser {
