@@ -2,11 +2,12 @@
   "name": "pokemongo-data-normalizer",
   "version": "2.0.0",
   "description": "",
-  "main": "src/index.ts",
+  "main": "src/app.ts",
   "scripts": {
-    "prestart": "npm run build",
-    "start": "node build/index.js",
-    "build": "webpack",
+    "prestart": "npm run build && npm run clean",
+    "start": "node build/app.js",
+    "clean": "rm -rf src/**/**/.js && rm -rf src/**/**/*.map",
+    "build": "tsc && webpack",
     "docs": "node_modules/.bin/typedoc --out docs",
     "fetch-game-master": "node bin/get-latest-game-master.js"
   },
@@ -25,12 +26,14 @@
   "homepage": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer#readme",
   "dependencies": {
     "chalk": "^1.1.3",
+    "es6-shim": "^0.35.3",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
     "@types/chalk": "^0.4.31",
-    "@types/node": "^7.0.7",
-    "@types/underscore": "^1.7.36",
+    "@types/es6-shim": "^0.31.32",
+    "@types/node": "^7.0.8",
+    "@types/underscore": "^1.8.0",
     "ts-loader": "^2.0.1",
     "typedoc": "^0.5.7",
     "typedoc-webpack-plugin": "^1.1.3",

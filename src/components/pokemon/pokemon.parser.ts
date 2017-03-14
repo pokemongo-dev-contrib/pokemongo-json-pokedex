@@ -9,7 +9,7 @@ class PokemonParser implements Parser {
         return this.regexp.test(item.templateId);
     }
 
-    public parse(): Pokemon[] {
+    public Parse(): Pokemon[] {
         return this.gameMaster
             .itemTemplates
             .filter(p => { return this.isItemTemplatePokemon(p); })

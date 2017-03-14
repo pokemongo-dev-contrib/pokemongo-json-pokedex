@@ -1,7 +1,7 @@
 import { GameMaster } from './game_master';
 
 interface Parser {
-    parse(gameMaster: GameMaster);
+    Parse(gameMaster: GameMaster);
 }
 
 export { Parser };

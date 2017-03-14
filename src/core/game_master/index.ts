@@ -1,2 +1,2 @@
-export * from './gameMaster.interface';
-export * from './gameMasterItemTemplate.interface';
+export * from './gameMaster';
+export * from './gameMasterItemTemplate';

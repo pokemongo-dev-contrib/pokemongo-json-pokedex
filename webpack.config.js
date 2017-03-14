@@ -13,12 +13,12 @@ fs.readdirSync('node_modules')
 	});
 
 module.exports = {
-	entry: './src/index.ts',
+	entry: './src/app.ts',
 	target: 'node',
 	devtool: 'source-map',
 	output: {
 		path: path.join(__dirname, 'build'),
-		filename: 'index.js'
+		filename: 'app.js'
 	},
 	module: {
 		loaders: [{

@@ -1,4 +1,4 @@
-import { GameMasterItemTemplate } from './gameMasterItemTemplate.interface';
+import { GameMasterItemTemplate } from './gameMasterItemTemplate';
 
 export interface AvatarCustomization {
     enabled: boolean;
