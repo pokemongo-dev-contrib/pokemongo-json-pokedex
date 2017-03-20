@@ -1,7 +1,7 @@
-import { GameMaster } from './game_master';
+import { RootObject } from './game_master';
 
 interface Parser {
-    Parse(gameMaster: GameMaster);
+    Parse(gameMaster: RootObject);
 }
 
 export { Parser };

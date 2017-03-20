@@ -1,5 +1,3 @@
-import { GameMasterItemTemplate } from './gameMasterItemTemplate';
-
 export interface AvatarCustomization {
     enabled: boolean;
     avatarType: string;
@@ -302,7 +300,10 @@ export interface ItemTemplate {
     moveSequenceSettings: MoveSequenceSettings;
 }
 
-export interface GameMaster {
+export interface RootObject {
     itemTemplates: ItemTemplate[];
     timestampMs: string;
+    version: string;
 }
+
+

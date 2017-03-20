@@ -4,7 +4,8 @@ import * as chalk from 'chalk';
 
 import APP_SETTINGS from './app.settings';
 import { PokemonWriter } from './components/pokemon/pokemon.writer';
-import { GameMaster } from './core/game_master';
+import { MoveWriter } from './components/move/move.writer';
+import { RootObject } from './core/game_master';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');
@@ -17,4 +18,10 @@ new PokemonWriter().Write().then(() => {
     console.log(`${chalk.green('✓')} Pokemon written to ${chalk.cyan(APP_SETTINGS.POKEMON_FILE)}`);
 }, () => {
     console.log(`${chalk.red('×')} Failed at Parsing Pokemon`);
+});
+
+new MoveWriter().Write().then(() => {
+    console.log(`${chalk.green('✓')} Moves written to ${chalk.cyan(APP_SETTINGS.MOVE_FILE)}`);
+}, () => {
+    console.log(`${chalk.red('×')} Failed at Parsing Moves`);
 });

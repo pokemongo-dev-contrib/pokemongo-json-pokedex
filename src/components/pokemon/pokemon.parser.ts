@@ -1,10 +1,10 @@
-import { GameMaster, ItemTemplate } from '../../core/game_master';
+import { RootObject, ItemTemplate } from '../../core/game_master';
 import { Parser } from '../../core/parser';
 import { Pokemon, PokemonMapper } from './';
 
 class PokemonParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
-    constructor(private gameMaster: GameMaster) { }
+    constructor(private gameMaster: RootObject) { }
     private isItemTemplatePokemon(item: ItemTemplate): boolean {
         return this.regexp.test(item.templateId);
     }
