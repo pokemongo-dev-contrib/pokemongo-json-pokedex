@@ -1,6 +1,7 @@
 # pokemongo-data-normalizer
 
 [![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-data-normalizer)](https://ghit.me/repo/BrunnerLivio/pokemongo-data-normalizer)
+[![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer)
 
 This program transforms the data from the Pokemon GO master files
 to a better readable & processable JSON file.
