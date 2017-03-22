@@ -1,4 +1,4 @@
-# Pokemon Go Data Transformer
+# pokemongo-data-normalizer
 
 [![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-data-normalizer)](https://ghit.me/repo/BrunnerLivio/pokemongo-data-normalizer)
 
@@ -10,7 +10,7 @@ to a better readable & processable JSON file.
 - [NodeJS](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
-# Installaion
+# Installation
 
 
 1. Clone the repository and change directory to the cloned repository.
