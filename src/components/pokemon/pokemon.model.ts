@@ -45,7 +45,7 @@ class Pokemon implements Identifyable {
     public kmBuddyDistance: number;
     /**
      * The size of the Pokemon, when it is chosen as
-     * a buddy. 
+     * a buddy.
      */
     public buddySize: Identifyable;
     public modelHeight: number;

@@ -1,5 +1,5 @@
 import { ItemTemplate } from '../../core/game_master';
-import { Move } from "./";
+import { Move } from './';
 import Util from '../../shared/util';
 
 export class MoveMapper {
