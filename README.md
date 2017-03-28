@@ -3,7 +3,7 @@
 [![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-data-normalizer)](https://ghit.me/repo/BrunnerLivio/pokemongo-data-normalizer)
 [![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer)
 [![bitHound Overall Score](https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer/badges/score.svg)](https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer)
-[![Online Users in pokemongo-game-master Discord Server](https://discordapp.com/api/guilds/295945059927588865/embed.png)](https://discord.gg/VgrtMeZ)
+[![Online Users in pokemongo-data-normalizer Discord Server](https://discordapp.com/api/guilds/295945059927588865/embed.png)](https://discord.gg/VgrtMeZ)
 
 
 This program transforms the data from the Pokemon GO master files
@@ -47,3 +47,10 @@ See [Scripts > docs](#docs)
 
 ## Commits
 We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-messages). Please use this, otherwise it won't be accepted.
+
+# Docker
+
+You can build the docker container using
+```
+docker build --pull -t $USER/pokemongo-data-normalizer . 
+```
