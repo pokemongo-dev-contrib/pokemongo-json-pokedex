@@ -1,4 +1,4 @@
-FROM node:boron
+FROM readytalk/nodejs
 MAINTAINER "livio.brunner.lb1@gmail.com"
 
 RUN mkdir -p /usr/src/app
