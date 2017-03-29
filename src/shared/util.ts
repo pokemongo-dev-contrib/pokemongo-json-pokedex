@@ -16,7 +16,7 @@ export default class Util {
             .join(' ');
     }
 
-    public static SankeCase2Identifyable(snakeCase: string): Identifyable {
+    public static SnakeCase2Identifyable(snakeCase: string): Identifyable {
         return {
             name: Util.SnakeCase2HumanReadable(snakeCase),
             id: snakeCase

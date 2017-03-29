@@ -19,8 +19,8 @@ export class PokemonMapper {
             }
         }
 
-        pokemon.cinematicMoves = pkmStgs.cinematicMoves.map(Util.SankeCase2Identifyable);
-        pokemon.quickMoves = pkmStgs.quickMoves.map(Util.SankeCase2Identifyable);
+        pokemon.cinematicMoves = pkmStgs.cinematicMoves.map(Util.SnakeCase2Identifyable);
+        pokemon.quickMoves = pkmStgs.quickMoves.map(Util.SnakeCase2Identifyable);
         pokemon.evelutionPips = pkmStgs.evolutionPips;
 
         pokemon.family = {
@@ -78,7 +78,7 @@ export class PokemonMapper {
             jumpTime: pkmStgs.encounter.jumpTimeS,
             maxPokemonActionFrequency: pkmStgs.encounter.maxPokemonActionFrequencyS,
             minPokemonActionFrequency: pkmStgs.encounter.minPokemonActionFrequencyS,
-            movementType: pkmStgs.encounter.movementType ? Util.SankeCase2Identifyable(pkmStgs.encounter.movementType) : null
+            movementType: pkmStgs.encounter.movementType ? Util.SnakeCase2Identifyable(pkmStgs.encounter.movementType) : null
         };
         // Pokemon Camera
         pokemon.camera = {
