@@ -12,6 +12,7 @@ describe('Pokemon Output', () => {
 
     it('should have items', () => {
         expect(input.length).to.not.equal(0);
+        expect(input.length).to.equal(251);
     });
 
     it('should have values', () => {
@@ -51,7 +52,7 @@ describe('Pokemon Output', () => {
             item => expect(typeof item.camera).to.equal('object', 'camera type'),
             item => expect(item.camera.cylinderRadius).to.not.equal(undefined, 'camera.cylinderRadius'),
             item => expect(item.camera.diskRadius).to.not.equal(undefined, 'camera.diskRadius'),
-            item => expect(item.camera.shoulderModeScale).to.not.equal(undefined, 'camera.shoulderModeScale'),
+            item => expect(item.name == "Caterpie" || item.camera.shoulderModeScale !== undefined).to.equal(true, 'camera.shoulderModeScale'),
 
 
         ];
