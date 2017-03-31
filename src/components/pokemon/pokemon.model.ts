@@ -49,6 +49,39 @@ class Pokemon implements Identifyable {
      */
     public buddySize: Identifyable;
     public modelHeight: number;
+
+    /**
+     * What could the player choose to evolve this pokemon into?
+     */
+    public nextEvolutionBranches: Identifyable[];
+
+    /**
+     * All the possible future evolutions of this pokemon, including indirect
+     * evolutions. For example, given Charmander, futureEvolutions would list
+     * Charmeleon and Charizard.
+     */
+    public futureEvolutions: EvolutionTree;
+    
+    /**
+     * All past evolutions of this pokemon, direct and indirect.
+     * 
+     * For Charizard, this field would list Charmander and Charmeleon.
+     */
+    public pastEvolutions: Identifyable[];
 }
 
-export { Pokemon };
+class EvolutionTree implements Identifyable {
+    /**
+     * An EvolutionTree represents all possible future evolutions of a pokemon.
+     * Mutually exclusive choices are given on the same level, while sequential
+     * choices are presented in increasing depth.
+     * 
+     * For example, Eevee's EvolutionTree would take 6 objects in depth 2, but
+     * Charmander's EvolutionTree would take 3 objects in depth 3.
+     */
+    public name: string;
+    public id: string;
+    public futureEvolutions: EvolutionTree[]
+}
+
+export { Pokemon, EvolutionTree };
