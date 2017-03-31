@@ -12,6 +12,7 @@ describe('Pokemon Output', () => {
 
     it('should have items', () => {
         expect(input.length).to.not.equal(0);
+        expect(input.length).to.equal(251);
     });
 
     it('should have values', () => {
@@ -52,8 +53,9 @@ describe('Pokemon Output', () => {
             item => expect(item.camera.cylinderRadius).to.not.equal(undefined, 'camera.cylinderRadius'),
             item => expect(item.camera.diskRadius).to.not.equal(undefined, 'camera.diskRadius'),
             item => expect(item.camera.shoulderModeScale).to.not.equal(undefined, 'camera.shoulderModeScale'),
-
-
+            item => expect(Array.isArray(item.nextEvolutionBranches || [])).to.equal(true, "nextEvolutionBranches type"),
+            item => expect(item.id !== 'BULBASAUR' || item.nextEvolutionBranches.length === 1).to.equal(true, "should have one nextEvolutionBranch for linear pokemon"),
+            item => expect(item.id !== 'EEVEE' || item.nextEvolutionBranches.length === 5).to.equal(true, "should have 5 nextEvolutionBranch-es for Eevee"),
         ];
 
         input.forEach(item => {

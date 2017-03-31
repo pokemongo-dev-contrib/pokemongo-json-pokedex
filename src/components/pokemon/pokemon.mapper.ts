@@ -1,4 +1,4 @@
-import { Pokemon } from './pokemon.model';
+import { Pokemon, EvolutionTree } from './pokemon.model';
 import { ItemTemplate } from '../../core/game_master/gameMaster';
 import Util from '../../shared/util';
 
@@ -87,6 +87,12 @@ export class PokemonMapper {
             diskRadius: pkmStgs.camera.diskRadiusM,
             shoulderModeScale: pkmStgs.camera.shoulderModeScale
         };
+        // Pokemon Evolutions
+        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => {
+            var ident = <EvolutionTree> Util.SnakeCase2Identifyable(branch.evolution)
+            ident.futureEvolutions = [];
+            return ident;
+        });
 
         return pokemon;
     }
