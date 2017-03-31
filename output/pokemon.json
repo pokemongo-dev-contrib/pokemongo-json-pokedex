@@ -80,7 +80,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.5723,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 69
     },
     {
         "animationTime": [
@@ -254,7 +255,8 @@
             "cylinderRadius": 0.759,
             "diskRadius": 1.1385,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 156
     },
     {
         "animationTime": [
@@ -412,7 +414,8 @@
             "cylinderRadius": 0.4635,
             "diskRadius": 0.6953,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 106
     },
     {
         "animationTime": [
@@ -579,7 +582,8 @@
             "cylinderRadius": 0.3825,
             "diskRadius": 0.5738,
             "shoulderModeScale": 0.1
-        }
+        },
+        "maxCP": 55
     },
     {
         "animationTime": [
@@ -741,7 +745,8 @@
             "cylinderRadius": 0.564,
             "diskRadius": 0.846,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 134
     },
     {
         "animationTime": [
@@ -881,7 +886,8 @@
             "cylinderRadius": 0.351,
             "diskRadius": 0.5265,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 28
     },
     {
         "animationTime": [
@@ -1048,7 +1054,8 @@
             "cylinderRadius": 0.209,
             "diskRadius": 0.3135,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 35
     },
     {
         "animationTime": [
@@ -1118,7 +1125,8 @@
             "cylinderRadius": 0.25,
             "diskRadius": 0.375,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 27
     },
     {
         "animationTime": [
@@ -1293,7 +1301,8 @@
             "cylinderRadius": 0.252,
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 47
     },
     {
         "animationTime": [
@@ -1469,7 +1478,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 133
     },
     {
         "animationTime": [
@@ -1627,7 +1637,8 @@
             "cylinderRadius": 0.5265,
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 105
     },
     {
         "animationTime": [
@@ -1714,7 +1725,8 @@
             "cylinderRadius": 0.296,
             "diskRadius": 0.444,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 62
     },
     {
         "animationTime": [
@@ -1802,7 +1814,8 @@
             "cylinderRadius": 0.504,
             "diskRadius": 1.26,
             "shoulderModeScale": 0.375
-        }
+        },
+        "maxCP": 129
     },
     {
         "animationTime": [
@@ -1964,7 +1977,8 @@
             "cylinderRadius": 0.615,
             "diskRadius": 0.9225,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 114
     },
     {
         "animationTime": [
@@ -2126,7 +2140,8 @@
             "cylinderRadius": 0.486,
             "diskRadius": 0.729,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 132
     },
     {
         "animationTime": [
@@ -2284,7 +2299,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 139
     },
     {
         "animationTime": [
@@ -2442,7 +2458,8 @@
             "cylinderRadius": 0.4388,
             "diskRadius": 0.6581,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 86
     },
     {
         "animationTime": [
@@ -2529,7 +2546,8 @@
             "cylinderRadius": 0.4095,
             "diskRadius": 0.6143,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 150
     },
     {
         "animationTime": [
@@ -2608,7 +2626,8 @@
             "cylinderRadius": 0.4725,
             "diskRadius": 0.7088,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 62
     },
     {
         "animationTime": [
@@ -2687,7 +2706,8 @@
             "cylinderRadius": 0.495,
             "diskRadius": 0.7425,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 94
     },
     {
         "animationTime": [
@@ -2774,7 +2794,8 @@
             "cylinderRadius": 0.5481,
             "diskRadius": 0.8222,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 162
     },
     {
         "animationTime": [
@@ -2853,7 +2874,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.675,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 79
     },
     {
         "animationTime": [
@@ -2936,7 +2958,8 @@
             "cylinderRadius": 0.712,
             "diskRadius": 1.1681,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 153
     },
     {
         "animationTime": [
@@ -3098,7 +3121,8 @@
             "cylinderRadius": 0.65,
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 127
     },
     {
         "animationTime": [
@@ -3181,7 +3205,8 @@
             "cylinderRadius": 0.512,
             "diskRadius": 0.768,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 75
     },
     {
         "animationTime": [
@@ -3268,7 +3293,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 1.0013,
             "shoulderModeScale": 0.4
-        }
+        },
+        "maxCP": 163
     },
     {
         "animationTime": [
@@ -3444,7 +3470,8 @@
             "cylinderRadius": 0.75,
             "diskRadius": 1.5975,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 123
     },
     {
         "animationTime": [
@@ -3527,7 +3554,8 @@
             "cylinderRadius": 0.405,
             "diskRadius": 0.6075,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 147
     },
     {
         "animationTime": [
@@ -3610,7 +3638,8 @@
             "cylinderRadius": 0.495,
             "diskRadius": 0.7425,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 104
     },
     {
         "animationTime": [
@@ -3697,7 +3726,8 @@
             "cylinderRadius": 0.828,
             "diskRadius": 1.242,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 154
     },
     {
         "animationTime": [
@@ -3780,7 +3810,8 @@
             "cylinderRadius": 0.384,
             "diskRadius": 0.576,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 63
     },
     {
         "animationTime": [
@@ -3863,7 +3894,8 @@
             "cylinderRadius": 0.6313,
             "diskRadius": 0.9469,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 112
     },
     {
         "animationTime": [
@@ -3946,7 +3978,8 @@
             "cylinderRadius": 0.5325,
             "diskRadius": 0.7988,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 68
     },
     {
         "animationTime": [
@@ -4034,7 +4067,8 @@
             "cylinderRadius": 0.576,
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 132
     },
     {
         "animationTime": [
@@ -4108,7 +4142,8 @@
             "cylinderRadius": 0.3,
             "diskRadius": 0.45,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 30
     },
     {
         "animationTime": [
@@ -4186,7 +4221,8 @@
             "cylinderRadius": 0.672,
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 87
     },
     {
         "animationTime": [
@@ -4344,7 +4380,8 @@
             "cylinderRadius": 0.533,
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 106
     },
     {
         "animationTime": [
@@ -4423,7 +4460,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.5456,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 76
     },
     {
         "animationTime": [
@@ -4585,7 +4623,8 @@
             "cylinderRadius": 0.4838,
             "diskRadius": 0.7256,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 82
     },
     {
         "animationTime": [
@@ -4668,7 +4707,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 147
     },
     {
         "animationTime": [
@@ -4747,7 +4787,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.8775,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 89
     },
     {
         "animationTime": [
@@ -4830,7 +4871,8 @@
             "cylinderRadius": 0.666,
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 190
     },
     {
         "animationTime": [
@@ -4909,7 +4951,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.75,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 56
     },
     {
         "animationTime": [
@@ -5079,7 +5122,8 @@
             "cylinderRadius": 0.817,
             "diskRadius": 1.2255,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 152
     },
     {
         "animationTime": [
@@ -5159,7 +5203,8 @@
             "cylinderRadius": 0.448,
             "diskRadius": 0.672,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 86
     },
     {
         "animationTime": [
@@ -5242,7 +5287,8 @@
             "cylinderRadius": 0.6675,
             "diskRadius": 1.0013,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 129
     },
     {
         "animationTime": [
@@ -5325,7 +5371,8 @@
             "cylinderRadius": 0.51,
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 177
     },
     {
         "animationTime": [
@@ -5404,7 +5451,8 @@
             "cylinderRadius": 0.4125,
             "diskRadius": 0.6188,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 101
     },
     {
         "animationTime": [
@@ -5487,7 +5535,8 @@
             "cylinderRadius": 0.546,
             "diskRadius": 0.819,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 139
     },
     {
         "animationTime": [
@@ -5653,7 +5702,8 @@
             "cylinderRadius": 0.4515,
             "diskRadius": 0.6773,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 86
     },
     {
         "animationTime": [
@@ -5741,7 +5791,8 @@
             "cylinderRadius": 0.65,
             "diskRadius": 0.975,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 122
     },
     {
         "animationTime": [
@@ -5913,7 +5964,8 @@
             "cylinderRadius": 0.315,
             "diskRadius": 0.4725,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 54
     },
     {
         "animationTime": [
@@ -6085,7 +6137,8 @@
             "cylinderRadius": 0.3915,
             "diskRadius": 0.5873,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 73
     },
     {
         "animationTime": [
@@ -6172,7 +6225,8 @@
             "cylinderRadius": 0.697,
             "diskRadius": 1.0455,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 107
     },
     {
         "animationTime": [
@@ -6259,7 +6313,8 @@
             "cylinderRadius": 0.63,
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 116
     },
     {
         "animationTime": [
@@ -6338,7 +6393,8 @@
             "cylinderRadius": 0.3788,
             "diskRadius": 0.5681,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 106
     },
     {
         "animationTime": [
@@ -6504,7 +6560,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 91
     },
     {
         "animationTime": [
@@ -6591,7 +6648,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.7013,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 152
     },
     {
         "animationTime": [
@@ -6767,7 +6825,8 @@
             "cylinderRadius": 0.44,
             "diskRadius": 0.66,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 139
     },
     {
         "animationTime": [
@@ -6850,7 +6909,8 @@
             "cylinderRadius": 0.452,
             "diskRadius": 0.678,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 78
     },
     {
         "animationTime": [
@@ -6933,7 +6993,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 82
     },
     {
         "animationTime": [
@@ -7020,7 +7081,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.7722,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 149
     },
     {
         "animationTime": [
@@ -7099,7 +7161,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.4125,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 60
     },
     {
         "animationTime": [
@@ -7183,7 +7246,8 @@
             "cylinderRadius": 0.525,
             "diskRadius": 0.7875,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 116
     },
     {
         "animationTime": [
@@ -7266,7 +7330,8 @@
             "cylinderRadius": 0.588,
             "diskRadius": 0.882,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 106
     },
     {
         "animationTime": [
@@ -7349,7 +7414,8 @@
             "cylinderRadius": 0.86,
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 171
     },
     {
         "animationTime": [
@@ -7428,7 +7494,8 @@
             "cylinderRadius": 0.3864,
             "diskRadius": 0.5796,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 56
     },
     {
         "animationTime": [
@@ -7604,7 +7671,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.675,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 89
     },
     {
         "animationTime": [
@@ -7779,7 +7847,8 @@
             "cylinderRadius": 0.8,
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 178
     },
     {
         "animationTime": [
@@ -7862,7 +7931,8 @@
             "cylinderRadius": 0.75,
             "diskRadius": 0.987,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 44
     },
     {
         "animationTime": [
@@ -7945,7 +8015,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 60
     },
     {
         "animationTime": [
@@ -8107,7 +8178,8 @@
             "cylinderRadius": 0.522,
             "diskRadius": 0.783,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 87
     },
     {
         "animationTime": [
@@ -8190,7 +8262,8 @@
             "cylinderRadius": 0.9,
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 157
     },
     {
         "animationTime": [
@@ -8269,7 +8342,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.5063,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 60
     },
     {
         "animationTime": [
@@ -8352,7 +8426,8 @@
             "cylinderRadius": 0.552,
             "diskRadius": 0.828,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 118
     },
     {
         "animationTime": [
@@ -8435,7 +8510,8 @@
             "cylinderRadius": 0.515,
             "diskRadius": 0.7725,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 73
     },
     {
         "animationTime": [
@@ -8522,7 +8598,8 @@
             "cylinderRadius": 0.507,
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 200
     },
     {
         "animationTime": [
@@ -8601,7 +8678,8 @@
             "cylinderRadius": 0.35,
             "diskRadius": 0.444,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 56
     },
     {
         "animationTime": [
@@ -8680,7 +8758,8 @@
             "cylinderRadius": 0.35,
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 98
     },
     {
         "animationTime": [
@@ -8763,7 +8842,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.6225,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 139
     },
     {
         "animationTime": [
@@ -8850,7 +8930,8 @@
             "cylinderRadius": 0.459,
             "diskRadius": 0.6885,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 120
     },
     {
         "animationTime": [
@@ -8929,7 +9010,8 @@
             "cylinderRadius": 0.75,
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 90
     },
     {
         "animationTime": [
@@ -9013,7 +9095,8 @@
             "cylinderRadius": 0.48,
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 66
     },
     {
         "animationTime": [
@@ -9184,7 +9267,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.75,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 110
     },
     {
         "animationTime": [
@@ -9354,7 +9438,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 83
     },
     {
         "animationTime": [
@@ -9433,7 +9518,8 @@
             "cylinderRadius": 0.65,
             "diskRadius": 1.095,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 130
     },
     {
         "animationTime": [
@@ -9516,7 +9602,8 @@
             "cylinderRadius": 0.8,
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 163
     },
     {
         "animationTime": [
@@ -9596,7 +9683,8 @@
             "cylinderRadius": 0.25,
             "diskRadius": 0.2775,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 62
     },
     {
         "animationTime": [
@@ -9680,7 +9768,8 @@
             "cylinderRadius": 0.46,
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 122
     },
     {
         "animationTime": [
@@ -9760,7 +9849,8 @@
             "cylinderRadius": 0.27,
             "diskRadius": 0.405,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 72
     },
     {
         "animationTime": [
@@ -9923,7 +10013,8 @@
             "cylinderRadius": 0.4125,
             "diskRadius": 0.6188,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 66
     },
     {
         "animationTime": [
@@ -10010,7 +10101,8 @@
             "cylinderRadius": 0.485,
             "diskRadius": 0.7275,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 143
     },
     {
         "animationTime": [
@@ -10093,7 +10185,8 @@
             "cylinderRadius": 0.445,
             "diskRadius": 0.6675,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 107
     },
     {
         "animationTime": [
@@ -10181,7 +10274,8 @@
             "cylinderRadius": 0.76,
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 161
     },
     {
         "animationTime": [
@@ -10347,7 +10441,8 @@
             "cylinderRadius": 0.5635,
             "diskRadius": 0.8453,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 141
     },
     {
         "animationTime": [
@@ -10430,7 +10525,8 @@
             "cylinderRadius": 0.66,
             "diskRadius": 0.99,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 146
     },
     {
         "animationTime": [
@@ -10513,7 +10609,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.522,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 169
     },
     {
         "animationTime": [
@@ -10660,7 +10757,8 @@
             "cylinderRadius": 0.428,
             "diskRadius": 0.642,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 11
     },
     {
         "animationTime": [
@@ -10835,7 +10933,8 @@
             "cylinderRadius": 0.75,
             "diskRadius": 1.05,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 166
     },
     {
         "animationTime": [
@@ -10902,7 +11001,8 @@
             "cylinderRadius": 0.4025,
             "diskRadius": 0.6038,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 55
     },
     {
         "animationTime": [
@@ -10981,7 +11081,8 @@
             "cylinderRadius": 0.42,
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 68
     },
     {
         "animationTime": [
@@ -11056,7 +11157,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.5198,
             "shoulderModeScale": 0.4
-        }
+        },
+        "maxCP": 206
     },
     {
         "animationTime": [
@@ -11135,7 +11237,8 @@
             "cylinderRadius": 0.33,
             "diskRadius": 0.495,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 165
     },
     {
         "animationTime": [
@@ -11214,7 +11317,8 @@
             "cylinderRadius": 0.3045,
             "diskRadius": 0.4568,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 175
     },
     {
         "animationTime": [
@@ -11298,7 +11402,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.825,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 108
     },
     {
         "animationTime": [
@@ -11468,7 +11573,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 152
     },
     {
         "animationTime": [
@@ -11638,7 +11744,8 @@
             "cylinderRadius": 0.455,
             "diskRadius": 0.6825,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 150
     },
     {
         "animationTime": [
@@ -11809,7 +11916,8 @@
             "cylinderRadius": 0.74,
             "diskRadius": 1.11,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 212
     },
     {
         "animationTime": [
@@ -11985,7 +12093,8 @@
             "cylinderRadius": 0.5175,
             "diskRadius": 0.7763,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 212
     },
     {
         "animationTime": [
@@ -12152,7 +12261,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.4163,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 67
     },
     {
         "animationTime": [
@@ -12323,7 +12433,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 221
     },
     {
         "animationTime": [
@@ -12414,7 +12525,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 173
     },
     {
         "animationTime": [
@@ -12514,7 +12626,8 @@
             "cylinderRadius": 0.3,
             "diskRadius": 0.423,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 185
     },
     {
         "animationTime": [
@@ -12593,7 +12706,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 41
     },
     {
         "animationTime": [
@@ -12672,7 +12786,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 83
     },
     {
         "animationTime": [
@@ -12755,7 +12870,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 45
     },
     {
         "animationTime": [
@@ -12834,7 +12950,8 @@
             "cylinderRadius": 0.48,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 63
     },
     {
         "animationTime": [
@@ -12913,7 +13030,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 40
     },
     {
         "animationTime": [
@@ -12996,7 +13114,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 58
     },
     {
         "animationTime": [
@@ -13075,7 +13194,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 77
     },
     {
         "animationTime": [
@@ -13154,7 +13274,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 106
     },
     {
         "animationTime": [
@@ -13237,7 +13358,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 35
     },
     {
         "animationTime": [
@@ -13395,7 +13517,8 @@
             "cylinderRadius": 0.37,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 75
     },
     {
         "animationTime": [
@@ -13478,7 +13601,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 152
     },
     {
         "animationTime": [
@@ -13566,7 +13690,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 35
     },
     {
         "animationTime": [
@@ -13742,7 +13867,8 @@
             "cylinderRadius": 0.42,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 74
     },
     {
         "animationTime": [
@@ -13908,7 +14034,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 46
     },
     {
         "animationTime": [
@@ -13996,7 +14123,8 @@
             "cylinderRadius": 0.75,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 157
     },
     {
         "animationTime": [
@@ -14080,7 +14208,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 144
     },
     {
         "animationTime": [
@@ -14168,7 +14297,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 123
     },
     {
         "animationTime": [
@@ -14330,7 +14460,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 74
     },
     {
         "animationTime": [
@@ -14414,7 +14545,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 108
     },
     {
         "animationTime": [
@@ -14497,7 +14629,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 67
     },
     {
         "animationTime": [
@@ -14581,7 +14714,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 90
     },
     {
         "animationTime": [
@@ -14668,7 +14802,8 @@
             "cylinderRadius": 0.42,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 27
     },
     {
         "animationTime": [
@@ -14835,7 +14970,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 114
     },
     {
         "animationTime": [
@@ -14997,7 +15133,8 @@
             "cylinderRadius": 0.49,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 176
     },
     {
         "animationTime": [
@@ -15159,7 +15296,8 @@
             "cylinderRadius": 0.42,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 123
     },
     {
         "animationTime": [
@@ -15317,7 +15455,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 73
     },
     {
         "animationTime": [
@@ -15396,7 +15535,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 130
     },
     {
         "animationTime": [
@@ -15484,7 +15624,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 134
     },
     {
         "animationTime": [
@@ -15572,7 +15713,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 123
     },
     {
         "animationTime": [
@@ -15660,7 +15802,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 65
     },
     {
         "animationTime": [
@@ -15739,7 +15882,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 159
     },
     {
         "animationTime": [
@@ -15822,7 +15966,8 @@
             "cylinderRadius": 0.32,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 26
     },
     {
         "animationTime": [
@@ -15901,7 +16046,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 101
     },
     {
         "animationTime": [
@@ -15985,7 +16131,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 109
     },
     {
         "animationTime": [
@@ -16068,7 +16215,8 @@
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 79
     },
     {
         "animationTime": [
@@ -16155,7 +16303,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 115
     },
     {
         "animationTime": [
@@ -16234,7 +16383,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 90
     },
     {
         "animationTime": [
@@ -16309,7 +16459,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 144
     },
     {
         "animationTime": [
@@ -16480,7 +16631,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 83
     },
     {
         "animationTime": [
@@ -16632,7 +16784,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 93
     },
     {
         "animationTime": [
@@ -16707,7 +16860,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 174
     },
     {
         "animationTime": [
@@ -16794,7 +16948,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 177
     },
     {
         "animationTime": [
@@ -16873,7 +17028,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 90
     },
     {
         "animationTime": [
@@ -16961,7 +17117,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 86
     },
     {
         "animationTime": [
@@ -17040,7 +17197,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 150
     },
     {
         "animationTime": [
@@ -17124,7 +17282,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 6
     },
     {
         "animationTime": [
@@ -17207,7 +17366,8 @@
             "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 113
     },
     {
         "animationTime": [
@@ -17286,7 +17446,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 131
     },
     {
         "animationTime": [
@@ -17369,7 +17530,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 105
     },
     {
         "animationTime": [
@@ -17453,7 +17615,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 56
     },
     {
         "animationTime": [
@@ -17540,7 +17703,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 197
     },
     {
         "animationTime": [
@@ -17623,7 +17787,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 89
     },
     {
         "animationTime": [
@@ -17710,7 +17875,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 184
     },
     {
         "animationTime": [
@@ -17793,7 +17959,8 @@
             "cylinderRadius": 0.42,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 97
     },
     {
         "animationTime": [
@@ -17955,7 +18122,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 161
     },
     {
         "animationTime": [
@@ -18117,7 +18285,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 105
     },
     {
         "animationTime": [
@@ -18200,7 +18369,8 @@
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 148
     },
     {
         "animationTime": [
@@ -18447,7 +18617,8 @@
             "cylinderRadius": 0.32,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 66
     },
     {
         "animationTime": [
@@ -18526,7 +18697,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 171
     },
     {
         "animationTime": [
@@ -18697,7 +18869,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 108
     },
     {
         "animationTime": [
@@ -18785,7 +18958,8 @@
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 239
     },
     {
         "animationTime": [
@@ -18868,7 +19042,8 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 89
     },
     {
         "animationTime": [
@@ -19118,7 +19293,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 26
     },
     {
         "animationTime": [
@@ -19201,7 +19377,8 @@
             "cylinderRadius": 0.72,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 179
     },
     {
         "animationTime": [
@@ -19281,7 +19458,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 135
     },
     {
         "animationTime": [
@@ -19435,7 +19613,8 @@
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 221
     },
     {
         "animationTime": [
@@ -19514,7 +19693,8 @@
             "cylinderRadius": 0.33,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 33
     },
     {
         "animationTime": [
@@ -20012,7 +20192,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 181
     },
     {
         "animationTime": [
@@ -20099,7 +20280,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 201
     },
     {
         "animationTime": [
@@ -20186,7 +20368,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 222
     },
     {
         "animationTime": [
@@ -20273,7 +20456,8 @@
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 158
     },
     {
         "animationTime": [
@@ -20356,7 +20540,8 @@
             "cylinderRadius": 0.35,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 71
     },
     {
         "animationTime": [
@@ -20439,7 +20624,8 @@
             "cylinderRadius": 0.47,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 114
     },
     {
         "animationTime": [
@@ -20618,7 +20804,8 @@
             "cylinderRadius": 0.65,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 175
     },
     {
         "animationTime": [
@@ -20798,6 +20985,7 @@
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
-        }
+        },
+        "maxCP": 185
     }
 ]
