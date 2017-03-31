@@ -6,7 +6,7 @@ class PokemonParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
     constructor(private gameMaster: RootObject) { }
     private isItemTemplatePokemon(item: ItemTemplate): boolean {
-        return this.regexp.test(item.templateId);
+        return this.regexp.test(item.templateId) || this.regexp.test(item.templateId);
     }
 
     public Parse(): Pokemon[] {

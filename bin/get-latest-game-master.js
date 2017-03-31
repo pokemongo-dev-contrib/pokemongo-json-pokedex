@@ -32,7 +32,7 @@ https.get(latestGameMasterPath, (response) => {
             response.on('data', (d) => {
                 gameMaster.version = d.toString('utf8');
                 fs.writeFileSync(file, JSON.stringify(gameMaster));
-            })
+            });
         });
     });
 });
