@@ -52,7 +52,7 @@ describe('Pokemon Output', () => {
             item => expect(typeof item.camera).to.equal('object', 'camera type'),
             item => expect(item.camera.cylinderRadius).to.not.equal(undefined, 'camera.cylinderRadius'),
             item => expect(item.camera.diskRadius).to.not.equal(undefined, 'camera.diskRadius'),
-            item => expect(item.name == "Caterpie" || item.camera.shoulderModeScale !== undefined).to.equal(true, 'camera.shoulderModeScale'),
+            item => expect(item.name === 'Caterpie' || item.camera.shoulderModeScale !== undefined).to.equal(true, 'camera.shoulderModeScale'),
 
 
         ];
