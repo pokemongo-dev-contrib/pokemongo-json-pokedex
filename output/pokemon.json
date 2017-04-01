@@ -84,8 +84,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ivysaur",
-                "id": "IVYSAUR",
-                "futureEvolutions": []
+                "id": "IVYSAUR"
             }
         ]
     },
@@ -178,8 +177,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Venusaur",
-                "id": "VENUSAUR",
-                "futureEvolutions": []
+                "id": "VENUSAUR"
             }
         ]
     },
@@ -352,8 +350,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Charmeleon",
-                "id": "CHARMELEON",
-                "futureEvolutions": []
+                "id": "CHARMELEON"
             }
         ]
     },
@@ -438,8 +435,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Charizard",
-                "id": "CHARIZARD",
-                "futureEvolutions": []
+                "id": "CHARIZARD"
             }
         ]
     },
@@ -613,8 +609,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wartortle",
-                "id": "WARTORTLE",
-                "futureEvolutions": []
+                "id": "WARTORTLE"
             }
         ]
     },
@@ -699,8 +694,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Blastoise",
-                "id": "BLASTOISE",
-                "futureEvolutions": []
+                "id": "BLASTOISE"
             }
         ]
     },
@@ -863,8 +857,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Metapod",
-                "id": "METAPOD",
-                "futureEvolutions": []
+                "id": "METAPOD"
             }
         ]
     },
@@ -937,8 +930,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Butterfree",
-                "id": "BUTTERFREE",
-                "futureEvolutions": []
+                "id": "BUTTERFREE"
             }
         ]
     },
@@ -1112,8 +1104,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kakuna",
-                "id": "KAKUNA",
-                "futureEvolutions": []
+                "id": "KAKUNA"
             }
         ]
     },
@@ -1189,8 +1180,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Beedrill",
-                "id": "BEEDRILL",
-                "futureEvolutions": []
+                "id": "BEEDRILL"
             }
         ]
     },
@@ -1372,8 +1362,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pidgeotto",
-                "id": "PIDGEOTTO",
-                "futureEvolutions": []
+                "id": "PIDGEOTTO"
             }
         ]
     },
@@ -1467,8 +1456,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pidgeot",
-                "id": "PIDGEOT",
-                "futureEvolutions": []
+                "id": "PIDGEOT"
             }
         ]
     },
@@ -1642,8 +1630,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Raticate",
-                "id": "RATICATE",
-                "futureEvolutions": []
+                "id": "RATICATE"
             }
         ]
     },
@@ -1816,8 +1803,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Fearow",
-                "id": "FEAROW",
-                "futureEvolutions": []
+                "id": "FEAROW"
             }
         ]
     },
@@ -1991,8 +1977,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Arbok",
-                "id": "ARBOK",
-                "futureEvolutions": []
+                "id": "ARBOK"
             }
         ]
     },
@@ -2165,8 +2150,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Raichu",
-                "id": "RAICHU",
-                "futureEvolutions": []
+                "id": "RAICHU"
             }
         ]
     },
@@ -2331,8 +2315,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sandslash",
-                "id": "SANDSLASH",
-                "futureEvolutions": []
+                "id": "SANDSLASH"
             }
         ]
     },
@@ -2497,8 +2480,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidorina",
-                "id": "NIDORINA",
-                "futureEvolutions": []
+                "id": "NIDORINA"
             }
         ]
     },
@@ -2583,8 +2565,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidoqueen",
-                "id": "NIDOQUEEN",
-                "futureEvolutions": []
+                "id": "NIDOQUEEN"
             }
         ]
     },
@@ -2757,8 +2738,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidorino",
-                "id": "NIDORINO",
-                "futureEvolutions": []
+                "id": "NIDORINO"
             }
         ]
     },
@@ -2843,8 +2823,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidoking",
-                "id": "NIDOKING",
-                "futureEvolutions": []
+                "id": "NIDOKING"
             }
         ]
     },
@@ -3017,8 +2996,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Clefable",
-                "id": "CLEFABLE",
-                "futureEvolutions": []
+                "id": "CLEFABLE"
             }
         ]
     },
@@ -3187,8 +3165,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ninetales",
-                "id": "NINETALES",
-                "futureEvolutions": []
+                "id": "NINETALES"
             }
         ]
     },
@@ -3361,8 +3338,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wigglytuff",
-                "id": "WIGGLYTUFF",
-                "futureEvolutions": []
+                "id": "WIGGLYTUFF"
             }
         ]
     },
@@ -3544,8 +3520,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golbat",
-                "id": "GOLBAT",
-                "futureEvolutions": []
+                "id": "GOLBAT"
             }
         ]
     },
@@ -3639,8 +3614,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Crobat",
-                "id": "CROBAT",
-                "futureEvolutions": []
+                "id": "CROBAT"
             }
         ]
     },
@@ -3729,8 +3703,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gloom",
-                "id": "GLOOM",
-                "futureEvolutions": []
+                "id": "GLOOM"
             }
         ]
     },
@@ -3819,13 +3792,11 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vileplume",
-                "id": "VILEPLUME",
-                "futureEvolutions": []
+                "id": "VILEPLUME"
             },
             {
                 "name": "Bellossom",
-                "id": "BELLOSSOM",
-                "futureEvolutions": []
+                "id": "BELLOSSOM"
             }
         ]
     },
@@ -4002,8 +3973,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Parasect",
-                "id": "PARASECT",
-                "futureEvolutions": []
+                "id": "PARASECT"
             }
         ]
     },
@@ -4176,8 +4146,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Venomoth",
-                "id": "VENOMOTH",
-                "futureEvolutions": []
+                "id": "VENOMOTH"
             }
         ]
     },
@@ -4346,8 +4315,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dugtrio",
-                "id": "DUGTRIO",
-                "futureEvolutions": []
+                "id": "DUGTRIO"
             }
         ]
     },
@@ -4511,8 +4479,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Persian",
-                "id": "PERSIAN",
-                "futureEvolutions": []
+                "id": "PERSIAN"
             }
         ]
     },
@@ -4677,8 +4644,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golduck",
-                "id": "GOLDUCK",
-                "futureEvolutions": []
+                "id": "GOLDUCK"
             }
         ]
     },
@@ -4847,8 +4813,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Primeape",
-                "id": "PRIMEAPE",
-                "futureEvolutions": []
+                "id": "PRIMEAPE"
             }
         ]
     },
@@ -5017,8 +4982,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Arcanine",
-                "id": "ARCANINE",
-                "futureEvolutions": []
+                "id": "ARCANINE"
             }
         ]
     },
@@ -5187,8 +5151,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Poliwhirl",
-                "id": "POLIWHIRL",
-                "futureEvolutions": []
+                "id": "POLIWHIRL"
             }
         ]
     },
@@ -5277,13 +5240,11 @@
         "nextEvolutionBranches": [
             {
                 "name": "Poliwrath",
-                "id": "POLIWRATH",
-                "futureEvolutions": []
+                "id": "POLIWRATH"
             },
             {
                 "name": "Politoed",
-                "id": "POLITOED",
-                "futureEvolutions": []
+                "id": "POLITOED"
             }
         ]
     },
@@ -5457,8 +5418,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kadabra",
-                "id": "KADABRA",
-                "futureEvolutions": []
+                "id": "KADABRA"
             }
         ]
     },
@@ -5547,8 +5507,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Alakazam",
-                "id": "ALAKAZAM",
-                "futureEvolutions": []
+                "id": "ALAKAZAM"
             }
         ]
     },
@@ -5717,8 +5676,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Machoke",
-                "id": "MACHOKE",
-                "futureEvolutions": []
+                "id": "MACHOKE"
             }
         ]
     },
@@ -5807,8 +5765,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Machamp",
-                "id": "MACHAMP",
-                "futureEvolutions": []
+                "id": "MACHAMP"
             }
         ]
     },
@@ -5981,8 +5938,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Weepinbell",
-                "id": "WEEPINBELL",
-                "futureEvolutions": []
+                "id": "WEEPINBELL"
             }
         ]
     },
@@ -6076,8 +6032,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Victreebel",
-                "id": "VICTREEBEL",
-                "futureEvolutions": []
+                "id": "VICTREEBEL"
             }
         ]
     },
@@ -6256,8 +6211,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Tentacruel",
-                "id": "TENTACRUEL",
-                "futureEvolutions": []
+                "id": "TENTACRUEL"
             }
         ]
     },
@@ -6436,8 +6390,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Graveler",
-                "id": "GRAVELER",
-                "futureEvolutions": []
+                "id": "GRAVELER"
             }
         ]
     },
@@ -6530,8 +6483,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golem",
-                "id": "GOLEM",
-                "futureEvolutions": []
+                "id": "GOLEM"
             }
         ]
     },
@@ -6704,8 +6656,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Rapidash",
-                "id": "RAPIDASH",
-                "futureEvolutions": []
+                "id": "RAPIDASH"
             }
         ]
     },
@@ -6878,13 +6829,11 @@
         "nextEvolutionBranches": [
             {
                 "name": "Slowbro",
-                "id": "SLOWBRO",
-                "futureEvolutions": []
+                "id": "SLOWBRO"
             },
             {
                 "name": "Slowking",
-                "id": "SLOWKING",
-                "futureEvolutions": []
+                "id": "SLOWKING"
             }
         ]
     },
@@ -7066,8 +7015,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magneton",
-                "id": "MAGNETON",
-                "futureEvolutions": []
+                "id": "MAGNETON"
             }
         ]
     },
@@ -7329,8 +7277,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dodrio",
-                "id": "DODRIO",
-                "futureEvolutions": []
+                "id": "DODRIO"
             }
         ]
     },
@@ -7503,8 +7450,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dewgong",
-                "id": "DEWGONG",
-                "futureEvolutions": []
+                "id": "DEWGONG"
             }
         ]
     },
@@ -7678,8 +7624,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Muk",
-                "id": "MUK",
-                "futureEvolutions": []
+                "id": "MUK"
             }
         ]
     },
@@ -7848,8 +7793,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Cloyster",
-                "id": "CLOYSTER",
-                "futureEvolutions": []
+                "id": "CLOYSTER"
             }
         ]
     },
@@ -8032,8 +7976,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Haunter",
-                "id": "HAUNTER",
-                "futureEvolutions": []
+                "id": "HAUNTER"
             }
         ]
     },
@@ -8127,8 +8070,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gengar",
-                "id": "GENGAR",
-                "futureEvolutions": []
+                "id": "GENGAR"
             }
         ]
     },
@@ -8305,8 +8247,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Steelix",
-                "id": "STEELIX",
-                "futureEvolutions": []
+                "id": "STEELIX"
             }
         ]
     },
@@ -8395,8 +8336,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Hypno",
-                "id": "HYPNO",
-                "futureEvolutions": []
+                "id": "HYPNO"
             }
         ]
     },
@@ -8565,8 +8505,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kingler",
-                "id": "KINGLER",
-                "futureEvolutions": []
+                "id": "KINGLER"
             }
         ]
     },
@@ -8735,8 +8674,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Electrode",
-                "id": "ELECTRODE",
-                "futureEvolutions": []
+                "id": "ELECTRODE"
             }
         ]
     },
@@ -8909,8 +8847,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Exeggutor",
-                "id": "EXEGGUTOR",
-                "futureEvolutions": []
+                "id": "EXEGGUTOR"
             }
         ]
     },
@@ -9083,8 +9020,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Marowak",
-                "id": "MAROWAK",
-                "futureEvolutions": []
+                "id": "MAROWAK"
             }
         ]
     },
@@ -9506,8 +9442,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Weezing",
-                "id": "WEEZING",
-                "futureEvolutions": []
+                "id": "WEEZING"
             }
         ]
     },
@@ -9685,8 +9620,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Rhydon",
-                "id": "RHYDON",
-                "futureEvolutions": []
+                "id": "RHYDON"
             }
         ]
     },
@@ -9863,8 +9797,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Blissey",
-                "id": "BLISSEY",
-                "futureEvolutions": []
+                "id": "BLISSEY"
             }
         ]
     },
@@ -10114,8 +10047,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Seadra",
-                "id": "SEADRA",
-                "futureEvolutions": []
+                "id": "SEADRA"
             }
         ]
     },
@@ -10205,8 +10137,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kingdra",
-                "id": "KINGDRA",
-                "futureEvolutions": []
+                "id": "KINGDRA"
             }
         ]
     },
@@ -10292,8 +10223,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Seaking",
-                "id": "SEAKING",
-                "futureEvolutions": []
+                "id": "SEAKING"
             }
         ]
     },
@@ -10463,8 +10393,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Starmie",
-                "id": "STARMIE",
-                "futureEvolutions": []
+                "id": "STARMIE"
             }
         ]
     },
@@ -10730,8 +10659,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Scizor",
-                "id": "SCIZOR",
-                "futureEvolutions": []
+                "id": "SCIZOR"
             }
         ]
     },
@@ -11221,8 +11149,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gyarados",
-                "id": "GYARADOS",
-                "futureEvolutions": []
+                "id": "GYARADOS"
             }
         ]
     },
@@ -11552,28 +11479,23 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vaporeon",
-                "id": "VAPOREON",
-                "futureEvolutions": []
+                "id": "VAPOREON"
             },
             {
                 "name": "Jolteon",
-                "id": "JOLTEON",
-                "futureEvolutions": []
+                "id": "JOLTEON"
             },
             {
                 "name": "Flareon",
-                "id": "FLAREON",
-                "futureEvolutions": []
+                "id": "FLAREON"
             },
             {
                 "name": "Espeon",
-                "id": "ESPEON",
-                "futureEvolutions": []
+                "id": "ESPEON"
             },
             {
                 "name": "Umbreon",
-                "id": "UMBREON",
-                "futureEvolutions": []
+                "id": "UMBREON"
             }
         ]
     },
@@ -11899,8 +11821,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Porygon2",
-                "id": "PORYGON2",
-                "futureEvolutions": []
+                "id": "PORYGON2"
             }
         ]
     },
@@ -11989,8 +11910,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Omastar",
-                "id": "OMASTAR",
-                "futureEvolutions": []
+                "id": "OMASTAR"
             }
         ]
     },
@@ -12167,8 +12087,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kabutops",
-                "id": "KABUTOPS",
-                "futureEvolutions": []
+                "id": "KABUTOPS"
             }
         ]
     },
@@ -12781,8 +12700,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dragonair",
-                "id": "DRAGONAIR",
-                "futureEvolutions": []
+                "id": "DRAGONAIR"
             }
         ]
     },
@@ -12871,8 +12789,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dragonite",
-                "id": "DRAGONITE",
-                "futureEvolutions": []
+                "id": "DRAGONITE"
             }
         ]
     },
@@ -13239,8 +13156,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Bayleef",
-                "id": "BAYLEEF",
-                "futureEvolutions": []
+                "id": "BAYLEEF"
             }
         ]
     },
@@ -13325,8 +13241,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Meganium",
-                "id": "MEGANIUM",
-                "futureEvolutions": []
+                "id": "MEGANIUM"
             }
         ]
     },
@@ -13495,8 +13410,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Quilava",
-                "id": "QUILAVA",
-                "futureEvolutions": []
+                "id": "QUILAVA"
             }
         ]
     },
@@ -13581,8 +13495,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Typhlosion",
-                "id": "TYPHLOSION",
-                "futureEvolutions": []
+                "id": "TYPHLOSION"
             }
         ]
     },
@@ -13751,8 +13664,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Croconaw",
-                "id": "CROCONAW",
-                "futureEvolutions": []
+                "id": "CROCONAW"
             }
         ]
     },
@@ -13837,8 +13749,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Feraligatr",
-                "id": "FERALIGATR",
-                "futureEvolutions": []
+                "id": "FERALIGATR"
             }
         ]
     },
@@ -14007,8 +13918,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Furret",
-                "id": "FURRET",
-                "futureEvolutions": []
+                "id": "FURRET"
             }
         ]
     },
@@ -14177,8 +14087,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Noctowl",
-                "id": "NOCTOWL",
-                "futureEvolutions": []
+                "id": "NOCTOWL"
             }
         ]
     },
@@ -14361,8 +14270,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ledian",
-                "id": "LEDIAN",
-                "futureEvolutions": []
+                "id": "LEDIAN"
             }
         ]
     },
@@ -14540,8 +14448,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ariados",
-                "id": "ARIADOS",
-                "futureEvolutions": []
+                "id": "ARIADOS"
             }
         ]
     },
@@ -14804,8 +14711,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Lanturn",
-                "id": "LANTURN",
-                "futureEvolutions": []
+                "id": "LANTURN"
             }
         ]
     },
@@ -14979,8 +14885,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pikachu",
-                "id": "PIKACHU",
-                "futureEvolutions": []
+                "id": "PIKACHU"
             }
         ]
     },
@@ -15069,8 +14974,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Clefairy",
-                "id": "CLEFAIRY",
-                "futureEvolutions": []
+                "id": "CLEFAIRY"
             }
         ]
     },
@@ -15160,8 +15064,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jigglypuff",
-                "id": "JIGGLYPUFF",
-                "futureEvolutions": []
+                "id": "JIGGLYPUFF"
             }
         ]
     },
@@ -15250,8 +15153,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Togetic",
-                "id": "TOGETIC",
-                "futureEvolutions": []
+                "id": "TOGETIC"
             }
         ]
     },
@@ -15429,8 +15331,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Xatu",
-                "id": "XATU",
-                "futureEvolutions": []
+                "id": "XATU"
             }
         ]
     },
@@ -15604,8 +15505,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Flaaffy",
-                "id": "FLAAFFY",
-                "futureEvolutions": []
+                "id": "FLAAFFY"
             }
         ]
     },
@@ -15690,8 +15590,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ampharos",
-                "id": "AMPHAROS",
-                "futureEvolutions": []
+                "id": "AMPHAROS"
             }
         ]
     },
@@ -15944,8 +15843,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Azumarill",
-                "id": "AZUMARILL",
-                "futureEvolutions": []
+                "id": "AZUMARILL"
             }
         ]
     },
@@ -16279,8 +16177,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Skiploom",
-                "id": "SKIPLOOM",
-                "futureEvolutions": []
+                "id": "SKIPLOOM"
             }
         ]
     },
@@ -16374,8 +16271,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jumpluff",
-                "id": "JUMPLUFF",
-                "futureEvolutions": []
+                "id": "JUMPLUFF"
             }
         ]
     },
@@ -16633,8 +16529,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sunflora",
-                "id": "SUNFLORA",
-                "futureEvolutions": []
+                "id": "SUNFLORA"
             }
         ]
     },
@@ -16888,8 +16783,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Quagsire",
-                "id": "QUAGSIRE",
-                "futureEvolutions": []
+                "id": "QUAGSIRE"
             }
         ]
     },
@@ -17709,8 +17603,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Forretress",
-                "id": "FORRETRESS",
-                "futureEvolutions": []
+                "id": "FORRETRESS"
             }
         ]
     },
@@ -18133,8 +18026,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Granbull",
-                "id": "GRANBULL",
-                "futureEvolutions": []
+                "id": "GRANBULL"
             }
         ]
     },
@@ -18732,8 +18624,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ursaring",
-                "id": "URSARING",
-                "futureEvolutions": []
+                "id": "URSARING"
             }
         ]
     },
@@ -18902,8 +18793,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magcargo",
-                "id": "MAGCARGO",
-                "futureEvolutions": []
+                "id": "MAGCARGO"
             }
         ]
     },
@@ -19076,8 +18966,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Piloswine",
-                "id": "PILOSWINE",
-                "futureEvolutions": []
+                "id": "PILOSWINE"
             }
         ]
     },
@@ -19332,8 +19221,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Octillery",
-                "id": "OCTILLERY",
-                "futureEvolutions": []
+                "id": "OCTILLERY"
             }
         ]
     },
@@ -19764,8 +19652,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Houndoom",
-                "id": "HOUNDOOM",
-                "futureEvolutions": []
+                "id": "HOUNDOOM"
             }
         ]
     },
@@ -20023,8 +19910,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Donphan",
-                "id": "DONPHAN",
-                "futureEvolutions": []
+                "id": "DONPHAN"
             }
         ]
     },
@@ -20430,18 +20316,15 @@
         "nextEvolutionBranches": [
             {
                 "name": "Hitmonlee",
-                "id": "HITMONLEE",
-                "futureEvolutions": []
+                "id": "HITMONLEE"
             },
             {
                 "name": "Hitmonchan",
-                "id": "HITMONCHAN",
-                "futureEvolutions": []
+                "id": "HITMONCHAN"
             },
             {
                 "name": "Hitmontop",
-                "id": "HITMONTOP",
-                "futureEvolutions": []
+                "id": "HITMONTOP"
             }
         ]
     },
@@ -20614,8 +20497,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jynx",
-                "id": "JYNX",
-                "futureEvolutions": []
+                "id": "JYNX"
             }
         ]
     },
@@ -20704,8 +20586,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Electabuzz",
-                "id": "ELECTABUZZ",
-                "futureEvolutions": []
+                "id": "ELECTABUZZ"
             }
         ]
     },
@@ -20794,8 +20675,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magmar",
-                "id": "MAGMAR",
-                "futureEvolutions": []
+                "id": "MAGMAR"
             }
         ]
     },
@@ -21316,8 +21196,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pupitar",
-                "id": "PUPITAR",
-                "futureEvolutions": []
+                "id": "PUPITAR"
             }
         ]
     },
@@ -21406,8 +21285,7 @@
         "nextEvolutionBranches": [
             {
                 "name": "Tyranitar",
-                "id": "TYRANITAR",
-                "futureEvolutions": []
+                "id": "TYRANITAR"
             }
         ]
     },

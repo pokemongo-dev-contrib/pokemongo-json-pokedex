@@ -54,14 +54,32 @@ describe('Pokemon Output', () => {
             item => expect(item.camera.diskRadius).to.not.equal(undefined, 'camera.diskRadius'),
             item => expect(item.name === 'Caterpie' || item.camera.shoulderModeScale !== undefined).to.equal(true, 'camera.shoulderModeScale'),
             item => expect(Array.isArray(item.nextEvolutionBranches || [])).to.equal(true, 'nextEvolutionBranches type'),
-            item => item.id !== 'BULBASAUR' ? true : expect(item.nextEvolutionBranches.length === 1).to.equal(true, 'should have one nextEvolutionBranch for linear pokemon'),
-            item => item.id !== 'EEVEE' ? true : expect(item.nextEvolutionBranches.length === 5).to.equal(true, 'should have 5 nextEvolutionBranches for Eevee'),
         ];
 
         input.forEach(item => {
             testFunctions.forEach(func => {
                 func(item);
             });
+        });
+    });
+
+    it('should have specific properties for specific pokemon', () => {
+        const expectations = {
+            'BULBASAUR': [
+                item => expect(item.nextEvolutionBranches.length).to.equal(1, 'should have one nextEvolutionBranch for Bulbasaur')
+            ],
+            'EEVEE': [
+                item => expect(item.nextEvolutionBranches.length).to.equal(5, 'should have 5 nextEvolutionBranches for Eevee'),
+            ],
+        };
+
+        input.forEach(mon => {
+            if (mon.id in expectations) {
+                let testFunctions = expectations[mon.id];
+                testFunctions.forEach(func => {
+                    func(mon);
+                });
+            }
         });
     });
 
