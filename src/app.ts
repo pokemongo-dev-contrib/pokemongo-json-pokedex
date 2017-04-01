@@ -16,7 +16,8 @@ console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaste
 
 new PokemonWriter().Write().then(() => {
     console.log(`${chalk.green('✓')} Pokemon written to ${chalk.cyan(APP_SETTINGS.POKEMON_FILE)}`);
-}, () => {
+}, (err) => {
+    console.log(err);
     console.log(`${chalk.red('×')} Failed at Parsing Pokemon`);
 });
 

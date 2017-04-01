@@ -71,6 +71,19 @@ describe('Pokemon Output', () => {
             'EEVEE': [
                 item => expect(item.nextEvolutionBranches.length).to.equal(5, 'should have 5 nextEvolutionBranches for Eevee'),
             ],
+            'SNORLAX': [
+                item => expect(item.pastEvolutions).to.be.empty,
+            ],
+            'MAGMAR': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Magmar should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('MAGBY', 'Magmar\'s only pastEvolution should be Magby'),
+            ],
+            'GOLDUCK': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Golduck should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('PSYDUCK', 'Golduck\'s pastEvolution should be Psyduck'),
+            ],
         };
 
         input.forEach(mon => {

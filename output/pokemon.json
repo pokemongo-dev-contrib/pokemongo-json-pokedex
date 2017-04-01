@@ -179,6 +179,12 @@
                 "name": "Venusaur",
                 "id": "VENUSAUR"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Bulbasaur",
+                "id": "BULBASAUR"
+            }
         ]
     },
     {
@@ -267,7 +273,13 @@
             "diskRadius": 1.1385,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Ivysaur",
+                "id": "IVYSAUR"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -437,6 +449,12 @@
                 "name": "Charizard",
                 "id": "CHARIZARD"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Charmander",
+                "id": "CHARMANDER"
+            }
         ]
     },
     {
@@ -526,7 +544,13 @@
             "diskRadius": 1.215,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Charmeleon",
+                "id": "CHARMELEON"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -696,6 +720,12 @@
                 "name": "Blastoise",
                 "id": "BLASTOISE"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Squirtle",
+                "id": "SQUIRTLE"
+            }
         ]
     },
     {
@@ -780,7 +810,13 @@
             "diskRadius": 0.846,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Wartortle",
+                "id": "WARTORTLE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -932,6 +968,12 @@
                 "name": "Butterfree",
                 "id": "BUTTERFREE"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Caterpie",
+                "id": "CATERPIE"
+            }
         ]
     },
     {
@@ -1021,7 +1063,13 @@
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Metapod",
+                "id": "METAPOD"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -1182,6 +1230,12 @@
                 "name": "Beedrill",
                 "id": "BEEDRILL"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Weedle",
+                "id": "WEEDLE"
+            }
         ]
     },
     {
@@ -1271,7 +1325,13 @@
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Kakuna",
+                "id": "KAKUNA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -1458,6 +1518,12 @@
                 "name": "Pidgeot",
                 "id": "PIDGEOT"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Pidgey",
+                "id": "PIDGEY"
+            }
         ]
     },
     {
@@ -1547,7 +1613,13 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Pidgeotto",
+                "id": "PIDGEOTTO"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -1712,7 +1784,13 @@
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Rattata",
+                "id": "RATTATA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -1894,7 +1972,13 @@
             "diskRadius": 1.26,
             "shoulderModeScale": 0.375
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Spearow",
+                "id": "SPEAROW"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2063,7 +2147,13 @@
             "diskRadius": 0.9225,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Ekans",
+                "id": "EKANS"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2152,6 +2242,12 @@
                 "name": "Raichu",
                 "id": "RAICHU"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Pichu",
+                "id": "PICHU"
+            }
         ]
     },
     {
@@ -2232,7 +2328,13 @@
             "diskRadius": 0.729,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Pikachu",
+                "id": "PIKACHU"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2397,7 +2499,13 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Sandshrew",
+                "id": "SANDSHREW"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2567,6 +2675,12 @@
                 "name": "Nidoqueen",
                 "id": "NIDOQUEEN"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Nidoran Female",
+                "id": "NIDORAN_FEMALE"
+            }
         ]
     },
     {
@@ -2655,7 +2769,13 @@
             "diskRadius": 0.6143,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Nidorina",
+                "id": "NIDORINA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2825,6 +2945,12 @@
                 "name": "Nidoking",
                 "id": "NIDOKING"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Nidoran Male",
+                "id": "NIDORAN_MALE"
+            }
         ]
     },
     {
@@ -2913,7 +3039,13 @@
             "diskRadius": 0.8222,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Nidorino",
+                "id": "NIDORINO"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -2997,6 +3129,12 @@
             {
                 "name": "Clefable",
                 "id": "CLEFABLE"
+            }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Cleffa",
+                "id": "CLEFFA"
             }
         ]
     },
@@ -3082,7 +3220,13 @@
             "diskRadius": 1.1681,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Clefairy",
+                "id": "CLEFAIRY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -3251,7 +3395,13 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Vulpix",
+                "id": "VULPIX"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -3339,6 +3489,12 @@
             {
                 "name": "Wigglytuff",
                 "id": "WIGGLYTUFF"
+            }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Igglybuff",
+                "id": "IGGLYBUFF"
             }
         ]
     },
@@ -3428,7 +3584,13 @@
             "diskRadius": 1.0013,
             "shoulderModeScale": 0.4
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Jigglypuff",
+                "id": "JIGGLYPUFF"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -3616,6 +3778,12 @@
                 "name": "Crobat",
                 "id": "CROBAT"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Zubat",
+                "id": "ZUBAT"
+            }
         ]
     },
     {
@@ -3798,6 +3966,12 @@
                 "name": "Bellossom",
                 "id": "BELLOSSOM"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Oddish",
+                "id": "ODDISH"
+            }
         ]
     },
     {
@@ -3886,7 +4060,13 @@
             "diskRadius": 1.242,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Gloom",
+                "id": "GLOOM"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4059,7 +4239,13 @@
             "diskRadius": 0.9469,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Paras",
+                "id": "PARAS"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4237,7 +4423,13 @@
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Venonat",
+                "id": "VENONAT"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4396,7 +4588,13 @@
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Diglett",
+                "id": "DIGLETT"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4561,7 +4759,13 @@
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Meowth",
+                "id": "MEOWTH"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4730,7 +4934,13 @@
             "diskRadius": 0.9765,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Psyduck",
+                "id": "PSYDUCK"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -4899,7 +5109,13 @@
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Mankey",
+                "id": "MANKEY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -5068,7 +5284,13 @@
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Growlithe",
+                "id": "GROWLITHE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -5246,6 +5468,12 @@
                 "name": "Politoed",
                 "id": "POLITOED"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Poliwag",
+                "id": "POLIWAG"
+            }
         ]
     },
     {
@@ -5334,7 +5562,13 @@
             "diskRadius": 1.2255,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Poliwhirl",
+                "id": "POLIWHIRL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -5509,6 +5743,12 @@
                 "name": "Alakazam",
                 "id": "ALAKAZAM"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Abra",
+                "id": "ABRA"
+            }
         ]
     },
     {
@@ -5593,7 +5833,13 @@
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Kadabra",
+                "id": "KADABRA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -5767,6 +6013,12 @@
                 "name": "Machamp",
                 "id": "MACHAMP"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Machop",
+                "id": "MACHOP"
+            }
         ]
     },
     {
@@ -5851,7 +6103,13 @@
             "diskRadius": 0.8678,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Machoke",
+                "id": "MACHOKE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -6034,6 +6292,12 @@
                 "name": "Victreebel",
                 "id": "VICTREEBEL"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Bellsprout",
+                "id": "BELLSPROUT"
+            }
         ]
     },
     {
@@ -6123,7 +6387,13 @@
             "diskRadius": 0.819,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Weepinbell",
+                "id": "WEEPINBELL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -6302,7 +6572,13 @@
             "diskRadius": 0.738,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Tentacool",
+                "id": "TENTACOOL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -6485,6 +6761,12 @@
                 "name": "Golem",
                 "id": "GOLEM"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Geodude",
+                "id": "GEODUDE"
+            }
         ]
     },
     {
@@ -6573,7 +6855,13 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Graveler",
+                "id": "GRAVELER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -6742,7 +7030,13 @@
             "diskRadius": 0.6075,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Ponyta",
+                "id": "PONYTA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -6923,7 +7217,13 @@
             "diskRadius": 0.7013,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Slowpoke",
+                "id": "SLOWPOKE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -7106,7 +7406,13 @@
             "diskRadius": 0.66,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Magnemite",
+                "id": "MAGNEMITE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -7367,7 +7673,13 @@
             "diskRadius": 0.7722,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Doduo",
+                "id": "DODUO"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -7537,7 +7849,13 @@
             "diskRadius": 0.7875,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Seel",
+                "id": "SEEL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -7710,7 +8028,13 @@
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Grimer",
+                "id": "GRIMER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -7884,7 +8208,13 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Shellder",
+                "id": "SHELLDER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -8072,6 +8402,12 @@
                 "name": "Gengar",
                 "id": "GENGAR"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Gastly",
+                "id": "GASTLY"
+            }
         ]
     },
     {
@@ -8160,7 +8496,13 @@
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Haunter",
+                "id": "HAUNTER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -8422,7 +8764,13 @@
             "diskRadius": 0.9338,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Drowzee",
+                "id": "DROWZEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -8591,7 +8939,13 @@
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Krabby",
+                "id": "KRABBY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -8760,7 +9114,13 @@
             "diskRadius": 0.828,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Voltorb",
+                "id": "VOLTORB"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -8937,7 +9297,13 @@
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Exeggcute",
+                "id": "EXEGGCUTE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -9102,7 +9468,13 @@
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Cubone",
+                "id": "CUBONE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -9186,7 +9558,13 @@
             "diskRadius": 0.6225,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Tyrogue",
+                "id": "TYROGUE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -9274,7 +9652,13 @@
             "diskRadius": 0.6885,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Tyrogue",
+                "id": "TYROGUE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -9529,7 +9913,13 @@
             "diskRadius": 0.93,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Koffing",
+                "id": "KOFFING"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -9710,7 +10100,13 @@
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Rhyhorn",
+                "id": "RHYHORN"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -10139,6 +10535,12 @@
                 "name": "Kingdra",
                 "id": "KINGDRA"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Horsea",
+                "id": "HORSEA"
+            }
         ]
     },
     {
@@ -10310,7 +10712,13 @@
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Goldeen",
+                "id": "GOLDEEN"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -10483,7 +10891,13 @@
             "diskRadius": 0.7275,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Staryu",
+                "id": "STARYU"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -10749,7 +11163,13 @@
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Smoochum",
+                "id": "SMOOCHUM"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -10829,7 +11249,13 @@
             "diskRadius": 0.8453,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Elekid",
+                "id": "ELEKID"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -10913,7 +11339,13 @@
             "diskRadius": 0.99,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Magby",
+                "id": "MAGBY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -11240,7 +11672,13 @@
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Magikarp",
+                "id": "MAGIKARP"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -11573,7 +12011,13 @@
             "diskRadius": 0.5198,
             "shoulderModeScale": 0.4
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Eevee",
+                "id": "EEVEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -11653,7 +12097,13 @@
             "diskRadius": 0.495,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Eevee",
+                "id": "EEVEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -11733,7 +12183,13 @@
             "diskRadius": 0.4568,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Eevee",
+                "id": "EEVEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -12000,7 +12456,13 @@
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Omanyte",
+                "id": "OMANYTE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -12177,7 +12639,13 @@
             "diskRadius": 0.6825,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Kabuto",
+                "id": "KABUTO"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -12791,6 +13259,12 @@
                 "name": "Dragonite",
                 "id": "DRAGONITE"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Dratini",
+                "id": "DRATINI"
+            }
         ]
     },
     {
@@ -12880,7 +13354,13 @@
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Dragonair",
+                "id": "DRAGONAIR"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -13243,6 +13723,12 @@
                 "name": "Meganium",
                 "id": "MEGANIUM"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Chikorita",
+                "id": "CHIKORITA"
+            }
         ]
     },
     {
@@ -13327,7 +13813,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Bayleef",
+                "id": "BAYLEEF"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -13497,6 +13989,12 @@
                 "name": "Typhlosion",
                 "id": "TYPHLOSION"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Cyndaquil",
+                "id": "CYNDAQUIL"
+            }
         ]
     },
     {
@@ -13581,7 +14079,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Quilava",
+                "id": "QUILAVA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -13751,6 +14255,12 @@
                 "name": "Feraligatr",
                 "id": "FERALIGATR"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Totodile",
+                "id": "TOTODILE"
+            }
         ]
     },
     {
@@ -13835,7 +14345,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Croconaw",
+                "id": "CROCONAW"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14000,7 +14516,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Sentret",
+                "id": "SENTRET"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14178,7 +14700,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Hoothoot",
+                "id": "HOOTHOOT"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14361,7 +14889,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Ledyba",
+                "id": "LEDYBA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14534,7 +15068,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Spinarak",
+                "id": "SPINARAK"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14623,7 +15163,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Golbat",
+                "id": "GOLBAT"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -14802,7 +15348,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Chinchou",
+                "id": "CHINCHOU"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -15240,7 +15792,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Togepi",
+                "id": "TOGEPI"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -15422,7 +15980,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Natu",
+                "id": "NATU"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -15592,6 +16156,12 @@
                 "name": "Ampharos",
                 "id": "AMPHAROS"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Mareep",
+                "id": "MAREEP"
+            }
         ]
     },
     {
@@ -15676,7 +16246,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Flaaffy",
+                "id": "FLAAFFY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -15756,7 +16332,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Gloom",
+                "id": "GLOOM"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -15929,7 +16511,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Marill",
+                "id": "MARILL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -16085,7 +16673,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Poliwhirl",
+                "id": "POLIWHIRL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -16273,6 +16867,12 @@
                 "name": "Jumpluff",
                 "id": "JUMPLUFF"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Hoppip",
+                "id": "HOPPIP"
+            }
         ]
     },
     {
@@ -16362,7 +16962,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Skiploom",
+                "id": "SKIPLOOM"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -16611,7 +17217,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Sunkern",
+                "id": "SUNKERN"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -16873,7 +17485,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Wooper",
+                "id": "WOOPER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -16953,7 +17571,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Eevee",
+                "id": "EEVEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -17029,7 +17653,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Eevee",
+                "id": "EEVEE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -17202,7 +17832,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Slowpoke",
+                "id": "SLOWPOKE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -17694,7 +18330,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Pineco",
+                "id": "PINECO"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -17943,7 +18585,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Onix",
+                "id": "ONIX"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -18112,7 +18760,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Snubbull",
+                "id": "SNUBBULL"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -18285,7 +18939,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Scyther",
+                "id": "SCYTHER"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -18710,7 +19370,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Teddiursa",
+                "id": "TEDDIURSA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -18879,7 +19545,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Slugma",
+                "id": "SLUGMA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -19056,7 +19728,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Swinub",
+                "id": "SWINUB"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -19303,7 +19981,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Remoraid",
+                "id": "REMORAID"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -19738,7 +20422,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Houndour",
+                "id": "HOUNDOUR"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -19827,7 +20517,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Seadra",
+                "id": "SEADRA"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -19996,7 +20692,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Phanpy",
+                "id": "PHANPY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -20077,7 +20779,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Porygon",
+                "id": "PORYGON"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -20406,7 +21114,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Tyrogue",
+                "id": "TYROGUE"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -20845,7 +21559,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Chansey",
+                "id": "CHANSEY"
+            }
+        ]
     },
     {
         "animationTime": [
@@ -21287,6 +22007,12 @@
                 "name": "Tyranitar",
                 "id": "TYRANITAR"
             }
+        ],
+        "pastEvolutions": [
+            {
+                "name": "Larvitar",
+                "id": "LARVITAR"
+            }
         ]
     },
     {
@@ -21375,7 +22101,13 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "nextEvolutionBranches": []
+        "nextEvolutionBranches": [],
+        "pastEvolutions": [
+            {
+                "name": "Pupitar",
+                "id": "PUPITAR"
+            }
+        ]
     },
     {
         "animationTime": [
