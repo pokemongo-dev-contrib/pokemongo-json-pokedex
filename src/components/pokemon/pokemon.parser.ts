@@ -43,7 +43,7 @@ class PokemonParser implements Parser {
             }
             mon.pastEvolutions = mon.pastEvolutions || [];
             mon.pastEvolutions = pastEvos
-                .map(evo => {return {name: evo.name, id: evo.id};})
+                .map(evo => { return { name: evo.name, id: evo.id }; })
                 .concat(mon.pastEvolutions);
             return mon;
         });
@@ -57,18 +57,18 @@ class PokemonParser implements Parser {
         }, new Map<string, Pokemon>());
 
         // And now, graph traversal...
-        for (var level = 0; level < 2; level++) {
+        for (let level = 0; level < 2; level++) {
             pokemap.forEach((mon, monId) => {
-                if (mon.futureEvolutions === undefined) { 
-                    mon.futureEvolutions = new EvolutionTree(mon.name, mon.id); 
+                if (mon.futureEvolutions === undefined) {
+                    mon.futureEvolutions = new EvolutionTree(mon.name, mon.id);
                 }
                 mon.futureEvolutions = mon.futureEvolutions.mapInLevel(level, tree => {
                     const currEntry = pokemap.get(tree.id);
                     return new EvolutionTree(
-                        tree.name, 
-                        tree.id, 
+                        tree.name,
+                        tree.id,
                         currEntry.nextEvolutionBranches.map(branch => new EvolutionTree(branch.name, branch.id))
-                        );
+                    );
                 })
             });
         }
