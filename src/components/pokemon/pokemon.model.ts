@@ -81,7 +81,25 @@ class EvolutionTree implements Identifyable {
      */
     public name: string;
     public id: string;
-    public futureEvolutions: EvolutionTree[]
+    public futureEvolutions: EvolutionTree[] = [];
+    public constructor (name: string, id: string, futureEvolutions: EvolutionTree[] = [])
+    {
+        this.name = name;
+        this.id = id;
+        this.futureEvolutions = futureEvolutions;
+    }
+
+    public mapInLevel(lvl : number, f : (EvolutionTree) => EvolutionTree) : EvolutionTree {
+        if (lvl === 0) {
+            return f(this);
+        } else {
+            return new EvolutionTree(
+                this.name, 
+                this.id,
+                this.futureEvolutions.map(evo => evo.mapInLevel(lvl-1, f))
+                );
+        }
+    }
 }
 
 export { Pokemon, EvolutionTree };

@@ -70,20 +70,85 @@ describe('Pokemon Output', () => {
             ],
             'EEVEE': [
                 item => expect(item.nextEvolutionBranches.length).to.equal(5, 'should have 5 nextEvolutionBranches for Eevee'),
+                item => expect(item.pastEvolutions, 'Eevee should not have past evolutions').to.be.empty,
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Eevee should have future evolutions defined'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Eevee should have future evolutions').to.not.be.empty,
+                item => expect(item.futureEvolutions.futureEvolutions.length).to.equal(5, 'Eevee should have 5 evolutions.'),
+                item => expect(item.futureEvolutions.futureEvolutions[0].futureEvolutions, 'Eevee\'s future evolutions should not evolve').to.be.empty,
+
+            ],
+            'UMBREON': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Umbreon should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('EEVEE', 'Umbreon\'s only pastEvolution should be Eevee'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Umbreon should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Umbreon should not evolve.').to.be.empty
+            ],
+            'FLAREON': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Flareon should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('EEVEE', 'Flareon\'s only pastEvolution should be Eevee'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Flareon should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Flareon should not evolve.').to.be.empty
             ],
             'SNORLAX': [
                 item => expect(item.pastEvolutions).to.be.empty,
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Snorlax should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Snorlax should not evolve.').to.be.empty
             ],
             'MAGMAR': [
                 item => expect(item.pastEvolutions).to.not.be.empty,
                 item => expect(item.pastEvolutions.length).to.equal(1, 'Magmar should only have one pastEvolution'),
                 item => expect(item.pastEvolutions[0].id).to.equal('MAGBY', 'Magmar\'s only pastEvolution should be Magby'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Magmar should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Magmar should not evolve.').to.be.empty
             ],
             'GOLDUCK': [
                 item => expect(item.pastEvolutions).to.not.be.empty,
                 item => expect(item.pastEvolutions.length).to.equal(1, 'Golduck should only have one pastEvolution'),
                 item => expect(item.pastEvolutions[0].id).to.equal('PSYDUCK', 'Golduck\'s pastEvolution should be Psyduck'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Golduck should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Golduck should not evolve.').to.be.empty
             ],
+            'CHARIZARD': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(2, 'Charizard should have 2 pastEvolutions'),
+                item => expect(item.pastEvolutions[0].id).to.equal('CHARMANDER', 'Charizard\'s first pastEvolution should be Charmander.'),
+                item => expect(item.pastEvolutions[1].id).to.equal('CHARMELEON', 'Charizard\'s second pastEvolution should be Charmeleon.'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Charizard should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Charizard should not evolve.').to.be.empty
+            ],
+            'CHARMANDER': [
+                item => expect(item.pastEvolutions).to.be.empty,
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Charmander should have future evolutions'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Charmander should have a future evolution').to.not.be.empty,
+                item => expect(item.futureEvolutions.futureEvolutions[0].id).to.equal('CHARMELEON', 'Charmander\'s first futureEvolution should be Charmeleon'),
+                item => expect(item.futureEvolutions.futureEvolutions[0].futureEvolutions, 'Charmander should have two future evolutions').to.not.be.empty,
+                item => expect(item.futureEvolutions.futureEvolutions[0].futureEvolutions[0].id).to.equal('CHARIZARD', 'Charmander\'s second futureEvolution should be Charizard'),
+            ],
+            'TYROGUE': [
+                item => expect(item.nextEvolutionBranches.length).to.equal(3, 'should have 3 nextEvolutionBranches for Tyrogue'),
+                item => expect(item.pastEvolutions, 'Tyrogue should not have past evolutions').to.be.empty,
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Tyrogue should have future evolutions defined'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Tyrogue should have future evolutions').to.not.be.empty,
+                item => expect(item.futureEvolutions.futureEvolutions.length).to.equal(3, 'Tyrogue should have 3 evolutions.'),
+                item => expect(item.futureEvolutions.futureEvolutions[0].futureEvolutions, 'Tyrogue\'s future evolutions should not evolve').to.be.empty,
+            ],
+            'HITMONLEE': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Hitmonlee should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('TYROGUE', 'Hitmonlee\'s only pastEvolution should be Tyrogue'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Hitmonlee should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Hitmonlee should not evolve.').to.be.empty
+            ],
+            'HITMONTOP': [
+                item => expect(item.pastEvolutions).to.not.be.empty,
+                item => expect(item.pastEvolutions.length).to.equal(1, 'Hitmontop should only have one pastEvolution'),
+                item => expect(item.pastEvolutions[0].id).to.equal('TYROGUE', 'Hitmontop\'s only pastEvolution should be Tyrogue'),
+                item => expect(item.futureEvolutions).to.not.equal(undefined, 'Hitmontop should have a defined future evolution tree'),
+                item => expect(item.futureEvolutions.futureEvolutions, 'Hitmontop should not evolve.').to.be.empty
+            ],
+
         };
 
         input.forEach(mon => {
