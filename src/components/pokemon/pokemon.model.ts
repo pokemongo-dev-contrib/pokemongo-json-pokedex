@@ -61,10 +61,10 @@ class Pokemon implements Identifyable {
      * Charmeleon and Charizard.
      */
     public futureEvolutions: EvolutionTree;
-    
+
     /**
      * All past evolutions of this pokemon, direct and indirect.
-     * 
+     *
      * For Charizard, this field would list Charmander and Charmeleon.
      */
     public pastEvolutions: Identifyable[];
@@ -75,13 +75,30 @@ class EvolutionTree implements Identifyable {
      * An EvolutionTree represents all possible future evolutions of a pokemon.
      * Mutually exclusive choices are given on the same level, while sequential
      * choices are presented in increasing depth.
-     * 
+     *
      * For example, Eevee's EvolutionTree would take 6 objects in depth 2, but
      * Charmander's EvolutionTree would take 3 objects in depth 3.
      */
     public name: string;
     public id: string;
-    public futureEvolutions: EvolutionTree[]
+    public futureEvolutions: EvolutionTree[] = [];
+    public constructor(name: string, id: string, futureEvolutions: EvolutionTree[] = []) {
+        this.name = name;
+        this.id = id;
+        this.futureEvolutions = futureEvolutions;
+    }
+
+    public mapInLevel(lvl: number, f: (EvolutionTree) => EvolutionTree): EvolutionTree {
+        if (lvl === 0) {
+            return f(this);
+        } else {
+            return new EvolutionTree(
+                this.name,
+                this.id,
+                this.futureEvolutions.map(evo => evo.mapInLevel(lvl - 1, f))
+            );
+        }
+    }
 }
 
 export { Pokemon, EvolutionTree };

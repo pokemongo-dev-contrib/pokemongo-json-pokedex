@@ -88,11 +88,7 @@ export class PokemonMapper {
             shoulderModeScale: pkmStgs.camera.shoulderModeScale
         };
         // Pokemon Evolutions
-        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => {
-            var ident = <EvolutionTree> Util.SnakeCase2Identifyable(branch.evolution)
-            ident.futureEvolutions = [];
-            return ident;
-        });
+        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => Util.SnakeCase2Identifyable(branch.evolution));
 
         return pokemon;
     }
