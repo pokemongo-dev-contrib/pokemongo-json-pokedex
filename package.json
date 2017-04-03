@@ -1,55 +1,59 @@
 {
-  "name": "pokemongo-data-normalizer",
-  "version": "2.0.0",
-  "description": "",
-  "main": "src/app.ts",
-  "scripts": {
-    "prestart": "npm run build && npm run clean && npm run lint",
-    "start": "node build/app.js",
-    "clean": "rm -rf src/**/**/.js && rm -rf src/**/**/*.map",
-    "build": "tsc && webpack",
-    "docs": "node_modules/.bin/typedoc --out docs",
-    "lint": "tslint src/**/*.ts test/**/*.ts",
-    "fetch-game-master": "node bin/get-latest-game-master.js",
-    "test": "node_modules/.bin/mocha -r ts-node/register test/*.ts"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PokemonGOAPI/pokemongo-data-normalizer.git"
-  },
-  "keywords": [
-    "pokemongo"
-  ],
-  "author": "Livio Brunner",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer/issues"
-  },
-  "homepage": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer#readme",
-  "dependencies": {
-    "chai": "^3.5.0",
-    "chalk": "^1.1.3",
-    "es6-shim": "^0.35.3",
-    "lodash": "^4.17.4",
-    "mocha": "^3.2.0",
-    "node-ts": "^2.1.2"
-  },
-  "devDependencies": {
-    "@types/chai": "^3.4.35",
-    "@types/chalk": "^0.4.31",
-    "@types/es6-shim": "^0.31.32",
-    "@types/lodash": "^4.14.58",
-    "@types/mocha": "^2.2.40",
-    "@types/node": "^7.0.8",
-    "ts-loader": "^2.0.1",
-    "ts-node": "^3.0.2",
-    "tslint": "^4.5.1",
-    "typedoc": "^0.5.7",
-    "typedoc-webpack-plugin": "^1.1.3",
-    "typescript": "^2.2.1",
-    "webpack": "^2.2.1"
-  },
-  "engines": {
-    "npm": "~4.4.4"
-  }
+    "name": "pokemongo-data-normalizer",
+    "version": "2.0.0",
+    "description": "",
+    "main": "src/app.ts",
+    "scripts": {
+        "prestart": "npm run build && npm run clean && npm run lint",
+        "start": "node build/app.js",
+        "clean": "rm -rf src/**/**/.js && rm -rf src/**/**/*.map",
+        "build": "tsc && webpack",
+        "docs": "node_modules/.bin/typedoc --out docs",
+        "lint": "tslint src/**/*.ts test/**/*.ts",
+        "fetch-game-master": "node bin/get-latest-game-master.js",
+        "precommit": "npm run lint",
+        "prepush": "npm start",
+        "pretest": "npm run build",
+        "test": "node_modules/.bin/mocha -r ts-node/register test/*.ts src/**/*.spec.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PokemonGOAPI/pokemongo-data-normalizer.git"
+    },
+    "keywords": [
+        "pokemongo"
+    ],
+    "author": "Livio Brunner",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer/issues"
+    },
+    "homepage": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer#readme",
+    "dependencies": {
+        "chai": "^3.5.0",
+        "chalk": "^1.1.3",
+        "es6-shim": "^0.35.3",
+        "lodash": "^4.17.4",
+        "mocha": "^3.2.0",
+        "node-ts": "^2.1.2"
+    },
+    "devDependencies": {
+        "@types/chai": "^3.4.35",
+        "@types/chalk": "^0.4.31",
+        "@types/es6-shim": "^0.31.32",
+        "@types/lodash": "^4.14.58",
+        "@types/mocha": "^2.2.40",
+        "@types/node": "^7.0.8",
+        "husky": "^0.13.3",
+        "ts-loader": "^2.0.1",
+        "ts-node": "^3.0.2",
+        "tslint": "^4.5.1",
+        "typedoc": "^0.5.7",
+        "typedoc-webpack-plugin": "^1.1.3",
+        "typescript": "^2.2.1",
+        "webpack": "^2.2.1"
+    },
+    "engines": {
+        "npm": "~4.4.4"
+    }
 }
