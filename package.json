@@ -14,7 +14,9 @@
     "precommit": "npm run lint",
     "prepush": "npm start",
     "pretest": "npm run build",
-    "test": "node_modules/.bin/mocha -r ts-node/register test/*.ts src/**/*.spec.ts"
+    "test": "node_modules/.bin/mocha -r ts-node/register test/*.ts src/**/*.spec.ts",
+    "precommit": "npm run lint",
+    "prepush": "npm start"
   },
   "repository": {
     "type": "git",
