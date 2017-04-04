@@ -87,6 +87,7 @@
                 "id": "IVYSAUR"
             }
         ],
+        "maxCP": 981,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -197,6 +198,7 @@
                 "id": "VENUSAUR"
             }
         ],
+        "maxCP": 1552,
         "pastEvolutions": [
             {
                 "name": "Bulbasaur",
@@ -302,6 +304,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2568,
         "pastEvolutions": [
             {
                 "name": "Bulbasaur",
@@ -402,6 +405,7 @@
                 "id": "CHARMELEON"
             }
         ],
+        "maxCP": 831,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -504,6 +508,7 @@
                 "id": "CHARIZARD"
             }
         ],
+        "maxCP": 1484,
         "pastEvolutions": [
             {
                 "name": "Charmander",
@@ -610,6 +615,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2686,
         "pastEvolutions": [
             {
                 "name": "Charmander",
@@ -710,6 +716,7 @@
                 "id": "WARTORTLE"
             }
         ],
+        "maxCP": 808,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -812,6 +819,7 @@
                 "id": "BLASTOISE"
             }
         ],
+        "maxCP": 1324,
         "pastEvolutions": [
             {
                 "name": "Squirtle",
@@ -913,6 +921,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2291,
         "pastEvolutions": [
             {
                 "name": "Squirtle",
@@ -1007,6 +1016,7 @@
                 "id": "METAPOD"
             }
         ],
+        "maxCP": 393,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -1097,6 +1107,7 @@
                 "id": "BUTTERFREE"
             }
         ],
+        "maxCP": 419,
         "pastEvolutions": [
             {
                 "name": "Caterpie",
@@ -1203,6 +1214,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1701,
         "pastEvolutions": [
             {
                 "name": "Caterpie",
@@ -1303,6 +1315,7 @@
                 "id": "KAKUNA"
             }
         ],
+        "maxCP": 397,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -1396,6 +1409,7 @@
                 "id": "BEEDRILL"
             }
         ],
+        "maxCP": 392,
         "pastEvolutions": [
             {
                 "name": "Weedle",
@@ -1502,6 +1516,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1777,
         "pastEvolutions": [
             {
                 "name": "Weedle",
@@ -1610,6 +1625,7 @@
                 "id": "PIDGEOTTO"
             }
         ],
+        "maxCP": 580,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -1721,6 +1737,7 @@
                 "id": "PIDGEOT"
             }
         ],
+        "maxCP": 1085,
         "pastEvolutions": [
             {
                 "name": "Pidgey",
@@ -1827,6 +1844,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1994,
         "pastEvolutions": [
             {
                 "name": "Pidgey",
@@ -1927,6 +1945,7 @@
                 "id": "RATICATE"
             }
         ],
+        "maxCP": 588,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -2018,6 +2037,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1549,
         "pastEvolutions": [
             {
                 "name": "Rattata",
@@ -2122,6 +2142,7 @@
                 "id": "FEAROW"
             }
         ],
+        "maxCP": 673,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -2222,6 +2243,7 @@
             "shoulderModeScale": 0.375
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1814,
         "pastEvolutions": [
             {
                 "name": "Spearow",
@@ -2318,6 +2340,7 @@
                 "id": "ARBOK"
             }
         ],
+        "maxCP": 778,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -2413,6 +2436,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1737,
         "pastEvolutions": [
             {
                 "name": "Ekans",
@@ -2513,6 +2537,7 @@
                 "id": "RAICHU"
             }
         ],
+        "maxCP": 787,
         "pastEvolutions": [
             {
                 "name": "Pichu",
@@ -2610,6 +2635,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2025,
         "pastEvolutions": [
             {
                 "name": "Pichu",
@@ -2710,6 +2736,7 @@
                 "id": "SANDSLASH"
             }
         ],
+        "maxCP": 1194,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -2801,6 +2828,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2328,
         "pastEvolutions": [
             {
                 "name": "Sandshrew",
@@ -2897,6 +2925,7 @@
                 "id": "NIDORINA"
             }
         ],
+        "maxCP": 736,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -2999,6 +3028,7 @@
                 "id": "NIDOQUEEN"
             }
         ],
+        "maxCP": 1218,
         "pastEvolutions": [
             {
                 "name": "Nidoran Female",
@@ -3104,6 +3134,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2338,
         "pastEvolutions": [
             {
                 "name": "Nidoran Female",
@@ -3204,6 +3235,7 @@
                 "id": "NIDORINO"
             }
         ],
+        "maxCP": 739,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -3306,6 +3338,7 @@
                 "id": "NIDOKING"
             }
         ],
+        "maxCP": 1252,
         "pastEvolutions": [
             {
                 "name": "Nidoran Male",
@@ -3411,6 +3444,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2386,
         "pastEvolutions": [
             {
                 "name": "Nidoran Male",
@@ -3511,6 +3545,7 @@
                 "id": "CLEFABLE"
             }
         ],
+        "maxCP": 1085,
         "pastEvolutions": [
             {
                 "name": "Cleffa",
@@ -3612,6 +3647,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2353,
         "pastEvolutions": [
             {
                 "name": "Cleffa",
@@ -3712,6 +3748,7 @@
                 "id": "NINETALES"
             }
         ],
+        "maxCP": 774,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -3807,6 +3844,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2157,
         "pastEvolutions": [
             {
                 "name": "Vulpix",
@@ -3907,6 +3945,7 @@
                 "id": "WIGGLYTUFF"
             }
         ],
+        "maxCP": 713,
         "pastEvolutions": [
             {
                 "name": "Igglybuff",
@@ -4012,6 +4051,7 @@
             "shoulderModeScale": 0.4
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1906,
         "pastEvolutions": [
             {
                 "name": "Igglybuff",
@@ -4121,6 +4161,7 @@
                 "id": "GOLBAT"
             }
         ],
+        "maxCP": 569,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -4232,6 +4273,7 @@
                 "id": "CROBAT"
             }
         ],
+        "maxCP": 1830,
         "pastEvolutions": [
             {
                 "name": "Zubat",
@@ -4338,6 +4380,7 @@
                 "id": "GLOOM"
             }
         ],
+        "maxCP": 1069,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -4453,6 +4496,7 @@
                 "id": "BELLOSSOM"
             }
         ],
+        "maxCP": 1512,
         "pastEvolutions": [
             {
                 "name": "Oddish",
@@ -4563,6 +4607,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2367,
         "pastEvolutions": [
             {
                 "name": "Oddish",
@@ -4667,6 +4712,7 @@
                 "id": "PARASECT"
             }
         ],
+        "maxCP": 836,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -4762,6 +4808,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1657,
         "pastEvolutions": [
             {
                 "name": "Paras",
@@ -4862,6 +4909,7 @@
                 "id": "VENOMOTH"
             }
         ],
+        "maxCP": 902,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -4962,6 +5010,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1937,
         "pastEvolutions": [
             {
                 "name": "Venonat",
@@ -5053,6 +5102,7 @@
                 "id": "DUGTRIO"
             }
         ],
+        "maxCP": 465,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -5143,6 +5193,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1333,
         "pastEvolutions": [
             {
                 "name": "Diglett",
@@ -5239,6 +5290,7 @@
                 "id": "PERSIAN"
             }
         ],
+        "maxCP": 638,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -5330,6 +5382,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1539,
         "pastEvolutions": [
             {
                 "name": "Meowth",
@@ -5426,6 +5479,7 @@
                 "id": "GOLDUCK"
             }
         ],
+        "maxCP": 966,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -5521,6 +5575,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2270,
         "pastEvolutions": [
             {
                 "name": "Psyduck",
@@ -5617,6 +5672,7 @@
                 "id": "PRIMEAPE"
             }
         ],
+        "maxCP": 1002,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -5712,6 +5768,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2105,
         "pastEvolutions": [
             {
                 "name": "Mankey",
@@ -5808,6 +5865,7 @@
                 "id": "ARCANINE"
             }
         ],
+        "maxCP": 1110,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -5903,6 +5961,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2839,
         "pastEvolutions": [
             {
                 "name": "Growlithe",
@@ -5999,6 +6058,7 @@
                 "id": "POLIWHIRL"
             }
         ],
+        "maxCP": 695,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -6114,6 +6174,7 @@
                 "id": "POLITOED"
             }
         ],
+        "maxCP": 1313,
         "pastEvolutions": [
             {
                 "name": "Poliwag",
@@ -6224,6 +6285,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2441,
         "pastEvolutions": [
             {
                 "name": "Poliwag",
@@ -6325,6 +6387,7 @@
                 "id": "KADABRA"
             }
         ],
+        "maxCP": 1148,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -6431,6 +6494,7 @@
                 "id": "ALAKAZAM"
             }
         ],
+        "maxCP": 1859,
         "pastEvolutions": [
             {
                 "name": "Abra",
@@ -6532,6 +6596,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2887,
         "pastEvolutions": [
             {
                 "name": "Abra",
@@ -6632,6 +6697,7 @@
                 "id": "MACHOKE"
             }
         ],
+        "maxCP": 1199,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -6738,6 +6804,7 @@
                 "id": "MACHAMP"
             }
         ],
+        "maxCP": 1910,
         "pastEvolutions": [
             {
                 "name": "Machop",
@@ -6839,6 +6906,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2889,
         "pastEvolutions": [
             {
                 "name": "Machop",
@@ -6943,6 +7011,7 @@
                 "id": "WEEPINBELL"
             }
         ],
+        "maxCP": 916,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -7054,6 +7123,7 @@
                 "id": "VICTREEBEL"
             }
         ],
+        "maxCP": 1475,
         "pastEvolutions": [
             {
                 "name": "Bellsprout",
@@ -7160,6 +7230,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2268,
         "pastEvolutions": [
             {
                 "name": "Bellsprout",
@@ -7265,6 +7336,7 @@
                 "id": "TENTACRUEL"
             }
         ],
+        "maxCP": 956,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -7365,6 +7437,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2374,
         "pastEvolutions": [
             {
                 "name": "Tentacool",
@@ -7466,6 +7539,7 @@
                 "id": "GRAVELER"
             }
         ],
+        "maxCP": 1193,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -7576,6 +7650,7 @@
                 "id": "GOLEM"
             }
         ],
+        "maxCP": 1815,
         "pastEvolutions": [
             {
                 "name": "Geodude",
@@ -7681,6 +7756,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2916,
         "pastEvolutions": [
             {
                 "name": "Geodude",
@@ -7781,6 +7857,7 @@
                 "id": "RAPIDASH"
             }
         ],
+        "maxCP": 1502,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -7876,6 +7953,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2252,
         "pastEvolutions": [
             {
                 "name": "Ponyta",
@@ -7980,6 +8058,7 @@
                 "id": "SLOWKING"
             }
         ],
+        "maxCP": 1204,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -8084,6 +8163,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2482,
         "pastEvolutions": [
             {
                 "name": "Slowpoke",
@@ -8189,6 +8269,7 @@
                 "id": "MAGNETON"
             }
         ],
+        "maxCP": 1083,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -8289,6 +8370,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2237,
         "pastEvolutions": [
             {
                 "name": "Magnemite",
@@ -8384,6 +8466,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1092,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Farfetchd",
@@ -8478,6 +8561,7 @@
                 "id": "DODRIO"
             }
         ],
+        "maxCP": 1011,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -8577,6 +8661,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2138,
         "pastEvolutions": [
             {
                 "name": "Doduo",
@@ -8673,6 +8758,7 @@
                 "id": "DEWGONG"
             }
         ],
+        "maxCP": 899,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -8769,6 +8855,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1894,
         "pastEvolutions": [
             {
                 "name": "Seel",
@@ -8869,6 +8956,7 @@
                 "id": "MUK"
             }
         ],
+        "maxCP": 1269,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -8964,6 +9052,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2709,
         "pastEvolutions": [
             {
                 "name": "Grimer",
@@ -9060,6 +9149,7 @@
                 "id": "CLOYSTER"
             }
         ],
+        "maxCP": 958,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -9160,6 +9250,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2475,
         "pastEvolutions": [
             {
                 "name": "Shellder",
@@ -9265,6 +9356,7 @@
                 "id": "HAUNTER"
             }
         ],
+        "maxCP": 1002,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -9376,6 +9468,7 @@
                 "id": "GENGAR"
             }
         ],
+        "maxCP": 1716,
         "pastEvolutions": [
             {
                 "name": "Gastly",
@@ -9481,6 +9574,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2619,
         "pastEvolutions": [
             {
                 "name": "Gastly",
@@ -9585,6 +9679,7 @@
                 "id": "STEELIX"
             }
         ],
+        "maxCP": 1002,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -9685,6 +9780,7 @@
                 "id": "HYPNO"
             }
         ],
+        "maxCP": 992,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -9780,6 +9876,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2048,
         "pastEvolutions": [
             {
                 "name": "Drowzee",
@@ -9876,6 +9973,7 @@
                 "id": "KINGLER"
             }
         ],
+        "maxCP": 1386,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -9971,6 +10069,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2694,
         "pastEvolutions": [
             {
                 "name": "Krabby",
@@ -10067,6 +10166,7 @@
                 "id": "ELECTRODE"
             }
         ],
+        "maxCP": 857,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -10162,6 +10262,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1900,
         "pastEvolutions": [
             {
                 "name": "Voltorb",
@@ -10262,6 +10363,7 @@
                 "id": "EXEGGUTOR"
             }
         ],
+        "maxCP": 1102,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -10361,6 +10463,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2916,
         "pastEvolutions": [
             {
                 "name": "Exeggcute",
@@ -10457,6 +10560,7 @@
                 "id": "MAROWAK"
             }
         ],
+        "maxCP": 943,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -10548,6 +10652,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1691,
         "pastEvolutions": [
             {
                 "name": "Cubone",
@@ -10643,6 +10748,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2406,
         "pastEvolutions": [
             {
                 "name": "Tyrogue",
@@ -10742,6 +10848,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2098,
         "pastEvolutions": [
             {
                 "name": "Tyrogue",
@@ -10833,6 +10940,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1322,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Lickitung",
@@ -10928,6 +11036,7 @@
                 "id": "WEEZING"
             }
         ],
+        "maxCP": 1091,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -11024,6 +11133,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2183,
         "pastEvolutions": [
             {
                 "name": "Koffing",
@@ -11128,6 +11238,7 @@
                 "id": "RHYDON"
             }
         ],
+        "maxCP": 1679,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -11227,6 +11338,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3300,
         "pastEvolutions": [
             {
                 "name": "Rhyhorn",
@@ -11327,6 +11439,7 @@
                 "id": "BLISSEY"
             }
         ],
+        "maxCP": 1469,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -11418,6 +11531,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2208,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Tangela",
@@ -11507,6 +11621,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2463,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Kangaskhan",
@@ -11598,6 +11713,7 @@
                 "id": "SEADRA"
             }
         ],
+        "maxCP": 921,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -11705,6 +11821,7 @@
                 "id": "KINGDRA"
             }
         ],
+        "maxCP": 1979,
         "pastEvolutions": [
             {
                 "name": "Horsea",
@@ -11808,6 +11925,7 @@
                 "id": "SEAKING"
             }
         ],
+        "maxCP": 1006,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -11904,6 +12022,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2040,
         "pastEvolutions": [
             {
                 "name": "Goldeen",
@@ -12000,6 +12119,7 @@
                 "id": "STARMIE"
             }
         ],
+        "maxCP": 926,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -12099,6 +12219,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2303,
         "pastEvolutions": [
             {
                 "name": "Staryu",
@@ -12194,6 +12315,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1984,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mr Mime",
@@ -12293,6 +12415,7 @@
                 "id": "SCIZOR"
             }
         ],
+        "maxCP": 2464,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -12392,6 +12515,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2512,
         "pastEvolutions": [
             {
                 "name": "Smoochum",
@@ -12483,6 +12607,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2196,
         "pastEvolutions": [
             {
                 "name": "Elekid",
@@ -12578,6 +12703,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2254,
         "pastEvolutions": [
             {
                 "name": "Magby",
@@ -12673,6 +12799,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2770,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Pinsir",
@@ -12762,6 +12889,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2488,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Tauros",
@@ -12837,6 +12965,7 @@
                 "id": "GYARADOS"
             }
         ],
+        "maxCP": 220,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -12937,6 +13066,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3281,
         "pastEvolutions": [
             {
                 "name": "Magikarp",
@@ -13036,6 +13166,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2603,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Lapras",
@@ -13109,6 +13240,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 718,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ditto",
@@ -13215,6 +13347,7 @@
                 "id": "UMBREON"
             }
         ],
+        "maxCP": 969,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -13322,6 +13455,7 @@
             "shoulderModeScale": 0.4
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3157,
         "pastEvolutions": [
             {
                 "name": "Eevee",
@@ -13413,6 +13547,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2730,
         "pastEvolutions": [
             {
                 "name": "Eevee",
@@ -13504,6 +13639,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2904,
         "pastEvolutions": [
             {
                 "name": "Eevee",
@@ -13605,6 +13741,7 @@
                 "id": "PORYGON2"
             }
         ],
+        "maxCP": 1567,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -13705,6 +13842,7 @@
                 "id": "OMASTAR"
             }
         ],
+        "maxCP": 1345,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -13804,6 +13942,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2685,
         "pastEvolutions": [
             {
                 "name": "Omanyte",
@@ -13904,6 +14043,7 @@
                 "id": "KABUTOPS"
             }
         ],
+        "maxCP": 1172,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -14003,6 +14143,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2517,
         "pastEvolutions": [
             {
                 "name": "Kabuto",
@@ -14103,6 +14244,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2608,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Aerodactyl",
@@ -14192,6 +14334,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3355,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Snorlax",
@@ -14286,6 +14429,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2933,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Articuno",
@@ -14380,6 +14524,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3330,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Zapdos",
@@ -14474,6 +14619,7 @@
             "shoulderModeScale": 0.25
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3272,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Moltres",
@@ -14564,6 +14710,7 @@
                 "id": "DRAGONAIR"
             }
         ],
+        "maxCP": 860,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -14670,6 +14817,7 @@
                 "id": "DRAGONITE"
             }
         ],
+        "maxCP": 1609,
         "pastEvolutions": [
             {
                 "name": "Dratini",
@@ -14776,6 +14924,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3581,
         "pastEvolutions": [
             {
                 "name": "Dratini",
@@ -14883,6 +15032,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 4760,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mewtwo",
@@ -14989,6 +15139,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3090,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mew",
@@ -15079,6 +15230,7 @@
                 "id": "BAYLEEF"
             }
         ],
+        "maxCP": 801,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -15181,6 +15333,7 @@
                 "id": "MEGANIUM"
             }
         ],
+        "maxCP": 1296,
         "pastEvolutions": [
             {
                 "name": "Chikorita",
@@ -15282,6 +15435,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2227,
         "pastEvolutions": [
             {
                 "name": "Chikorita",
@@ -15382,6 +15536,7 @@
                 "id": "QUILAVA"
             }
         ],
+        "maxCP": 831,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -15484,6 +15639,7 @@
                 "id": "TYPHLOSION"
             }
         ],
+        "maxCP": 1484,
         "pastEvolutions": [
             {
                 "name": "Cyndaquil",
@@ -15585,6 +15741,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2686,
         "pastEvolutions": [
             {
                 "name": "Cyndaquil",
@@ -15685,6 +15842,7 @@
                 "id": "CROCONAW"
             }
         ],
+        "maxCP": 1011,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -15787,6 +15945,7 @@
                 "id": "FERALIGATR"
             }
         ],
+        "maxCP": 1598,
         "pastEvolutions": [
             {
                 "name": "Totodile",
@@ -15888,6 +16047,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2721,
         "pastEvolutions": [
             {
                 "name": "Totodile",
@@ -15988,6 +16148,7 @@
                 "id": "FURRET"
             }
         ],
+        "maxCP": 519,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -16079,6 +16240,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1667,
         "pastEvolutions": [
             {
                 "name": "Sentret",
@@ -16179,6 +16341,7 @@
                 "id": "NOCTOWL"
             }
         ],
+        "maxCP": 640,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -16279,6 +16442,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2040,
         "pastEvolutions": [
             {
                 "name": "Hoothoot",
@@ -16384,6 +16548,7 @@
                 "id": "LEDIAN"
             }
         ],
+        "maxCP": 663,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -16484,6 +16649,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1275,
         "pastEvolutions": [
             {
                 "name": "Ledyba",
@@ -16584,6 +16750,7 @@
                 "id": "ARIADOS"
             }
         ],
+        "maxCP": 685,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -16679,6 +16846,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1636,
         "pastEvolutions": [
             {
                 "name": "Spinarak",
@@ -16779,6 +16947,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2466,
         "pastEvolutions": [
             {
                 "name": "Zubat",
@@ -16884,6 +17053,7 @@
                 "id": "LANTURN"
             }
         ],
+        "maxCP": 1067,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -16984,6 +17154,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2077,
         "pastEvolutions": [
             {
                 "name": "Chinchou",
@@ -17080,6 +17251,7 @@
                 "id": "PIKACHU"
             }
         ],
+        "maxCP": 376,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17186,6 +17358,7 @@
                 "id": "CLEFAIRY"
             }
         ],
+        "maxCP": 620,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17293,6 +17466,7 @@
                 "id": "JIGGLYPUFF"
             }
         ],
+        "maxCP": 512,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17399,6 +17573,7 @@
                 "id": "TOGETIC"
             }
         ],
+        "maxCP": 540,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17495,6 +17670,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1543,
         "pastEvolutions": [
             {
                 "name": "Togepi",
@@ -17599,6 +17775,7 @@
                 "id": "XATU"
             }
         ],
+        "maxCP": 925,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17699,6 +17876,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1975,
         "pastEvolutions": [
             {
                 "name": "Natu",
@@ -17795,6 +17973,7 @@
                 "id": "FLAAFFY"
             }
         ],
+        "maxCP": 887,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -17897,6 +18076,7 @@
                 "id": "AMPHAROS"
             }
         ],
+        "maxCP": 1402,
         "pastEvolutions": [
             {
                 "name": "Mareep",
@@ -17998,6 +18178,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2695,
         "pastEvolutions": [
             {
                 "name": "Mareep",
@@ -18093,6 +18274,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2108,
         "pastEvolutions": [
             {
                 "name": "Oddish",
@@ -18197,6 +18379,7 @@
                 "id": "AZUMARILL"
             }
         ],
+        "maxCP": 420,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -18292,6 +18475,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1503,
         "pastEvolutions": [
             {
                 "name": "Marill",
@@ -18379,6 +18563,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2065,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sudowoodo",
@@ -18464,6 +18649,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2371,
         "pastEvolutions": [
             {
                 "name": "Poliwag",
@@ -18573,6 +18759,7 @@
                 "id": "SKIPLOOM"
             }
         ],
+        "maxCP": 508,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -18684,6 +18871,7 @@
                 "id": "JUMPLUFF"
             }
         ],
+        "maxCP": 882,
         "pastEvolutions": [
             {
                 "name": "Hoppip",
@@ -18790,6 +18978,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1553,
         "pastEvolutions": [
             {
                 "name": "Hoppip",
@@ -18885,6 +19074,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1188,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Aipom",
@@ -18979,6 +19169,7 @@
                 "id": "SUNFLORA"
             }
         ],
+        "maxCP": 316,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -19070,6 +19261,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2048,
         "pastEvolutions": [
             {
                 "name": "Sunkern",
@@ -19166,6 +19358,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1326,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Yanma",
@@ -19260,6 +19453,7 @@
                 "id": "QUAGSIRE"
             }
         ],
+        "maxCP": 596,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -19359,6 +19553,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1929,
         "pastEvolutions": [
             {
                 "name": "Wooper",
@@ -19450,6 +19645,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3000,
         "pastEvolutions": [
             {
                 "name": "Eevee",
@@ -19537,6 +19733,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2052,
         "pastEvolutions": [
             {
                 "name": "Eevee",
@@ -19636,6 +19833,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1392,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Murkrow",
@@ -19726,6 +19924,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2482,
         "pastEvolutions": [
             {
                 "name": "Slowpoke",
@@ -19822,6 +20021,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1781,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Misdreavus",
@@ -19896,6 +20096,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1022,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Unown",
@@ -19977,6 +20178,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1024,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Wobbuffet",
@@ -20070,6 +20272,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1863,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Girafarig",
@@ -20160,6 +20363,7 @@
                 "id": "FORRETRESS"
             }
         ],
+        "maxCP": 1045,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -20260,6 +20464,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2263,
         "pastEvolutions": [
             {
                 "name": "Pineco",
@@ -20351,6 +20556,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1615,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dunsparce",
@@ -20441,6 +20647,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1758,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Gligar",
@@ -20530,6 +20737,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2439,
         "pastEvolutions": [
             {
                 "name": "Onix",
@@ -20626,6 +20834,7 @@
                 "id": "GRANBULL"
             }
         ],
+        "maxCP": 1124,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -20721,6 +20930,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2440,
         "pastEvolutions": [
             {
                 "name": "Snubbull",
@@ -20817,6 +21027,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1910,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Qwilfish",
@@ -20910,6 +21121,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2801,
         "pastEvolutions": [
             {
                 "name": "Scyther",
@@ -21005,6 +21217,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 300,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Shuckle",
@@ -21098,6 +21311,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2938,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Heracross",
@@ -21187,6 +21401,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1868,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sneasel",
@@ -21277,6 +21492,7 @@
                 "id": "URSARING"
             }
         ],
+        "maxCP": 1184,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -21372,6 +21588,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2760,
         "pastEvolutions": [
             {
                 "name": "Teddiursa",
@@ -21468,6 +21685,7 @@
                 "id": "MAGCARGO"
             }
         ],
+        "maxCP": 750,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -21563,6 +21781,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1543,
         "pastEvolutions": [
             {
                 "name": "Slugma",
@@ -21663,6 +21882,7 @@
                 "id": "PILOSWINE"
             }
         ],
+        "maxCP": 663,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -21762,6 +21982,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2284,
         "pastEvolutions": [
             {
                 "name": "Swinub",
@@ -21854,6 +22075,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1214,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Corsola",
@@ -21945,6 +22167,7 @@
                 "id": "OCTILLERY"
             }
         ],
+        "maxCP": 749,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -22036,6 +22259,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2124,
         "pastEvolutions": [
             {
                 "name": "Remoraid",
@@ -22131,6 +22355,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 937,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Delibird",
@@ -22225,6 +22450,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2032,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mantine",
@@ -22319,6 +22545,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2032,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Skarmory",
@@ -22413,6 +22640,7 @@
                 "id": "HOUNDOOM"
             }
         ],
+        "maxCP": 1110,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -22508,6 +22736,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2529,
         "pastEvolutions": [
             {
                 "name": "Houndour",
@@ -22608,6 +22837,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2424,
         "pastEvolutions": [
             {
                 "name": "Horsea",
@@ -22708,6 +22938,7 @@
                 "id": "DONPHAN"
             }
         ],
+        "maxCP": 1175,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -22803,6 +23034,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3022,
         "pastEvolutions": [
             {
                 "name": "Phanpy",
@@ -22895,6 +23127,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2546,
         "pastEvolutions": [
             {
                 "name": "Porygon",
@@ -22990,6 +23223,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1988,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Stantler",
@@ -23067,6 +23301,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 389,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Smeargle",
@@ -23165,6 +23400,7 @@
                 "id": "HITMONTOP"
             }
         ],
+        "maxCP": 404,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -23266,6 +23502,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 1905,
         "pastEvolutions": [
             {
                 "name": "Tyrogue",
@@ -23370,6 +23607,7 @@
                 "id": "JYNX"
             }
         ],
+        "maxCP": 1230,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -23470,6 +23708,7 @@
                 "id": "ELECTABUZZ"
             }
         ],
+        "maxCP": 1073,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -23570,6 +23809,7 @@
                 "id": "MAGMAR"
             }
         ],
+        "maxCP": 1178,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -23665,6 +23905,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2312,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Miltank",
@@ -23754,6 +23995,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3219,
         "pastEvolutions": [
             {
                 "name": "Chansey",
@@ -23853,6 +24095,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3349,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Raikou",
@@ -23946,6 +24189,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3377,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Entei",
@@ -24039,6 +24283,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 2823,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Suicune",
@@ -24133,6 +24378,7 @@
                 "id": "PUPITAR"
             }
         ],
+        "maxCP": 904,
         "futureEvolutions": {
             "futureEvolutions": [
                 {
@@ -24239,6 +24485,7 @@
                 "id": "TYRANITAR"
             }
         ],
+        "maxCP": 1608,
         "pastEvolutions": [
             {
                 "name": "Larvitar",
@@ -24344,6 +24591,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3670,
         "pastEvolutions": [
             {
                 "name": "Larvitar",
@@ -24452,6 +24700,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3598,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Lugia",
@@ -24550,6 +24799,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 4650,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ho Oh",
@@ -24644,6 +24894,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
+        "maxCP": 3090,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Celebi",

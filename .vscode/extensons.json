@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "buehler.typescript-hero",
+        "kisstkondoros.typelens",
+        "eg2.tslint",
+        "stevencl.addDocComments"
+    ]
+}

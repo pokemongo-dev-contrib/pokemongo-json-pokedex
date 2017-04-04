@@ -89,14 +89,14 @@ class EvolutionTree implements Identifyable {
         this.futureEvolutions = futureEvolutions;
     }
 
-    public mapInLevel(lvl: number, f: (EvolutionTree) => EvolutionTree): EvolutionTree {
-        if (lvl === 0) {
-            return f(this);
+    public mapInLevel(treeLevel: number, mapperFunction: (EvolutionTree) => EvolutionTree): EvolutionTree {
+        if (treeLevel === 0) {
+            return mapperFunction(this);
         } else {
             return new EvolutionTree(
                 this.name,
                 this.id,
-                this.futureEvolutions.map(evo => evo.mapInLevel(lvl - 1, f))
+                this.futureEvolutions.map(evo => evo.mapInLevel(treeLevel - 1, mapperFunction))
             );
         }
     }

@@ -11,68 +11,68 @@ class PokemonParser implements Parser {
     }
 
     public Parse(): Pokemon[] {
-        let rv = this.gameMaster
+        let returnValue = this.gameMaster
             .itemTemplates
             .filter(p => { return this.isItemTemplatePokemon(p); })
             .map(p => PokemonMapper.Map(p));
-        rv = this.generateBackrefs(rv);
-        rv = this.generateFrontRefs(rv);
-        return rv;
+        returnValue = this.generateBackrefs(returnValue);
+        returnValue = this.generateFrontRefs(returnValue);
+        return returnValue;
     }
 
-    public generateBackrefs(parsedMons: Pokemon[]): Pokemon[] {
+    public generateBackrefs(parsedPokemon: Pokemon[]): Pokemon[] {
         // This generates one pastEvolution for all pokemon
-        let backrefs = parsedMons.reduce((refsTmp, mon) => {
-            mon.nextEvolutionBranches.forEach(branch => refsTmp.set(branch.id, [mon]));
-            return refsTmp;
+        let backrefs = parsedPokemon.reduce((backrefsTemporary, pokemon) => {
+            pokemon.nextEvolutionBranches.forEach(branch => backrefsTemporary.set(branch.id, [pokemon]));
+            return backrefsTemporary;
         }, new Map<string, Pokemon[]>());
 
         // Use graph traversal to fill in more pastEvolutions
         // TODO: Use a for loop to iterate over more than 2 previous evolutions.
-        backrefs.forEach((monsList, idx, refsTmp) => monsList.forEach(mon => {
-            if (!refsTmp.has(mon.id)) { return; }
-            const prevs = refsTmp.get(mon.id);
-            backrefs.set(idx, prevs.concat(monsList));
+        backrefs.forEach((pastPokemonList, backrefIndex, backrefsTemp) => pastPokemonList.forEach(currentPastEvolution => {
+            if (!backrefsTemp.has(currentPastEvolution.id)) { return; }
+            const newPastEvolutions = backrefsTemp.get(currentPastEvolution.id);
+            backrefs.set(backrefIndex, newPastEvolutions.concat(pastPokemonList));
         }));
 
         // Finally, update the parsedPokemon list.
-        return parsedMons.map(mon => {
-            const pastEvos = backrefs.get(mon.id);
-            if (pastEvos === undefined || pastEvos.length === 0) {
-                return mon;
+        return parsedPokemon.map(pokemon => {
+            const pastEvolutions = backrefs.get(pokemon.id);
+            if (pastEvolutions === undefined || pastEvolutions.length === 0) {
+                return pokemon;
             }
-            mon.pastEvolutions = mon.pastEvolutions || [];
-            mon.pastEvolutions = pastEvos
-                .map(evo => { return { name: evo.name, id: evo.id }; })
-                .concat(mon.pastEvolutions);
-            return mon;
+            pokemon.pastEvolutions = pokemon.pastEvolutions || [];
+            pokemon.pastEvolutions = pastEvolutions
+                .map(currentPriorEvolution => { return { name: currentPriorEvolution.name, id: currentPriorEvolution.id }; })
+                .concat(pokemon.pastEvolutions);
+            return pokemon;
         });
     }
 
-    public generateFrontRefs(parsedMons: Pokemon[]): Pokemon[] {
+    public generateFrontRefs(pastPokemon: Pokemon[]): Pokemon[] {
         // First, we need a mapping from ID to Pokemon.
-        let pokemap = parsedMons.reduce((mapTmp, mon) => {
-            mapTmp.set(mon.id, mon);
-            return mapTmp;
+        let pokemonIdMap = pastPokemon.reduce((temporaryIdMap, currentPokemon) => {
+            temporaryIdMap.set(currentPokemon.id, currentPokemon);
+            return temporaryIdMap;
         }, new Map<string, Pokemon>());
 
         // And now, graph traversal...
-        for (let level = 0; level < 2; level++) {
-            pokemap.forEach((mon, monId) => {
-                if (mon.futureEvolutions === undefined) {
-                    mon.futureEvolutions = new EvolutionTree(mon.name, mon.id);
+        for (let treeLevel = 0; treeLevel < 2; treeLevel++) {
+            pokemonIdMap.forEach((pokemonObject, pokemonId) => {
+                if (pokemonObject.futureEvolutions === undefined) {
+                    pokemonObject.futureEvolutions = new EvolutionTree(pokemonObject.name, pokemonObject.id);
                 }
-                mon.futureEvolutions = mon.futureEvolutions.mapInLevel(level, tree => {
-                    const currEntry = pokemap.get(tree.id);
+                pokemonObject.futureEvolutions = pokemonObject.futureEvolutions.mapInLevel(treeLevel, currentSubtree => {
+                    const currEntry = pokemonIdMap.get(currentSubtree.id);
                     return new EvolutionTree(
-                        tree.name,
-                        tree.id,
-                        currEntry.nextEvolutionBranches.map(branch => new EvolutionTree(branch.name, branch.id))
+                        currentSubtree.name,
+                        currentSubtree.id,
+                        currEntry.nextEvolutionBranches.map(evolutionBranch => new EvolutionTree(evolutionBranch.name, evolutionBranch.id))
                     );
                 })
             });
         }
-        return Array.from(pokemap.values());
+        return Array.from(pokemonIdMap.values());
     }
 }
 
