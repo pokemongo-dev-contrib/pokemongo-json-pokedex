@@ -11,8 +11,6 @@
     "docs": "node_modules/.bin/typedoc --out docs",
     "lint": "tslint src/**/*.ts test/**/*.ts",
     "fetch-game-master": "node bin/get-latest-game-master.js",
-    "precommit": "npm run lint",
-    "prepush": "npm start",
     "pretest": "npm run build",
     "test": "node_modules/.bin/mocha -r ts-node/register test/*.ts src/**/*.spec.ts",
     "precommit": "npm run lint",
