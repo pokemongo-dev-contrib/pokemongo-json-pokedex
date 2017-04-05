@@ -6,7 +6,7 @@
   "scripts": {
     "prestart": "npm run build && npm run clean && npm run lint",
     "start": "node build/app.js",
-    "clean": "rm -rf src/**/**/.js && rm -rf src/**/**/*.map",
+    "clean": "rimraf {src,test}/**/*.{map,js}",
     "build": "tsc && webpack",
     "docs": "node_modules/.bin/typedoc --out docs",
     "lint": "tslint src/**/*.ts test/**/*.ts",
@@ -44,6 +44,7 @@
     "@types/mocha": "^2.2.40",
     "@types/node": "^7.0.8",
     "husky": "^0.13.3",
+    "rimraf": "^2.6.1",
     "ts-loader": "^2.0.1",
     "ts-node": "^3.0.2",
     "tslint": "^4.5.1",
