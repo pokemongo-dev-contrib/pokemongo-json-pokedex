@@ -1,6 +1,7 @@
 import { Pokemon } from './pokemon.model';
 import { ItemTemplate } from '../../core/game_master/gameMaster';
 import Util from '../../shared/util';
+import { CPCalculator } from '../../core/cp-calculator';
 
 export class PokemonMapper {
     public static Map(rawPokemon: ItemTemplate): Pokemon {
@@ -87,6 +88,9 @@ export class PokemonMapper {
             diskRadius: pkmStgs.camera.diskRadiusM,
             shoulderModeScale: pkmStgs.camera.shoulderModeScale
         };
+
+        pokemon.maxCP = CPCalculator
+            .Calculate(pokemon.stats.baseStamina, pokemon.stats.baseAttack, pokemon.stats.baseDefense);
 
         return pokemon;
     }

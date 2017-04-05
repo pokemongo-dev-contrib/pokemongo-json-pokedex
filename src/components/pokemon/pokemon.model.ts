@@ -43,6 +43,7 @@ class Pokemon implements Identifyable {
     public weight: number;
     public family: Identifyable;
     public kmBuddyDistance: number;
+    public maxCP: number;
     /**
      * The size of the Pokemon, when it is chosen as
      * a buddy.
