@@ -1,4 +1,4 @@
-import { Pokemon } from './pokemon.model';
+import { Pokemon, EvolutionTree } from './pokemon.model';
 import { ItemTemplate } from '../../core/game_master/gameMaster';
 import Util from '../../shared/util';
 import { CPCalculator } from '../../core/cp-calculator';
@@ -88,6 +88,8 @@ export class PokemonMapper {
             diskRadius: pkmStgs.camera.diskRadiusM,
             shoulderModeScale: pkmStgs.camera.shoulderModeScale
         };
+        // Pokemon Evolutions
+        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => Util.SnakeCase2Identifyable(branch.evolution));
 
         pokemon.maxCP = CPCalculator
             .Calculate(pokemon.stats.baseStamina, pokemon.stats.baseAttack, pokemon.stats.baseDefense);
