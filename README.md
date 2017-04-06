@@ -57,6 +57,10 @@ See [Scripts > docs](#docs)
 ### Commits
 We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-messages). Please use this, otherwise it won't be accepted.
 
+## Changelog
+
+See [CHANGELOG.md](https://github.com/BrunnerLivio/pokemongo-data-normalizer/blob/master/CHANGELOG.md)
+
 ## Docker
 
 You can build the docker container using
