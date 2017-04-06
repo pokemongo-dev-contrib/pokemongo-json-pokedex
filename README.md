@@ -9,12 +9,21 @@
 This program transforms the data from the Pokemon GO master files
 to a better readable & processable JSON file.
 
-# Prerequisites
+![Philosophie](https://raw.githubusercontent.com/BrunnerLivio/pokemongo-data-normalizer/master/.github/philosophy.png)
+
+As a developer it can be in certain situation quite annoying depend on
+the raw GAME MASTER files. Not only are some informations quite hidden
+and must be parsed, the structure of the GAME MASTER files can change
+after every version. pokemongo-data-normalizer parses the GAME
+MASTER data and tries to maintain the same structure, even when the
+structure of the source files changed completely.
+
+## Prerequisites
 
 - [NodeJS](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
-# Installation
+## Installation
 
 
 1. Clone the repository and change directory to the cloned repository.
@@ -22,33 +31,33 @@ to a better readable & processable JSON file.
 3. Run `npm start` to run the script
 4. The generated data is in the `output`-folder
 
-# Scripts
-## fetch-game-master
+## Scripts
+### fetch-game-master
 Get the latest GAME_MASTER file from the [pokemongo-game-master repository](https://github.com/BrunnerLivio/pokemongo-game-master)
 ```
 npm run fetch-game-master
 ```
-## docs
+### docs
 Generate documentation 
 ```
 npm run docs
 ```
 
-# Documentation
+## Documentation
 
 [Live-demo](https://brunnerlivio.github.io/pokemongo-data-normalizer/)
 
-## Generate
+### Generate
 
 See [Scripts > docs](#docs)
 
-# Contribute
+## Contribute
 
 
-## Commits
+### Commits
 We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-messages). Please use this, otherwise it won't be accepted.
 
-# Docker
+## Docker
 
 You can build the docker container using
 ```
