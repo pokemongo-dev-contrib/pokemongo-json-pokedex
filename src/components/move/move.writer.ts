@@ -1,10 +1,9 @@
 import * as path from 'path';
 import * as fs from 'fs';
-import * as chalk from 'chalk';
 import { Promise } from 'es6-shim';
 
-import APP_SETTINGS from '../../app.settings';
-import { Writer } from '../../core/writer';
+import APP_SETTINGS from '@settings/app';
+import { Writer } from '@core/writer';
 import { MoveParser } from './';
 
 export class MoveWriter implements Writer {

@@ -1,6 +1,6 @@
-import { ItemTemplate } from '../../core/game_master';
+import { ItemTemplate } from '@core/game_master';
 import { Move } from './';
-import Util from '../../shared/util';
+import { Util } from '@util';
 
 export class MoveMapper {
     public static Map(rawMove: ItemTemplate): Move {

@@ -2,10 +2,9 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as chalk from 'chalk';
 
-import APP_SETTINGS from './app.settings';
-import { PokemonWriter } from './components/pokemon/pokemon.writer';
-import { MoveWriter } from './components/move/move.writer';
-import { RootObject } from './core/game_master';
+import APP_SETTINGS from '@settings/app';
+import { PokemonWriter } from '@components/pokemon/pokemon.writer';
+import { MoveWriter } from '@components/move/move.writer';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');

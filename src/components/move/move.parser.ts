@@ -1,6 +1,6 @@
-import { RootObject, ItemTemplate } from '../../core/game_master';
+import { RootObject, ItemTemplate } from '@core/game_master';
+import { Parser } from '@core/parser';
 import { Move, MoveMapper } from './'
-import { Parser } from '../../core/parser';
 
 export class MoveParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_MOVE_?.*)', 'g');

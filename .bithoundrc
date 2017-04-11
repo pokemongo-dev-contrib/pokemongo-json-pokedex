@@ -1,5 +1,10 @@
 {
     "ignore": [
         "**/docs/**"
-    ]
+    ],
+    "dependencies": {
+        "unused-ignores": [
+            "mocha"
+        ]
+    }
 }
