@@ -1,4 +1,4 @@
-import { Identifyable } from '../../core/identifyable';
+import { Identifyable } from '@core/identifyable';
 
 export class Move implements Identifyable {
     public name: string;

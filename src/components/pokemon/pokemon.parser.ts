@@ -1,6 +1,4 @@
-import { RootObject, ItemTemplate } from '../../core/game_master';
-import { Parser } from '../../core/parser';
-import { Identifyable } from '../../core/identifyable';
+import { Identifyable, Parser, RootObject, ItemTemplate } from '@core';
 import { Pokemon, PokemonMapper, EvolutionTree } from './';
 
 class PokemonParser implements Parser {

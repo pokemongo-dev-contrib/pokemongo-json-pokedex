@@ -1,4 +1,4 @@
-import AppSettings from '../../app.settings';
+import AppSettings from '@settings/app';
 
 /**
  * Class which calculates CP values

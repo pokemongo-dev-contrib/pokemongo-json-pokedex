@@ -10,8 +10,14 @@
 		"experimentalDecorators": true,
 		"baseUrl": ".",
 		"paths": {
-			"core/*": ["src/core/*"],
-			"components/*": ["src/components/*"]
+			"@core": ["src/core"],
+			"@core/*": ["src/core/*"],
+			"@components/*": ["src/components/*"],
+			"@util": ["src/util"],
+			"@util/*": ["src/util/*"],
+			"@settings/app": ["src/app.settings"],
+			"@settings/package": ["package.json"],
+			"@data/*": ["src/data/*"]
 		}
 	}
 }

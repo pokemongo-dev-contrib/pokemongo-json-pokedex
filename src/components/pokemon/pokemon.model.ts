@@ -1,4 +1,4 @@
-import { Identifyable } from '../../core/identifyable';
+import { Identifyable } from '@core/identifyable';
 
 interface PokemonStats {
     baseStamina: number;
