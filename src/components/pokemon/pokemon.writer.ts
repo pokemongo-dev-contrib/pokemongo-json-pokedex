@@ -7,22 +7,12 @@ import APP_SETTINGS from '@settings/app';
 import { Writer } from '@core/writer';
 import { PokemonParser } from './';
 
-export class PokemonWriter implements Writer {
-    private PATH = path.join(
-        APP_SETTINGS.OUTPUT_PATH,
-        APP_SETTINGS.POKEMON_FILE
-    );
-
-    public Write(): Promise<any> {
-        let promise = new Promise<any>((resolve, reject) => {
-            const gameMaster = require('../../data/GAME_MASTER.json');
-            fs.writeFile(this.PATH, JSON.stringify(new PokemonParser(gameMaster).Parse(), null, 4), function (err) {
-                if (err) {
-                    reject(err);
-                }
-                resolve();
-            });
-        });
-        return promise;
+export class PokemonWriter extends Writer {
+    constructor() {
+        let outputPath: string = path.join(
+            APP_SETTINGS.OUTPUT_PATH,
+            APP_SETTINGS.POKEMON_FILE
+        );
+        super(outputPath, new PokemonParser());
     }
 }

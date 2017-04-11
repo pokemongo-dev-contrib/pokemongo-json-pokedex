@@ -3,13 +3,13 @@ import { Pokemon, PokemonMapper, EvolutionTree } from './';
 
 class PokemonParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
-    constructor(private gameMaster: RootObject) { }
+    constructor() { }
     private isItemTemplatePokemon(item: ItemTemplate): boolean {
         return this.regexp.test(item.templateId) || this.regexp.test(item.templateId);
     }
 
-    public Parse(): Pokemon[] {
-        let returnValue = this.gameMaster
+    public Parse(gameMaster: RootObject): Pokemon[] {
+        let returnValue = gameMaster
             .itemTemplates
             .filter(p => { return this.isItemTemplatePokemon(p); })
             .map(p => PokemonMapper.Map(p));
