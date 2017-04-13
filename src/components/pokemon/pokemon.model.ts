@@ -37,7 +37,6 @@ class Pokemon implements Identifyable {
     public quickMoves: Identifyable[];
     public cinematicMoves: Identifyable[];
     public animationTime: number[];
-    public evolutionPips: number;
     public rarity: Identifyable;
     public height: number;
     public weight: number;

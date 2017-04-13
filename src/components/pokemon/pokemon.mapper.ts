@@ -22,7 +22,6 @@ export class PokemonMapper {
 
         pokemon.cinematicMoves = pkmStgs.cinematicMoves.map(Util.SnakeCase2Identifyable);
         pokemon.quickMoves = pkmStgs.quickMoves.map(Util.SnakeCase2Identifyable);
-        pokemon.evolutionPips = pkmStgs.evolutionPips;
 
         pokemon.family = {
             id: pkmStgs.familyId,

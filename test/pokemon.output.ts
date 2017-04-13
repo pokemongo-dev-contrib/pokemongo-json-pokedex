@@ -25,7 +25,6 @@ describe('Pokemon Output', () => {
             item => expect(item.cinematicMoves.length).to.not.equal(0, 'cinematicMoves length'),
             item => expect(Array.isArray(item.quickMoves)).to.equal(true, 'quickMoves array'),
             item => expect(item.quickMoves.length).to.not.equal(0, 'quickMoves length'),
-            item => expect(item.evolutionPips).to.not.equal(undefined, 'evolutionPips'),
             item => expect(typeof item.family).to.equal('object', 'family type'),
             item => expect(item.family.id).to.not.equal(undefined, 'family.id'),
             item => expect(item.family.name).to.not.equal(undefined, 'family.name'),
