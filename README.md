@@ -45,8 +45,9 @@ npm run docs
 
 ## Documentation
 
-[Live-demo](https://brunnerlivio.github.io/pokemongo-data-normalizer/)
+[Models](https://github.com/BrunnerLivio/pokemongo-data-normalizer/blob/master/.github/model.md)
 
+[HTML Documentation (for Developers)](https://brunnerlivio.github.io/pokemongo-data-normalizer/)
 ### Generate
 
 See [Scripts > docs](#docs)
