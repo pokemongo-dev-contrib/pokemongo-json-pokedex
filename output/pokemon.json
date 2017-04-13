@@ -36,7 +36,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BULBASAUR",
             "name": "Bulbasaur"
@@ -148,7 +148,7 @@
                 "id": "VINE_WHIP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BULBASAUR",
             "name": "Bulbasaur"
@@ -260,7 +260,7 @@
                 "id": "VINE_WHIP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BULBASAUR",
             "name": "Bulbasaur"
@@ -361,7 +361,7 @@
                 "id": "SCRATCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHARMANDER",
             "name": "Charmander"
@@ -465,7 +465,7 @@
                 "id": "FIRE_FANG_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHARMANDER",
             "name": "Charmander"
@@ -573,7 +573,7 @@
                 "id": "AIR_SLASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHARMANDER",
             "name": "Charmander"
@@ -675,7 +675,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SQUIRTLE",
             "name": "Squirtle"
@@ -779,7 +779,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SQUIRTLE",
             "name": "Squirtle"
@@ -887,7 +887,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SQUIRTLE",
             "name": "Squirtle"
@@ -980,7 +980,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CATERPIE",
             "name": "Caterpie"
@@ -1074,7 +1074,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CATERPIE",
             "name": "Caterpie"
@@ -1178,7 +1178,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CATERPIE",
             "name": "Caterpie"
@@ -1276,7 +1276,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WEEDLE",
             "name": "Weedle"
@@ -1376,7 +1376,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WEEDLE",
             "name": "Weedle"
@@ -1483,7 +1483,7 @@
                 "id": "POISON_JAB_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WEEDLE",
             "name": "Weedle"
@@ -1589,7 +1589,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIDGEY",
             "name": "Pidgey"
@@ -1701,7 +1701,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIDGEY",
             "name": "Pidgey"
@@ -1814,7 +1814,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIDGEY",
             "name": "Pidgey"
@@ -1916,7 +1916,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_RATTATA",
             "name": "Rattata"
@@ -2014,7 +2014,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_RATTATA",
             "name": "Rattata"
@@ -2111,7 +2111,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SPEAROW",
             "name": "Spearow"
@@ -2217,7 +2217,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SPEAROW",
             "name": "Spearow"
@@ -2315,7 +2315,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EKANS",
             "name": "Ekans"
@@ -2417,7 +2417,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EKANS",
             "name": "Ekans"
@@ -2514,7 +2514,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIKACHU",
             "name": "Pikachu"
@@ -2618,7 +2618,7 @@
                 "id": "SPARK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIKACHU",
             "name": "Pikachu"
@@ -2715,7 +2715,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SANDSHREW",
             "name": "Sandshrew"
@@ -2813,7 +2813,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SANDSHREW",
             "name": "Sandshrew"
@@ -2906,7 +2906,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_FEMALE",
             "name": "Nidoran Female"
@@ -3010,7 +3010,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_FEMALE",
             "name": "Nidoran Female"
@@ -3118,7 +3118,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_FEMALE",
             "name": "Nidoran Female"
@@ -3219,7 +3219,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_MALE",
             "name": "Nidoran Male"
@@ -3323,7 +3323,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_MALE",
             "name": "Nidoran Male"
@@ -3431,7 +3431,7 @@
                 "id": "IRON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NIDORAN_MALE",
             "name": "Nidoran Male"
@@ -3532,7 +3532,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CLEFAIRY",
             "name": "Clefairy"
@@ -3640,7 +3640,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CLEFAIRY",
             "name": "Clefairy"
@@ -3737,7 +3737,7 @@
                 "id": "EMBER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VULPIX",
             "name": "Vulpix"
@@ -3839,7 +3839,7 @@
                 "id": "FIRE_SPIN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VULPIX",
             "name": "Vulpix"
@@ -3932,7 +3932,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_JIGGLYPUFF",
             "name": "Jigglypuff"
@@ -4044,7 +4044,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_JIGGLYPUFF",
             "name": "Jigglypuff"
@@ -4149,7 +4149,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ZUBAT",
             "name": "Zubat"
@@ -4262,7 +4262,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ZUBAT",
             "name": "Zubat"
@@ -4371,7 +4371,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ODDISH",
             "name": "Oddish"
@@ -4484,7 +4484,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ODDISH",
             "name": "Oddish"
@@ -4605,7 +4605,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ODDISH",
             "name": "Oddish"
@@ -4706,7 +4706,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PARAS",
             "name": "Paras"
@@ -4808,7 +4808,7 @@
                 "id": "FURY_CUTTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PARAS",
             "name": "Paras"
@@ -4905,7 +4905,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VENONAT",
             "name": "Venonat"
@@ -5011,7 +5011,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VENONAT",
             "name": "Venonat"
@@ -5109,7 +5109,7 @@
                 "id": "SCRATCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DIGLETT",
             "name": "Diglett"
@@ -5206,7 +5206,7 @@
                 "id": "MUD_SLAP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DIGLETT",
             "name": "Diglett"
@@ -5294,7 +5294,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MEOWTH",
             "name": "Meowth"
@@ -5392,7 +5392,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MEOWTH",
             "name": "Meowth"
@@ -5485,7 +5485,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PSYDUCK",
             "name": "Psyduck"
@@ -5587,7 +5587,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PSYDUCK",
             "name": "Psyduck"
@@ -5680,7 +5680,7 @@
                 "id": "SCRATCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MANKEY",
             "name": "Mankey"
@@ -5782,7 +5782,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MANKEY",
             "name": "Mankey"
@@ -5875,7 +5875,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GROWLITHE",
             "name": "Growlithe"
@@ -5977,7 +5977,7 @@
                 "id": "SNARL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GROWLITHE",
             "name": "Growlithe"
@@ -6070,7 +6070,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_POLIWAG",
             "name": "Poliwag"
@@ -6183,7 +6183,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_POLIWAG",
             "name": "Poliwag"
@@ -6300,7 +6300,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_POLIWAG",
             "name": "Poliwag"
@@ -6401,7 +6401,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ABRA",
             "name": "Abra"
@@ -6510,7 +6510,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ABRA",
             "name": "Abra"
@@ -6618,7 +6618,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ABRA",
             "name": "Abra"
@@ -6715,7 +6715,7 @@
                 "id": "KARATE_CHOP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MACHOP",
             "name": "Machop"
@@ -6823,7 +6823,7 @@
                 "id": "KARATE_CHOP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MACHOP",
             "name": "Machop"
@@ -6931,7 +6931,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MACHOP",
             "name": "Machop"
@@ -7028,7 +7028,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BELLSPROUT",
             "name": "Bellsprout"
@@ -7140,7 +7140,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BELLSPROUT",
             "name": "Bellsprout"
@@ -7253,7 +7253,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_BELLSPROUT",
             "name": "Bellsprout"
@@ -7355,7 +7355,7 @@
                 "id": "POISON_STING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TENTACOOL",
             "name": "Tentacool"
@@ -7462,7 +7462,7 @@
                 "id": "POISON_JAB_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TENTACOOL",
             "name": "Tentacool"
@@ -7560,7 +7560,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GEODUDE",
             "name": "Geodude"
@@ -7673,7 +7673,7 @@
                 "id": "MUD_SLAP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GEODUDE",
             "name": "Geodude"
@@ -7785,7 +7785,7 @@
                 "id": "MUD_SLAP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GEODUDE",
             "name": "Geodude"
@@ -7886,7 +7886,7 @@
                 "id": "EMBER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PONYTA",
             "name": "Ponyta"
@@ -7988,7 +7988,7 @@
                 "id": "FIRE_SPIN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PONYTA",
             "name": "Ponyta"
@@ -8081,7 +8081,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SLOWPOKE",
             "name": "Slowpoke"
@@ -8196,7 +8196,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SLOWPOKE",
             "name": "Slowpoke"
@@ -8297,7 +8297,7 @@
                 "id": "THUNDER_SHOCK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGNEMITE",
             "name": "Magnemite"
@@ -8404,7 +8404,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGNEMITE",
             "name": "Magnemite"
@@ -8502,7 +8502,7 @@
                 "id": "FURY_CUTTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_FARFETCHD",
             "name": "Farfetchd"
@@ -8593,7 +8593,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DODUO",
             "name": "Doduo"
@@ -8699,7 +8699,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DODUO",
             "name": "Doduo"
@@ -8796,7 +8796,7 @@
                 "id": "LICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SEEL",
             "name": "Seel"
@@ -8894,7 +8894,7 @@
                 "id": "IRON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SEEL",
             "name": "Seel"
@@ -8996,7 +8996,7 @@
                 "id": "MUD_SLAP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GRIMER",
             "name": "Grimer"
@@ -9098,7 +9098,7 @@
                 "id": "POISON_JAB_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GRIMER",
             "name": "Grimer"
@@ -9191,7 +9191,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SHELLDER",
             "name": "Shellder"
@@ -9293,7 +9293,7 @@
                 "id": "ICE_SHARD_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SHELLDER",
             "name": "Shellder"
@@ -9395,7 +9395,7 @@
                 "id": "ASTONISH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GASTLY",
             "name": "Gastly"
@@ -9508,7 +9508,7 @@
                 "id": "ASTONISH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GASTLY",
             "name": "Gastly"
@@ -9621,7 +9621,7 @@
                 "id": "HEX_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GASTLY",
             "name": "Gastly"
@@ -9726,7 +9726,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ONIX",
             "name": "Onix"
@@ -9828,7 +9828,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DROWZEE",
             "name": "Drowzee"
@@ -9930,7 +9930,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DROWZEE",
             "name": "Drowzee"
@@ -10023,7 +10023,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KRABBY",
             "name": "Krabby"
@@ -10125,7 +10125,7 @@
                 "id": "METAL_CLAW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KRABBY",
             "name": "Krabby"
@@ -10218,7 +10218,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VOLTORB",
             "name": "Voltorb"
@@ -10320,7 +10320,7 @@
                 "id": "VOLT_SWITCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_VOLTORB",
             "name": "Voltorb"
@@ -10413,7 +10413,7 @@
                 "id": "BULLET_SEED_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EXEGGCUTE",
             "name": "Exeggcute"
@@ -10519,7 +10519,7 @@
                 "id": "EXTRASENSORY_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EXEGGCUTE",
             "name": "Exeggcute"
@@ -10616,7 +10616,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CUBONE",
             "name": "Cubone"
@@ -10714,7 +10714,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CUBONE",
             "name": "Cubone"
@@ -10811,7 +10811,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TYROGUE",
             "name": "Tyrogue"
@@ -10912,7 +10912,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TYROGUE",
             "name": "Tyrogue"
@@ -11005,7 +11005,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LICKITUNG",
             "name": "Lickitung"
@@ -11096,7 +11096,7 @@
                 "id": "INFESTATION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KOFFING",
             "name": "Koffing"
@@ -11199,7 +11199,7 @@
                 "id": "INFESTATION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KOFFING",
             "name": "Koffing"
@@ -11297,7 +11297,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_RHYHORN",
             "name": "Rhyhorn"
@@ -11403,7 +11403,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_RHYHORN",
             "name": "Rhyhorn"
@@ -11504,7 +11504,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHANSEY",
             "name": "Chansey"
@@ -11602,7 +11602,7 @@
                 "id": "INFESTATION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TANGELA",
             "name": "Tangela"
@@ -11693,7 +11693,7 @@
                 "id": "LOW_KICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KANGASKHAN",
             "name": "Kangaskhan"
@@ -11780,7 +11780,7 @@
                 "id": "BUBBLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HORSEA",
             "name": "Horsea"
@@ -11889,7 +11889,7 @@
                 "id": "DRAGON_BREATH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HORSEA",
             "name": "Horsea"
@@ -11994,7 +11994,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GOLDEEN",
             "name": "Goldeen"
@@ -12097,7 +12097,7 @@
                 "id": "POISON_JAB_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GOLDEEN",
             "name": "Goldeen"
@@ -12191,7 +12191,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_STARYU",
             "name": "Staryu"
@@ -12293,7 +12293,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_STARYU",
             "name": "Staryu"
@@ -12390,7 +12390,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MR_MIME",
             "name": "Mr Mime"
@@ -12485,7 +12485,7 @@
                 "id": "AIR_SLASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SCYTHER",
             "name": "Scyther"
@@ -12592,7 +12592,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_JYNX",
             "name": "Jynx"
@@ -12689,7 +12689,7 @@
                 "id": "LOW_KICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ELECTABUZZ",
             "name": "Electabuzz"
@@ -12786,7 +12786,7 @@
                 "id": "KARATE_CHOP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGMAR",
             "name": "Magmar"
@@ -12883,7 +12883,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PINSIR",
             "name": "Pinsir"
@@ -12974,7 +12974,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TAUROS",
             "name": "Tauros"
@@ -13049,7 +13049,7 @@
                 "id": "SPLASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGIKARP",
             "name": "Magikarp"
@@ -13148,7 +13148,7 @@
                 "id": "DRAGON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGIKARP",
             "name": "Magikarp"
@@ -13250,7 +13250,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LAPRAS",
             "name": "Lapras"
@@ -13329,7 +13329,7 @@
                 "id": "TRANSFORM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DITTO",
             "name": "Ditto"
@@ -13416,7 +13416,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -13546,7 +13546,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -13639,7 +13639,7 @@
                 "id": "VOLT_SWITCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -13732,7 +13732,7 @@
                 "id": "FIRE_SPIN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -13829,7 +13829,7 @@
                 "id": "HIDDEN_POWER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PORYGON",
             "name": "Porygon"
@@ -13928,7 +13928,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_OMANYTE",
             "name": "Omanyte"
@@ -14034,7 +14034,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_OMANYTE",
             "name": "Omanyte"
@@ -14131,7 +14131,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KABUTO",
             "name": "Kabuto"
@@ -14237,7 +14237,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_KABUTO",
             "name": "Kabuto"
@@ -14338,7 +14338,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_AERODACTYL",
             "name": "Aerodactyl"
@@ -14434,7 +14434,7 @@
                 "id": "LICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SNORLAX",
             "name": "Snorlax"
@@ -14521,7 +14521,7 @@
                 "id": "FROST_BREATH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ARTICUNO",
             "name": "Articuno"
@@ -14617,7 +14617,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ZAPDOS",
             "name": "Zapdos"
@@ -14713,7 +14713,7 @@
                 "id": "FIRE_SPIN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MOLTRES",
             "name": "Moltres"
@@ -14809,7 +14809,7 @@
                 "id": "IRON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DRATINI",
             "name": "Dratini"
@@ -14917,7 +14917,7 @@
                 "id": "IRON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DRATINI",
             "name": "Dratini"
@@ -15025,7 +15025,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DRATINI",
             "name": "Dratini"
@@ -15135,7 +15135,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MEWTWO",
             "name": "Mewtwo"
@@ -15242,7 +15242,7 @@
                 "id": "POUND_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MEW",
             "name": "Mew"
@@ -15334,7 +15334,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHIKORITA",
             "name": "Chikorita"
@@ -15438,7 +15438,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHIKORITA",
             "name": "Chikorita"
@@ -15546,7 +15546,7 @@
                 "id": "VINE_WHIP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHIKORITA",
             "name": "Chikorita"
@@ -15643,7 +15643,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CYNDAQUIL",
             "name": "Cyndaquil"
@@ -15747,7 +15747,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CYNDAQUIL",
             "name": "Cyndaquil"
@@ -15855,7 +15855,7 @@
                 "id": "SHADOW_CLAW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CYNDAQUIL",
             "name": "Cyndaquil"
@@ -15952,7 +15952,7 @@
                 "id": "SCRATCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TOTODILE",
             "name": "Totodile"
@@ -16056,7 +16056,7 @@
                 "id": "SCRATCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TOTODILE",
             "name": "Totodile"
@@ -16164,7 +16164,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TOTODILE",
             "name": "Totodile"
@@ -16261,7 +16261,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SENTRET",
             "name": "Sentret"
@@ -16359,7 +16359,7 @@
                 "id": "SUCKER_PUNCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SENTRET",
             "name": "Sentret"
@@ -16452,7 +16452,7 @@
                 "id": "PECK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOOTHOOT",
             "name": "Hoothoot"
@@ -16558,7 +16558,7 @@
                 "id": "EXTRASENSORY_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOOTHOOT",
             "name": "Hoothoot"
@@ -16660,7 +16660,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LEDYBA",
             "name": "Ledyba"
@@ -16767,7 +16767,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LEDYBA",
             "name": "Ledyba"
@@ -16865,7 +16865,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SPINARAK",
             "name": "Spinarak"
@@ -16967,7 +16967,7 @@
                 "id": "INFESTATION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SPINARAK",
             "name": "Spinarak"
@@ -17068,7 +17068,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ZUBAT",
             "name": "Zubat"
@@ -17170,7 +17170,7 @@
                 "id": "SPARK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHINCHOU",
             "name": "Chinchou"
@@ -17277,7 +17277,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHINCHOU",
             "name": "Chinchou"
@@ -17375,7 +17375,7 @@
                 "id": "THUNDER_SHOCK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PIKACHU",
             "name": "Pikachu"
@@ -17483,7 +17483,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CLEFAIRY",
             "name": "Clefairy"
@@ -17587,7 +17587,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_JIGGLYPUFF",
             "name": "Jigglypuff"
@@ -17700,7 +17700,7 @@
                 "id": "PECK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TOGEPI",
             "name": "Togepi"
@@ -17798,7 +17798,7 @@
                 "id": "HIDDEN_POWER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TOGEPI",
             "name": "Togepi"
@@ -17900,7 +17900,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NATU",
             "name": "Natu"
@@ -18006,7 +18006,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_NATU",
             "name": "Natu"
@@ -18104,7 +18104,7 @@
                 "id": "THUNDER_SHOCK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAREEP",
             "name": "Mareep"
@@ -18208,7 +18208,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAREEP",
             "name": "Mareep"
@@ -18316,7 +18316,7 @@
                 "id": "VOLT_SWITCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAREEP",
             "name": "Mareep"
@@ -18413,7 +18413,7 @@
                 "id": "ACID_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ODDISH",
             "name": "Oddish"
@@ -18510,7 +18510,7 @@
                 "id": "BUBBLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MARILL",
             "name": "Marill"
@@ -18612,7 +18612,7 @@
                 "id": "BUBBLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MARILL",
             "name": "Marill"
@@ -18709,7 +18709,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SUDOWOODO",
             "name": "Sudowoodo"
@@ -18792,7 +18792,7 @@
                 "id": "BUBBLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_POLIWAG",
             "name": "Poliwag"
@@ -18893,7 +18893,7 @@
                 "id": "BULLET_SEED_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOPPIP",
             "name": "Hoppip"
@@ -19006,7 +19006,7 @@
                 "id": "BULLET_SEED_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOPPIP",
             "name": "Hoppip"
@@ -19119,7 +19119,7 @@
                 "id": "BULLET_SEED_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOPPIP",
             "name": "Hoppip"
@@ -19221,7 +19221,7 @@
                 "id": "ASTONISH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_AIPOM",
             "name": "Aipom"
@@ -19312,7 +19312,7 @@
                 "id": "CUT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SUNKERN",
             "name": "Sunkern"
@@ -19410,7 +19410,7 @@
                 "id": "BULLET_SEED_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SUNKERN",
             "name": "Sunkern"
@@ -19503,7 +19503,7 @@
                 "id": "WING_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_YANMA",
             "name": "Yanma"
@@ -19595,7 +19595,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WOOPER",
             "name": "Wooper"
@@ -19701,7 +19701,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WOOPER",
             "name": "Wooper"
@@ -19798,7 +19798,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -19887,7 +19887,7 @@
                 "id": "SNARL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_EEVEE",
             "name": "Eevee"
@@ -19984,7 +19984,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MURKROW",
             "name": "Murkrow"
@@ -20079,7 +20079,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SLOWPOKE",
             "name": "Slowpoke"
@@ -20177,7 +20177,7 @@
                 "id": "HEX_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MISDREAVUS",
             "name": "Misdreavus"
@@ -20253,7 +20253,7 @@
                 "id": "HIDDEN_POWER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_UNOWN",
             "name": "Unown"
@@ -20337,7 +20337,7 @@
                 "id": "SPLASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_WOBBUFFET",
             "name": "Wobbuffet"
@@ -20428,7 +20428,7 @@
                 "id": "CONFUSION_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GIRAFARIG",
             "name": "Girafarig"
@@ -20519,7 +20519,7 @@
                 "id": "BUG_BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PINECO",
             "name": "Pineco"
@@ -20621,7 +20621,7 @@
                 "id": "STRUGGLE_BUG_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PINECO",
             "name": "Pineco"
@@ -20719,7 +20719,7 @@
                 "id": "ASTONISH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DUNSPARCE",
             "name": "Dunsparce"
@@ -20806,7 +20806,7 @@
                 "id": "WING_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_GLIGAR",
             "name": "Gligar"
@@ -20902,7 +20902,7 @@
                 "id": "DRAGON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ONIX",
             "name": "Onix"
@@ -20995,7 +20995,7 @@
                 "id": "BITE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SNUBBULL",
             "name": "Snubbull"
@@ -21097,7 +21097,7 @@
                 "id": "SNARL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SNUBBULL",
             "name": "Snubbull"
@@ -21190,7 +21190,7 @@
                 "id": "WATER_GUN_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_QWILFISH",
             "name": "Qwilfish"
@@ -21286,7 +21286,7 @@
                 "id": "FURY_CUTTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SCYTHER",
             "name": "Scyther"
@@ -21383,7 +21383,7 @@
                 "id": "ROCK_THROW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SHUCKLE",
             "name": "Shuckle"
@@ -21478,7 +21478,7 @@
                 "id": "STRUGGLE_BUG_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HERACROSS",
             "name": "Heracross"
@@ -21569,7 +21569,7 @@
                 "id": "FEINT_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SNEASEL",
             "name": "Sneasel"
@@ -21660,7 +21660,7 @@
                 "id": "LICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TEDDIURSA",
             "name": "Teddiursa"
@@ -21762,7 +21762,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TEDDIURSA",
             "name": "Teddiursa"
@@ -21855,7 +21855,7 @@
                 "id": "ROCK_THROW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SLUGMA",
             "name": "Slugma"
@@ -21953,7 +21953,7 @@
                 "id": "ROCK_THROW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SLUGMA",
             "name": "Slugma"
@@ -22050,7 +22050,7 @@
                 "id": "POWDER_SNOW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SWINUB",
             "name": "Swinub"
@@ -22156,7 +22156,7 @@
                 "id": "POWDER_SNOW_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SWINUB",
             "name": "Swinub"
@@ -22253,7 +22253,7 @@
                 "id": "BUBBLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CORSOLA",
             "name": "Corsola"
@@ -22341,7 +22341,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_REMORAID",
             "name": "Remoraid"
@@ -22440,7 +22440,7 @@
                 "id": "MUD_SHOT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_REMORAID",
             "name": "Remoraid"
@@ -22533,7 +22533,7 @@
                 "id": "QUICK_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_DELIBIRD",
             "name": "Delibird"
@@ -22628,7 +22628,7 @@
                 "id": "WING_ATTACK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MANTINE",
             "name": "Mantine"
@@ -22724,7 +22724,7 @@
                 "id": "AIR_SLASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SKARMORY",
             "name": "Skarmory"
@@ -22816,7 +22816,7 @@
                 "id": "EMBER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOUNDOUR",
             "name": "Houndour"
@@ -22918,7 +22918,7 @@
                 "id": "FIRE_FANG_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HOUNDOUR",
             "name": "Houndour"
@@ -23019,7 +23019,7 @@
                 "id": "DRAGON_BREATH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HORSEA",
             "name": "Horsea"
@@ -23121,7 +23121,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PHANPY",
             "name": "Phanpy"
@@ -23223,7 +23223,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PHANPY",
             "name": "Phanpy"
@@ -23316,7 +23316,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_PORYGON",
             "name": "Porygon"
@@ -23414,7 +23414,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_STANTLER",
             "name": "Stantler"
@@ -23493,7 +23493,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SMEARGLE",
             "name": "Smeargle"
@@ -23580,7 +23580,7 @@
                 "id": "TACKLE_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TYROGUE",
             "name": "Tyrogue"
@@ -23696,7 +23696,7 @@
                 "id": "COUNTER_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_TYROGUE",
             "name": "Tyrogue"
@@ -23793,7 +23793,7 @@
                 "id": "POUND_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_JYNX",
             "name": "Jynx"
@@ -23899,7 +23899,7 @@
                 "id": "LOW_KICK_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ELECTABUZZ",
             "name": "Electabuzz"
@@ -24001,7 +24001,7 @@
                 "id": "KARATE_CHOP_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MAGMAR",
             "name": "Magmar"
@@ -24103,7 +24103,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_MILTANK",
             "name": "Miltank"
@@ -24194,7 +24194,7 @@
                 "id": "ZEN_HEADBUTT_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CHANSEY",
             "name": "Chansey"
@@ -24291,7 +24291,7 @@
                 "id": "VOLT_SWITCH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_RAIKOU",
             "name": "Raikou"
@@ -24386,7 +24386,7 @@
                 "id": "FIRE_FANG_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_ENTEI",
             "name": "Entei"
@@ -24481,7 +24481,7 @@
                 "id": "SNARL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_SUICUNE",
             "name": "Suicune"
@@ -24572,7 +24572,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LARVITAR",
             "name": "Larvitar"
@@ -24680,7 +24680,7 @@
                 "id": "ROCK_SMASH_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LARVITAR",
             "name": "Larvitar"
@@ -24792,7 +24792,7 @@
                 "id": "IRON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LARVITAR",
             "name": "Larvitar"
@@ -24897,7 +24897,7 @@
                 "id": "DRAGON_TAIL_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_LUGIA",
             "name": "Lugia"
@@ -24997,7 +24997,7 @@
                 "id": "STEEL_WING_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_HO_OH",
             "name": "Ho Oh"
@@ -25093,7 +25093,7 @@
                 "id": "CHARGE_BEAM_FAST"
             }
         ],
-        "evelutionPips": 1,
+        "evolutionPips": 1,
         "family": {
             "id": "FAMILY_CELEBI",
             "name": "Celebi"
