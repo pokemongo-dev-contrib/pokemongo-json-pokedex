@@ -66,6 +66,7 @@ export class PokemonMapper {
             };
         }
 
+        pokemon.modelScale = rawPokemon.pokemonSettings.modelScale;
 
         // Pokemon Encounter
         pokemon.encounter = {
