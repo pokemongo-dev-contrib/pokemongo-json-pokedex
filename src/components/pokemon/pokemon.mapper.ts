@@ -1,4 +1,4 @@
-import { Pokemon, EvolutionTree } from './pokemon.model';
+import { Pokemon } from './pokemon.model';
 import { ItemTemplate } from '@core/game_master/gameMaster';
 import { Util } from '@util';
 import { CPCalculator } from '../../core/cp-calculator';

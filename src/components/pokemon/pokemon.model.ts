@@ -1,4 +1,5 @@
 import { Identifyable } from '@core/identifyable';
+import { EvolutionTree } from './shared/evolution-tree'
 
 interface PokemonStats {
     baseStamina: number;
@@ -70,35 +71,4 @@ class Pokemon implements Identifyable {
     public pastEvolutions: Identifyable[];
 }
 
-class EvolutionTree implements Identifyable {
-    /**
-     * An EvolutionTree represents all possible future evolutions of a pokemon.
-     * Mutually exclusive choices are given on the same level, while sequential
-     * choices are presented in increasing depth.
-     *
-     * For example, Eevee's EvolutionTree would take 6 objects in depth 2, but
-     * Charmander's EvolutionTree would take 3 objects in depth 3.
-     */
-    public name: string;
-    public id: string;
-    public futureEvolutions: EvolutionTree[] = [];
-    public constructor(name: string, id: string, futureEvolutions: EvolutionTree[] = []) {
-        this.name = name;
-        this.id = id;
-        this.futureEvolutions = futureEvolutions;
-    }
-
-    public mapInLevel(treeLevel: number, mapperFunction: (EvolutionTree) => EvolutionTree): EvolutionTree {
-        if (treeLevel === 0) {
-            return mapperFunction(this);
-        } else {
-            return new EvolutionTree(
-                this.name,
-                this.id,
-                this.futureEvolutions.map(evo => evo.mapInLevel(treeLevel - 1, mapperFunction))
-            );
-        }
-    }
-}
-
-export { Pokemon, EvolutionTree };
+export { Pokemon };
