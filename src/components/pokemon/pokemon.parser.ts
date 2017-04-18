@@ -1,5 +1,6 @@
 import { Identifyable, Parser, RootObject, ItemTemplate } from '@core';
-import { Pokemon, PokemonMapper, EvolutionTree } from './';
+import { EvolutionTree } from './shared/evolution-tree'
+import { Pokemon, PokemonMapper } from './';
 
 class PokemonParser implements Parser {
     private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
