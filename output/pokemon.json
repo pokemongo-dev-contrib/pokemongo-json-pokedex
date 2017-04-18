@@ -13820,7 +13820,7 @@
             "attackTimer": 23,
             "baseFleeRate": 0.09,
             "cameraDistance": 2.25,
-            "collisionRadius": 0.222,
+            "collisionRadius": 0.15,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1.3,
