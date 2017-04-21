@@ -9,12 +9,6 @@ const dir = path.join(__dirname, '../src/data');
 const file = path.join(dir, 'GAME_MASTER.json');
 const latestVersionFile = path.join(dir, '.json');
 
-
-function writeVersionToGameMaster(data) {
-    fs.writeFileSync(file, JSON.stringify(gameMaster));
-}
-
-
 if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir);
 }
