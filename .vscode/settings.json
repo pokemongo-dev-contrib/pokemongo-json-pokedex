@@ -5,5 +5,8 @@
 		"**/.svn": true,
 		"**/.hg": true,
 		"**/.DS_Store": true
+	},
+	"search.exclude": {
+		"**/docs": true
 	}
 }
