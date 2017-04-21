@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>pokemongo-data-normalizer</title>
+	<title>pokemongo-json-pokedex</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/css/main.css">
@@ -22,7 +22,7 @@
 						<li class="state loading">Preparing search index...</li>
 						<li class="state failure">The search index is not available</li>
 					</ul>
-					<a href="index.html" class="title">pokemongo-data-normalizer</a>
+					<a href="index.html" class="title">pokemongo-json-pokedex</a>
 				</div>
 				<div class="table-cell" id="tsd-widgets">
 					<div id="tsd-filter">
@@ -56,7 +56,7 @@
 					<a href="globals.html">Globals</a>
 				</li>
 			</ul>
-			<h1> pokemongo-data-normalizer</h1>
+			<h1> pokemongo-json-pokedex</h1>
 		</div>
 	</div>
 </header>
@@ -64,18 +64,18 @@
 	<div class="row">
 		<div class="col-8 col-content">
 			<div class="tsd-panel tsd-typography">
-				<h1 id="pokemongo-data-normalizer">pokemongo-data-normalizer</h1>
-				<p><a href="https://ghit.me/repo/BrunnerLivio/pokemongo-data-normalizer"><img src="https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-data-normalizer" alt="ghit.me"></a>
-					<a href="https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer"><img src="https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer.svg?branch=master" alt="Build Status"></a>
-					<a href="https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer"><img src="https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer/badges/score.svg" alt="bitHound Overall Score"></a>
-				<a href="https://discord.gg/VgrtMeZ"><img src="https://discordapp.com/api/guilds/295945059927588865/embed.png" alt="Online Users in pokemongo-data-normalizer Discord Server"></a></p>
+				<h1 id="pokemongo-json-pokedex">pokemongo-json-pokedex</h1>
+				<p><a href="https://ghit.me/repo/BrunnerLivio/pokemongo-json-pokedex"><img src="https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-json-pokedex" alt="ghit.me"></a>
+					<a href="https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex"><img src="https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex.svg?branch=master" alt="Build Status"></a>
+					<a href="https://www.bithound.io/github/BrunnerLivio/pokemongo-json-pokedex"><img src="https://www.bithound.io/github/BrunnerLivio/pokemongo-json-pokedex/badges/score.svg" alt="bitHound Overall Score"></a>
+				<a href="https://discord.gg/VgrtMeZ"><img src="https://discordapp.com/api/guilds/295945059927588865/embed.png" alt="Online Users in pokemongo-json-pokedex Discord Server"></a></p>
 				<p>This program transforms the data from the Pokemon GO master files
 				to a better readable &amp; processable JSON file.</p>
-				<p><img src="https://raw.githubusercontent.com/BrunnerLivio/pokemongo-data-normalizer/master/.github/philosophy.png" alt="Philosophie"></p>
+				<p><img src="https://raw.githubusercontent.com/BrunnerLivio/pokemongo-json-pokedex/master/.github/philosophy.png" alt="Philosophie"></p>
 				<p>As a developer it can be in certain situation quite annoying depend on
 					the raw GAME MASTER files. Not only are some informations quite hidden
 					and must be parsed, the structure of the GAME MASTER files can change
-					after every version. pokemongo-data-normalizer parses the GAME
+					after every version. pokemongo-json-pokedex parses the GAME
 					MASTER data and tries to maintain the same structure, even when the
 				structure of the source files changed completely.</p>
 				<h2 id="prerequisites">Prerequisites</h2>
@@ -98,17 +98,18 @@
 				<p>Generate documentation </p>
 				<pre><code>npm <span class="hljs-keyword">run</span><span class="bash"> docs</span>
 </code></pre><h2 id="documentation">Documentation</h2>
-				<p><a href="https://brunnerlivio.github.io/pokemongo-data-normalizer/">Live-demo</a></p>
+				<p><a href="https://github.com/BrunnerLivio/pokemongo-json-pokedex/blob/master/.github/model.md">Models</a></p>
+				<p><a href="https://brunnerlivio.github.io/pokemongo-json-pokedex/">HTML Documentation (for Developers)</a></p>
 				<h3 id="generate">Generate</h3>
 				<p>See <a href="#docs">Scripts &gt; docs</a></p>
 				<h2 id="contribute">Contribute</h2>
 				<h3 id="commits">Commits</h3>
 				<p>We use <a href="https://github.com/erlang/otp/wiki/Writing-good-commit-messages">this standard</a>. Please use this, otherwise it won&#39;t be accepted.</p>
 				<h2 id="changelog">Changelog</h2>
-				<p>See <a href="https://github.com/BrunnerLivio/pokemongo-data-normalizer/blob/master/CHANGELOG.md">CHANGELOG.md</a></p>
+				<p>See <a href="https://github.com/BrunnerLivio/pokemongo-json-pokedex/blob/master/CHANGELOG.md">CHANGELOG.md</a></p>
 				<h2 id="docker">Docker</h2>
 				<p>You can build the docker container using</p>
-				<pre><code><span class="hljs-symbol">docker</span> <span class="hljs-keyword">build </span>--pull -t $USER/pokemongo-<span class="hljs-meta">data</span>-normalizer .
+				<pre><code>docker <span class="hljs-keyword">build</span> --pull -t $<span class="hljs-keyword">USER</span>/pokemongo-json-pokedex .
 </code></pre>
 			</div>
 		</div>
@@ -183,6 +184,9 @@
 					</li>
 					<li class=" tsd-kind-external-module">
 						<a href="modules/_src_components_pokemon_pokemon_writer_.html">"src/components/pokemon/pokemon.writer"</a>
+					</li>
+					<li class=" tsd-kind-external-module">
+						<a href="modules/_src_components_pokemon_shared_evolution_tree_.html">"src/components/pokemon/shared/evolution-<wbr>tree"</a>
 					</li>
 					<li class=" tsd-kind-external-module">
 						<a href="modules/_src_core_component_.html">"src/core/component"</a>
