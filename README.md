@@ -1,20 +1,20 @@
-# pokemongo-data-normalizer
+# pokemongo-json-pokedex
 
-[![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-data-normalizer)](https://ghit.me/repo/BrunnerLivio/pokemongo-data-normalizer)
-[![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-data-normalizer)
-[![bitHound Overall Score](https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer/badges/score.svg)](https://www.bithound.io/github/BrunnerLivio/pokemongo-data-normalizer)
-[![Online Users in pokemongo-data-normalizer Discord Server](https://discordapp.com/api/guilds/295945059927588865/embed.png)](https://discord.gg/VgrtMeZ)
+[![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-json-pokedex)](https://ghit.me/repo/BrunnerLivio/pokemongo-json-pokedex)
+[![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex)
+[![bitHound Overall Score](https://www.bithound.io/github/BrunnerLivio/pokemongo-json-pokedex/badges/score.svg)](https://www.bithound.io/github/BrunnerLivio/pokemongo-json-pokedex)
+[![Online Users in pokemongo-json-pokedex Discord Server](https://discordapp.com/api/guilds/295945059927588865/embed.png)](https://discord.gg/VgrtMeZ)
 
 
 This program transforms the data from the Pokemon GO master files
 to a better readable & processable JSON file.
 
-![Philosophie](https://raw.githubusercontent.com/BrunnerLivio/pokemongo-data-normalizer/master/.github/philosophy.png)
+![Philosophie](https://raw.githubusercontent.com/BrunnerLivio/pokemongo-json-pokedex/master/.github/philosophy.png)
 
 As a developer it can be in certain situation quite annoying depend on
 the raw GAME MASTER files. Not only are some informations quite hidden
 and must be parsed, the structure of the GAME MASTER files can change
-after every version. pokemongo-data-normalizer parses the GAME
+after every version. pokemongo-json-pokedex parses the GAME
 MASTER data and tries to maintain the same structure, even when the
 structure of the source files changed completely.
 
@@ -45,9 +45,9 @@ npm run docs
 
 ## Documentation
 
-[Models](https://github.com/BrunnerLivio/pokemongo-data-normalizer/blob/master/.github/model.md)
+[Models](https://github.com/BrunnerLivio/pokemongo-json-pokedex/blob/master/.github/model.md)
 
-[HTML Documentation (for Developers)](https://brunnerlivio.github.io/pokemongo-data-normalizer/)
+[HTML Documentation (for Developers)](https://brunnerlivio.github.io/pokemongo-json-pokedex/)
 ### Generate
 
 See [Scripts > docs](#docs)
@@ -60,11 +60,11 @@ We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-me
 
 ## Changelog
 
-See [CHANGELOG.md](https://github.com/BrunnerLivio/pokemongo-data-normalizer/blob/master/CHANGELOG.md)
+See [CHANGELOG.md](https://github.com/BrunnerLivio/pokemongo-json-pokedex/blob/master/CHANGELOG.md)
 
 ## Docker
 
 You can build the docker container using
 ```
-docker build --pull -t $USER/pokemongo-data-normalizer . 
+docker build --pull -t $USER/pokemongo-json-pokedex . 
 ```

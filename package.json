@@ -1,5 +1,5 @@
 {
-  "name": "pokemongo-data-normalizer",
+  "name": "pokemongo-json-pokedex",
   "version": "2.1.0",
   "description": "",
   "main": "src/app.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PokemonGOAPI/pokemongo-data-normalizer.git"
+    "url": "git+https://github.com/PokemonGOAPI/pokemongo-json-pokedex.git"
   },
   "keywords": [
     "pokemongo"
@@ -28,9 +28,9 @@
   "author": "Livio Brunner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer/issues"
+    "url": "https://github.com/PokemonGOAPI/pokemongo-json-pokedex/issues"
   },
-  "homepage": "https://github.com/PokemonGOAPI/pokemongo-data-normalizer#readme",
+  "homepage": "https://github.com/PokemonGOAPI/pokemongo-json-pokedex#readme",
   "dependencies": {
     "chai": "^3.5.0",
     "chalk": "^1.1.3",
