@@ -2906,6 +2906,25 @@
     },
     {
         "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "power": 15,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "dragon_tail_fast",
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 9,
+        "id": "DRAGON_TAIL_FAST",
+        "name": "Dragon Tail Fast"
+    },
+    {
+        "accuracyChange": 1,
         "animationId": 5,
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
@@ -2923,6 +2942,25 @@
         "energyDelta": -50,
         "id": "AVALANCHE",
         "name": "Avalanche"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "power": 14,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "air_slash_fast",
+        "durationMs": 1200,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 10,
+        "id": "AIR_SLASH_FAST",
+        "name": "Air Slash Fast"
     },
     {
         "accuracyChange": 1,
@@ -2948,6 +2986,26 @@
         "accuracyChange": 1,
         "animationId": 5,
         "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "power": 70,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sky_attack",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -50,
+        "id": "SKY_ATTACK",
+        "name": "Sky Attack"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
         },
@@ -2963,6 +3021,26 @@
         "energyDelta": -50,
         "id": "SAND_TOMB",
         "name": "Sand Tomb"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ROCK",
+            "name": "Rock"
+        },
+        "power": 50,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "rock_blast",
+        "durationMs": 2100,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -33,
+        "id": "ROCK_BLAST",
+        "name": "Rock Blast"
     },
     {
         "accuracyChange": 1,
@@ -2982,6 +3060,25 @@
         "energyDelta": 14,
         "id": "INFESTATION_FAST",
         "name": "Infestation Fast"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_BUG",
+            "name": "Bug"
+        },
+        "power": 15,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "struggle_bug_fast",
+        "durationMs": 1500,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1500,
+        "energyDelta": 15,
+        "id": "STRUGGLE_BUG_FAST",
+        "name": "Struggle Bug Fast"
     },
     {
         "accuracyChange": 1,
@@ -3010,6 +3107,25 @@
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
         },
+        "power": 8,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "astonish_fast",
+        "durationMs": 1100,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14,
+        "id": "ASTONISH_FAST",
+        "name": "Astonish Fast"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3021,6 +3137,26 @@
         "energyDelta": 15,
         "id": "HEX_FAST",
         "name": "Hex Fast"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
+        "power": 60,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "night_shade",
+        "durationMs": 2600,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50,
+        "id": "NIGHT_SHADE",
+        "name": "Night Shade"
     },
     {
         "accuracyChange": 1,
@@ -3048,6 +3184,26 @@
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
         },
+        "power": 80,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "gyro_ball",
+        "durationMs": 3300,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3300,
+        "energyDelta": -50,
+        "id": "GYRO_BALL",
+        "name": "Gyro Ball"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3060,6 +3216,25 @@
         "energyDelta": -50,
         "id": "HEAVY_SLAM",
         "name": "Heavy Slam"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "power": 14,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "fire_spin_fast",
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 10,
+        "id": "FIRE_SPIN_FAST",
+        "name": "Fire Spin Fast"
     },
     {
         "accuracyChange": 1,
@@ -3083,6 +3258,25 @@
     },
     {
         "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "power": 8,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "bullet_seed_fast",
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14,
+        "id": "BULLET_SEED_FAST",
+        "name": "Bullet Seed Fast"
+    },
+    {
+        "accuracyChange": 1,
         "animationId": 5,
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
@@ -3100,6 +3294,26 @@
         "energyDelta": -50,
         "id": "GRASS_KNOT",
         "name": "Grass Knot"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "power": 90,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "energy_ball",
+        "durationMs": 3900,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3800,
+        "energyDelta": -50,
+        "id": "ENERGY_BALL",
+        "name": "Energy Ball"
     },
     {
         "accuracyChange": 1,
@@ -3127,6 +3341,26 @@
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
         },
+        "power": 120,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "futuresight",
+        "durationMs": 2700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -100,
+        "id": "FUTURESIGHT",
+        "name": "Futuresight"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3139,6 +3373,26 @@
         "energyDelta": -50,
         "id": "MIRROR_COAT",
         "name": "Mirror Coat"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "power": 110,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "outrage",
+        "durationMs": 3900,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3700,
+        "energyDelta": -50,
+        "id": "OUTRAGE",
+        "name": "Outrage"
     },
     {
         "accuracyChange": 1,
@@ -3171,6 +3425,26 @@
         "staminaLossScalar": 0.04,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
+        "vfxName": "crunch",
+        "durationMs": 3200,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -33,
+        "id": "CRUNCH",
+        "name": "Crunch"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DARK",
+            "name": "Dark"
+        },
+        "power": 70,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.04,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
         "vfxName": "foul_play",
         "durationMs": 2000,
         "damageWindowStartMs": 1700,
@@ -3178,5 +3452,25 @@
         "energyDelta": -50,
         "id": "FOUL_PLAY",
         "name": "Foul Play"
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "power": 15,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "hidden_power_fast",
+        "durationMs": 1500,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "energyDelta": 15,
+        "id": "HIDDEN_POWER_FAST",
+        "name": "Hidden Power Fast"
     }
 ]

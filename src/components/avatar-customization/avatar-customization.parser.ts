@@ -4,9 +4,9 @@ import { AvatarCustomization } from './avatar-customization.model';
 import { AvatarCustomizationMapper } from './avatar-customuization.mapper';
 
 export class AvatarCustomizationParser implements Parser {
-    private regexp: RegExp = new RegExp('^(AVATAR_?.*)', 'g');
+     private readonly avatarCostumizationRegex: string = '^(AVATAR_?.*)';
     private isItemTemplateAvatarCostumization(item: ItemTemplate): boolean {
-        return this.regexp.test(item.templateId);
+        return new RegExp(this.avatarCostumizationRegex, 'g').test(item.templateId);
     }
     public Parse(gameMaster: RootObject): AvatarCustomization[] {
         return gameMaster

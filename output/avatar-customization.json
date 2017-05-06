@@ -16,6 +16,16 @@
             "Backpack"
         ],
         "category": "Backpack",
+        "name": "Backpack Default 0",
+        "id": "f_backpack_default_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
         "name": "Backpack Default 1",
         "id": "f_backpack_default_1"
     },
@@ -26,8 +36,28 @@
             "Backpack"
         ],
         "category": "Backpack",
+        "name": "Backpack Default 2",
+        "id": "f_backpack_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
         "name": "Backpack Default 3",
         "id": "f_backpack_default_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
+        "name": "Backpack Empty",
+        "id": "f_backpack_empty"
     },
     {
         "gender": "Female",
@@ -46,8 +76,28 @@
             "Belt"
         ],
         "category": "Belt",
+        "name": "Belt Default 1",
+        "id": "f_belt_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
         "name": "Belt Default 2",
         "id": "f_belt_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
+        "name": "Belt Default 3",
+        "id": "f_belt_default_3"
     },
     {
         "gender": "Female",
@@ -66,8 +116,28 @@
             "Belt"
         ],
         "category": "Belt",
+        "name": "Belt Default 5",
+        "id": "f_belt_default_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
         "name": "Belt Default 6",
         "id": "f_belt_default_6"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
+        "name": "Belt Default 7",
+        "id": "f_belt_default_7"
     },
     {
         "gender": "Female",
@@ -86,6 +156,16 @@
             "Belt"
         ],
         "category": "Belt",
+        "name": "Belt Empty",
+        "id": "f_belt_empty"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
         "name": "Belt Simple 0",
         "id": "f_belt_simple_0"
     },
@@ -96,8 +176,28 @@
             "Belt"
         ],
         "category": "Belt",
+        "name": "Belt Simple 1",
+        "id": "f_belt_simple_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
         "name": "Belt Simple 2",
         "id": "f_belt_simple_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Belt"
+        ],
+        "category": "Belt",
+        "name": "Belt Simple 3",
+        "id": "f_belt_simple_3"
     },
     {
         "gender": "Female",
@@ -116,8 +216,28 @@
             "Eyes"
         ],
         "category": "Eyes",
+        "name": "Eyes 1",
+        "id": "f_eyes_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Eyes"
+        ],
+        "category": "Eyes",
         "name": "Eyes 2",
         "id": "f_eyes_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Eyes"
+        ],
+        "category": "Eyes",
+        "name": "Eyes 3",
+        "id": "f_eyes_3"
     },
     {
         "gender": "Female",
@@ -136,8 +256,28 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses 3d",
+        "id": "f_glasses_3d"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Empty",
         "id": "f_glasses_empty"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
+        "name": "Glasses Mask 0",
+        "id": "f_glasses_mask_0"
     },
     {
         "gender": "Female",
@@ -156,6 +296,16 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses Thick 0",
+        "id": "f_glasses_thick_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Thick 1",
         "id": "f_glasses_thick_1"
     },
@@ -166,8 +316,28 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses Thick 2",
+        "id": "f_glasses_thick_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Thick 3",
         "id": "f_glasses_thick_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
+        "name": "Glasses Thick 4",
+        "id": "f_glasses_thick_4"
     },
     {
         "gender": "Female",
@@ -186,8 +356,28 @@
             "Gloves"
         ],
         "category": "Gloves",
+        "name": "Gloves Default 1",
+        "id": "f_gloves_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves",
         "name": "Gloves Default 2",
         "id": "f_gloves_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves",
+        "name": "Gloves Default 3",
+        "id": "f_gloves_default_3"
     },
     {
         "gender": "Female",
@@ -206,8 +396,28 @@
             "Hair"
         ],
         "category": "Hair",
+        "name": "Hair Default 0",
+        "id": "f_hair_default_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
         "name": "Hair Default 1",
         "id": "f_hair_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
+        "name": "Hair Default 2",
+        "id": "f_hair_default_2"
     },
     {
         "gender": "Female",
@@ -226,8 +436,28 @@
             "Hair"
         ],
         "category": "Hair",
+        "name": "Hair Default 4",
+        "id": "f_hair_default_4"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
         "name": "Hair Default 5",
         "id": "f_hair_default_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Casket 0",
+        "id": "f_hat_casket_0"
     },
     {
         "gender": "Female",
@@ -246,8 +476,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Default A 1",
+        "id": "f_hat_default_A_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Default A 2",
         "id": "f_hat_default_A_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Default A 3",
+        "id": "f_hat_default_A_3"
     },
     {
         "gender": "Female",
@@ -266,8 +516,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Default A 5",
+        "id": "f_hat_default_A_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Default B 0",
         "id": "f_hat_default_B_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Default B 1",
+        "id": "f_hat_default_B_1"
     },
     {
         "gender": "Female",
@@ -286,8 +556,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Fedora 0",
+        "id": "f_hat_fedora_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Fedora 1",
         "id": "f_hat_fedora_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Knitted 0",
+        "id": "f_hat_knitted_0"
     },
     {
         "gender": "Female",
@@ -306,8 +596,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Magikarp",
+        "id": "f_hat_magikarp"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Tophat 0",
         "id": "f_hat_tophat_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Necklace"
+        ],
+        "category": "Necklace",
+        "name": "Necklace Default 0",
+        "id": "f_necklace_default_0"
     },
     {
         "gender": "Female",
@@ -326,8 +636,28 @@
             "Necklace"
         ],
         "category": "Necklace",
+        "name": "Necklace Empty",
+        "id": "f_necklace_empty"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Necklace"
+        ],
+        "category": "Necklace",
         "name": "Necklace Heart 0",
         "id": "f_necklace_heart_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Necklace"
+        ],
+        "category": "Necklace",
+        "name": "Necklace Star 0",
+        "id": "f_necklace_star_0"
     },
     {
         "gender": "Female",
@@ -346,8 +676,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Default 1",
+        "id": "f_pants_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Default 2",
         "id": "f_pants_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Default 3",
+        "id": "f_pants_default_3"
     },
     {
         "gender": "Female",
@@ -366,8 +716,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Default 5",
+        "id": "f_pants_default_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Miniskirt 0",
         "id": "f_pants_miniskirt_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Miniskirt 1",
+        "id": "f_pants_miniskirt_1"
     },
     {
         "gender": "Female",
@@ -386,8 +756,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Miniskirt 3",
+        "id": "f_pants_miniskirt_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Miniskirt Wave 0",
         "id": "f_pants_miniskirt_wave_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Miniskirt Wave 1",
+        "id": "f_pants_miniskirt_wave_1"
     },
     {
         "gender": "Female",
@@ -406,8 +796,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Neon Solid 0",
+        "id": "f_pants_neon_solid_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Neon Solid 1",
         "id": "f_pants_neon_solid_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Neon Solid 2",
+        "id": "f_pants_neon_solid_2"
     },
     {
         "gender": "Female",
@@ -426,8 +836,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Neon Stripes 1",
+        "id": "f_pants_neon_stripes_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Shorts 0",
         "id": "f_pants_shorts_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Shorts 1",
+        "id": "f_pants_shorts_1"
     },
     {
         "gender": "Female",
@@ -446,8 +876,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Shorts 3",
+        "id": "f_pants_shorts_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Skinnyjeans 0",
         "id": "f_pants_skinnyjeans_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Turbine 0",
+        "id": "f_pants_miniskirt_turbine_0"
     },
     {
         "gender": "Female",
@@ -461,12 +911,32 @@
     },
     {
         "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Turbine 2",
+        "id": "f_pants_miniskirt_turbine_2"
+    },
+    {
+        "gender": "Female",
         "slot": [
             "Shirt"
         ],
         "category": "Shirt",
         "name": "Shirt Buttondown 0",
         "id": "f_shirt_buttondown_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Default 0",
+        "id": "f_shirt_default_0"
     },
     {
         "gender": "Female",
@@ -485,8 +955,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Default 2",
+        "id": "f_shirt_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Default 3",
         "id": "f_shirt_default_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Default 4",
+        "id": "f_shirt_default_4"
     },
     {
         "gender": "Female",
@@ -505,8 +995,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Default 6",
+        "id": "f_shirt_default_6"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Default 7",
         "id": "f_shirt_default_7"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Default 8",
+        "id": "f_shirt_default_8"
     },
     {
         "gender": "Female",
@@ -526,9 +1036,30 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Sweater 30 1",
+        "unlockPlayerLevel": 30,
+        "id": "f_shirt_sweater_30_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Sweater 30 2",
         "unlockPlayerLevel": 30,
         "id": "f_shirt_sweater_30_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Sweater Instinct",
+        "id": "f_shirt_sweater_instinct"
     },
     {
         "gender": "Female",
@@ -547,8 +1078,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Sweater Valor",
+        "id": "f_shirt_sweater_valor"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tanktop 0",
         "id": "f_shirt_tanktop_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tanktop 1",
+        "id": "f_shirt_tanktop_1"
     },
     {
         "gender": "Female",
@@ -567,8 +1118,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tanktop Charizard 0",
+        "id": "f_shirt_tanktop_charizard_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tanktop Charizard 1",
         "id": "f_shirt_tanktop_charizard_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tanktop Charizard 2",
+        "id": "f_shirt_tanktop_charizard_2"
     },
     {
         "gender": "Female",
@@ -587,8 +1158,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tanktop Pikachu 1",
+        "id": "f_shirt_tanktop_pikachu_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tanktop Pikachu 2",
         "id": "f_shirt_tanktop_pikachu_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Cycling 0",
+        "id": "f_shirt_tshirt_cycling_0"
     },
     {
         "gender": "Female",
@@ -607,8 +1198,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Cycling 2",
+        "id": "f_shirt_tshirt_cycling_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Cycling 3",
         "id": "f_shirt_tshirt_cycling_3"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Pikachu 0",
+        "id": "f_shirt_tshirt_pikachu_0"
     },
     {
         "gender": "Female",
@@ -627,6 +1238,16 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Pikachu 2",
+        "id": "f_shirt_tshirt_pikachu_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Pikachu 3",
         "id": "f_shirt_tshirt_pikachu_3"
     },
@@ -637,8 +1258,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Pikachu 4",
+        "id": "f_shirt_tshirt_pikachu_4"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Pikachu 5",
         "id": "f_shirt_tshirt_pikachu_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Pikachu 6",
+        "id": "f_shirt_tshirt_pikachu_6"
     },
     {
         "gender": "Female",
@@ -657,8 +1298,28 @@
             "Shoes"
         ],
         "category": "Shoes",
+        "name": "Shoes Default 1",
+        "id": "f_shoes_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
         "name": "Shoes Default 2",
         "id": "f_shoes_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Default 3",
+        "id": "f_shoes_default_3"
     },
     {
         "gender": "Female",
@@ -677,8 +1338,28 @@
             "Shoes"
         ],
         "category": "Shoes",
+        "name": "Shoes Default 5",
+        "id": "f_shoes_default_5"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
         "name": "Shoes Default 6",
         "id": "f_shoes_default_6"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Empty",
+        "id": "f_shoes_empty"
     },
     {
         "gender": "Female",
@@ -697,8 +1378,28 @@
             "Socks"
         ],
         "category": "Socks",
+        "name": "Socks Default 1",
+        "id": "f_socks_default_1"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks",
         "name": "Socks Default 2",
         "id": "f_socks_default_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks",
+        "name": "Socks Empty",
+        "id": "f_socks_empty"
     },
     {
         "gender": "Female",
@@ -717,8 +1418,28 @@
             "Backpack"
         ],
         "category": "Backpack",
+        "name": "Backpack Default 0",
+        "id": "m_backpack_default_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
         "name": "Backpack Default 1",
         "id": "m_backpack_default_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
+        "name": "Backpack Default 2",
+        "id": "m_backpack_default_2"
     },
     {
         "gender": "Male",
@@ -737,8 +1458,28 @@
             "Backpack"
         ],
         "category": "Backpack",
+        "name": "Backpack Default 4",
+        "id": "m_backpack_default_4"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
         "name": "Backpack Default 5",
         "id": "m_backpack_default_5"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
+        "name": "Backpack Empty",
+        "id": "m_backpack_empty"
     },
     {
         "gender": "Male",
@@ -757,8 +1498,28 @@
             "Eyes"
         ],
         "category": "Eyes",
+        "name": "Eyes 1",
+        "id": "m_eyes_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Eyes"
+        ],
+        "category": "Eyes",
         "name": "Eyes 2",
         "id": "m_eyes_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Eyes"
+        ],
+        "category": "Eyes",
+        "name": "Eyes 3",
+        "id": "m_eyes_3"
     },
     {
         "gender": "Male",
@@ -777,8 +1538,28 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses 3d",
+        "id": "m_glasses_3d"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Empty",
         "id": "m_glasses_empty"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
+        "name": "Glasses Mask 0",
+        "id": "m_glasses_mask_0"
     },
     {
         "gender": "Male",
@@ -797,6 +1578,16 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses Thick 0",
+        "id": "m_glasses_thick_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Thick 1",
         "id": "m_glasses_thick_1"
     },
@@ -807,8 +1598,28 @@
             "Glasses"
         ],
         "category": "Glasses",
+        "name": "Glasses Thick 2",
+        "id": "m_glasses_thick_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
         "name": "Glasses Thick 3",
         "id": "m_glasses_thick_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses",
+        "name": "Glasses Thick 4",
+        "id": "m_glasses_thick_4"
     },
     {
         "gender": "Male",
@@ -827,8 +1638,28 @@
             "Gloves"
         ],
         "category": "Gloves",
+        "name": "Gloves Default 1",
+        "id": "m_gloves_default_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves",
         "name": "Gloves Default 2",
         "id": "m_gloves_default_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves",
+        "name": "Gloves Default 3",
+        "id": "m_gloves_default_3"
     },
     {
         "gender": "Male",
@@ -847,8 +1678,28 @@
             "Hair"
         ],
         "category": "Hair",
+        "name": "Hair Default 0",
+        "id": "m_hair_default_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
         "name": "Hair Default 1",
         "id": "m_hair_default_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
+        "name": "Hair Default 2",
+        "id": "m_hair_default_2"
     },
     {
         "gender": "Male",
@@ -867,8 +1718,28 @@
             "Hair"
         ],
         "category": "Hair",
+        "name": "Hair Default 4",
+        "id": "m_hair_default_4"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair",
         "name": "Hair Default 5",
         "id": "m_hair_default_5"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Casket 0",
+        "id": "m_hat_casket_0"
     },
     {
         "gender": "Male",
@@ -887,8 +1758,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Default 1",
+        "id": "m_hat_default_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Default 2",
         "id": "m_hat_default_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Default 3",
+        "id": "m_hat_default_3"
     },
     {
         "gender": "Male",
@@ -907,8 +1798,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Default 5",
+        "id": "m_hat_default_5"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Empty",
         "id": "m_hat_empty"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Fedora 0",
+        "id": "m_hat_fedora_0"
     },
     {
         "gender": "Male",
@@ -927,8 +1838,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Magikarp",
+        "id": "m_hat_magikarp"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Tophat 0",
         "id": "m_hat_tophat_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Default 0",
+        "id": "m_pants_default_0"
     },
     {
         "gender": "Male",
@@ -947,8 +1878,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Skinnyjeans 1",
+        "id": "m_pants_skinnyjeans_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Skinnyjeans 2",
         "id": "m_pants_skinnyjeans_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Sweats 0",
+        "id": "m_pants_sweats_0"
     },
     {
         "gender": "Male",
@@ -967,8 +1918,28 @@
             "Pants"
         ],
         "category": "Pants",
+        "name": "Pants Sweats 2",
+        "id": "m_pants_sweats_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
         "name": "Pants Sweats 3",
         "id": "m_pants_sweats_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Sweats 4",
+        "id": "m_pants_sweats_4"
     },
     {
         "gender": "Male",
@@ -987,8 +1958,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Default 0",
+        "id": "m_shirt_default_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Default 1",
         "id": "m_shirt_default_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Default 2",
+        "id": "m_shirt_default_2"
     },
     {
         "gender": "Male",
@@ -1007,8 +1998,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Default 3",
+        "id": "m_shirt_default_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Default 4",
         "id": "m_shirt_default_4"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Default 5",
+        "id": "m_shirt_default_5"
     },
     {
         "gender": "Male",
@@ -1027,8 +2038,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Default 7",
+        "id": "m_shirt_default_7"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Longsleeves Charizard 0",
         "id": "m_shirt_longsleeves_charizard_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Longsleeves Charizard 1",
+        "id": "m_shirt_longsleeves_charizard_1"
     },
     {
         "gender": "Male",
@@ -1047,8 +2078,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Longsleeves Pikachu 0",
+        "id": "m_shirt_longsleeves_pikachu_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Longsleeves Pikachu 1",
         "id": "m_shirt_longsleeves_pikachu_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Longsleeves Pikachu 2",
+        "id": "m_shirt_longsleeves_pikachu_2"
     },
     {
         "gender": "Male",
@@ -1067,8 +2118,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Sweatshirt Sporty 1",
+        "id": "m_shirt_sweatshirt_sporty_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Sweatshirt Sporty 2",
         "id": "m_shirt_sweatshirt_sporty_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Sweatshirt Sporty 3",
+        "id": "m_shirt_sweatshirt_sporty_3"
     },
     {
         "gender": "Male",
@@ -1087,8 +2158,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Sweatshirt Streak 1",
+        "id": "m_shirt_sweatshirt_streak_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Sweatshirt Streak 2",
         "id": "m_shirt_sweatshirt_streak_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Sweatshirt Streak 3",
+        "id": "m_shirt_sweatshirt_streak_3"
     },
     {
         "gender": "Male",
@@ -1107,8 +2198,28 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Geometric 0",
+        "id": "m_shirt_tshirt_geometric_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Geometric 1",
         "id": "m_shirt_tshirt_geometric_1"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Geometric 2",
+        "id": "m_shirt_tshirt_geometric_2"
     },
     {
         "gender": "Male",
@@ -1127,8 +2238,29 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Mystic",
+        "id": "m_shirt_tshirt_mystic"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Valor",
         "id": "m_shirt_tshirt_valor"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Turtleneck 30 0",
+        "unlockPlayerLevel": 30,
+        "id": "m_shirt_turtleneck_30_0"
     },
     {
         "gender": "Male",
@@ -1148,9 +2280,30 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Turtleneck 30 2",
+        "unlockPlayerLevel": 30,
+        "id": "m_shirt_turtleneck_30_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Turtleneck 30 3",
         "unlockPlayerLevel": 30,
         "id": "m_shirt_turtleneck_30_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Default 0",
+        "id": "m_shoes_default_0"
     },
     {
         "gender": "Male",
@@ -1169,8 +2322,28 @@
             "Shoes"
         ],
         "category": "Shoes",
+        "name": "Shoes Default 2",
+        "id": "m_shoes_default_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
         "name": "Shoes Default 3",
         "id": "m_shoes_default_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Default 4",
+        "id": "m_shoes_default_4"
     },
     {
         "gender": "Male",
@@ -1189,8 +2362,28 @@
             "Shoes"
         ],
         "category": "Shoes",
+        "name": "Shoes Default 6",
+        "id": "m_shoes_default_6"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
         "name": "Shoes Empty",
         "id": "m_shoes_empty"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks",
+        "name": "Socks Default 0",
+        "id": "m_socks_default_0"
     },
     {
         "gender": "Male",
@@ -1209,7 +2402,27 @@
             "Socks"
         ],
         "category": "Socks",
+        "name": "Socks Default 2",
+        "id": "m_socks_default_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks",
         "name": "Socks Default 3",
         "id": "m_socks_default_3"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks",
+        "name": "Socks Empty",
+        "id": "m_socks_empty"
     }
 ]
