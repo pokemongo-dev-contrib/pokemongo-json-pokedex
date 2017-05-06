@@ -3,10 +3,9 @@ import { EvolutionTree } from './shared/evolution-tree'
 import { Pokemon, PokemonMapper } from './';
 
 class PokemonParser implements Parser {
-    private regexp: RegExp = new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g');
-    constructor() { }
+    private readonly pokemonRegex: string = '^(V[0-9]+_POKEMON_?.*)';
     private isItemTemplatePokemon(item: ItemTemplate): boolean {
-        return this.regexp.test(item.templateId) || this.regexp.test(item.templateId);
+        return new RegExp(this.pokemonRegex, 'g').test(item.templateId);
     }
 
     public Parse(gameMaster: RootObject): Pokemon[] {
