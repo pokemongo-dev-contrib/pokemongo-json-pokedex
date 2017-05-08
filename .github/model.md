@@ -41,6 +41,7 @@
 - **attackProbability** *number* - The chance a Pokemon attacks (Example: Bulbasaur.encounter.attackProbability = `0.1`)
 - **attackTimer** *number* - *Unknown* (Example: Bulbasaur.encounter.attackTimer = `29`)
 - **baseFleeRate** *number* - General value for flee rate of the Pokemon (Example: Bulbasaur.encounter.baseFleeRate = `0.1`)
+- **baseCaptureRate** *number* - General value for capture rate of the Pokemon (Example: Bulbasaur.encounter.baseCaptureRate = `0.1`)
 - **cameraDistance** *number* - How far the camera distance is during an encounter (Example: Bulbasaur.encounter.cameraDistance = 3.75)
 - **dodgeDistance** *number* - *Unknown* (Example: Bulbasaur.encounter.dodgeDistance = `1`)
 - **dodgeProbability** *number* - General value how high the percentage is, the Pokemon dodges (Example: Bulbasaur.encounter.dodgeProbability = `0.15`)

@@ -72,6 +72,7 @@ export class PokemonMapper {
             attackProbability: pkmStgs.encounter.attackProbability,
             attackTimer: pkmStgs.encounter.attackTimerS,
             baseFleeRate: pkmStgs.encounter.baseFleeRate,
+            baseCaptureRate: pkmStgs.encounter.baseCaptureRate,
             cameraDistance: pkmStgs.encounter.cameraDistance,
             collisionRadius: pkmStgs.encounter.collisionRadiusM,
             dodgeDistance: pkmStgs.encounter.dodgeDistance,
