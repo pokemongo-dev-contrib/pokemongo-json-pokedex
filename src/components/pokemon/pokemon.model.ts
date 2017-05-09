@@ -9,6 +9,7 @@ interface PokemonStats {
 
 interface PokemonEncounter {
     baseFleeRate: number;
+    baseCaptureRate: number;
     collisionRadius: number;
     movementType?: Identifyable;
     jumpTime: number;
