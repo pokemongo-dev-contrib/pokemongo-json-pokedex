@@ -456,6 +456,16 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Adventure 0",
+        "id": "f_hat_adventure_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Casket 0",
         "id": "f_hat_casket_0"
     },
@@ -1730,6 +1740,16 @@
         "category": "Hair",
         "name": "Hair Default 5",
         "id": "m_hair_default_5"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Adventure 0",
+        "id": "m_hat_adventure_0"
     },
     {
         "gender": "Male",

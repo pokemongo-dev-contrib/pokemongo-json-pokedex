@@ -302,7 +302,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.759,
+            "cylinderRadius": 1.25,
             "diskRadius": 1.1385,
             "shoulderModeScale": 0.5
         },
@@ -615,8 +615,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.405,
-            "cylinderRadius": 0.7,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1.25,
             "diskRadius": 1.215,
             "shoulderModeScale": 0.5
         },
@@ -713,7 +713,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.3825,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.5738,
             "shoulderModeScale": 0.1
         },
@@ -817,7 +817,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.375,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
         },
@@ -925,7 +925,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.564,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.846,
             "shoulderModeScale": 0.5
         },
@@ -1017,7 +1017,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.306,
+            "cylinderRadius": 0.1,
             "diskRadius": 0.459
         },
         "nextEvolutionBranches": [
@@ -1220,7 +1220,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.555,
+            "cylinderGround": 0.5,
             "cylinderRadius": 0.666,
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
@@ -1318,7 +1318,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.209,
+            "cylinderRadius": 0.1,
             "diskRadius": 0.3135,
             "shoulderModeScale": 0.5
         },
@@ -1525,8 +1525,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.385,
-            "cylinderRadius": 0.462,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
@@ -1743,8 +1743,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.395,
-            "cylinderRadius": 0.474,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 0.711,
             "shoulderModeScale": 0.5
         },
@@ -1856,8 +1856,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.36,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 0.65,
+            "cylinderRadius": 1.2,
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
@@ -2259,8 +2259,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.42,
-            "cylinderRadius": 0.504,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 1.26,
             "shoulderModeScale": 0.375
         },
@@ -2353,7 +2353,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4325,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.6488,
             "shoulderModeScale": 0.375
         },
@@ -2944,7 +2944,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -3160,7 +3160,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4095,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.6143,
             "shoulderModeScale": 0.5
         },
@@ -3473,7 +3473,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5481,
+            "cylinderRadius": 1,
             "diskRadius": 0.8222,
             "shoulderModeScale": 0.5
         },
@@ -3775,7 +3775,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.567,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.8505,
             "shoulderModeScale": 0.5
         },
@@ -3974,7 +3974,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.512,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.768,
             "shoulderModeScale": 0.5
         },
@@ -4191,7 +4191,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.535,
+            "cylinderGround": 0.5,
             "cylinderRadius": 0.642,
             "diskRadius": 0.963,
             "shoulderModeScale": 0.5
@@ -4304,8 +4304,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 1.065,
-            "cylinderRadius": 0.75,
+            "cylinderGround": 1.5,
+            "cylinderRadius": 1.25,
             "diskRadius": 1.5975,
             "shoulderModeScale": 0.5
         },
@@ -5053,8 +5053,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.36,
-            "cylinderRadius": 0.576,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
@@ -5142,7 +5142,7 @@
             "movementType": null
         },
         "camera": {
-            "cylinderRadius": 0.3,
+            "cylinderRadius": 0.15,
             "diskRadius": 0.45,
             "shoulderModeScale": 0.5
         },
@@ -5332,7 +5332,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
@@ -5430,7 +5430,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.533,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
@@ -5820,7 +5820,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
@@ -6015,7 +6015,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.666,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
         },
@@ -6439,7 +6439,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.168,
+            "cylinderGround": 0.15,
             "cylinderRadius": 0.448,
             "diskRadius": 0.672,
             "shoulderModeScale": 0.5
@@ -6969,7 +6969,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5785,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.8678,
             "shoulderModeScale": 0.5
         },
@@ -7070,7 +7070,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4515,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.6773,
             "shoulderModeScale": 0.5
         },
@@ -7295,8 +7295,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.42,
-            "cylinderRadius": 0.546,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.819,
             "shoulderModeScale": 0.5
         },
@@ -7397,7 +7397,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.2625,
+            "cylinderGround": 0.25,
             "cylinderRadius": 0.315,
             "diskRadius": 0.4725,
             "shoulderModeScale": 0.5
@@ -7504,8 +7504,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.205,
-            "cylinderRadius": 0.492,
+            "cylinderGround": 0.25,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.738,
             "shoulderModeScale": 0.5
         },
@@ -7602,8 +7602,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.261,
-            "cylinderRadius": 0.3915,
+            "cylinderGround": 0.3,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.5873,
             "shoulderModeScale": 0.5
         },
@@ -7715,7 +7715,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.697,
+            "cylinderRadius": 0.8,
             "diskRadius": 1.0455,
             "shoulderModeScale": 0.5
         },
@@ -7827,7 +7827,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.63,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
@@ -7924,7 +7924,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.3788,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.5681,
             "shoulderModeScale": 0.5
         },
@@ -8026,7 +8026,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.405,
+            "cylinderRadius": 1,
             "diskRadius": 0.6075,
             "shoulderModeScale": 0.5
         },
@@ -8123,7 +8123,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.75,
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
         },
@@ -8238,7 +8238,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 1,
             "diskRadius": 0.7013,
             "shoulderModeScale": 0.5
         },
@@ -8339,8 +8339,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.912,
-            "cylinderRadius": 0.456,
+            "cylinderGround": 0.6,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.684,
             "shoulderModeScale": 0.5
         },
@@ -8446,8 +8446,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.44,
-            "cylinderRadius": 0.44,
+            "cylinderGround": 0.4,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.66,
             "shoulderModeScale": 0.5
         },
@@ -8741,7 +8741,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.7722,
             "shoulderModeScale": 0.5
         },
@@ -8936,7 +8936,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.39375,
+            "cylinderGround": 0.375,
             "cylinderRadius": 0.525,
             "diskRadius": 0.7875,
             "shoulderModeScale": 0.5
@@ -9034,7 +9034,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.588,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.882,
             "shoulderModeScale": 0.5
         },
@@ -9136,7 +9136,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.86,
+            "cylinderRadius": 1.5,
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
@@ -9335,8 +9335,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.42,
-            "cylinderRadius": 0.63,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 0.85,
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
@@ -9550,8 +9550,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.34,
-            "cylinderRadius": 0.75,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1.5,
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
         },
@@ -9663,7 +9663,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.8,
+            "cylinderRadius": 1,
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
@@ -9764,7 +9764,7 @@
             "movementType": null
         },
         "camera": {
-            "cylinderRadius": 0.75,
+            "cylinderRadius": 2.5,
             "diskRadius": 0.987,
             "shoulderModeScale": 0.5
         },
@@ -9968,7 +9968,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6225,
+            "cylinderRadius": 1,
             "diskRadius": 0.9338,
             "shoulderModeScale": 0.5
         },
@@ -10061,7 +10061,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.522,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.783,
             "shoulderModeScale": 0.5
         },
@@ -10163,7 +10163,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.9,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
@@ -10256,7 +10256,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.5063,
             "shoulderModeScale": 0.5
         },
@@ -10358,7 +10358,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.552,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.828,
             "shoulderModeScale": 0.5
         },
@@ -10561,7 +10561,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.507,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
         },
@@ -10654,7 +10654,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.35,
+            "cylinderRadius": 0.25,
             "diskRadius": 0.444,
             "shoulderModeScale": 0.5
         },
@@ -10752,7 +10752,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.35,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
         },
@@ -10849,7 +10849,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.6225,
             "shoulderModeScale": 0.5
         },
@@ -11134,7 +11134,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.6,
+            "cylinderGround": 0.5,
             "cylinderRadius": 0.48,
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
@@ -11237,7 +11237,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.62,
+            "cylinderGround": 0.5,
             "cylinderRadius": 0.62,
             "diskRadius": 0.93,
             "shoulderModeScale": 0.5
@@ -11445,7 +11445,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.79,
+            "cylinderRadius": 1,
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
         },
@@ -11542,7 +11542,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
         },
@@ -11731,7 +11731,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.8,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
@@ -11818,7 +11818,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.185,
+            "cylinderGround": 0.125,
             "cylinderRadius": 0.25,
             "diskRadius": 0.2775,
             "shoulderModeScale": 0.5
@@ -11927,8 +11927,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.46,
-            "cylinderRadius": 0.46,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
@@ -12032,7 +12032,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3375,
+            "cylinderGround": 0.25,
             "cylinderRadius": 0.27,
             "diskRadius": 0.405,
             "shoulderModeScale": 0.5
@@ -12135,8 +12135,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.33,
-            "cylinderRadius": 0.396,
+            "cylinderGround": 0.375,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
@@ -12335,7 +12335,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.485,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.7275,
             "shoulderModeScale": 0.5
         },
@@ -12432,7 +12432,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.445,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.6675,
             "shoulderModeScale": 0.5
         },
@@ -12527,8 +12527,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
-            "cylinderRadius": 0.76,
+            "cylinderGround": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
@@ -12634,7 +12634,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6525,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
@@ -12727,7 +12727,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5635,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.8453,
             "shoulderModeScale": 0.5
         },
@@ -12824,7 +12824,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.66,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.99,
             "shoulderModeScale": 0.5
         },
@@ -12921,7 +12921,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.85,
             "diskRadius": 0.522,
             "shoulderModeScale": 0.5
         },
@@ -13012,7 +13012,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5742,
+            "cylinderRadius": 1,
             "diskRadius": 0.8613,
             "shoulderModeScale": 0.5
         },
@@ -13084,7 +13084,7 @@
             "movementType": null
         },
         "camera": {
-            "cylinderRadius": 0.428,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.642,
             "shoulderModeScale": 0.5
         },
@@ -13190,8 +13190,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.48,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 1,
+            "cylinderRadius": 2,
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
         },
@@ -13292,7 +13292,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.75,
+            "cylinderRadius": 1.5,
             "diskRadius": 1.05,
             "shoulderModeScale": 0.5
         },
@@ -13367,7 +13367,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4025,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.6038,
             "shoulderModeScale": 0.5
         },
@@ -13454,7 +13454,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.42,
+            "cylinderRadius": 0.25,
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
@@ -13770,7 +13770,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.3045,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.4568,
             "shoulderModeScale": 0.5
         },
@@ -13867,7 +13867,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.55,
+            "cylinderGround": 0.5,
             "cylinderRadius": 0.55,
             "diskRadius": 0.825,
             "shoulderModeScale": 0.5
@@ -14076,7 +14076,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
         },
@@ -14279,7 +14279,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.455,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.6825,
             "shoulderModeScale": 0.5
         },
@@ -14380,8 +14380,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.855,
-            "cylinderRadius": 0.7,
+            "cylinderGround": 1.5,
+            "cylinderRadius": 1.5,
             "diskRadius": 0.5985,
             "shoulderModeScale": 0.5
         },
@@ -14472,7 +14472,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.74,
+            "cylinderRadius": 1.15,
             "diskRadius": 1.11,
             "shoulderModeScale": 0.5
         },
@@ -14566,8 +14566,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.66,
-            "cylinderRadius": 0.396,
+            "cylinderGround": 1,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
@@ -14661,8 +14661,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.8625,
-            "cylinderRadius": 0.5175,
+            "cylinderGround": 1.25,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.7763,
             "shoulderModeScale": 0.5
         },
@@ -14756,8 +14756,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.93,
-            "cylinderRadius": 0.62,
+            "cylinderGround": 1.5,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.93,
             "shoulderModeScale": 0.25
         },
@@ -14952,7 +14952,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5625,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.8438,
             "shoulderModeScale": 0.5
         },
@@ -15064,8 +15064,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.595,
-            "cylinderRadius": 0.55,
+            "cylinderGround": 0.6,
+            "cylinderRadius": 1,
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
@@ -15173,7 +15173,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15279,7 +15279,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.0705,
+            "cylinderGround": 0.05,
             "cylinderRadius": 0.3,
             "diskRadius": 0.423,
             "shoulderModeScale": 0.5
@@ -15367,7 +15367,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15471,7 +15471,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.65,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15579,7 +15579,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.85,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15676,7 +15676,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.48,
+            "cylinderRadius": 0.35,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15780,7 +15780,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -15888,7 +15888,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16197,7 +16197,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16392,7 +16392,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16489,7 +16489,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16595,8 +16595,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
-            "cylinderRadius": 0.4,
+            "cylinderGround": 0.49382716,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16697,8 +16697,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
-            "cylinderRadius": 0.37,
+            "cylinderGround": 0.43010753,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -16804,7 +16804,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
+            "cylinderGround": 0.4597701,
             "cylinderRadius": 0.42,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -16902,7 +16902,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17004,7 +17004,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17105,8 +17105,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.75,
-            "cylinderRadius": 0.75,
+            "cylinderGround": 1.1363636,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17207,7 +17207,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.25,
+            "cylinderGround": 0.2,
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -17314,7 +17314,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
+            "cylinderGround": 0.4597701,
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -17407,7 +17407,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17514,7 +17514,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17621,8 +17621,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
-            "cylinderRadius": 0.4,
+            "cylinderGround": 0.3,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17729,7 +17729,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17831,8 +17831,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3,
-            "cylinderRadius": 0.45,
+            "cylinderGround": 0.2,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -17933,7 +17933,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.42,
+            "cylinderRadius": 0.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -18039,8 +18039,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.2,
-            "cylinderRadius": 0.67,
+            "cylinderGround": 0.24691358,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -18442,7 +18442,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -18543,7 +18543,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.42,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -18926,7 +18926,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.45,
+            "cylinderGround": 0.41284403,
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -19039,7 +19039,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
+            "cylinderGround": 0.42372882,
             "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -19152,7 +19152,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
+            "cylinderGround": 0.44247788,
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -19341,7 +19341,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.32,
+            "cylinderRadius": 0.15,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -19439,7 +19439,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -19536,7 +19536,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3,
+            "cylinderGround": 0.31578946,
             "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -19628,7 +19628,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20015,7 +20015,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20107,7 +20107,7 @@
             "movementType": null
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20204,7 +20204,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3,
+            "cylinderGround": 0.24590164,
             "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -20280,8 +20280,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3,
-            "cylinderRadius": 0.55,
+            "cylinderGround": 0.22222222,
+            "cylinderRadius": 0.35,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20364,7 +20364,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20459,7 +20459,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.85,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20546,7 +20546,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20652,8 +20652,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.3,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 0.32608697,
+            "cylinderRadius": 0.9,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20746,7 +20746,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20837,8 +20837,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.1,
-            "cylinderRadius": 0.5,
+            "cylinderGround": 0.10309278,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -20929,7 +20929,7 @@
             "movementType": null
         },
         "camera": {
-            "cylinderRadius": 0.8,
+            "cylinderRadius": 4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21022,7 +21022,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21124,7 +21124,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21221,7 +21221,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.6,
+            "cylinderGround": 0.44444445,
             "cylinderRadius": 0.55,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -21317,7 +21317,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21509,7 +21509,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.7,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21687,7 +21687,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.42,
+            "cylinderRadius": 0.35,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -21789,7 +21789,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22081,7 +22081,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.55,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22187,7 +22187,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.45,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22368,7 +22368,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
+            "cylinderGround": 0.3875969,
             "cylinderRadius": 0.32,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -22467,7 +22467,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.75,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22564,7 +22564,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.37,
+            "cylinderRadius": 0.45,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22659,8 +22659,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.25,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 0.34246576,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22755,8 +22755,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 0.64935064,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -22949,7 +22949,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23050,8 +23050,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
-            "cylinderRadius": 0.55,
+            "cylinderGround": 0.64102566,
+            "cylinderRadius": 0.85,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23148,7 +23148,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23250,7 +23250,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.72,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23343,7 +23343,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.4,
+            "cylinderGround": 0.32258064,
             "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
@@ -23441,7 +23441,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23520,7 +23520,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.6,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23722,7 +23722,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.6,
+            "cylinderRadius": 0.8,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -23822,7 +23822,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.4,
+            "cylinderRadius": 0.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24126,7 +24126,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 0.7,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24217,7 +24217,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.7,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24317,7 +24317,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.7,
+            "cylinderRadius": 1.2,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24411,7 +24411,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.7,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24505,7 +24505,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.7,
+            "cylinderRadius": 1.25,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24704,7 +24704,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.47,
+            "cylinderRadius": 0.5,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24816,7 +24816,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.5,
+            "cylinderRadius": 1,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -24924,8 +24924,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.1,
-            "cylinderRadius": 0.65,
+            "cylinderGround": 0.23809524,
+            "cylinderRadius": 3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -25023,8 +25023,8 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.1,
-            "cylinderRadius": 0.6,
+            "cylinderGround": 0.18867925,
+            "cylinderRadius": 4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
@@ -25118,7 +25118,7 @@
             }
         },
         "camera": {
-            "cylinderGround": 0.5,
+            "cylinderGround": 0.41666666,
             "cylinderRadius": 0.4,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
