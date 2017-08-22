@@ -1228,6 +1228,16 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Fest Chicago 2017",
+        "id": "f_shirt_tshirt_fest_chicago_2017"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Pikachu 0",
         "id": "f_shirt_tshirt_pikachu_0"
     },
@@ -2210,6 +2220,16 @@
         "category": "Shirt",
         "name": "Shirt Sweatshirt Streak 4",
         "id": "m_shirt_sweatshirt_streak_4"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Fest Chicago 2017",
+        "id": "m_shirt_tshirt_fest_chicago_2017"
     },
     {
         "gender": "Male",
