@@ -31,6 +31,7 @@ interface PokemonCamera {
 class Pokemon implements Identifyable {
     public name: string;
     public id: string;
+    public dex: number;
     public modelScale: number;
     public types: Identifyable[];
     public encounter: PokemonEncounter;

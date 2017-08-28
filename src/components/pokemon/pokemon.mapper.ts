@@ -8,6 +8,7 @@ export class PokemonMapper {
         let pokemon: Pokemon = new Pokemon();
         let pkmStgs = rawPokemon.pokemonSettings;
 
+        pokemon.dex = extractDexNumber(rawPokemon.templateId)
         pokemon.animationTime = pkmStgs.animationTime;
         pokemon.id = pkmStgs.pokemonId;
         pokemon.name = Util.SnakeCase2HumanReadable(pkmStgs.pokemonId);
@@ -97,4 +98,10 @@ export class PokemonMapper {
 
         return pokemon;
     }
+}
+
+// parse the dex number out of the templateId
+// (eg: "V0151_POKEMON_MEW" => 151)
+function extractDexNumber(id: string): number {
+  return parseInt(id.split('_')[0].slice(1), 10)
 }
