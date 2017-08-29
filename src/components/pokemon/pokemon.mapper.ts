@@ -2,13 +2,14 @@ import { Pokemon } from './pokemon.model';
 import { ItemTemplate } from '@core/game_master/gameMaster';
 import { Util } from '@util';
 import { CPCalculator } from '../../core/cp-calculator';
+import { DexParser } from './shared/dex-parser.component';
 
 export class PokemonMapper {
     public static Map(rawPokemon: ItemTemplate): Pokemon {
         let pokemon: Pokemon = new Pokemon();
         let pkmStgs = rawPokemon.pokemonSettings;
 
-        pokemon.dex = extractDexNumber(rawPokemon.templateId)
+        pokemon.dex = new DexParser().Process(rawPokemon.templateId)
         pokemon.animationTime = pkmStgs.animationTime;
         pokemon.id = pkmStgs.pokemonId;
         pokemon.name = Util.SnakeCase2HumanReadable(pkmStgs.pokemonId);
@@ -98,10 +99,4 @@ export class PokemonMapper {
 
         return pokemon;
     }
-}
-
-// parse the dex number out of the templateId
-// (eg: "V0151_POKEMON_MEW" => 151)
-function extractDexNumber(id: string): number {
-  return parseInt(id.split('_')[0].slice(1), 10)
 }
