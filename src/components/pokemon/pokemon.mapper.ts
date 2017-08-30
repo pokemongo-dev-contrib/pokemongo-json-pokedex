@@ -2,12 +2,14 @@ import { Pokemon } from './pokemon.model';
 import { ItemTemplate } from '@core/game_master/gameMaster';
 import { Util } from '@util';
 import { CPCalculator } from '../../core/cp-calculator';
+import { DexParser } from './shared/dex-parser.component';
 
 export class PokemonMapper {
     public static Map(rawPokemon: ItemTemplate): Pokemon {
         let pokemon: Pokemon = new Pokemon();
         let pkmStgs = rawPokemon.pokemonSettings;
 
+        pokemon.dex = new DexParser().Process(rawPokemon.templateId)
         pokemon.animationTime = pkmStgs.animationTime;
         pokemon.id = pkmStgs.pokemonId;
         pokemon.name = Util.SnakeCase2HumanReadable(pkmStgs.pokemonId);

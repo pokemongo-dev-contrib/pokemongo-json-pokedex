@@ -21,6 +21,7 @@ describe('Pokemon Output', () => {
             item => expect(item.animationTime.length).to.not.equal(0, 'animationTime length'),
             item => expect(item.id).to.not.equal(undefined, 'id'),
             item => expect(item.name).to.not.equal(undefined, 'name'),
+            item => expect(item.dex).to.be.within(1, 251, 'dex'),
             item => expect(Array.isArray(item.cinematicMoves)).to.equal(true, 'cinematicMoves type'),
             item => expect(item.cinematicMoves.length).to.not.equal(0, 'cinematicMoves length'),
             item => expect(Array.isArray(item.quickMoves)).to.equal(true, 'quickMoves array'),
@@ -65,7 +66,8 @@ describe('Pokemon Output', () => {
     it('should have specific properties for specific pokemon', () => {
         const expectations = {
             'BULBASAUR': [
-                item => expect(item.nextEvolutionBranches.length).to.equal(1, 'should have one nextEvolutionBranch for Bulbasaur')
+                item => expect(item.nextEvolutionBranches.length).to.equal(1, 'should have one nextEvolutionBranch for Bulbasaur'),
+                item => expect(item.dex).to.equal(1, 'Bulbasaur\'s dex number should be correct')
             ],
             'EEVEE': [
                 item => expect(item.nextEvolutionBranches.length).to.equal(5, 'should have 5 nextEvolutionBranches for Eevee'),
@@ -132,6 +134,7 @@ describe('Pokemon Output', () => {
                 item => expect(item.futureEvolutions.futureEvolutions, 'Tyrogue should have future evolutions').to.not.be.empty,
                 item => expect(item.futureEvolutions.futureEvolutions.length).to.equal(3, 'Tyrogue should have 3 evolutions.'),
                 item => expect(item.futureEvolutions.futureEvolutions[0].futureEvolutions, 'Tyrogue\'s future evolutions should not evolve').to.be.empty,
+                item => expect(item.dex).to.equal(236, 'Tyrogue\'s dex number should be correct'),
             ],
             'HITMONLEE': [
                 item => expect(item.pastEvolutions).to.not.be.empty,
