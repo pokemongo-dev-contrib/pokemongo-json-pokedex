@@ -76,6 +76,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -189,6 +193,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -302,6 +310,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -400,6 +412,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -505,6 +521,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -618,6 +638,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -717,6 +741,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -822,6 +850,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -931,6 +963,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -1024,6 +1060,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1116,7 +1156,11 @@
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.351,
@@ -1229,6 +1273,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1328,6 +1376,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1424,7 +1476,11 @@
             "dodgeDistance": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.25,
@@ -1537,6 +1593,10 @@
             "movementType": {
                 "name": "Movement Electric",
                 "id": "MOVEMENT_ELECTRIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1644,6 +1704,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1757,6 +1821,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1871,6 +1939,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -1970,6 +2042,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2069,6 +2145,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2171,6 +2251,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2278,6 +2362,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2373,6 +2461,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2476,6 +2568,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2574,6 +2670,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2679,6 +2779,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2777,6 +2881,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2876,6 +2984,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -2970,6 +3082,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -3075,6 +3191,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -3188,6 +3308,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -3286,6 +3410,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -3391,6 +3519,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -3504,6 +3636,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -3602,6 +3738,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -3711,6 +3851,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -3809,6 +3953,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -3912,6 +4060,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -4010,6 +4162,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -4123,6 +4279,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -4229,6 +4389,10 @@
             "movementType": {
                 "name": "Movement Electric",
                 "id": "MOVEMENT_ELECTRIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4343,6 +4507,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4453,6 +4621,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4567,6 +4739,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4689,6 +4865,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4791,6 +4971,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4894,6 +5078,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -4992,6 +5180,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5099,6 +5291,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5189,7 +5385,11 @@
             "dodgeDistance": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.15,
@@ -5287,7 +5487,11 @@
             "dodgeDistance": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.672,
@@ -5381,6 +5585,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5480,6 +5688,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5574,6 +5786,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5677,6 +5893,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5771,6 +5991,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5874,6 +6098,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -5968,6 +6196,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6071,6 +6303,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6165,6 +6401,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -6279,6 +6519,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -6401,6 +6645,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -6499,6 +6747,10 @@
             "movementType": {
                 "name": "Movement Psychic",
                 "id": "MOVEMENT_PSYCHIC"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6609,6 +6861,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6718,6 +6974,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6816,6 +7076,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -6925,6 +7189,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -7034,6 +7302,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -7136,6 +7408,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7249,6 +7525,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7363,6 +7643,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7466,6 +7750,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7574,6 +7862,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7673,6 +7965,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7787,6 +8083,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7900,6 +8200,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -7998,6 +8302,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8101,6 +8409,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8199,6 +8511,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8315,6 +8631,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8624,6 +8944,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8716,6 +9040,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8823,6 +9151,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -8917,6 +9249,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9020,6 +9356,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9119,6 +9459,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9222,6 +9566,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9316,6 +9664,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9423,6 +9775,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9526,6 +9882,10 @@
             "movementType": {
                 "name": "Movement Psychic",
                 "id": "MOVEMENT_PSYCHIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9640,6 +10000,10 @@
             "movementType": {
                 "name": "Movement Psychic",
                 "id": "MOVEMENT_PSYCHIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9754,6 +10118,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -9856,7 +10224,11 @@
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 2.5,
@@ -9959,6 +10331,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10062,6 +10438,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10156,6 +10536,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10259,6 +10643,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10554,6 +10942,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10661,6 +11053,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10755,6 +11151,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10854,6 +11254,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -10952,6 +11356,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -11054,6 +11462,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -11148,6 +11560,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11240,6 +11656,10 @@
             "movementType": {
                 "name": "Movement Psychic",
                 "id": "MOVEMENT_PSYCHIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11344,6 +11764,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11447,6 +11871,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11554,6 +11982,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11652,6 +12084,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -11751,6 +12187,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -11843,6 +12283,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -11931,6 +12375,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12041,6 +12489,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12147,6 +12599,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12251,6 +12707,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12551,6 +13011,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12647,6 +13111,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -12755,6 +13223,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -12849,6 +13321,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -12947,6 +13423,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -13045,6 +13525,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -13137,6 +13621,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -13210,7 +13698,11 @@
             "jumpTime": 0.8,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.6,
@@ -13317,6 +13809,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -13420,6 +13916,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -13584,6 +14084,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -13715,6 +14219,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -13809,6 +14317,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -13903,6 +14415,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14105,6 +14621,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14212,6 +14732,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14310,6 +14834,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14417,6 +14945,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14519,6 +15051,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14612,6 +15148,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -14991,6 +15531,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -15100,6 +15644,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -15213,6 +15761,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -15520,6 +16072,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -15625,6 +16181,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -15734,6 +16294,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -15832,6 +16396,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -15937,6 +16505,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -16046,6 +16618,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -16144,6 +16720,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -16249,6 +16829,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -16358,6 +16942,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -16456,6 +17044,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -16555,6 +17147,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -16653,6 +17249,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -16760,6 +17360,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -16863,6 +17467,10 @@
             "movementType": {
                 "name": "Movement Electric",
                 "id": "MOVEMENT_ELECTRIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -16971,6 +17579,10 @@
             "movementType": {
                 "name": "Movement Electric",
                 "id": "MOVEMENT_ELECTRIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17070,6 +17682,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17173,6 +17789,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17275,6 +17895,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17378,6 +18002,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17486,6 +18114,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17580,6 +18212,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -17688,6 +18324,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -17796,6 +18436,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -17905,6 +18549,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -18008,6 +18656,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -18111,6 +18763,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18218,6 +18874,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18313,6 +18973,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18418,6 +19082,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18527,6 +19195,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18625,6 +19297,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18727,6 +19403,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18830,6 +19510,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -18920,7 +19604,11 @@
             "jumpTime": 1.2,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.5,
@@ -19008,6 +19696,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19114,6 +19806,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19228,6 +19924,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19342,6 +20042,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19441,6 +20145,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19533,6 +20241,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19632,6 +20344,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19730,6 +20446,10 @@
             "movementType": {
                 "name": "Movement Electric",
                 "id": "MOVEMENT_ELECTRIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19823,6 +20543,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -19930,6 +20654,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20023,6 +20751,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -20112,6 +20844,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {
@@ -20214,6 +20950,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20307,7 +21047,11 @@
             "jumpTime": 2,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 0.75,
@@ -20405,6 +21149,10 @@
             "movementType": {
                 "name": "Movement Psychic",
                 "id": "MOVEMENT_PSYCHIC"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20567,6 +21315,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20663,6 +21415,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20751,6 +21507,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20858,6 +21618,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -20953,6 +21717,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21045,6 +21813,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21138,7 +21910,11 @@
             "jumpTime": 1.2,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
         },
         "camera": {
             "cylinderRadius": 4,
@@ -21232,6 +22008,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -21335,6 +22115,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
             }
         },
         "camera": {
@@ -21433,6 +22217,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21530,6 +22318,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21628,6 +22420,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21724,6 +22520,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21816,6 +22616,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -21904,6 +22708,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22007,6 +22815,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22101,6 +22913,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22204,6 +23020,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22302,6 +23122,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22409,6 +23233,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22504,7 +23332,11 @@
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null
+            "movementType": null,
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
         },
         "camera": {
             "cylinderRadius": 0.37,
@@ -22592,6 +23424,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22692,6 +23528,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22790,6 +23630,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22886,6 +23730,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -22983,6 +23831,10 @@
             "movementType": {
                 "name": "Movement Flying",
                 "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23076,6 +23928,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23179,6 +24035,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23281,6 +24141,10 @@
             "movementType": {
                 "name": "Movement Hovering",
                 "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23380,6 +24244,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23483,6 +24351,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23676,6 +24548,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23756,6 +24632,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -23843,6 +24723,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -23960,6 +24844,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
             }
         },
         "camera": {
@@ -24061,6 +24949,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -24163,6 +25055,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -24265,6 +25161,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
             }
         },
         "camera": {
@@ -24368,6 +25268,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -24460,6 +25364,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -24846,6 +25754,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -24955,6 +25867,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -25068,6 +25984,10 @@
             "movementType": {
                 "name": "Movement Jump",
                 "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {

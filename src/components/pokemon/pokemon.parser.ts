@@ -1,6 +1,7 @@
-import { Identifyable, Parser, RootObject, ItemTemplate } from '@core';
-import { EvolutionTree } from './shared/evolution-tree'
+import { Identifyable, ItemTemplate, Parser, RootObject } from '@core';
 import { Pokemon, PokemonMapper } from './';
+
+import { EvolutionTree } from './shared/evolution-tree'
 
 class PokemonParser implements Parser {
     private readonly pokemonRegex: string = '^(V[0-9]+_POKEMON_?.*)';
@@ -12,7 +13,7 @@ class PokemonParser implements Parser {
         let returnValue = gameMaster
             .itemTemplates
             .filter(p => { return this.isItemTemplatePokemon(p); })
-            .map(p => PokemonMapper.Map(p));
+            .map(p => PokemonMapper.Map(p, gameMaster));
         returnValue = this.generateBackrefs(returnValue);
         returnValue = this.generateFrontRefs(returnValue);
         return returnValue;
