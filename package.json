@@ -50,8 +50,8 @@
     "ts-node": "^3.0.2",
     "tsconfig-paths": "^2.1.2",
     "tslint": "^5.1.0",
-    "typedoc": "^0.5.10",
-    "typescript": "^2.2.1"
+    "typedoc": "^0.8.0",
+    "typescript": "^2.4.2"
   },
   "engines": {
     "npm": "~4.4.4"
