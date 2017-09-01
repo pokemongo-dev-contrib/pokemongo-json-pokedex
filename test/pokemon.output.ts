@@ -1,5 +1,5 @@
-import { Pokemon } from '../src/components/pokemon';
 import { Move } from '../src/components/move';
+import { Pokemon } from '../src/components/pokemon';
 import { expect } from 'chai';
 
 describe('Pokemon Output', () => {
@@ -159,6 +159,15 @@ describe('Pokemon Output', () => {
                 testFunctions.forEach(func => {
                     func(mon);
                 });
+            }
+        });
+    });
+
+    it('should have malePercent / femalePercent when the Pokémon has a gender', () => {
+        input.forEach(pokemon => {
+            if (pokemon.encounter.gender) {
+                expect(pokemon.encounter.gender.femalePercent).not.to.equal(undefined, `pokemon.encounter.gender.femalePercent ${pokemon.id}`);
+                expect(pokemon.encounter.gender.malePercent).not.to.equal(undefined, `pokemon.encounter.gender.malePercent ${pokemon.id}`);
             }
         });
     });

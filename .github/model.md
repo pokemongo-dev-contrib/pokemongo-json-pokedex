@@ -4,6 +4,7 @@
 
 - **name** *string* - The name of the Pokemon (Example: `Bulbasaur` or `Ho Oh`)
 - **id** *string* - An unique identfier for the Pokemon (Example: `BULBASAUR` or `HO_OH`)
+- **dex** *string* - The Pokedex number of the Pokémon (Example: `1` for Bulbasaur)
 - **modelScale** *number* - The scale of the Pokemon model which gets displayed in the game (Example: `1.03` or `1.05`)
 - **modelHeight** *number* - The height of the model, which gets displayed in the game (Example: `1.25`)
 - **types** *[Identifyable[]](#identifyable)* - Array of types the Pokemon has. (Example:
@@ -26,11 +27,16 @@
 - **futureEvolutions** *EvolutionTree* - All the possible future evolutions of the Pokemon, including indirect
      evolutions. (Example: given Charmander, futureEvolutions would list Charmeleon and Charizard.)
 - **pastEvolutions** *[Identifyable[]](#identifyable)* The direct past evolution of the Pokemon. Example `[{"name": "Bulbasaur","id": "BULBASAUR"}]`
+- **gender** *[PokemonGender](#pokemongender)* Information about the gender of the Pokémon
 
 ## PokemonCamera
 - **diskRadius** *number* - *Unknown*
 - **cylinderRadius** *number* - *Unknown*
 - **shoulderModeScale** *number* - *Unknown*
+
+## PokemonGender
+- **malePercent** *number* - The chance of the Pokémon being male. 100% = 1, 0% = 0 (Example: `0.875`)
+- **femalePercent** *number* - The chance of the Pokémon being female. 100% = 1, 0% = 0 (Example: `0.125`)
 
 ## PokemonStats
 - **baseStamina** *number* - The minimal / base stamina value of the Pokemon. (Example: Bulbasaur.stats.baseStamina = `90`)

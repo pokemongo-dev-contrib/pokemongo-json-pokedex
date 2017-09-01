@@ -1,5 +1,5 @@
-import { Identifyable } from '@core/identifyable';
 import { EvolutionTree } from './shared/evolution-tree'
+import { Identifyable } from '@core/identifyable';
 
 interface PokemonStats {
     baseStamina: number;
@@ -20,6 +20,25 @@ interface PokemonEncounter {
     cameraDistance: number;
     minPokemonActionFrequency: number;
     maxPokemonActionFrequency: number;
+    gender?: PokemonGender;
+}
+
+/**
+ * Information about the gender of the Pokémon
+ */
+interface PokemonGender {
+    /*
+     * The chance of the Pokémon being male. 100% = 1, 0% = 0
+     * @example
+     * 0.875
+     */
+    malePercent: number;
+    /*
+     * The chance of the Pokémon being female. 100% = 1, 0% = 0
+     * @example
+     * 0.125
+     */
+    femalePercent: number;
 }
 
 interface PokemonCamera {
@@ -28,6 +47,7 @@ interface PokemonCamera {
     cylinderGround: number;
     shoulderModeScale: number;
 }
+
 class Pokemon implements Identifyable {
     public name: string;
     public id: string;
@@ -73,4 +93,4 @@ class Pokemon implements Identifyable {
     public pastEvolutions: Identifyable[];
 }
 
-export { Pokemon };
+export { Pokemon, PokemonGender };

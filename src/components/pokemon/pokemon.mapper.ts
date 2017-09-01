@@ -1,11 +1,13 @@
-import { Pokemon } from './pokemon.model';
-import { ItemTemplate } from '@core/game_master/gameMaster';
-import { Util } from '@util';
-import { CPCalculator } from '../../core/cp-calculator';
+import { CPCalculator } from '@core/cp-calculator';
 import { DexParser } from './shared/dex-parser.component';
+import { GenderPercentParser } from './shared/gender-percent-parser.component';
+import { ItemTemplate } from '@core/game_master/gameMaster';
+import { Pokemon } from './pokemon.model';
+import { RootObject } from '@core';
+import { Util } from '@util';
 
 export class PokemonMapper {
-    public static Map(rawPokemon: ItemTemplate): Pokemon {
+    public static Map(rawPokemon: ItemTemplate, gameMaster: RootObject): Pokemon {
         let pokemon: Pokemon = new Pokemon();
         let pkmStgs = rawPokemon.pokemonSettings;
 
@@ -82,8 +84,15 @@ export class PokemonMapper {
             jumpTime: pkmStgs.encounter.jumpTimeS,
             maxPokemonActionFrequency: pkmStgs.encounter.maxPokemonActionFrequencyS,
             minPokemonActionFrequency: pkmStgs.encounter.minPokemonActionFrequencyS,
-            movementType: pkmStgs.encounter.movementType ? Util.SnakeCase2Identifyable(pkmStgs.encounter.movementType) : null
+            movementType: pkmStgs.encounter.movementType ? Util.SnakeCase2Identifyable(pkmStgs.encounter.movementType) : null,
         };
+
+        // Pokemon Gender
+        const gender = new GenderPercentParser(gameMaster).Process(pokemon.id);
+        if (gender) {
+            pokemon.encounter.gender = gender;
+        }
+
         // Pokemon Camera
         pokemon.camera = {
             cylinderGround: pkmStgs.camera.cylinderGroundM,
