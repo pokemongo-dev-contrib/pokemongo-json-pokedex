@@ -1,4 +1,4 @@
-import { CPCalculator } from '@core/cp-calculator';
+import { CPCalculator } from './shared/cp-calculator';
 import { DexParser } from './shared/dex-parser.component';
 import { GenderPercentParser } from './shared/gender-percent-parser.component';
 import { ItemTemplate } from '@core/game_master/gameMaster';
