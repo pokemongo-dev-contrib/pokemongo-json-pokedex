@@ -15846,9 +15846,9 @@
         "kmBuddyDistance": 20,
         "weight": 122,
         "stats": {
-            "baseAttack": 330,
-            "baseDefense": 200,
-            "baseStamina": 212
+            "baseAttack": 300,
+            "baseDefense": 182,
+            "baseStamina": 193
         },
         "types": [
             {
@@ -15865,7 +15865,6 @@
             "attackProbability": 0.1,
             "attackTimer": 3,
             "baseFleeRate": 0.1,
-            "baseCaptureRate": 0.02,
             "cameraDistance": 5.55,
             "collisionRadius": 0.37,
             "dodgeDistance": 1,
@@ -15884,7 +15883,7 @@
             "shoulderModeScale": 0.5
         },
         "nextEvolutionBranches": [],
-        "maxCP": 4760,
+        "maxCP": 3982,
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mewtwo",
@@ -19268,7 +19267,7 @@
         },
         "height": 0.41,
         "modelHeight": 0.4,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 3,
         "weight": 5.8,
         "stats": {
             "baseAttack": 169,
@@ -25459,7 +25458,6 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
-            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.55,
             "dodgeDistance": 1,
@@ -25555,7 +25553,6 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
-            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.55,
             "dodgeDistance": 1,
@@ -25651,7 +25648,6 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
-            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.65,
             "dodgeDistance": 1,
@@ -26188,7 +26184,6 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
-            "baseCaptureRate": 0.02,
             "cameraDistance": 4.5,
             "collisionRadius": 1.2,
             "dodgeDistance": 1,
