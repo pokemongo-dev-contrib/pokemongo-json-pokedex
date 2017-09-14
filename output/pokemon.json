@@ -15865,6 +15865,7 @@
             "attackProbability": 0.1,
             "attackTimer": 3,
             "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.06,
             "cameraDistance": 5.55,
             "collisionRadius": 0.37,
             "dodgeDistance": 1,
@@ -25458,6 +25459,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.55,
             "dodgeDistance": 1,
@@ -25553,6 +25555,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.55,
             "dodgeDistance": 1,
@@ -25616,8 +25619,8 @@
                 "id": "EXTRASENSORY_FAST"
             },
             {
-                "name": "Snarl Fast",
-                "id": "SNARL_FAST"
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
             }
         ],
         "family": {
@@ -25648,6 +25651,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
             "cameraDistance": 5.25,
             "collisionRadius": 0.65,
             "dodgeDistance": 1,
