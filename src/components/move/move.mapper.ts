@@ -1,4 +1,5 @@
 import { ItemTemplate } from '@core/game_master';
+import { DexParser } from './shared/dex-parser.component';
 import { Move } from './';
 import { Util } from '@util';
 
@@ -25,6 +26,7 @@ export class MoveMapper {
         move.energyDelta = moveStgs.energyDelta;
         move.id = moveStgs.movementId;
         move.name = Util.SnakeCase2HumanReadable(moveStgs.movementId);
+        move.dex = new DexParser().Process(rawMove.templateId)
         return move;
     }
 }
