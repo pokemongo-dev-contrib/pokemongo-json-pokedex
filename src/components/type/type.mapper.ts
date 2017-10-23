@@ -9,10 +9,13 @@ export class TypeMapper {
         type.id = rawType.templateId
         type.name = Util.SnakeCase2HumanReadable(rawType.templateId.replace('POKEMON_TYPE_', ''));
 
-        type.damage = rawType.typeEffective.attackScalar.reduce((d, t, m) => {
-          d[typeIds.get(m)] = t
-          return d
-        }, Object.create(null))
+        type.damage = [];
+        for (let i = 0; i < rawType.typeEffective.attackScalar.length; i++) {
+            type.damage.push({
+                id: typeIds.get(i),
+                attackScalar: rawType.typeEffective.attackScalar[i]
+            });
+        }
 
         return type
     }
