@@ -12,7 +12,7 @@ describe('Pokemon Output', () => {
 
     it('should have items', () => {
         expect(input.length).to.not.equal(0);
-        expect(input.length).to.equal(251);
+        expect(input.length).to.equal(386);
     });
 
     it('should have values', () => {
@@ -21,7 +21,7 @@ describe('Pokemon Output', () => {
             item => expect(item.animationTime.length).to.not.equal(0, 'animationTime length'),
             item => expect(item.id).to.not.equal(undefined, 'id'),
             item => expect(item.name).to.not.equal(undefined, 'name'),
-            item => expect(item.dex).to.be.within(1, 251, 'dex'),
+            item => expect(item.dex).to.be.within(1, 386, 'dex'),
             item => expect(Array.isArray(item.cinematicMoves)).to.equal(true, 'cinematicMoves type'),
             item => expect(item.cinematicMoves.length).to.not.equal(0, 'cinematicMoves length'),
             item => expect(Array.isArray(item.quickMoves)).to.equal(true, 'quickMoves array'),
