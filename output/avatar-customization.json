@@ -1238,6 +1238,16 @@
             "Shirt"
         ],
         "category": "Shirt",
+        "name": "Shirt Tshirt Global Goals 2017",
+        "id": "f_shirt_tshirt_global_goals_2017"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
         "name": "Shirt Tshirt Pikachu 0",
         "id": "f_shirt_tshirt_pikachu_0"
     },
@@ -2260,6 +2270,16 @@
         "category": "Shirt",
         "name": "Shirt Tshirt Geometric 2",
         "id": "m_shirt_tshirt_geometric_2"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Tshirt Global Goals 2017",
+        "id": "m_shirt_tshirt_global_goals_2017"
     },
     {
         "gender": "Male",
