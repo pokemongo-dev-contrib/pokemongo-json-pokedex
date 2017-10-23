@@ -26,7 +26,7 @@ export class MoveMapper {
         move.energyDelta = moveStgs.energyDelta;
         move.id = moveStgs.movementId;
         move.name = Util.SnakeCase2HumanReadable(moveStgs.movementId);
-        move.dex = new DexParser().Process(rawMove.templateId)
+        move.dex = new DexParser().Process(rawMove.templateId);
         return move;
     }
 }
