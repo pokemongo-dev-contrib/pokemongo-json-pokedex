@@ -10,10 +10,10 @@ export class TypeMapper {
         type.id = rawType.templateId;
         type.name = Util.SnakeCase2HumanReadable(rawType.templateId.replace('POKEMON_TYPE_', ''));
 
-        type.damage = APP_SETTINGS.POKEMON_TYPES.map((pokemonType, index) => { return {
+        type.damage = APP_SETTINGS.POKEMON_TYPES.map((pokemonType, index) => ({
             id: pokemonType.id,
             attackScalar: rawType.typeEffective.attackScalar[pokemonType.attackScalarIndex]
-        }});
+        }));
 
         return type;
     }
