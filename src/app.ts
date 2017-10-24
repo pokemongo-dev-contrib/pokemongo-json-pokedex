@@ -1,9 +1,8 @@
-import * as fs from 'fs';
-import * as path from 'path';
 import * as chalk from 'chalk';
 
 import APP_SETTINGS from '@settings/app';
 import { PokemonWriter } from '@components/pokemon/pokemon.writer';
+import { TypeWriter } from '@components/type/type.writer';
 import { MoveWriter } from '@components/move/move.writer';
 import { AvatarCustomizationWriter } from '@components/avatar-customization/avatar-customization.writer';
 
@@ -21,6 +20,13 @@ new PokemonWriter().Write().then(() => {
     console.log(err);
 });
 
+new TypeWriter().Write().then(() => {
+    console.log(`${chalk.green('✓')} Types written to ${chalk.cyan(APP_SETTINGS.TYPE_FILE)}`);
+}, (err) => {
+    console.log(`${chalk.red('×')} Failed at parsing Types`);
+    console.log(err);
+});
+
 new MoveWriter().Write().then(() => {
     console.log(`${chalk.green('✓')} Moves written to ${chalk.cyan(APP_SETTINGS.MOVE_FILE)}`);
 }, (err) => {
@@ -31,6 +37,6 @@ new MoveWriter().Write().then(() => {
 new AvatarCustomizationWriter().Write().then(() => {
     console.log(`${chalk.green('✓')} AvatarCostumization written to ${chalk.cyan(APP_SETTINGS.AVATAR_CUSTOMIZATION_FILE)}`);
 }, (err) => {
-    console.log(`${chalk.red('×')} Failed at parsing AvatarCostumization`);
+    console.log(`${chalk.red('×')} Failed at parsing AvatarCustomization`);
     console.log(err);
 });
