@@ -3,6 +3,7 @@ import { Identifyable } from '@core/identifyable';
 export class Move implements Identifyable {
     public name: string;
     public id: string;
+    public internalId: number;
     public animationId: number;
     public pokemonType: Identifyable;
     public power: number;

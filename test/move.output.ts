@@ -26,6 +26,7 @@ describe('Move Output', () => {
             item => expect(item.damageWindowEndMs).to.not.equal(undefined),
             item => expect(item.id).to.not.equal(undefined),
             item => expect(item.name).to.not.equal(undefined),
+            item => expect(item.internalId).to.not.equal(undefined)
         ];
 
         input.forEach(item => {
