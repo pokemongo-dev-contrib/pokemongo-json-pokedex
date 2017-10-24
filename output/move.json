@@ -18,7 +18,7 @@
         "energyDelta": -33,
         "id": "WRAP",
         "name": "Wrap",
-        "dex": 13
+        "internalId": 13
     },
     {
         "accuracyChange": 1,
@@ -39,7 +39,7 @@
         "energyDelta": -100,
         "id": "HYPER_BEAM",
         "name": "Hyper Beam",
-        "dex": 14
+        "internalId": 14
     },
     {
         "accuracyChange": 1,
@@ -60,7 +60,7 @@
         "energyDelta": -50,
         "id": "DARK_PULSE",
         "name": "Dark Pulse",
-        "dex": 16
+        "internalId": 16
     },
     {
         "accuracyChange": 1,
@@ -81,7 +81,7 @@
         "energyDelta": -33,
         "id": "SLUDGE",
         "name": "Sludge",
-        "dex": 18
+        "internalId": 18
     },
     {
         "accuracyChange": 1,
@@ -102,7 +102,7 @@
         "energyDelta": -33,
         "id": "VICE_GRIP",
         "name": "Vice Grip",
-        "dex": 20
+        "internalId": 20
     },
     {
         "accuracyChange": 1,
@@ -123,7 +123,7 @@
         "energyDelta": -50,
         "id": "FLAME_WHEEL",
         "name": "Flame Wheel",
-        "dex": 21
+        "internalId": 21
     },
     {
         "accuracyChange": 1,
@@ -144,7 +144,7 @@
         "energyDelta": -100,
         "id": "MEGAHORN",
         "name": "Megahorn",
-        "dex": 22
+        "internalId": 22
     },
     {
         "accuracyChange": 1,
@@ -165,7 +165,7 @@
         "energyDelta": -50,
         "id": "FLAMETHROWER",
         "name": "Flamethrower",
-        "dex": 24
+        "internalId": 24
     },
     {
         "accuracyChange": 1,
@@ -186,7 +186,7 @@
         "energyDelta": -50,
         "id": "DIG",
         "name": "Dig",
-        "dex": 26
+        "internalId": 26
     },
     {
         "accuracyChange": 1,
@@ -207,7 +207,7 @@
         "energyDelta": -50,
         "id": "CROSS_CHOP",
         "name": "Cross Chop",
-        "dex": 28
+        "internalId": 28
     },
     {
         "accuracyChange": 1,
@@ -228,7 +228,7 @@
         "energyDelta": -50,
         "id": "PSYBEAM",
         "name": "Psybeam",
-        "dex": 30
+        "internalId": 30
     },
     {
         "accuracyChange": 1,
@@ -249,7 +249,7 @@
         "energyDelta": -100,
         "id": "EARTHQUAKE",
         "name": "Earthquake",
-        "dex": 31
+        "internalId": 31
     },
     {
         "accuracyChange": 1,
@@ -270,7 +270,7 @@
         "energyDelta": -100,
         "id": "STONE_EDGE",
         "name": "Stone Edge",
-        "dex": 32
+        "internalId": 32
     },
     {
         "accuracyChange": 1,
@@ -291,7 +291,7 @@
         "energyDelta": -33,
         "id": "ICE_PUNCH",
         "name": "Ice Punch",
-        "dex": 33
+        "internalId": 33
     },
     {
         "accuracyChange": 1,
@@ -312,7 +312,7 @@
         "energyDelta": -33,
         "id": "HEART_STAMP",
         "name": "Heart Stamp",
-        "dex": 34
+        "internalId": 34
     },
     {
         "accuracyChange": 1,
@@ -333,7 +333,7 @@
         "energyDelta": -33,
         "id": "DISCHARGE",
         "name": "Discharge",
-        "dex": 35
+        "internalId": 35
     },
     {
         "accuracyChange": 1,
@@ -354,7 +354,7 @@
         "energyDelta": -100,
         "id": "FLASH_CANNON",
         "name": "Flash Cannon",
-        "dex": 36
+        "internalId": 36
     },
     {
         "accuracyChange": 1,
@@ -375,7 +375,7 @@
         "energyDelta": -33,
         "id": "DRILL_PECK",
         "name": "Drill Peck",
-        "dex": 38
+        "internalId": 38
     },
     {
         "accuracyChange": 1,
@@ -396,7 +396,7 @@
         "energyDelta": -50,
         "id": "ICE_BEAM",
         "name": "Ice Beam",
-        "dex": 39
+        "internalId": 39
     },
     {
         "accuracyChange": 1,
@@ -417,7 +417,7 @@
         "energyDelta": -100,
         "id": "BLIZZARD",
         "name": "Blizzard",
-        "dex": 40
+        "internalId": 40
     },
     {
         "accuracyChange": 1,
@@ -438,7 +438,7 @@
         "energyDelta": -100,
         "id": "HEAT_WAVE",
         "name": "Heat Wave",
-        "dex": 42
+        "internalId": 42
     },
     {
         "accuracyChange": 1,
@@ -459,7 +459,7 @@
         "energyDelta": -33,
         "id": "AERIAL_ACE",
         "name": "Aerial Ace",
-        "dex": 45
+        "internalId": 45
     },
     {
         "accuracyChange": 1,
@@ -480,7 +480,7 @@
         "energyDelta": -50,
         "id": "DRILL_RUN",
         "name": "Drill Run",
-        "dex": 46
+        "internalId": 46
     },
     {
         "accuracyChange": 1,
@@ -501,7 +501,7 @@
         "energyDelta": -100,
         "id": "PETAL_BLIZZARD",
         "name": "Petal Blizzard",
-        "dex": 47
+        "internalId": 47
     },
     {
         "accuracyChange": 1,
@@ -522,7 +522,7 @@
         "energyDelta": -50,
         "id": "MEGA_DRAIN",
         "name": "Mega Drain",
-        "dex": 48
+        "internalId": 48
     },
     {
         "accuracyChange": 1,
@@ -543,7 +543,7 @@
         "energyDelta": -50,
         "id": "BUG_BUZZ",
         "name": "Bug Buzz",
-        "dex": 49
+        "internalId": 49
     },
     {
         "accuracyChange": 1,
@@ -564,7 +564,7 @@
         "energyDelta": -33,
         "id": "POISON_FANG",
         "name": "Poison Fang",
-        "dex": 50
+        "internalId": 50
     },
     {
         "accuracyChange": 1,
@@ -585,7 +585,7 @@
         "energyDelta": -33,
         "id": "NIGHT_SLASH",
         "name": "Night Slash",
-        "dex": 51
+        "internalId": 51
     },
     {
         "accuracyChange": 1,
@@ -606,7 +606,7 @@
         "energyDelta": -33,
         "id": "BUBBLE_BEAM",
         "name": "Bubble Beam",
-        "dex": 53
+        "internalId": 53
     },
     {
         "accuracyChange": 1,
@@ -627,7 +627,7 @@
         "energyDelta": -50,
         "id": "SUBMISSION",
         "name": "Submission",
-        "dex": 54
+        "internalId": 54
     },
     {
         "accuracyChange": 1,
@@ -648,7 +648,7 @@
         "energyDelta": -33,
         "id": "LOW_SWEEP",
         "name": "Low Sweep",
-        "dex": 56
+        "internalId": 56
     },
     {
         "accuracyChange": 1,
@@ -669,7 +669,7 @@
         "energyDelta": -33,
         "id": "AQUA_JET",
         "name": "Aqua Jet",
-        "dex": 57
+        "internalId": 57
     },
     {
         "accuracyChange": 1,
@@ -690,7 +690,7 @@
         "energyDelta": -33,
         "id": "AQUA_TAIL",
         "name": "Aqua Tail",
-        "dex": 58
+        "internalId": 58
     },
     {
         "accuracyChange": 1,
@@ -711,7 +711,7 @@
         "energyDelta": -33,
         "id": "SEED_BOMB",
         "name": "Seed Bomb",
-        "dex": 59
+        "internalId": 59
     },
     {
         "accuracyChange": 1,
@@ -732,7 +732,7 @@
         "energyDelta": -33,
         "id": "PSYSHOCK",
         "name": "Psyshock",
-        "dex": 60
+        "internalId": 60
     },
     {
         "accuracyChange": 1,
@@ -753,7 +753,7 @@
         "energyDelta": -33,
         "id": "ANCIENT_POWER",
         "name": "Ancient Power",
-        "dex": 62
+        "internalId": 62
     },
     {
         "accuracyChange": 1,
@@ -774,7 +774,7 @@
         "energyDelta": -50,
         "id": "ROCK_TOMB",
         "name": "Rock Tomb",
-        "dex": 63
+        "internalId": 63
     },
     {
         "accuracyChange": 1,
@@ -795,7 +795,7 @@
         "energyDelta": -50,
         "id": "ROCK_SLIDE",
         "name": "Rock Slide",
-        "dex": 64
+        "internalId": 64
     },
     {
         "accuracyChange": 1,
@@ -816,7 +816,7 @@
         "energyDelta": -50,
         "id": "POWER_GEM",
         "name": "Power Gem",
-        "dex": 65
+        "internalId": 65
     },
     {
         "accuracyChange": 1,
@@ -837,7 +837,7 @@
         "energyDelta": -33,
         "id": "SHADOW_SNEAK",
         "name": "Shadow Sneak",
-        "dex": 66
+        "internalId": 66
     },
     {
         "accuracyChange": 1,
@@ -858,7 +858,7 @@
         "energyDelta": -33,
         "id": "SHADOW_PUNCH",
         "name": "Shadow Punch",
-        "dex": 67
+        "internalId": 67
     },
     {
         "accuracyChange": 1,
@@ -879,7 +879,7 @@
         "energyDelta": -33,
         "id": "OMINOUS_WIND",
         "name": "Ominous Wind",
-        "dex": 69
+        "internalId": 69
     },
     {
         "accuracyChange": 1,
@@ -900,7 +900,7 @@
         "energyDelta": -50,
         "id": "SHADOW_BALL",
         "name": "Shadow Ball",
-        "dex": 70
+        "internalId": 70
     },
     {
         "accuracyChange": 1,
@@ -921,7 +921,7 @@
         "energyDelta": -33,
         "id": "MAGNET_BOMB",
         "name": "Magnet Bomb",
-        "dex": 72
+        "internalId": 72
     },
     {
         "accuracyChange": 1,
@@ -942,7 +942,7 @@
         "energyDelta": -50,
         "id": "IRON_HEAD",
         "name": "Iron Head",
-        "dex": 74
+        "internalId": 74
     },
     {
         "accuracyChange": 1,
@@ -963,7 +963,7 @@
         "energyDelta": -50,
         "id": "PARABOLIC_CHARGE",
         "name": "Parabolic Charge",
-        "dex": 75
+        "internalId": 75
     },
     {
         "accuracyChange": 1,
@@ -984,7 +984,7 @@
         "energyDelta": -33,
         "id": "THUNDER_PUNCH",
         "name": "Thunder Punch",
-        "dex": 77
+        "internalId": 77
     },
     {
         "accuracyChange": 1,
@@ -1005,7 +1005,7 @@
         "energyDelta": -100,
         "id": "THUNDER",
         "name": "Thunder",
-        "dex": 78
+        "internalId": 78
     },
     {
         "accuracyChange": 1,
@@ -1026,7 +1026,7 @@
         "energyDelta": -50,
         "id": "THUNDERBOLT",
         "name": "Thunderbolt",
-        "dex": 79
+        "internalId": 79
     },
     {
         "accuracyChange": 1,
@@ -1047,7 +1047,7 @@
         "energyDelta": -33,
         "id": "TWISTER",
         "name": "Twister",
-        "dex": 80
+        "internalId": 80
     },
     {
         "accuracyChange": 1,
@@ -1068,7 +1068,7 @@
         "energyDelta": -50,
         "id": "DRAGON_PULSE",
         "name": "Dragon Pulse",
-        "dex": 82
+        "internalId": 82
     },
     {
         "accuracyChange": 1,
@@ -1089,7 +1089,7 @@
         "energyDelta": -33,
         "id": "DRAGON_CLAW",
         "name": "Dragon Claw",
-        "dex": 83
+        "internalId": 83
     },
     {
         "accuracyChange": 1,
@@ -1110,7 +1110,7 @@
         "energyDelta": -33,
         "id": "DISARMING_VOICE",
         "name": "Disarming Voice",
-        "dex": 84
+        "internalId": 84
     },
     {
         "accuracyChange": 1,
@@ -1131,7 +1131,7 @@
         "energyDelta": -50,
         "id": "DRAINING_KISS",
         "name": "Draining Kiss",
-        "dex": 85
+        "internalId": 85
     },
     {
         "accuracyChange": 1,
@@ -1152,7 +1152,7 @@
         "energyDelta": -50,
         "id": "DAZZLING_GLEAM",
         "name": "Dazzling Gleam",
-        "dex": 86
+        "internalId": 86
     },
     {
         "accuracyChange": 1,
@@ -1173,7 +1173,7 @@
         "energyDelta": -100,
         "id": "MOONBLAST",
         "name": "Moonblast",
-        "dex": 87
+        "internalId": 87
     },
     {
         "accuracyChange": 1,
@@ -1194,7 +1194,7 @@
         "energyDelta": -50,
         "id": "PLAY_ROUGH",
         "name": "Play Rough",
-        "dex": 88
+        "internalId": 88
     },
     {
         "accuracyChange": 1,
@@ -1215,7 +1215,7 @@
         "energyDelta": -33,
         "id": "CROSS_POISON",
         "name": "Cross Poison",
-        "dex": 89
+        "internalId": 89
     },
     {
         "accuracyChange": 1,
@@ -1236,7 +1236,7 @@
         "energyDelta": -50,
         "id": "SLUDGE_BOMB",
         "name": "Sludge Bomb",
-        "dex": 90
+        "internalId": 90
     },
     {
         "accuracyChange": 1,
@@ -1257,7 +1257,7 @@
         "energyDelta": -100,
         "id": "SLUDGE_WAVE",
         "name": "Sludge Wave",
-        "dex": 91
+        "internalId": 91
     },
     {
         "accuracyChange": 1,
@@ -1278,7 +1278,7 @@
         "energyDelta": -100,
         "id": "GUNK_SHOT",
         "name": "Gunk Shot",
-        "dex": 92
+        "internalId": 92
     },
     {
         "accuracyChange": 1,
@@ -1299,7 +1299,7 @@
         "energyDelta": -33,
         "id": "BONE_CLUB",
         "name": "Bone Club",
-        "dex": 94
+        "internalId": 94
     },
     {
         "accuracyChange": 1,
@@ -1320,7 +1320,7 @@
         "energyDelta": -50,
         "id": "BULLDOZE",
         "name": "Bulldoze",
-        "dex": 95
+        "internalId": 95
     },
     {
         "accuracyChange": 1,
@@ -1341,7 +1341,7 @@
         "energyDelta": -33,
         "id": "MUD_BOMB",
         "name": "Mud Bomb",
-        "dex": 96
+        "internalId": 96
     },
     {
         "accuracyChange": 1,
@@ -1362,7 +1362,7 @@
         "energyDelta": -50,
         "id": "SIGNAL_BEAM",
         "name": "Signal Beam",
-        "dex": 99
+        "internalId": 99
     },
     {
         "accuracyChange": 1,
@@ -1383,7 +1383,7 @@
         "energyDelta": -33,
         "id": "X_SCISSOR",
         "name": "X Scissor",
-        "dex": 100
+        "internalId": 100
     },
     {
         "accuracyChange": 1,
@@ -1404,7 +1404,7 @@
         "energyDelta": -33,
         "id": "FLAME_CHARGE",
         "name": "Flame Charge",
-        "dex": 101
+        "internalId": 101
     },
     {
         "accuracyChange": 1,
@@ -1425,7 +1425,7 @@
         "energyDelta": -50,
         "id": "FLAME_BURST",
         "name": "Flame Burst",
-        "dex": 102
+        "internalId": 102
     },
     {
         "accuracyChange": 1,
@@ -1446,7 +1446,7 @@
         "energyDelta": -100,
         "id": "FIRE_BLAST",
         "name": "Fire Blast",
-        "dex": 103
+        "internalId": 103
     },
     {
         "accuracyChange": 1,
@@ -1467,7 +1467,7 @@
         "energyDelta": -50,
         "id": "BRINE",
         "name": "Brine",
-        "dex": 104
+        "internalId": 104
     },
     {
         "accuracyChange": 1,
@@ -1488,7 +1488,7 @@
         "energyDelta": -50,
         "id": "WATER_PULSE",
         "name": "Water Pulse",
-        "dex": 105
+        "internalId": 105
     },
     {
         "accuracyChange": 1,
@@ -1509,7 +1509,7 @@
         "energyDelta": -50,
         "id": "SCALD",
         "name": "Scald",
-        "dex": 106
+        "internalId": 106
     },
     {
         "accuracyChange": 1,
@@ -1530,7 +1530,7 @@
         "energyDelta": -100,
         "id": "HYDRO_PUMP",
         "name": "Hydro Pump",
-        "dex": 107
+        "internalId": 107
     },
     {
         "accuracyChange": 1,
@@ -1551,7 +1551,7 @@
         "energyDelta": -100,
         "id": "PSYCHIC",
         "name": "Psychic",
-        "dex": 108
+        "internalId": 108
     },
     {
         "accuracyChange": 1,
@@ -1572,7 +1572,7 @@
         "energyDelta": -50,
         "id": "PSYSTRIKE",
         "name": "Psystrike",
-        "dex": 109
+        "internalId": 109
     },
     {
         "accuracyChange": 1,
@@ -1593,7 +1593,7 @@
         "energyDelta": -33,
         "id": "ICY_WIND",
         "name": "Icy Wind",
-        "dex": 111
+        "internalId": 111
     },
     {
         "accuracyChange": 1,
@@ -1614,7 +1614,7 @@
         "energyDelta": -100,
         "id": "GIGA_DRAIN",
         "name": "Giga Drain",
-        "dex": 114
+        "internalId": 114
     },
     {
         "accuracyChange": 1,
@@ -1635,7 +1635,7 @@
         "energyDelta": -33,
         "id": "FIRE_PUNCH",
         "name": "Fire Punch",
-        "dex": 115
+        "internalId": 115
     },
     {
         "accuracyChange": 1,
@@ -1656,7 +1656,7 @@
         "energyDelta": -100,
         "id": "SOLAR_BEAM",
         "name": "Solar Beam",
-        "dex": 116
+        "internalId": 116
     },
     {
         "accuracyChange": 1,
@@ -1677,7 +1677,7 @@
         "energyDelta": -33,
         "id": "LEAF_BLADE",
         "name": "Leaf Blade",
-        "dex": 117
+        "internalId": 117
     },
     {
         "accuracyChange": 1,
@@ -1697,7 +1697,7 @@
         "energyDelta": -50,
         "id": "POWER_WHIP",
         "name": "Power Whip",
-        "dex": 118
+        "internalId": 118
     },
     {
         "accuracyChange": 1,
@@ -1718,7 +1718,7 @@
         "energyDelta": -50,
         "id": "AIR_CUTTER",
         "name": "Air Cutter",
-        "dex": 121
+        "internalId": 121
     },
     {
         "accuracyChange": 1,
@@ -1739,7 +1739,7 @@
         "energyDelta": -100,
         "id": "HURRICANE",
         "name": "Hurricane",
-        "dex": 122
+        "internalId": 122
     },
     {
         "accuracyChange": 1,
@@ -1760,7 +1760,7 @@
         "energyDelta": -33,
         "id": "BRICK_BREAK",
         "name": "Brick Break",
-        "dex": 123
+        "internalId": 123
     },
     {
         "accuracyChange": 1,
@@ -1781,7 +1781,7 @@
         "energyDelta": -50,
         "id": "SWIFT",
         "name": "Swift",
-        "dex": 125
+        "internalId": 125
     },
     {
         "accuracyChange": 1,
@@ -1802,7 +1802,7 @@
         "energyDelta": -33,
         "id": "HORN_ATTACK",
         "name": "Horn Attack",
-        "dex": 126
+        "internalId": 126
     },
     {
         "accuracyChange": 1,
@@ -1823,7 +1823,7 @@
         "energyDelta": -50,
         "id": "STOMP",
         "name": "Stomp",
-        "dex": 127
+        "internalId": 127
     },
     {
         "accuracyChange": 1,
@@ -1844,7 +1844,7 @@
         "energyDelta": -50,
         "id": "HYPER_FANG",
         "name": "Hyper Fang",
-        "dex": 129
+        "internalId": 129
     },
     {
         "accuracyChange": 1,
@@ -1865,7 +1865,7 @@
         "energyDelta": -33,
         "id": "BODY_SLAM",
         "name": "Body Slam",
-        "dex": 131
+        "internalId": 131
     },
     {
         "accuracyChange": 1,
@@ -1884,7 +1884,7 @@
         "energyDelta": -33,
         "id": "REST",
         "name": "Rest",
-        "dex": 132
+        "internalId": 132
     },
     {
         "accuracyChange": 1,
@@ -1903,7 +1903,7 @@
         "damageWindowEndMs": 2000,
         "id": "STRUGGLE",
         "name": "Struggle",
-        "dex": 133
+        "internalId": 133
     },
     {
         "accuracyChange": 1,
@@ -1924,7 +1924,7 @@
         "energyDelta": -100,
         "id": "SCALD_BLASTOISE",
         "name": "Scald Blastoise",
-        "dex": 134
+        "internalId": 134
     },
     {
         "accuracyChange": 1,
@@ -1945,7 +1945,7 @@
         "energyDelta": -100,
         "id": "HYDRO_PUMP_BLASTOISE",
         "name": "Hydro Pump Blastoise",
-        "dex": 135
+        "internalId": 135
     },
     {
         "accuracyChange": 1,
@@ -1966,7 +1966,7 @@
         "energyDelta": -33,
         "id": "WRAP_GREEN",
         "name": "Wrap Green",
-        "dex": 136
+        "internalId": 136
     },
     {
         "accuracyChange": 1,
@@ -1987,7 +1987,7 @@
         "energyDelta": -33,
         "id": "WRAP_PINK",
         "name": "Wrap Pink",
-        "dex": 137
+        "internalId": 137
     },
     {
         "accuracyChange": 1,
@@ -2007,7 +2007,7 @@
         "energyDelta": 6,
         "id": "FURY_CUTTER_FAST",
         "name": "Fury Cutter Fast",
-        "dex": 200
+        "internalId": 200
     },
     {
         "accuracyChange": 1,
@@ -2027,7 +2027,7 @@
         "energyDelta": 6,
         "id": "BUG_BITE_FAST",
         "name": "Bug Bite Fast",
-        "dex": 201
+        "internalId": 201
     },
     {
         "accuracyChange": 1,
@@ -2047,7 +2047,7 @@
         "energyDelta": 4,
         "id": "BITE_FAST",
         "name": "Bite Fast",
-        "dex": 202
+        "internalId": 202
     },
     {
         "accuracyChange": 1,
@@ -2067,7 +2067,7 @@
         "energyDelta": 8,
         "id": "SUCKER_PUNCH_FAST",
         "name": "Sucker Punch Fast",
-        "dex": 203
+        "internalId": 203
     },
     {
         "accuracyChange": 1,
@@ -2087,7 +2087,7 @@
         "energyDelta": 4,
         "id": "DRAGON_BREATH_FAST",
         "name": "Dragon Breath Fast",
-        "dex": 204
+        "internalId": 204
     },
     {
         "accuracyChange": 1,
@@ -2107,7 +2107,7 @@
         "energyDelta": 8,
         "id": "THUNDER_SHOCK_FAST",
         "name": "Thunder Shock Fast",
-        "dex": 205
+        "internalId": 205
     },
     {
         "accuracyChange": 1,
@@ -2127,7 +2127,7 @@
         "energyDelta": 9,
         "id": "SPARK_FAST",
         "name": "Spark Fast",
-        "dex": 206
+        "internalId": 206
     },
     {
         "accuracyChange": 1,
@@ -2147,7 +2147,7 @@
         "energyDelta": 6,
         "id": "LOW_KICK_FAST",
         "name": "Low Kick Fast",
-        "dex": 207
+        "internalId": 207
     },
     {
         "accuracyChange": 1,
@@ -2167,7 +2167,7 @@
         "energyDelta": 10,
         "id": "KARATE_CHOP_FAST",
         "name": "Karate Chop Fast",
-        "dex": 208
+        "internalId": 208
     },
     {
         "accuracyChange": 1,
@@ -2187,7 +2187,7 @@
         "energyDelta": 10,
         "id": "EMBER_FAST",
         "name": "Ember Fast",
-        "dex": 209
+        "internalId": 209
     },
     {
         "accuracyChange": 1,
@@ -2207,7 +2207,7 @@
         "energyDelta": 9,
         "id": "WING_ATTACK_FAST",
         "name": "Wing Attack Fast",
-        "dex": 210
+        "internalId": 210
     },
     {
         "accuracyChange": 1,
@@ -2227,7 +2227,7 @@
         "energyDelta": 10,
         "id": "PECK_FAST",
         "name": "Peck Fast",
-        "dex": 211
+        "internalId": 211
     },
     {
         "accuracyChange": 1,
@@ -2247,7 +2247,7 @@
         "energyDelta": 6,
         "id": "LICK_FAST",
         "name": "Lick Fast",
-        "dex": 212
+        "internalId": 212
     },
     {
         "accuracyChange": 1,
@@ -2267,7 +2267,7 @@
         "energyDelta": 6,
         "id": "SHADOW_CLAW_FAST",
         "name": "Shadow Claw Fast",
-        "dex": 213
+        "internalId": 213
     },
     {
         "accuracyChange": 1,
@@ -2287,7 +2287,7 @@
         "energyDelta": 6,
         "id": "VINE_WHIP_FAST",
         "name": "Vine Whip Fast",
-        "dex": 214
+        "internalId": 214
     },
     {
         "accuracyChange": 1,
@@ -2307,7 +2307,7 @@
         "energyDelta": 7,
         "id": "RAZOR_LEAF_FAST",
         "name": "Razor Leaf Fast",
-        "dex": 215
+        "internalId": 215
     },
     {
         "accuracyChange": 1,
@@ -2327,7 +2327,7 @@
         "energyDelta": 7,
         "id": "MUD_SHOT_FAST",
         "name": "Mud Shot Fast",
-        "dex": 216
+        "internalId": 216
     },
     {
         "accuracyChange": 1,
@@ -2347,7 +2347,7 @@
         "energyDelta": 12,
         "id": "ICE_SHARD_FAST",
         "name": "Ice Shard Fast",
-        "dex": 217
+        "internalId": 217
     },
     {
         "accuracyChange": 1,
@@ -2367,7 +2367,7 @@
         "energyDelta": 8,
         "id": "FROST_BREATH_FAST",
         "name": "Frost Breath Fast",
-        "dex": 218
+        "internalId": 218
     },
     {
         "accuracyChange": 1,
@@ -2387,7 +2387,7 @@
         "energyDelta": 10,
         "id": "QUICK_ATTACK_FAST",
         "name": "Quick Attack Fast",
-        "dex": 219
+        "internalId": 219
     },
     {
         "accuracyChange": 1,
@@ -2407,7 +2407,7 @@
         "energyDelta": 4,
         "id": "SCRATCH_FAST",
         "name": "Scratch Fast",
-        "dex": 220
+        "internalId": 220
     },
     {
         "accuracyChange": 1,
@@ -2427,7 +2427,7 @@
         "energyDelta": 5,
         "id": "TACKLE_FAST",
         "name": "Tackle Fast",
-        "dex": 221
+        "internalId": 221
     },
     {
         "accuracyChange": 1,
@@ -2447,7 +2447,7 @@
         "energyDelta": 6,
         "id": "POUND_FAST",
         "name": "Pound Fast",
-        "dex": 222
+        "internalId": 222
     },
     {
         "accuracyChange": 1,
@@ -2467,7 +2467,7 @@
         "energyDelta": 5,
         "id": "CUT_FAST",
         "name": "Cut Fast",
-        "dex": 223
+        "internalId": 223
     },
     {
         "accuracyChange": 1,
@@ -2487,7 +2487,7 @@
         "energyDelta": 7,
         "id": "POISON_JAB_FAST",
         "name": "Poison Jab Fast",
-        "dex": 224
+        "internalId": 224
     },
     {
         "accuracyChange": 1,
@@ -2507,7 +2507,7 @@
         "energyDelta": 8,
         "id": "ACID_FAST",
         "name": "Acid Fast",
-        "dex": 225
+        "internalId": 225
     },
     {
         "accuracyChange": 1,
@@ -2527,7 +2527,7 @@
         "energyDelta": 8,
         "id": "PSYCHO_CUT_FAST",
         "name": "Psycho Cut Fast",
-        "dex": 226
+        "internalId": 226
     },
     {
         "accuracyChange": 1,
@@ -2547,7 +2547,7 @@
         "energyDelta": 7,
         "id": "ROCK_THROW_FAST",
         "name": "Rock Throw Fast",
-        "dex": 227
+        "internalId": 227
     },
     {
         "accuracyChange": 1,
@@ -2567,7 +2567,7 @@
         "energyDelta": 7,
         "id": "METAL_CLAW_FAST",
         "name": "Metal Claw Fast",
-        "dex": 228
+        "internalId": 228
     },
     {
         "accuracyChange": 1,
@@ -2587,7 +2587,7 @@
         "energyDelta": 10,
         "id": "BULLET_PUNCH_FAST",
         "name": "Bullet Punch Fast",
-        "dex": 229
+        "internalId": 229
     },
     {
         "accuracyChange": 1,
@@ -2607,7 +2607,7 @@
         "energyDelta": 5,
         "id": "WATER_GUN_FAST",
         "name": "Water Gun Fast",
-        "dex": 230
+        "internalId": 230
     },
     {
         "accuracyChange": 1,
@@ -2626,7 +2626,7 @@
         "energyDelta": 20,
         "id": "SPLASH_FAST",
         "name": "Splash Fast",
-        "dex": 231
+        "internalId": 231
     },
     {
         "accuracyChange": 1,
@@ -2646,7 +2646,7 @@
         "energyDelta": 6,
         "id": "WATER_GUN_FAST_BLASTOISE",
         "name": "Water Gun Fast Blastoise",
-        "dex": 232
+        "internalId": 232
     },
     {
         "accuracyChange": 1,
@@ -2666,7 +2666,7 @@
         "energyDelta": 12,
         "id": "MUD_SLAP_FAST",
         "name": "Mud Slap Fast",
-        "dex": 233
+        "internalId": 233
     },
     {
         "accuracyChange": 1,
@@ -2686,7 +2686,7 @@
         "energyDelta": 10,
         "id": "ZEN_HEADBUTT_FAST",
         "name": "Zen Headbutt Fast",
-        "dex": 234
+        "internalId": 234
     },
     {
         "accuracyChange": 1,
@@ -2706,7 +2706,7 @@
         "energyDelta": 15,
         "id": "CONFUSION_FAST",
         "name": "Confusion Fast",
-        "dex": 235
+        "internalId": 235
     },
     {
         "accuracyChange": 1,
@@ -2726,7 +2726,7 @@
         "energyDelta": 7,
         "id": "POISON_STING_FAST",
         "name": "Poison Sting Fast",
-        "dex": 236
+        "internalId": 236
     },
     {
         "accuracyChange": 1,
@@ -2746,7 +2746,7 @@
         "energyDelta": 14,
         "id": "BUBBLE_FAST",
         "name": "Bubble Fast",
-        "dex": 237
+        "internalId": 237
     },
     {
         "accuracyChange": 1,
@@ -2766,7 +2766,7 @@
         "energyDelta": 9,
         "id": "FEINT_ATTACK_FAST",
         "name": "Feint Attack Fast",
-        "dex": 238
+        "internalId": 238
     },
     {
         "accuracyChange": 1,
@@ -2786,7 +2786,7 @@
         "energyDelta": 6,
         "id": "STEEL_WING_FAST",
         "name": "Steel Wing Fast",
-        "dex": 239
+        "internalId": 239
     },
     {
         "accuracyChange": 1,
@@ -2806,7 +2806,7 @@
         "energyDelta": 8,
         "id": "FIRE_FANG_FAST",
         "name": "Fire Fang Fast",
-        "dex": 240
+        "internalId": 240
     },
     {
         "accuracyChange": 1,
@@ -2826,7 +2826,7 @@
         "energyDelta": 10,
         "id": "ROCK_SMASH_FAST",
         "name": "Rock Smash Fast",
-        "dex": 241
+        "internalId": 241
     },
     {
         "accuracyChange": 1,
@@ -2844,7 +2844,7 @@
         "damageWindowEndMs": 700,
         "id": "TRANSFORM_FAST",
         "name": "Transform Fast",
-        "dex": 242
+        "internalId": 242
     },
     {
         "accuracyChange": 1,
@@ -2864,7 +2864,7 @@
         "energyDelta": 8,
         "id": "COUNTER_FAST",
         "name": "Counter Fast",
-        "dex": 243
+        "internalId": 243
     },
     {
         "accuracyChange": 1,
@@ -2884,7 +2884,7 @@
         "energyDelta": 15,
         "id": "POWDER_SNOW_FAST",
         "name": "Powder Snow Fast",
-        "dex": 244
+        "internalId": 244
     },
     {
         "accuracyChange": 1,
@@ -2905,7 +2905,7 @@
         "energyDelta": -100,
         "id": "CLOSE_COMBAT",
         "name": "Close Combat",
-        "dex": 245
+        "internalId": 245
     },
     {
         "accuracyChange": 1,
@@ -2926,7 +2926,7 @@
         "energyDelta": -50,
         "id": "DYNAMIC_PUNCH",
         "name": "Dynamic Punch",
-        "dex": 246
+        "internalId": 246
     },
     {
         "accuracyChange": 1,
@@ -2947,7 +2947,7 @@
         "energyDelta": -100,
         "id": "FOCUS_BLAST",
         "name": "Focus Blast",
-        "dex": 247
+        "internalId": 247
     },
     {
         "accuracyChange": 1,
@@ -2968,7 +2968,7 @@
         "energyDelta": -50,
         "id": "AURORA_BEAM",
         "name": "Aurora Beam",
-        "dex": 248
+        "internalId": 248
     },
     {
         "accuracyChange": 1,
@@ -2988,7 +2988,7 @@
         "energyDelta": 15,
         "id": "CHARGE_BEAM_FAST",
         "name": "Charge Beam Fast",
-        "dex": 249
+        "internalId": 249
     },
     {
         "accuracyChange": 1,
@@ -3008,7 +3008,7 @@
         "energyDelta": 25,
         "id": "VOLT_SWITCH_FAST",
         "name": "Volt Switch Fast",
-        "dex": 250
+        "internalId": 250
     },
     {
         "accuracyChange": 1,
@@ -3029,7 +3029,7 @@
         "energyDelta": -50,
         "id": "WILD_CHARGE",
         "name": "Wild Charge",
-        "dex": 251
+        "internalId": 251
     },
     {
         "accuracyChange": 1,
@@ -3050,7 +3050,7 @@
         "energyDelta": -100,
         "id": "ZAP_CANNON",
         "name": "Zap Cannon",
-        "dex": 252
+        "internalId": 252
     },
     {
         "accuracyChange": 1,
@@ -3070,7 +3070,7 @@
         "energyDelta": 9,
         "id": "DRAGON_TAIL_FAST",
         "name": "Dragon Tail Fast",
-        "dex": 253
+        "internalId": 253
     },
     {
         "accuracyChange": 1,
@@ -3091,7 +3091,7 @@
         "energyDelta": -50,
         "id": "AVALANCHE",
         "name": "Avalanche",
-        "dex": 254
+        "internalId": 254
     },
     {
         "accuracyChange": 1,
@@ -3111,7 +3111,7 @@
         "energyDelta": 10,
         "id": "AIR_SLASH_FAST",
         "name": "Air Slash Fast",
-        "dex": 255
+        "internalId": 255
     },
     {
         "accuracyChange": 1,
@@ -3132,7 +3132,7 @@
         "energyDelta": -100,
         "id": "BRAVE_BIRD",
         "name": "Brave Bird",
-        "dex": 256
+        "internalId": 256
     },
     {
         "accuracyChange": 1,
@@ -3153,7 +3153,7 @@
         "energyDelta": -50,
         "id": "SKY_ATTACK",
         "name": "Sky Attack",
-        "dex": 257
+        "internalId": 257
     },
     {
         "accuracyChange": 1,
@@ -3174,7 +3174,7 @@
         "energyDelta": -50,
         "id": "SAND_TOMB",
         "name": "Sand Tomb",
-        "dex": 258
+        "internalId": 258
     },
     {
         "accuracyChange": 1,
@@ -3195,7 +3195,7 @@
         "energyDelta": -33,
         "id": "ROCK_BLAST",
         "name": "Rock Blast",
-        "dex": 259
+        "internalId": 259
     },
     {
         "accuracyChange": 1,
@@ -3215,7 +3215,7 @@
         "energyDelta": 14,
         "id": "INFESTATION_FAST",
         "name": "Infestation Fast",
-        "dex": 260
+        "internalId": 260
     },
     {
         "accuracyChange": 1,
@@ -3235,7 +3235,7 @@
         "energyDelta": 15,
         "id": "STRUGGLE_BUG_FAST",
         "name": "Struggle Bug Fast",
-        "dex": 261
+        "internalId": 261
     },
     {
         "accuracyChange": 1,
@@ -3256,7 +3256,7 @@
         "energyDelta": -33,
         "id": "SILVER_WIND",
         "name": "Silver Wind",
-        "dex": 262
+        "internalId": 262
     },
     {
         "accuracyChange": 1,
@@ -3276,7 +3276,7 @@
         "energyDelta": 14,
         "id": "ASTONISH_FAST",
         "name": "Astonish Fast",
-        "dex": 263
+        "internalId": 263
     },
     {
         "accuracyChange": 1,
@@ -3296,7 +3296,7 @@
         "energyDelta": 15,
         "id": "HEX_FAST",
         "name": "Hex Fast",
-        "dex": 264
+        "internalId": 264
     },
     {
         "accuracyChange": 1,
@@ -3317,7 +3317,7 @@
         "energyDelta": -50,
         "id": "NIGHT_SHADE",
         "name": "Night Shade",
-        "dex": 265
+        "internalId": 265
     },
     {
         "accuracyChange": 1,
@@ -3337,7 +3337,7 @@
         "energyDelta": 7,
         "id": "IRON_TAIL_FAST",
         "name": "Iron Tail Fast",
-        "dex": 266
+        "internalId": 266
     },
     {
         "accuracyChange": 1,
@@ -3358,7 +3358,7 @@
         "energyDelta": -50,
         "id": "GYRO_BALL",
         "name": "Gyro Ball",
-        "dex": 267
+        "internalId": 267
     },
     {
         "accuracyChange": 1,
@@ -3379,7 +3379,7 @@
         "energyDelta": -50,
         "id": "HEAVY_SLAM",
         "name": "Heavy Slam",
-        "dex": 268
+        "internalId": 268
     },
     {
         "accuracyChange": 1,
@@ -3399,7 +3399,7 @@
         "energyDelta": 10,
         "id": "FIRE_SPIN_FAST",
         "name": "Fire Spin Fast",
-        "dex": 269
+        "internalId": 269
     },
     {
         "accuracyChange": 1,
@@ -3420,7 +3420,7 @@
         "energyDelta": -100,
         "id": "OVERHEAT",
         "name": "Overheat",
-        "dex": 270
+        "internalId": 270
     },
     {
         "accuracyChange": 1,
@@ -3440,7 +3440,7 @@
         "energyDelta": 14,
         "id": "BULLET_SEED_FAST",
         "name": "Bullet Seed Fast",
-        "dex": 271
+        "internalId": 271
     },
     {
         "accuracyChange": 1,
@@ -3461,7 +3461,7 @@
         "energyDelta": -50,
         "id": "GRASS_KNOT",
         "name": "Grass Knot",
-        "dex": 272
+        "internalId": 272
     },
     {
         "accuracyChange": 1,
@@ -3482,7 +3482,7 @@
         "energyDelta": -50,
         "id": "ENERGY_BALL",
         "name": "Energy Ball",
-        "dex": 273
+        "internalId": 273
     },
     {
         "accuracyChange": 1,
@@ -3502,7 +3502,7 @@
         "energyDelta": 12,
         "id": "EXTRASENSORY_FAST",
         "name": "Extrasensory Fast",
-        "dex": 274
+        "internalId": 274
     },
     {
         "accuracyChange": 1,
@@ -3523,7 +3523,7 @@
         "energyDelta": -100,
         "id": "FUTURESIGHT",
         "name": "Futuresight",
-        "dex": 275
+        "internalId": 275
     },
     {
         "accuracyChange": 1,
@@ -3544,7 +3544,7 @@
         "energyDelta": -50,
         "id": "MIRROR_COAT",
         "name": "Mirror Coat",
-        "dex": 276
+        "internalId": 276
     },
     {
         "accuracyChange": 1,
@@ -3565,7 +3565,7 @@
         "energyDelta": -50,
         "id": "OUTRAGE",
         "name": "Outrage",
-        "dex": 277
+        "internalId": 277
     },
     {
         "accuracyChange": 1,
@@ -3585,7 +3585,7 @@
         "energyDelta": 12,
         "id": "SNARL_FAST",
         "name": "Snarl Fast",
-        "dex": 278
+        "internalId": 278
     },
     {
         "accuracyChange": 1,
@@ -3606,7 +3606,7 @@
         "energyDelta": -33,
         "id": "CRUNCH",
         "name": "Crunch",
-        "dex": 279
+        "internalId": 279
     },
     {
         "accuracyChange": 1,
@@ -3627,7 +3627,7 @@
         "energyDelta": -50,
         "id": "FOUL_PLAY",
         "name": "Foul Play",
-        "dex": 280
+        "internalId": 280
     },
     {
         "accuracyChange": 1,
@@ -3648,6 +3648,6 @@
         "energyDelta": 15,
         "id": "HIDDEN_POWER_FAST",
         "name": "Hidden Power Fast",
-        "dex": 281
+        "internalId": 281
     }
 ]
