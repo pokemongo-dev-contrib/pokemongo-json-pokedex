@@ -26,6 +26,7 @@ export class MoveMapper {
         move.energyDelta = moveStgs.energyDelta;
         move.id = moveStgs.movementId;
         move.name = Util.SnakeCase2HumanReadable(moveStgs.movementId);
+        move.internalId = new InternalIdParser().Process(rawMove.templateId);
         return move;
     }
 }
