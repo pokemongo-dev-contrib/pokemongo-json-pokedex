@@ -1,6 +1,6 @@
 # Models
 
-## Pokemon
+# Pokemon
 
 - **name** *string* - The name of the Pokemon (Example: `Bulbasaur` or `Ho Oh`)
 - **id** *string* - An unique identfier for the Pokemon (Example: `BULBASAUR` or `HO_OH`)
@@ -55,6 +55,17 @@
 - **maxPokemonActionFrequency** *number* - *Unknown* (Example: Bulbasaur.encounter.maxPokemonActionFrequency = `1.6`)
 - **minPokemonActionFrequency** *number* - *Unknown* (Example: Bulbasaur.encounter.minPokemonActionFrequency = `0.2`)
 - **movementType** *[Identifyable](#identifyable)* - The type of the movement the Pokemon does, like jump or flying (Example: `{"id": "MOVEMENT_FLYING", "name": "Movement Flying"}`)
+
+# AvatarCustomization
+- **name** *string* - The name of the Avatar Customization (Example: `Backpack Default 0`)
+- **enabled** *boolean* - If it is enabled in the shop or not (Example: `true` or `false`)
+- **gender** *string* - For which gender the customization is (Example: `male` or `female`)
+- **slot** *string[]* - In which slot the customization can be used (Example: `Shoes`, `Shirt`)
+- **id** *string* - The unique identification (Example: `f_shirt_tshirt_pikachu_6`)
+- **unlockPlayerLebel** *number* - When the player unlocks this customization (Example: `30`)
+- **category** *string* - In which category this customization is (Example: `Shirt`, `Shoes`)
+
+# General
 
 ## Identifyable
 - **id** *string* The unique identification
