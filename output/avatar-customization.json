@@ -63,6 +63,16 @@
         "gender": "Female",
         "enabled": true,
         "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
+        "name": "Backpack Ultra 0",
+        "id": "f_backpack_ultra"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
             "Belt"
         ],
         "category": "Belt",
@@ -616,8 +626,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Mimikyu 0",
+        "id": "f_hat_mimikyu_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Tophat 0",
         "id": "f_hat_tophat_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Ultra 0",
+        "id": "f_hat_ultra_0"
     },
     {
         "gender": "Female",
@@ -928,6 +958,16 @@
         "category": "Pants",
         "name": "Pants Turbine 2",
         "id": "f_pants_miniskirt_turbine_2"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Ultra 0",
+        "id": "f_pants_ultra_0"
     },
     {
         "gender": "Female",
@@ -1315,6 +1355,16 @@
         "gender": "Female",
         "enabled": true,
         "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Ultra 0",
+        "id": "f_shirt_ultra_0"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
             "Shoes"
         ],
         "category": "Shoes",
@@ -1390,6 +1440,16 @@
         "category": "Shoes",
         "name": "Shoes Empty",
         "id": "f_shoes_empty"
+    },
+    {
+        "gender": "Female",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Ultra 0",
+        "id": "f_shoes_ultra_0"
     },
     {
         "gender": "Female",
@@ -1510,6 +1570,16 @@
         "category": "Backpack",
         "name": "Backpack Empty",
         "id": "m_backpack_empty"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack",
+        "name": "Backpack Ultra 0",
+        "id": "m_backpack_ultra"
     },
     {
         "gender": "Male",
@@ -1888,8 +1958,28 @@
             "Hat"
         ],
         "category": "Hat",
+        "name": "Hat Mimikyu 0",
+        "id": "m_hat_mimikyu_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
         "name": "Hat Tophat 0",
         "id": "m_hat_tophat_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat",
+        "name": "Hat Ultra 0",
+        "id": "m_hat_ultra_0"
     },
     {
         "gender": "Male",
@@ -1980,6 +2070,16 @@
         "category": "Pants",
         "name": "Pants Sweats 4",
         "id": "m_pants_sweats_4"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants",
+        "name": "Pants Ultra 0",
+        "id": "m_pants_ultra_0"
     },
     {
         "gender": "Male",
@@ -2359,6 +2459,16 @@
         "gender": "Male",
         "enabled": true,
         "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt",
+        "name": "Shirt Ultra 0",
+        "id": "m_shirt_ultra_0"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
             "Shoes"
         ],
         "category": "Shoes",
@@ -2434,6 +2544,16 @@
         "category": "Shoes",
         "name": "Shoes Empty",
         "id": "m_shoes_empty"
+    },
+    {
+        "gender": "Male",
+        "enabled": true,
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes",
+        "name": "Shoes Ultra 0",
+        "id": "m_shoes_ultra_0"
     },
     {
         "gender": "Male",

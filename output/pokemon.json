@@ -26194,6 +26194,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
             "cameraDistance": 4.5,
             "collisionRadius": 1.2,
             "dodgeDistance": 1,
@@ -31133,7 +31134,7 @@
                 "name": "Ghost"
             }
         ],
-        "modelScale": 25,
+        "modelScale": 1.35,
         "encounter": {
             "attackProbability": 0.3,
             "attackTimer": 20,
@@ -32832,7 +32833,7 @@
             "name": "Wailmer"
         },
         "height": 14.5,
-        "modelHeight": 16.859,
+        "modelHeight": 2,
         "kmBuddyDistance": 5,
         "weight": 398,
         "stats": {
