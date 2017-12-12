@@ -3649,5 +3649,204 @@
         "id": "HIDDEN_POWER_FAST",
         "name": "Hidden Power Fast",
         "internalId": 281
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "power": 8,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "take_down_fast",
+        "durationMs": 1200,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 10,
+        "id": "TAKE_DOWN_FAST",
+        "name": "Take Down Fast",
+        "internalId": 282
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "power": 16,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "waterfall_fast",
+        "durationMs": 1200,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 8,
+        "id": "WATERFALL_FAST",
+        "name": "Waterfall Fast",
+        "internalId": 283
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "power": 65,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "surf",
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50,
+        "id": "SURF",
+        "name": "Surf",
+        "internalId": 284
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "power": 150,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "draco_meteor",
+        "durationMs": 3600,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100,
+        "id": "DRACO_METEOR",
+        "name": "Draco Meteor",
+        "internalId": 285
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "power": 80,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "doom_desire",
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50,
+        "id": "DOOM_DESIRE",
+        "name": "Doom Desire",
+        "internalId": 286
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "yawn_fast",
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": 15,
+        "id": "YAWN_FAST",
+        "name": "Yawn Fast",
+        "internalId": 287
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
+        "power": 70,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "psycho_boost",
+        "durationMs": 4000,
+        "damageWindowStartMs": 3500,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -50,
+        "id": "PSYCHO_BOOST",
+        "name": "Psycho Boost",
+        "internalId": 288
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "power": 130,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "origin_pulse",
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100,
+        "id": "ORIGIN_PULSE",
+        "name": "Origin Pulse",
+        "internalId": 289
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GROUND",
+            "name": "Ground"
+        },
+        "power": 130,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "precipice_blades",
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100,
+        "id": "PRECIPICE_BLADES",
+        "name": "Precipice Blades",
+        "internalId": 290
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "power": 5,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "present",
+        "durationMs": 1300,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1300,
+        "energyDelta": 20,
+        "id": "PRESENT_FAST",
+        "name": "Present Fast",
+        "internalId": 291
     }
 ]
