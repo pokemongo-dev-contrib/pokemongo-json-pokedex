@@ -23611,8 +23611,8 @@
                 "id": "ICE_SHARD_FAST"
             },
             {
-                "name": "Quick Attack Fast",
-                "id": "QUICK_ATTACK_FAST"
+                "name": "Present Fast",
+                "id": "PRESENT_FAST"
             }
         ],
         "family": {
@@ -32864,7 +32864,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 1,
+            "cylinderRadius": 0.3,
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
