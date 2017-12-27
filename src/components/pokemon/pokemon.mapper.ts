@@ -100,8 +100,22 @@ export class PokemonMapper {
             diskRadius: pkmStgs.camera.diskRadiusM,
             shoulderModeScale: pkmStgs.camera.shoulderModeScale
         };
+
         // Pokemon Evolutions
-        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => Util.SnakeCase2Identifyable(branch.evolution));
+        pokemon.nextEvolutionBranches = (pkmStgs.evolutionBranch || []).map(branch => {
+            const identifyable = Util.SnakeCase2Identifyable(branch.evolution);
+            const evolutionItem = branch.evolutionItemRequirement ? {
+                id: branch.evolutionItemRequirement,
+                name: Util.SnakeCase2HumanReadable(branch.evolutionItemRequirement.replace('ITEM_', ''))
+            } : undefined;
+
+            return {
+                ...identifyable,
+                candyCost: branch.candyCost,
+                evolutionItem: evolutionItem,
+                kmBuddyDistanceRequirement: branch.kmBuddyDistanceRequirement
+            }
+        });
 
         pokemon.maxCP = CPCalculator
             .Calculate(pokemon.stats.baseStamina, pokemon.stats.baseAttack, pokemon.stats.baseDefense);

@@ -90,7 +90,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ivysaur",
-                "id": "IVYSAUR"
+                "id": "IVYSAUR",
+                "candyCost": 25
             }
         ],
         "maxCP": 981,
@@ -101,11 +102,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Venusaur",
-                            "id": "VENUSAUR"
+                            "id": "VENUSAUR",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Ivysaur",
-                    "id": "IVYSAUR"
+                    "id": "IVYSAUR",
+                    "candyCost": 25
                 }
             ],
             "name": "Bulbasaur",
@@ -207,7 +210,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Venusaur",
-                "id": "VENUSAUR"
+                "id": "VENUSAUR",
+                "candyCost": 100
             }
         ],
         "maxCP": 1552,
@@ -222,11 +226,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Venusaur",
-                    "id": "VENUSAUR"
+                    "id": "VENUSAUR",
+                    "candyCost": 100
                 }
             ],
             "name": "Ivysaur",
-            "id": "IVYSAUR"
+            "id": "IVYSAUR",
+            "candyCost": 25
         }
     },
     {
@@ -330,13 +336,15 @@
             },
             {
                 "name": "Ivysaur",
-                "id": "IVYSAUR"
+                "id": "IVYSAUR",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Venusaur",
-            "id": "VENUSAUR"
+            "id": "VENUSAUR",
+            "candyCost": 100
         }
     },
     {
@@ -426,7 +434,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Charmeleon",
-                "id": "CHARMELEON"
+                "id": "CHARMELEON",
+                "candyCost": 25
             }
         ],
         "maxCP": 831,
@@ -437,11 +446,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Charizard",
-                            "id": "CHARIZARD"
+                            "id": "CHARIZARD",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Charmeleon",
-                    "id": "CHARMELEON"
+                    "id": "CHARMELEON",
+                    "candyCost": 25
                 }
             ],
             "name": "Charmander",
@@ -535,7 +546,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Charizard",
-                "id": "CHARIZARD"
+                "id": "CHARIZARD",
+                "candyCost": 100
             }
         ],
         "maxCP": 1484,
@@ -550,11 +562,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Charizard",
-                    "id": "CHARIZARD"
+                    "id": "CHARIZARD",
+                    "candyCost": 100
                 }
             ],
             "name": "Charmeleon",
-            "id": "CHARMELEON"
+            "id": "CHARMELEON",
+            "candyCost": 25
         }
     },
     {
@@ -659,13 +673,15 @@
             },
             {
                 "name": "Charmeleon",
-                "id": "CHARMELEON"
+                "id": "CHARMELEON",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Charizard",
-            "id": "CHARIZARD"
+            "id": "CHARIZARD",
+            "candyCost": 100
         }
     },
     {
@@ -755,7 +771,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wartortle",
-                "id": "WARTORTLE"
+                "id": "WARTORTLE",
+                "candyCost": 25
             }
         ],
         "maxCP": 808,
@@ -766,11 +783,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Blastoise",
-                            "id": "BLASTOISE"
+                            "id": "BLASTOISE",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Wartortle",
-                    "id": "WARTORTLE"
+                    "id": "WARTORTLE",
+                    "candyCost": 25
                 }
             ],
             "name": "Squirtle",
@@ -864,7 +883,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Blastoise",
-                "id": "BLASTOISE"
+                "id": "BLASTOISE",
+                "candyCost": 100
             }
         ],
         "maxCP": 1324,
@@ -879,11 +899,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Blastoise",
-                    "id": "BLASTOISE"
+                    "id": "BLASTOISE",
+                    "candyCost": 100
                 }
             ],
             "name": "Wartortle",
-            "id": "WARTORTLE"
+            "id": "WARTORTLE",
+            "candyCost": 25
         }
     },
     {
@@ -983,13 +1005,15 @@
             },
             {
                 "name": "Wartortle",
-                "id": "WARTORTLE"
+                "id": "WARTORTLE",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Blastoise",
-            "id": "BLASTOISE"
+            "id": "BLASTOISE",
+            "candyCost": 100
         }
     },
     {
@@ -1073,7 +1097,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Metapod",
-                "id": "METAPOD"
+                "id": "METAPOD",
+                "candyCost": 12
             }
         ],
         "maxCP": 393,
@@ -1084,11 +1109,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Butterfree",
-                            "id": "BUTTERFREE"
+                            "id": "BUTTERFREE",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Metapod",
-                    "id": "METAPOD"
+                    "id": "METAPOD",
+                    "candyCost": 12
                 }
             ],
             "name": "Caterpie",
@@ -1170,7 +1197,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Butterfree",
-                "id": "BUTTERFREE"
+                "id": "BUTTERFREE",
+                "candyCost": 50
             }
         ],
         "maxCP": 419,
@@ -1185,11 +1213,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Butterfree",
-                    "id": "BUTTERFREE"
+                    "id": "BUTTERFREE",
+                    "candyCost": 50
                 }
             ],
             "name": "Metapod",
-            "id": "METAPOD"
+            "id": "METAPOD",
+            "candyCost": 12
         }
     },
     {
@@ -1294,13 +1324,15 @@
             },
             {
                 "name": "Metapod",
-                "id": "METAPOD"
+                "id": "METAPOD",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Butterfree",
-            "id": "BUTTERFREE"
+            "id": "BUTTERFREE",
+            "candyCost": 50
         }
     },
     {
@@ -1390,7 +1422,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kakuna",
-                "id": "KAKUNA"
+                "id": "KAKUNA",
+                "candyCost": 12
             }
         ],
         "maxCP": 397,
@@ -1401,11 +1434,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Beedrill",
-                            "id": "BEEDRILL"
+                            "id": "BEEDRILL",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Kakuna",
-                    "id": "KAKUNA"
+                    "id": "KAKUNA",
+                    "candyCost": 12
                 }
             ],
             "name": "Weedle",
@@ -1490,7 +1525,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Beedrill",
-                "id": "BEEDRILL"
+                "id": "BEEDRILL",
+                "candyCost": 50
             }
         ],
         "maxCP": 392,
@@ -1505,11 +1541,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Beedrill",
-                    "id": "BEEDRILL"
+                    "id": "BEEDRILL",
+                    "candyCost": 50
                 }
             ],
             "name": "Kakuna",
-            "id": "KAKUNA"
+            "id": "KAKUNA",
+            "candyCost": 12
         }
     },
     {
@@ -1614,13 +1652,15 @@
             },
             {
                 "name": "Kakuna",
-                "id": "KAKUNA"
+                "id": "KAKUNA",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Beedrill",
-            "id": "BEEDRILL"
+            "id": "BEEDRILL",
+            "candyCost": 50
         }
     },
     {
@@ -1718,7 +1758,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pidgeotto",
-                "id": "PIDGEOTTO"
+                "id": "PIDGEOTTO",
+                "candyCost": 12
             }
         ],
         "maxCP": 580,
@@ -1729,11 +1770,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Pidgeot",
-                            "id": "PIDGEOT"
+                            "id": "PIDGEOT",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Pidgeotto",
-                    "id": "PIDGEOTTO"
+                    "id": "PIDGEOTTO",
+                    "candyCost": 12
                 }
             ],
             "name": "Pidgey",
@@ -1836,7 +1879,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pidgeot",
-                "id": "PIDGEOT"
+                "id": "PIDGEOT",
+                "candyCost": 50
             }
         ],
         "maxCP": 1085,
@@ -1851,11 +1895,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Pidgeot",
-                    "id": "PIDGEOT"
+                    "id": "PIDGEOT",
+                    "candyCost": 50
                 }
             ],
             "name": "Pidgeotto",
-            "id": "PIDGEOTTO"
+            "id": "PIDGEOTTO",
+            "candyCost": 12
         }
     },
     {
@@ -1960,13 +2006,15 @@
             },
             {
                 "name": "Pidgeotto",
-                "id": "PIDGEOTTO"
+                "id": "PIDGEOTTO",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Pidgeot",
-            "id": "PIDGEOT"
+            "id": "PIDGEOT",
+            "candyCost": 50
         }
     },
     {
@@ -2056,7 +2104,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Raticate",
-                "id": "RATICATE"
+                "id": "RATICATE",
+                "candyCost": 25
             }
         ],
         "maxCP": 588,
@@ -2065,7 +2114,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Raticate",
-                    "id": "RATICATE"
+                    "id": "RATICATE",
+                    "candyCost": 25
                 }
             ],
             "name": "Rattata",
@@ -2167,7 +2217,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Raticate",
-            "id": "RATICATE"
+            "id": "RATICATE",
+            "candyCost": 25
         }
     },
     {
@@ -2265,7 +2316,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Fearow",
-                "id": "FEAROW"
+                "id": "FEAROW",
+                "candyCost": 50
             }
         ],
         "maxCP": 673,
@@ -2274,7 +2326,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Fearow",
-                    "id": "FEAROW"
+                    "id": "FEAROW",
+                    "candyCost": 50
                 }
             ],
             "name": "Spearow",
@@ -2385,7 +2438,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Fearow",
-            "id": "FEAROW"
+            "id": "FEAROW",
+            "candyCost": 50
         }
     },
     {
@@ -2475,7 +2529,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Arbok",
-                "id": "ARBOK"
+                "id": "ARBOK",
+                "candyCost": 50
             }
         ],
         "maxCP": 778,
@@ -2484,7 +2539,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Arbok",
-                    "id": "ARBOK"
+                    "id": "ARBOK",
+                    "candyCost": 50
                 }
             ],
             "name": "Ekans",
@@ -2590,7 +2646,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Arbok",
-            "id": "ARBOK"
+            "id": "ARBOK",
+            "candyCost": 50
         }
     },
     {
@@ -2684,7 +2741,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Raichu",
-                "id": "RAICHU"
+                "id": "RAICHU",
+                "candyCost": 50
             }
         ],
         "maxCP": 787,
@@ -2699,11 +2757,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Raichu",
-                    "id": "RAICHU"
+                    "id": "RAICHU",
+                    "candyCost": 50
                 }
             ],
             "name": "Pikachu",
-            "id": "PIKACHU"
+            "id": "PIKACHU",
+            "candyCost": 25
         }
     },
     {
@@ -2799,13 +2859,15 @@
             },
             {
                 "name": "Pikachu",
-                "id": "PIKACHU"
+                "id": "PIKACHU",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Raichu",
-            "id": "RAICHU"
+            "id": "RAICHU",
+            "candyCost": 50
         }
     },
     {
@@ -2895,7 +2957,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sandslash",
-                "id": "SANDSLASH"
+                "id": "SANDSLASH",
+                "candyCost": 50
             }
         ],
         "maxCP": 1194,
@@ -2904,7 +2967,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Sandslash",
-                    "id": "SANDSLASH"
+                    "id": "SANDSLASH",
+                    "candyCost": 50
                 }
             ],
             "name": "Sandshrew",
@@ -3006,7 +3070,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sandslash",
-            "id": "SANDSLASH"
+            "id": "SANDSLASH",
+            "candyCost": 50
         }
     },
     {
@@ -3096,7 +3161,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidorina",
-                "id": "NIDORINA"
+                "id": "NIDORINA",
+                "candyCost": 25
             }
         ],
         "maxCP": 736,
@@ -3107,11 +3173,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Nidoqueen",
-                            "id": "NIDOQUEEN"
+                            "id": "NIDOQUEEN",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Nidorina",
-                    "id": "NIDORINA"
+                    "id": "NIDORINA",
+                    "candyCost": 25
                 }
             ],
             "name": "Nidoran Female",
@@ -3205,7 +3273,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidoqueen",
-                "id": "NIDOQUEEN"
+                "id": "NIDOQUEEN",
+                "candyCost": 100
             }
         ],
         "maxCP": 1218,
@@ -3220,11 +3289,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Nidoqueen",
-                    "id": "NIDOQUEEN"
+                    "id": "NIDOQUEEN",
+                    "candyCost": 100
                 }
             ],
             "name": "Nidorina",
-            "id": "NIDORINA"
+            "id": "NIDORINA",
+            "candyCost": 25
         }
     },
     {
@@ -3328,13 +3399,15 @@
             },
             {
                 "name": "Nidorina",
-                "id": "NIDORINA"
+                "id": "NIDORINA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Nidoqueen",
-            "id": "NIDOQUEEN"
+            "id": "NIDOQUEEN",
+            "candyCost": 100
         }
     },
     {
@@ -3424,7 +3497,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidorino",
-                "id": "NIDORINO"
+                "id": "NIDORINO",
+                "candyCost": 25
             }
         ],
         "maxCP": 739,
@@ -3435,11 +3509,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Nidoking",
-                            "id": "NIDOKING"
+                            "id": "NIDOKING",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Nidorino",
-                    "id": "NIDORINO"
+                    "id": "NIDORINO",
+                    "candyCost": 25
                 }
             ],
             "name": "Nidoran Male",
@@ -3533,7 +3609,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nidoking",
-                "id": "NIDOKING"
+                "id": "NIDOKING",
+                "candyCost": 100
             }
         ],
         "maxCP": 1252,
@@ -3548,11 +3625,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Nidoking",
-                    "id": "NIDOKING"
+                    "id": "NIDOKING",
+                    "candyCost": 100
                 }
             ],
             "name": "Nidorino",
-            "id": "NIDORINO"
+            "id": "NIDORINO",
+            "candyCost": 25
         }
     },
     {
@@ -3656,13 +3735,15 @@
             },
             {
                 "name": "Nidorino",
-                "id": "NIDORINO"
+                "id": "NIDORINO",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Nidoking",
-            "id": "NIDOKING"
+            "id": "NIDOKING",
+            "candyCost": 100
         }
     },
     {
@@ -3752,7 +3833,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Clefable",
-                "id": "CLEFABLE"
+                "id": "CLEFABLE",
+                "candyCost": 50
             }
         ],
         "maxCP": 1085,
@@ -3767,11 +3849,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Clefable",
-                    "id": "CLEFABLE"
+                    "id": "CLEFABLE",
+                    "candyCost": 50
                 }
             ],
             "name": "Clefairy",
-            "id": "CLEFAIRY"
+            "id": "CLEFAIRY",
+            "candyCost": 25
         }
     },
     {
@@ -3871,13 +3955,15 @@
             },
             {
                 "name": "Clefairy",
-                "id": "CLEFAIRY"
+                "id": "CLEFAIRY",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Clefable",
-            "id": "CLEFABLE"
+            "id": "CLEFABLE",
+            "candyCost": 50
         }
     },
     {
@@ -3967,7 +4053,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ninetales",
-                "id": "NINETALES"
+                "id": "NINETALES",
+                "candyCost": 50
             }
         ],
         "maxCP": 774,
@@ -3976,7 +4063,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ninetales",
-                    "id": "NINETALES"
+                    "id": "NINETALES",
+                    "candyCost": 50
                 }
             ],
             "name": "Vulpix",
@@ -4082,7 +4170,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ninetales",
-            "id": "NINETALES"
+            "id": "NINETALES",
+            "candyCost": 50
         }
     },
     {
@@ -4176,7 +4265,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wigglytuff",
-                "id": "WIGGLYTUFF"
+                "id": "WIGGLYTUFF",
+                "candyCost": 50
             }
         ],
         "maxCP": 713,
@@ -4191,11 +4281,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Wigglytuff",
-                    "id": "WIGGLYTUFF"
+                    "id": "WIGGLYTUFF",
+                    "candyCost": 50
                 }
             ],
             "name": "Jigglypuff",
-            "id": "JIGGLYPUFF"
+            "id": "JIGGLYPUFF",
+            "candyCost": 25
         }
     },
     {
@@ -4299,13 +4391,15 @@
             },
             {
                 "name": "Jigglypuff",
-                "id": "JIGGLYPUFF"
+                "id": "JIGGLYPUFF",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Wigglytuff",
-            "id": "WIGGLYTUFF"
+            "id": "WIGGLYTUFF",
+            "candyCost": 50
         }
     },
     {
@@ -4404,7 +4498,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golbat",
-                "id": "GOLBAT"
+                "id": "GOLBAT",
+                "candyCost": 25
             }
         ],
         "maxCP": 569,
@@ -4415,11 +4510,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Crobat",
-                            "id": "CROBAT"
+                            "id": "CROBAT",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Golbat",
-                    "id": "GOLBAT"
+                    "id": "GOLBAT",
+                    "candyCost": 25
                 }
             ],
             "name": "Zubat",
@@ -4522,7 +4619,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Crobat",
-                "id": "CROBAT"
+                "id": "CROBAT",
+                "candyCost": 100
             }
         ],
         "maxCP": 1830,
@@ -4537,11 +4635,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Crobat",
-                    "id": "CROBAT"
+                    "id": "CROBAT",
+                    "candyCost": 100
                 }
             ],
             "name": "Golbat",
-            "id": "GOLBAT"
+            "id": "GOLBAT",
+            "candyCost": 25
         }
     },
     {
@@ -4635,7 +4735,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gloom",
-                "id": "GLOOM"
+                "id": "GLOOM",
+                "candyCost": 25
             }
         ],
         "maxCP": 1069,
@@ -4646,16 +4747,23 @@
                         {
                             "futureEvolutions": [],
                             "name": "Vileplume",
-                            "id": "VILEPLUME"
+                            "id": "VILEPLUME",
+                            "candyCost": 100
                         },
                         {
                             "futureEvolutions": [],
                             "name": "Bellossom",
-                            "id": "BELLOSSOM"
+                            "id": "BELLOSSOM",
+                            "candyCost": 100,
+                            "evolutionItem": {
+                                "id": "ITEM_SUN_STONE",
+                                "name": "Sun Stone"
+                            }
                         }
                     ],
                     "name": "Gloom",
-                    "id": "GLOOM"
+                    "id": "GLOOM",
+                    "candyCost": 25
                 }
             ],
             "name": "Oddish",
@@ -4753,11 +4861,17 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vileplume",
-                "id": "VILEPLUME"
+                "id": "VILEPLUME",
+                "candyCost": 100
             },
             {
                 "name": "Bellossom",
-                "id": "BELLOSSOM"
+                "id": "BELLOSSOM",
+                "candyCost": 100,
+                "evolutionItem": {
+                    "id": "ITEM_SUN_STONE",
+                    "name": "Sun Stone"
+                }
             }
         ],
         "maxCP": 1512,
@@ -4772,16 +4886,23 @@
                 {
                     "futureEvolutions": [],
                     "name": "Vileplume",
-                    "id": "VILEPLUME"
+                    "id": "VILEPLUME",
+                    "candyCost": 100
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Bellossom",
-                    "id": "BELLOSSOM"
+                    "id": "BELLOSSOM",
+                    "candyCost": 100,
+                    "evolutionItem": {
+                        "id": "ITEM_SUN_STONE",
+                        "name": "Sun Stone"
+                    }
                 }
             ],
             "name": "Gloom",
-            "id": "GLOOM"
+            "id": "GLOOM",
+            "candyCost": 25
         }
     },
     {
@@ -4885,13 +5006,15 @@
             },
             {
                 "name": "Gloom",
-                "id": "GLOOM"
+                "id": "GLOOM",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Vileplume",
-            "id": "VILEPLUME"
+            "id": "VILEPLUME",
+            "candyCost": 100
         }
     },
     {
@@ -4985,7 +5108,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Parasect",
-                "id": "PARASECT"
+                "id": "PARASECT",
+                "candyCost": 50
             }
         ],
         "maxCP": 836,
@@ -4994,7 +5118,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Parasect",
-                    "id": "PARASECT"
+                    "id": "PARASECT",
+                    "candyCost": 50
                 }
             ],
             "name": "Paras",
@@ -5100,7 +5225,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Parasect",
-            "id": "PARASECT"
+            "id": "PARASECT",
+            "candyCost": 50
         }
     },
     {
@@ -5194,7 +5320,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Venomoth",
-                "id": "VENOMOTH"
+                "id": "VENOMOTH",
+                "candyCost": 50
             }
         ],
         "maxCP": 902,
@@ -5203,7 +5330,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Venomoth",
-                    "id": "VENOMOTH"
+                    "id": "VENOMOTH",
+                    "candyCost": 50
                 }
             ],
             "name": "Venonat",
@@ -5314,7 +5442,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Venomoth",
-            "id": "VENOMOTH"
+            "id": "VENOMOTH",
+            "candyCost": 50
         }
     },
     {
@@ -5399,7 +5528,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dugtrio",
-                "id": "DUGTRIO"
+                "id": "DUGTRIO",
+                "candyCost": 50
             }
         ],
         "maxCP": 465,
@@ -5408,7 +5538,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dugtrio",
-                    "id": "DUGTRIO"
+                    "id": "DUGTRIO",
+                    "candyCost": 50
                 }
             ],
             "name": "Diglett",
@@ -5509,7 +5640,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dugtrio",
-            "id": "DUGTRIO"
+            "id": "DUGTRIO",
+            "candyCost": 50
         }
     },
     {
@@ -5599,7 +5731,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Persian",
-                "id": "PERSIAN"
+                "id": "PERSIAN",
+                "candyCost": 50
             }
         ],
         "maxCP": 638,
@@ -5608,7 +5741,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Persian",
-                    "id": "PERSIAN"
+                    "id": "PERSIAN",
+                    "candyCost": 50
                 }
             ],
             "name": "Meowth",
@@ -5710,7 +5844,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Persian",
-            "id": "PERSIAN"
+            "id": "PERSIAN",
+            "candyCost": 50
         }
     },
     {
@@ -5800,7 +5935,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golduck",
-                "id": "GOLDUCK"
+                "id": "GOLDUCK",
+                "candyCost": 50
             }
         ],
         "maxCP": 966,
@@ -5809,7 +5945,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Golduck",
-                    "id": "GOLDUCK"
+                    "id": "GOLDUCK",
+                    "candyCost": 50
                 }
             ],
             "name": "Psyduck",
@@ -5915,7 +6052,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Golduck",
-            "id": "GOLDUCK"
+            "id": "GOLDUCK",
+            "candyCost": 50
         }
     },
     {
@@ -6005,7 +6143,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Primeape",
-                "id": "PRIMEAPE"
+                "id": "PRIMEAPE",
+                "candyCost": 50
             }
         ],
         "maxCP": 1002,
@@ -6014,7 +6153,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Primeape",
-                    "id": "PRIMEAPE"
+                    "id": "PRIMEAPE",
+                    "candyCost": 50
                 }
             ],
             "name": "Mankey",
@@ -6120,7 +6260,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Primeape",
-            "id": "PRIMEAPE"
+            "id": "PRIMEAPE",
+            "candyCost": 50
         }
     },
     {
@@ -6210,7 +6351,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Arcanine",
-                "id": "ARCANINE"
+                "id": "ARCANINE",
+                "candyCost": 50
             }
         ],
         "maxCP": 1110,
@@ -6219,7 +6361,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Arcanine",
-                    "id": "ARCANINE"
+                    "id": "ARCANINE",
+                    "candyCost": 50
                 }
             ],
             "name": "Growlithe",
@@ -6325,7 +6468,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Arcanine",
-            "id": "ARCANINE"
+            "id": "ARCANINE",
+            "candyCost": 50
         }
     },
     {
@@ -6415,7 +6559,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Poliwhirl",
-                "id": "POLIWHIRL"
+                "id": "POLIWHIRL",
+                "candyCost": 25
             }
         ],
         "maxCP": 695,
@@ -6426,16 +6571,23 @@
                         {
                             "futureEvolutions": [],
                             "name": "Poliwrath",
-                            "id": "POLIWRATH"
+                            "id": "POLIWRATH",
+                            "candyCost": 100
                         },
                         {
                             "futureEvolutions": [],
                             "name": "Politoed",
-                            "id": "POLITOED"
+                            "id": "POLITOED",
+                            "candyCost": 100,
+                            "evolutionItem": {
+                                "id": "ITEM_KINGS_ROCK",
+                                "name": "Kings Rock"
+                            }
                         }
                     ],
                     "name": "Poliwhirl",
-                    "id": "POLIWHIRL"
+                    "id": "POLIWHIRL",
+                    "candyCost": 25
                 }
             ],
             "name": "Poliwag",
@@ -6533,11 +6685,17 @@
         "nextEvolutionBranches": [
             {
                 "name": "Poliwrath",
-                "id": "POLIWRATH"
+                "id": "POLIWRATH",
+                "candyCost": 100
             },
             {
                 "name": "Politoed",
-                "id": "POLITOED"
+                "id": "POLITOED",
+                "candyCost": 100,
+                "evolutionItem": {
+                    "id": "ITEM_KINGS_ROCK",
+                    "name": "Kings Rock"
+                }
             }
         ],
         "maxCP": 1313,
@@ -6552,16 +6710,23 @@
                 {
                     "futureEvolutions": [],
                     "name": "Poliwrath",
-                    "id": "POLIWRATH"
+                    "id": "POLIWRATH",
+                    "candyCost": 100
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Politoed",
-                    "id": "POLITOED"
+                    "id": "POLITOED",
+                    "candyCost": 100,
+                    "evolutionItem": {
+                        "id": "ITEM_KINGS_ROCK",
+                        "name": "Kings Rock"
+                    }
                 }
             ],
             "name": "Poliwhirl",
-            "id": "POLIWHIRL"
+            "id": "POLIWHIRL",
+            "candyCost": 25
         }
     },
     {
@@ -6665,13 +6830,15 @@
             },
             {
                 "name": "Poliwhirl",
-                "id": "POLIWHIRL"
+                "id": "POLIWHIRL",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Poliwrath",
-            "id": "POLIWRATH"
+            "id": "POLIWRATH",
+            "candyCost": 100
         }
     },
     {
@@ -6762,7 +6929,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kadabra",
-                "id": "KADABRA"
+                "id": "KADABRA",
+                "candyCost": 25
             }
         ],
         "maxCP": 1148,
@@ -6773,11 +6941,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Alakazam",
-                            "id": "ALAKAZAM"
+                            "id": "ALAKAZAM",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Kadabra",
-                    "id": "KADABRA"
+                    "id": "KADABRA",
+                    "candyCost": 25
                 }
             ],
             "name": "Abra",
@@ -6875,7 +7045,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Alakazam",
-                "id": "ALAKAZAM"
+                "id": "ALAKAZAM",
+                "candyCost": 100
             }
         ],
         "maxCP": 1859,
@@ -6890,11 +7061,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Alakazam",
-                    "id": "ALAKAZAM"
+                    "id": "ALAKAZAM",
+                    "candyCost": 100
                 }
             ],
             "name": "Kadabra",
-            "id": "KADABRA"
+            "id": "KADABRA",
+            "candyCost": 25
         }
     },
     {
@@ -6994,13 +7167,15 @@
             },
             {
                 "name": "Kadabra",
-                "id": "KADABRA"
+                "id": "KADABRA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Alakazam",
-            "id": "ALAKAZAM"
+            "id": "ALAKAZAM",
+            "candyCost": 100
         }
     },
     {
@@ -7090,7 +7265,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Machoke",
-                "id": "MACHOKE"
+                "id": "MACHOKE",
+                "candyCost": 25
             }
         ],
         "maxCP": 1199,
@@ -7101,11 +7277,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Machamp",
-                            "id": "MACHAMP"
+                            "id": "MACHAMP",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Machoke",
-                    "id": "MACHOKE"
+                    "id": "MACHOKE",
+                    "candyCost": 25
                 }
             ],
             "name": "Machop",
@@ -7203,7 +7381,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Machamp",
-                "id": "MACHAMP"
+                "id": "MACHAMP",
+                "candyCost": 100
             }
         ],
         "maxCP": 1910,
@@ -7218,11 +7397,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Machamp",
-                    "id": "MACHAMP"
+                    "id": "MACHAMP",
+                    "candyCost": 100
                 }
             ],
             "name": "Machoke",
-            "id": "MACHOKE"
+            "id": "MACHOKE",
+            "candyCost": 25
         }
     },
     {
@@ -7322,13 +7503,15 @@
             },
             {
                 "name": "Machoke",
-                "id": "MACHOKE"
+                "id": "MACHOKE",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Machamp",
-            "id": "MACHAMP"
+            "id": "MACHAMP",
+            "candyCost": 100
         }
     },
     {
@@ -7422,7 +7605,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Weepinbell",
-                "id": "WEEPINBELL"
+                "id": "WEEPINBELL",
+                "candyCost": 25
             }
         ],
         "maxCP": 916,
@@ -7433,11 +7617,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Victreebel",
-                            "id": "VICTREEBEL"
+                            "id": "VICTREEBEL",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Weepinbell",
-                    "id": "WEEPINBELL"
+                    "id": "WEEPINBELL",
+                    "candyCost": 25
                 }
             ],
             "name": "Bellsprout",
@@ -7540,7 +7726,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Victreebel",
-                "id": "VICTREEBEL"
+                "id": "VICTREEBEL",
+                "candyCost": 100
             }
         ],
         "maxCP": 1475,
@@ -7555,11 +7742,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Victreebel",
-                    "id": "VICTREEBEL"
+                    "id": "VICTREEBEL",
+                    "candyCost": 100
                 }
             ],
             "name": "Weepinbell",
-            "id": "WEEPINBELL"
+            "id": "WEEPINBELL",
+            "candyCost": 25
         }
     },
     {
@@ -7664,13 +7853,15 @@
             },
             {
                 "name": "Weepinbell",
-                "id": "WEEPINBELL"
+                "id": "WEEPINBELL",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Victreebel",
-            "id": "VICTREEBEL"
+            "id": "VICTREEBEL",
+            "candyCost": 100
         }
     },
     {
@@ -7765,7 +7956,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Tentacruel",
-                "id": "TENTACRUEL"
+                "id": "TENTACRUEL",
+                "candyCost": 50
             }
         ],
         "maxCP": 956,
@@ -7774,7 +7966,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Tentacruel",
-                    "id": "TENTACRUEL"
+                    "id": "TENTACRUEL",
+                    "candyCost": 50
                 }
             ],
             "name": "Tentacool",
@@ -7885,7 +8078,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Tentacruel",
-            "id": "TENTACRUEL"
+            "id": "TENTACRUEL",
+            "candyCost": 50
         }
     },
     {
@@ -7980,7 +8174,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Graveler",
-                "id": "GRAVELER"
+                "id": "GRAVELER",
+                "candyCost": 25
             }
         ],
         "maxCP": 1193,
@@ -7991,11 +8186,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Golem",
-                            "id": "GOLEM"
+                            "id": "GOLEM",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Graveler",
-                    "id": "GRAVELER"
+                    "id": "GRAVELER",
+                    "candyCost": 25
                 }
             ],
             "name": "Geodude",
@@ -8097,7 +8294,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Golem",
-                "id": "GOLEM"
+                "id": "GOLEM",
+                "candyCost": 100
             }
         ],
         "maxCP": 1815,
@@ -8112,11 +8310,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Golem",
-                    "id": "GOLEM"
+                    "id": "GOLEM",
+                    "candyCost": 100
                 }
             ],
             "name": "Graveler",
-            "id": "GRAVELER"
+            "id": "GRAVELER",
+            "candyCost": 25
         }
     },
     {
@@ -8220,13 +8420,15 @@
             },
             {
                 "name": "Graveler",
-                "id": "GRAVELER"
+                "id": "GRAVELER",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Golem",
-            "id": "GOLEM"
+            "id": "GOLEM",
+            "candyCost": 100
         }
     },
     {
@@ -8316,7 +8518,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Rapidash",
-                "id": "RAPIDASH"
+                "id": "RAPIDASH",
+                "candyCost": 50
             }
         ],
         "maxCP": 1502,
@@ -8325,7 +8528,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Rapidash",
-                    "id": "RAPIDASH"
+                    "id": "RAPIDASH",
+                    "candyCost": 50
                 }
             ],
             "name": "Ponyta",
@@ -8431,7 +8635,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Rapidash",
-            "id": "RAPIDASH"
+            "id": "RAPIDASH",
+            "candyCost": 50
         }
     },
     {
@@ -8525,11 +8730,17 @@
         "nextEvolutionBranches": [
             {
                 "name": "Slowbro",
-                "id": "SLOWBRO"
+                "id": "SLOWBRO",
+                "candyCost": 50
             },
             {
                 "name": "Slowking",
-                "id": "SLOWKING"
+                "id": "SLOWKING",
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_KINGS_ROCK",
+                    "name": "Kings Rock"
+                }
             }
         ],
         "maxCP": 1204,
@@ -8538,12 +8749,18 @@
                 {
                     "futureEvolutions": [],
                     "name": "Slowbro",
-                    "id": "SLOWBRO"
+                    "id": "SLOWBRO",
+                    "candyCost": 50
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Slowking",
-                    "id": "SLOWKING"
+                    "id": "SLOWKING",
+                    "candyCost": 50,
+                    "evolutionItem": {
+                        "id": "ITEM_KINGS_ROCK",
+                        "name": "Kings Rock"
+                    }
                 }
             ],
             "name": "Slowpoke",
@@ -8653,7 +8870,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Slowbro",
-            "id": "SLOWBRO"
+            "id": "SLOWBRO",
+            "candyCost": 50
         }
     },
     {
@@ -8748,7 +8966,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magneton",
-                "id": "MAGNETON"
+                "id": "MAGNETON",
+                "candyCost": 50
             }
         ],
         "maxCP": 1083,
@@ -8757,7 +8976,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Magneton",
-                    "id": "MAGNETON"
+                    "id": "MAGNETON",
+                    "candyCost": 50
                 }
             ],
             "name": "Magnemite",
@@ -8864,7 +9084,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Magneton",
-            "id": "MAGNETON"
+            "id": "MAGNETON",
+            "candyCost": 50
         }
     },
     {
@@ -9054,7 +9275,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dodrio",
-                "id": "DODRIO"
+                "id": "DODRIO",
+                "candyCost": 50
             }
         ],
         "maxCP": 1011,
@@ -9063,7 +9285,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dodrio",
-                    "id": "DODRIO"
+                    "id": "DODRIO",
+                    "candyCost": 50
                 }
             ],
             "name": "Doduo",
@@ -9173,7 +9396,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dodrio",
-            "id": "DODRIO"
+            "id": "DODRIO",
+            "candyCost": 50
         }
     },
     {
@@ -9263,7 +9487,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dewgong",
-                "id": "DEWGONG"
+                "id": "DEWGONG",
+                "candyCost": 50
             }
         ],
         "maxCP": 899,
@@ -9272,7 +9497,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dewgong",
-                    "id": "DEWGONG"
+                    "id": "DEWGONG",
+                    "candyCost": 50
                 }
             ],
             "name": "Seel",
@@ -9379,7 +9605,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dewgong",
-            "id": "DEWGONG"
+            "id": "DEWGONG",
+            "candyCost": 50
         }
     },
     {
@@ -9473,7 +9700,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Muk",
-                "id": "MUK"
+                "id": "MUK",
+                "candyCost": 50
             }
         ],
         "maxCP": 1269,
@@ -9482,7 +9710,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Muk",
-                    "id": "MUK"
+                    "id": "MUK",
+                    "candyCost": 50
                 }
             ],
             "name": "Grimer",
@@ -9588,7 +9817,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Muk",
-            "id": "MUK"
+            "id": "MUK",
+            "candyCost": 50
         }
     },
     {
@@ -9678,7 +9908,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Cloyster",
-                "id": "CLOYSTER"
+                "id": "CLOYSTER",
+                "candyCost": 50
             }
         ],
         "maxCP": 958,
@@ -9687,7 +9918,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Cloyster",
-                    "id": "CLOYSTER"
+                    "id": "CLOYSTER",
+                    "candyCost": 50
                 }
             ],
             "name": "Shellder",
@@ -9798,7 +10030,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Cloyster",
-            "id": "CLOYSTER"
+            "id": "CLOYSTER",
+            "candyCost": 50
         }
     },
     {
@@ -9897,7 +10130,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Haunter",
-                "id": "HAUNTER"
+                "id": "HAUNTER",
+                "candyCost": 25
             }
         ],
         "maxCP": 1002,
@@ -9908,11 +10142,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Gengar",
-                            "id": "GENGAR"
+                            "id": "GENGAR",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Haunter",
-                    "id": "HAUNTER"
+                    "id": "HAUNTER",
+                    "candyCost": 25
                 }
             ],
             "name": "Gastly",
@@ -10015,7 +10251,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gengar",
-                "id": "GENGAR"
+                "id": "GENGAR",
+                "candyCost": 100
             }
         ],
         "maxCP": 1716,
@@ -10030,11 +10267,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Gengar",
-                    "id": "GENGAR"
+                    "id": "GENGAR",
+                    "candyCost": 100
                 }
             ],
             "name": "Haunter",
-            "id": "HAUNTER"
+            "id": "HAUNTER",
+            "candyCost": 25
         }
     },
     {
@@ -10138,13 +10377,15 @@
             },
             {
                 "name": "Haunter",
-                "id": "HAUNTER"
+                "id": "HAUNTER",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Gengar",
-            "id": "GENGAR"
+            "id": "GENGAR",
+            "candyCost": 100
         }
     },
     {
@@ -10238,7 +10479,12 @@
         "nextEvolutionBranches": [
             {
                 "name": "Steelix",
-                "id": "STEELIX"
+                "id": "STEELIX",
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_METAL_COAT",
+                    "name": "Metal Coat"
+                }
             }
         ],
         "maxCP": 1002,
@@ -10247,7 +10493,12 @@
                 {
                     "futureEvolutions": [],
                     "name": "Steelix",
-                    "id": "STEELIX"
+                    "id": "STEELIX",
+                    "candyCost": 50,
+                    "evolutionItem": {
+                        "id": "ITEM_METAL_COAT",
+                        "name": "Metal Coat"
+                    }
                 }
             ],
             "name": "Onix",
@@ -10345,7 +10596,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Hypno",
-                "id": "HYPNO"
+                "id": "HYPNO",
+                "candyCost": 50
             }
         ],
         "maxCP": 992,
@@ -10354,7 +10606,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Hypno",
-                    "id": "HYPNO"
+                    "id": "HYPNO",
+                    "candyCost": 50
                 }
             ],
             "name": "Drowzee",
@@ -10460,7 +10713,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Hypno",
-            "id": "HYPNO"
+            "id": "HYPNO",
+            "candyCost": 50
         }
     },
     {
@@ -10550,7 +10804,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kingler",
-                "id": "KINGLER"
+                "id": "KINGLER",
+                "candyCost": 50
             }
         ],
         "maxCP": 1386,
@@ -10559,7 +10814,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Kingler",
-                    "id": "KINGLER"
+                    "id": "KINGLER",
+                    "candyCost": 50
                 }
             ],
             "name": "Krabby",
@@ -10665,7 +10921,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Kingler",
-            "id": "KINGLER"
+            "id": "KINGLER",
+            "candyCost": 50
         }
     },
     {
@@ -10751,7 +11008,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Electrode",
-                "id": "ELECTRODE"
+                "id": "ELECTRODE",
+                "candyCost": 50
             }
         ],
         "maxCP": 857,
@@ -10760,7 +11018,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Electrode",
-                    "id": "ELECTRODE"
+                    "id": "ELECTRODE",
+                    "candyCost": 50
                 }
             ],
             "name": "Voltorb",
@@ -10862,7 +11121,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Electrode",
-            "id": "ELECTRODE"
+            "id": "ELECTRODE",
+            "candyCost": 50
         }
     },
     {
@@ -10956,7 +11216,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Exeggutor",
-                "id": "EXEGGUTOR"
+                "id": "EXEGGUTOR",
+                "candyCost": 50
             }
         ],
         "maxCP": 1102,
@@ -10965,7 +11226,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Exeggutor",
-                    "id": "EXEGGUTOR"
+                    "id": "EXEGGUTOR",
+                    "candyCost": 50
                 }
             ],
             "name": "Exeggcute",
@@ -11075,7 +11337,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Exeggutor",
-            "id": "EXEGGUTOR"
+            "id": "EXEGGUTOR",
+            "candyCost": 50
         }
     },
     {
@@ -11165,7 +11428,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Marowak",
-                "id": "MAROWAK"
+                "id": "MAROWAK",
+                "candyCost": 50
             }
         ],
         "maxCP": 943,
@@ -11174,7 +11438,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Marowak",
-                    "id": "MAROWAK"
+                    "id": "MAROWAK",
+                    "candyCost": 50
                 }
             ],
             "name": "Cubone",
@@ -11276,7 +11541,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Marowak",
-            "id": "MAROWAK"
+            "id": "MAROWAK",
+            "candyCost": 50
         }
     },
     {
@@ -11378,7 +11644,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Hitmonlee",
-            "id": "HITMONLEE"
+            "id": "HITMONLEE",
+            "candyCost": 25
         }
     },
     {
@@ -11484,7 +11751,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Hitmonchan",
-            "id": "HITMONCHAN"
+            "id": "HITMONCHAN",
+            "candyCost": 25
         }
     },
     {
@@ -11671,7 +11939,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Weezing",
-                "id": "WEEZING"
+                "id": "WEEZING",
+                "candyCost": 50
             }
         ],
         "maxCP": 1091,
@@ -11680,7 +11949,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Weezing",
-                    "id": "WEEZING"
+                    "id": "WEEZING",
+                    "candyCost": 50
                 }
             ],
             "name": "Koffing",
@@ -11787,7 +12057,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Weezing",
-            "id": "WEEZING"
+            "id": "WEEZING",
+            "candyCost": 50
         }
     },
     {
@@ -11885,7 +12156,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Rhydon",
-                "id": "RHYDON"
+                "id": "RHYDON",
+                "candyCost": 50
             }
         ],
         "maxCP": 1679,
@@ -11894,7 +12166,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Rhydon",
-                    "id": "RHYDON"
+                    "id": "RHYDON",
+                    "candyCost": 50
                 }
             ],
             "name": "Rhyhorn",
@@ -12004,7 +12277,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Rhydon",
-            "id": "RHYDON"
+            "id": "RHYDON",
+            "candyCost": 50
         }
     },
     {
@@ -12098,7 +12372,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Blissey",
-                "id": "BLISSEY"
+                "id": "BLISSEY",
+                "candyCost": 50
             }
         ],
         "maxCP": 1469,
@@ -12107,7 +12382,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Blissey",
-                    "id": "BLISSEY"
+                    "id": "BLISSEY",
+                    "candyCost": 50
                 }
             ],
             "name": "Chansey",
@@ -12390,7 +12666,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Seadra",
-                "id": "SEADRA"
+                "id": "SEADRA",
+                "candyCost": 25
             }
         ],
         "maxCP": 921,
@@ -12401,11 +12678,17 @@
                         {
                             "futureEvolutions": [],
                             "name": "Kingdra",
-                            "id": "KINGDRA"
+                            "id": "KINGDRA",
+                            "candyCost": 100,
+                            "evolutionItem": {
+                                "id": "ITEM_DRAGON_SCALE",
+                                "name": "Dragon Scale"
+                            }
                         }
                     ],
                     "name": "Seadra",
-                    "id": "SEADRA"
+                    "id": "SEADRA",
+                    "candyCost": 25
                 }
             ],
             "name": "Horsea",
@@ -12504,7 +12787,12 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kingdra",
-                "id": "KINGDRA"
+                "id": "KINGDRA",
+                "candyCost": 100,
+                "evolutionItem": {
+                    "id": "ITEM_DRAGON_SCALE",
+                    "name": "Dragon Scale"
+                }
             }
         ],
         "maxCP": 1979,
@@ -12519,11 +12807,17 @@
                 {
                     "futureEvolutions": [],
                     "name": "Kingdra",
-                    "id": "KINGDRA"
+                    "id": "KINGDRA",
+                    "candyCost": 100,
+                    "evolutionItem": {
+                        "id": "ITEM_DRAGON_SCALE",
+                        "name": "Dragon Scale"
+                    }
                 }
             ],
             "name": "Seadra",
-            "id": "SEADRA"
+            "id": "SEADRA",
+            "candyCost": 25
         }
     },
     {
@@ -12614,7 +12908,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Seaking",
-                "id": "SEAKING"
+                "id": "SEAKING",
+                "candyCost": 50
             }
         ],
         "maxCP": 1006,
@@ -12623,7 +12918,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Seaking",
-                    "id": "SEAKING"
+                    "id": "SEAKING",
+                    "candyCost": 50
                 }
             ],
             "name": "Goldeen",
@@ -12730,7 +13026,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Seaking",
-            "id": "SEAKING"
+            "id": "SEAKING",
+            "candyCost": 50
         }
     },
     {
@@ -12820,7 +13117,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Starmie",
-                "id": "STARMIE"
+                "id": "STARMIE",
+                "candyCost": 50
             }
         ],
         "maxCP": 926,
@@ -12829,7 +13127,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Starmie",
-                    "id": "STARMIE"
+                    "id": "STARMIE",
+                    "candyCost": 50
                 }
             ],
             "name": "Staryu",
@@ -12935,7 +13234,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Starmie",
-            "id": "STARMIE"
+            "id": "STARMIE",
+            "candyCost": 50
         }
     },
     {
@@ -13130,7 +13430,12 @@
         "nextEvolutionBranches": [
             {
                 "name": "Scizor",
-                "id": "SCIZOR"
+                "id": "SCIZOR",
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_METAL_COAT",
+                    "name": "Metal Coat"
+                }
             }
         ],
         "maxCP": 2464,
@@ -13139,7 +13444,12 @@
                 {
                     "futureEvolutions": [],
                     "name": "Scizor",
-                    "id": "SCIZOR"
+                    "id": "SCIZOR",
+                    "candyCost": 50,
+                    "evolutionItem": {
+                        "id": "ITEM_METAL_COAT",
+                        "name": "Metal Coat"
+                    }
                 }
             ],
             "name": "Scyther",
@@ -13249,7 +13559,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Jynx",
-            "id": "JYNX"
+            "id": "JYNX",
+            "candyCost": 25
         }
     },
     {
@@ -13351,7 +13662,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Electabuzz",
-            "id": "ELECTABUZZ"
+            "id": "ELECTABUZZ",
+            "candyCost": 25
         }
     },
     {
@@ -13453,7 +13765,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Magmar",
-            "id": "MAGMAR"
+            "id": "MAGMAR",
+            "candyCost": 25
         }
     },
     {
@@ -13720,7 +14033,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gyarados",
-                "id": "GYARADOS"
+                "id": "GYARADOS",
+                "candyCost": 400
             }
         ],
         "maxCP": 220,
@@ -13729,7 +14043,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Gyarados",
-                    "id": "GYARADOS"
+                    "id": "GYARADOS",
+                    "candyCost": 400
                 }
             ],
             "name": "Magikarp",
@@ -13840,7 +14155,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Gyarados",
-            "id": "GYARADOS"
+            "id": "GYARADOS",
+            "candyCost": 400
         }
     },
     {
@@ -14106,23 +14422,28 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vaporeon",
-                "id": "VAPOREON"
+                "id": "VAPOREON",
+                "candyCost": 25
             },
             {
                 "name": "Jolteon",
-                "id": "JOLTEON"
+                "id": "JOLTEON",
+                "candyCost": 25
             },
             {
                 "name": "Flareon",
-                "id": "FLAREON"
+                "id": "FLAREON",
+                "candyCost": 25
             },
             {
                 "name": "Espeon",
-                "id": "ESPEON"
+                "id": "ESPEON",
+                "candyCost": 25
             },
             {
                 "name": "Umbreon",
-                "id": "UMBREON"
+                "id": "UMBREON",
+                "candyCost": 25
             }
         ],
         "maxCP": 969,
@@ -14131,27 +14452,32 @@
                 {
                     "futureEvolutions": [],
                     "name": "Vaporeon",
-                    "id": "VAPOREON"
+                    "id": "VAPOREON",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Jolteon",
-                    "id": "JOLTEON"
+                    "id": "JOLTEON",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Flareon",
-                    "id": "FLAREON"
+                    "id": "FLAREON",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Espeon",
-                    "id": "ESPEON"
+                    "id": "ESPEON",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Umbreon",
-                    "id": "UMBREON"
+                    "id": "UMBREON",
+                    "candyCost": 25
                 }
             ],
             "name": "Eevee",
@@ -14249,7 +14575,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Vaporeon",
-            "id": "VAPOREON"
+            "id": "VAPOREON",
+            "candyCost": 25
         }
     },
     {
@@ -14347,7 +14674,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Jolteon",
-            "id": "JOLTEON"
+            "id": "JOLTEON",
+            "candyCost": 25
         }
     },
     {
@@ -14445,7 +14773,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Flareon",
-            "id": "FLAREON"
+            "id": "FLAREON",
+            "candyCost": 25
         }
     },
     {
@@ -14536,7 +14865,12 @@
         "nextEvolutionBranches": [
             {
                 "name": "Porygon2",
-                "id": "PORYGON2"
+                "id": "PORYGON2",
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_UP_GRADE",
+                    "name": "Up Grade"
+                }
             }
         ],
         "maxCP": 1567,
@@ -14545,7 +14879,12 @@
                 {
                     "futureEvolutions": [],
                     "name": "Porygon2",
-                    "id": "PORYGON2"
+                    "id": "PORYGON2",
+                    "candyCost": 50,
+                    "evolutionItem": {
+                        "id": "ITEM_UP_GRADE",
+                        "name": "Up Grade"
+                    }
                 }
             ],
             "name": "Porygon",
@@ -14643,7 +14982,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Omastar",
-                "id": "OMASTAR"
+                "id": "OMASTAR",
+                "candyCost": 50
             }
         ],
         "maxCP": 1345,
@@ -14652,7 +14992,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Omastar",
-                    "id": "OMASTAR"
+                    "id": "OMASTAR",
+                    "candyCost": 50
                 }
             ],
             "name": "Omanyte",
@@ -14762,7 +15103,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Omastar",
-            "id": "OMASTAR"
+            "id": "OMASTAR",
+            "candyCost": 50
         }
     },
     {
@@ -14856,7 +15198,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kabutops",
-                "id": "KABUTOPS"
+                "id": "KABUTOPS",
+                "candyCost": 50
             }
         ],
         "maxCP": 1172,
@@ -14865,7 +15208,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Kabutops",
-                    "id": "KABUTOPS"
+                    "id": "KABUTOPS",
+                    "candyCost": 50
                 }
             ],
             "name": "Kabuto",
@@ -14975,7 +15319,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Kabutops",
-            "id": "KABUTOPS"
+            "id": "KABUTOPS",
+            "candyCost": 50
         }
     },
     {
@@ -15553,7 +15898,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dragonair",
-                "id": "DRAGONAIR"
+                "id": "DRAGONAIR",
+                "candyCost": 25
             }
         ],
         "maxCP": 860,
@@ -15564,11 +15910,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Dragonite",
-                            "id": "DRAGONITE"
+                            "id": "DRAGONITE",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Dragonair",
-                    "id": "DRAGONAIR"
+                    "id": "DRAGONAIR",
+                    "candyCost": 25
                 }
             ],
             "name": "Dratini",
@@ -15666,7 +16014,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dragonite",
-                "id": "DRAGONITE"
+                "id": "DRAGONITE",
+                "candyCost": 100
             }
         ],
         "maxCP": 1609,
@@ -15681,11 +16030,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dragonite",
-                    "id": "DRAGONITE"
+                    "id": "DRAGONITE",
+                    "candyCost": 100
                 }
             ],
             "name": "Dragonair",
-            "id": "DRAGONAIR"
+            "id": "DRAGONAIR",
+            "candyCost": 25
         }
     },
     {
@@ -15790,13 +16141,15 @@
             },
             {
                 "name": "Dragonair",
-                "id": "DRAGONAIR"
+                "id": "DRAGONAIR",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dragonite",
-            "id": "DRAGONITE"
+            "id": "DRAGONITE",
+            "candyCost": 100
         }
     },
     {
@@ -16094,7 +16447,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Bayleef",
-                "id": "BAYLEEF"
+                "id": "BAYLEEF",
+                "candyCost": 25
             }
         ],
         "maxCP": 801,
@@ -16105,11 +16459,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Meganium",
-                            "id": "MEGANIUM"
+                            "id": "MEGANIUM",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Bayleef",
-                    "id": "BAYLEEF"
+                    "id": "BAYLEEF",
+                    "candyCost": 25
                 }
             ],
             "name": "Chikorita",
@@ -16203,7 +16559,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Meganium",
-                "id": "MEGANIUM"
+                "id": "MEGANIUM",
+                "candyCost": 100
             }
         ],
         "maxCP": 1296,
@@ -16218,11 +16575,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Meganium",
-                    "id": "MEGANIUM"
+                    "id": "MEGANIUM",
+                    "candyCost": 100
                 }
             ],
             "name": "Bayleef",
-            "id": "BAYLEEF"
+            "id": "BAYLEEF",
+            "candyCost": 25
         }
     },
     {
@@ -16322,13 +16681,15 @@
             },
             {
                 "name": "Bayleef",
-                "id": "BAYLEEF"
+                "id": "BAYLEEF",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Meganium",
-            "id": "MEGANIUM"
+            "id": "MEGANIUM",
+            "candyCost": 100
         }
     },
     {
@@ -16418,7 +16779,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Quilava",
-                "id": "QUILAVA"
+                "id": "QUILAVA",
+                "candyCost": 25
             }
         ],
         "maxCP": 831,
@@ -16429,11 +16791,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Typhlosion",
-                            "id": "TYPHLOSION"
+                            "id": "TYPHLOSION",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Quilava",
-                    "id": "QUILAVA"
+                    "id": "QUILAVA",
+                    "candyCost": 25
                 }
             ],
             "name": "Cyndaquil",
@@ -16527,7 +16891,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Typhlosion",
-                "id": "TYPHLOSION"
+                "id": "TYPHLOSION",
+                "candyCost": 100
             }
         ],
         "maxCP": 1484,
@@ -16542,11 +16907,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Typhlosion",
-                    "id": "TYPHLOSION"
+                    "id": "TYPHLOSION",
+                    "candyCost": 100
                 }
             ],
             "name": "Quilava",
-            "id": "QUILAVA"
+            "id": "QUILAVA",
+            "candyCost": 25
         }
     },
     {
@@ -16646,13 +17013,15 @@
             },
             {
                 "name": "Quilava",
-                "id": "QUILAVA"
+                "id": "QUILAVA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Typhlosion",
-            "id": "TYPHLOSION"
+            "id": "TYPHLOSION",
+            "candyCost": 100
         }
     },
     {
@@ -16742,7 +17111,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Croconaw",
-                "id": "CROCONAW"
+                "id": "CROCONAW",
+                "candyCost": 25
             }
         ],
         "maxCP": 1011,
@@ -16753,11 +17123,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Feraligatr",
-                            "id": "FERALIGATR"
+                            "id": "FERALIGATR",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Croconaw",
-                    "id": "CROCONAW"
+                    "id": "CROCONAW",
+                    "candyCost": 25
                 }
             ],
             "name": "Totodile",
@@ -16851,7 +17223,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Feraligatr",
-                "id": "FERALIGATR"
+                "id": "FERALIGATR",
+                "candyCost": 100
             }
         ],
         "maxCP": 1598,
@@ -16866,11 +17239,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Feraligatr",
-                    "id": "FERALIGATR"
+                    "id": "FERALIGATR",
+                    "candyCost": 100
                 }
             ],
             "name": "Croconaw",
-            "id": "CROCONAW"
+            "id": "CROCONAW",
+            "candyCost": 25
         }
     },
     {
@@ -16970,13 +17345,15 @@
             },
             {
                 "name": "Croconaw",
-                "id": "CROCONAW"
+                "id": "CROCONAW",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Feraligatr",
-            "id": "FERALIGATR"
+            "id": "FERALIGATR",
+            "candyCost": 100
         }
     },
     {
@@ -17066,7 +17443,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Furret",
-                "id": "FURRET"
+                "id": "FURRET",
+                "candyCost": 25
             }
         ],
         "maxCP": 519,
@@ -17075,7 +17453,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Furret",
-                    "id": "FURRET"
+                    "id": "FURRET",
+                    "candyCost": 25
                 }
             ],
             "name": "Sentret",
@@ -17177,7 +17556,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Furret",
-            "id": "FURRET"
+            "id": "FURRET",
+            "candyCost": 25
         }
     },
     {
@@ -17271,7 +17651,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Noctowl",
-                "id": "NOCTOWL"
+                "id": "NOCTOWL",
+                "candyCost": 50
             }
         ],
         "maxCP": 640,
@@ -17280,7 +17661,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Noctowl",
-                    "id": "NOCTOWL"
+                    "id": "NOCTOWL",
+                    "candyCost": 50
                 }
             ],
             "name": "Hoothoot",
@@ -17391,7 +17773,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Noctowl",
-            "id": "NOCTOWL"
+            "id": "NOCTOWL",
+            "candyCost": 50
         }
     },
     {
@@ -17490,7 +17873,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ledian",
-                "id": "LEDIAN"
+                "id": "LEDIAN",
+                "candyCost": 25
             }
         ],
         "maxCP": 663,
@@ -17499,7 +17883,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ledian",
-                    "id": "LEDIAN"
+                    "id": "LEDIAN",
+                    "candyCost": 25
                 }
             ],
             "name": "Ledyba",
@@ -17610,7 +17995,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ledian",
-            "id": "LEDIAN"
+            "id": "LEDIAN",
+            "candyCost": 25
         }
     },
     {
@@ -17704,7 +18090,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ariados",
-                "id": "ARIADOS"
+                "id": "ARIADOS",
+                "candyCost": 50
             }
         ],
         "maxCP": 685,
@@ -17713,7 +18100,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ariados",
-                    "id": "ARIADOS"
+                    "id": "ARIADOS",
+                    "candyCost": 50
                 }
             ],
             "name": "Spinarak",
@@ -17819,7 +18207,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ariados",
-            "id": "ARIADOS"
+            "id": "ARIADOS",
+            "candyCost": 50
         }
     },
     {
@@ -17924,13 +18313,15 @@
             },
             {
                 "name": "Golbat",
-                "id": "GOLBAT"
+                "id": "GOLBAT",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Crobat",
-            "id": "CROBAT"
+            "id": "CROBAT",
+            "candyCost": 100
         }
     },
     {
@@ -18025,7 +18416,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Lanturn",
-                "id": "LANTURN"
+                "id": "LANTURN",
+                "candyCost": 50
             }
         ],
         "maxCP": 1067,
@@ -18034,7 +18426,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Lanturn",
-                    "id": "LANTURN"
+                    "id": "LANTURN",
+                    "candyCost": 50
                 }
             ],
             "name": "Chinchou",
@@ -18145,7 +18538,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Lanturn",
-            "id": "LANTURN"
+            "id": "LANTURN",
+            "candyCost": 50
         }
     },
     {
@@ -18234,7 +18628,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pikachu",
-                "id": "PIKACHU"
+                "id": "PIKACHU",
+                "candyCost": 25
             }
         ],
         "maxCP": 376,
@@ -18245,11 +18640,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Raichu",
-                            "id": "RAICHU"
+                            "id": "RAICHU",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Pikachu",
-                    "id": "PIKACHU"
+                    "id": "PIKACHU",
+                    "candyCost": 25
                 }
             ],
             "name": "Pichu",
@@ -18346,7 +18743,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Clefairy",
-                "id": "CLEFAIRY"
+                "id": "CLEFAIRY",
+                "candyCost": 25
             }
         ],
         "maxCP": 620,
@@ -18357,11 +18755,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Clefable",
-                            "id": "CLEFABLE"
+                            "id": "CLEFABLE",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Clefairy",
-                    "id": "CLEFAIRY"
+                    "id": "CLEFAIRY",
+                    "candyCost": 25
                 }
             ],
             "name": "Cleffa",
@@ -18459,7 +18859,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jigglypuff",
-                "id": "JIGGLYPUFF"
+                "id": "JIGGLYPUFF",
+                "candyCost": 25
             }
         ],
         "maxCP": 512,
@@ -18470,11 +18871,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Wigglytuff",
-                            "id": "WIGGLYTUFF"
+                            "id": "WIGGLYTUFF",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Jigglypuff",
-                    "id": "JIGGLYPUFF"
+                    "id": "JIGGLYPUFF",
+                    "candyCost": 25
                 }
             ],
             "name": "Igglybuff",
@@ -18571,7 +18974,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Togetic",
-                "id": "TOGETIC"
+                "id": "TOGETIC",
+                "candyCost": 50
             }
         ],
         "maxCP": 540,
@@ -18580,7 +18984,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Togetic",
-                    "id": "TOGETIC"
+                    "id": "TOGETIC",
+                    "candyCost": 50
                 }
             ],
             "name": "Togepi",
@@ -18687,7 +19092,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Togetic",
-            "id": "TOGETIC"
+            "id": "TOGETIC",
+            "candyCost": 50
         }
     },
     {
@@ -18785,7 +19191,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Xatu",
-                "id": "XATU"
+                "id": "XATU",
+                "candyCost": 50
             }
         ],
         "maxCP": 925,
@@ -18794,7 +19201,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Xatu",
-                    "id": "XATU"
+                    "id": "XATU",
+                    "candyCost": 50
                 }
             ],
             "name": "Natu",
@@ -18905,7 +19313,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Xatu",
-            "id": "XATU"
+            "id": "XATU",
+            "candyCost": 50
         }
     },
     {
@@ -18995,7 +19404,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Flaaffy",
-                "id": "FLAAFFY"
+                "id": "FLAAFFY",
+                "candyCost": 25
             }
         ],
         "maxCP": 887,
@@ -19006,11 +19416,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Ampharos",
-                            "id": "AMPHAROS"
+                            "id": "AMPHAROS",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Flaaffy",
-                    "id": "FLAAFFY"
+                    "id": "FLAAFFY",
+                    "candyCost": 25
                 }
             ],
             "name": "Mareep",
@@ -19104,7 +19516,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ampharos",
-                "id": "AMPHAROS"
+                "id": "AMPHAROS",
+                "candyCost": 100
             }
         ],
         "maxCP": 1402,
@@ -19119,11 +19532,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ampharos",
-                    "id": "AMPHAROS"
+                    "id": "AMPHAROS",
+                    "candyCost": 100
                 }
             ],
             "name": "Flaaffy",
-            "id": "FLAAFFY"
+            "id": "FLAAFFY",
+            "candyCost": 25
         }
     },
     {
@@ -19223,13 +19638,15 @@
             },
             {
                 "name": "Flaaffy",
-                "id": "FLAAFFY"
+                "id": "FLAAFFY",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ampharos",
-            "id": "AMPHAROS"
+            "id": "AMPHAROS",
+            "candyCost": 100
         }
     },
     {
@@ -19325,13 +19742,19 @@
             },
             {
                 "name": "Gloom",
-                "id": "GLOOM"
+                "id": "GLOOM",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Bellossom",
-            "id": "BELLOSSOM"
+            "id": "BELLOSSOM",
+            "candyCost": 100,
+            "evolutionItem": {
+                "id": "ITEM_SUN_STONE",
+                "name": "Sun Stone"
+            }
         }
     },
     {
@@ -19425,7 +19848,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Azumarill",
-                "id": "AZUMARILL"
+                "id": "AZUMARILL",
+                "candyCost": 25
             }
         ],
         "maxCP": 420,
@@ -19440,11 +19864,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Azumarill",
-                    "id": "AZUMARILL"
+                    "id": "AZUMARILL",
+                    "candyCost": 25
                 }
             ],
             "name": "Marill",
-            "id": "MARILL"
+            "id": "MARILL",
+            "candyCost": 25
         }
     },
     {
@@ -19544,13 +19970,15 @@
             },
             {
                 "name": "Marill",
-                "id": "MARILL"
+                "id": "MARILL",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Azumarill",
-            "id": "AZUMARILL"
+            "id": "AZUMARILL",
+            "candyCost": 25
         }
     },
     {
@@ -19734,13 +20162,19 @@
             },
             {
                 "name": "Poliwhirl",
-                "id": "POLIWHIRL"
+                "id": "POLIWHIRL",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Politoed",
-            "id": "POLITOED"
+            "id": "POLITOED",
+            "candyCost": 100,
+            "evolutionItem": {
+                "id": "ITEM_KINGS_ROCK",
+                "name": "Kings Rock"
+            }
         }
     },
     {
@@ -19839,7 +20273,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Skiploom",
-                "id": "SKIPLOOM"
+                "id": "SKIPLOOM",
+                "candyCost": 25
             }
         ],
         "maxCP": 508,
@@ -19850,11 +20285,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Jumpluff",
-                            "id": "JUMPLUFF"
+                            "id": "JUMPLUFF",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Skiploom",
-                    "id": "SKIPLOOM"
+                    "id": "SKIPLOOM",
+                    "candyCost": 25
                 }
             ],
             "name": "Hoppip",
@@ -19957,7 +20394,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jumpluff",
-                "id": "JUMPLUFF"
+                "id": "JUMPLUFF",
+                "candyCost": 100
             }
         ],
         "maxCP": 882,
@@ -19972,11 +20410,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Jumpluff",
-                    "id": "JUMPLUFF"
+                    "id": "JUMPLUFF",
+                    "candyCost": 100
                 }
             ],
             "name": "Skiploom",
-            "id": "SKIPLOOM"
+            "id": "SKIPLOOM",
+            "candyCost": 25
         }
     },
     {
@@ -20081,13 +20521,15 @@
             },
             {
                 "name": "Skiploom",
-                "id": "SKIPLOOM"
+                "id": "SKIPLOOM",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Jumpluff",
-            "id": "JUMPLUFF"
+            "id": "JUMPLUFF",
+            "candyCost": 100
         }
     },
     {
@@ -20273,7 +20715,12 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sunflora",
-                "id": "SUNFLORA"
+                "id": "SUNFLORA",
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_SUN_STONE",
+                    "name": "Sun Stone"
+                }
             }
         ],
         "maxCP": 316,
@@ -20282,7 +20729,12 @@
                 {
                     "futureEvolutions": [],
                     "name": "Sunflora",
-                    "id": "SUNFLORA"
+                    "id": "SUNFLORA",
+                    "candyCost": 50,
+                    "evolutionItem": {
+                        "id": "ITEM_SUN_STONE",
+                        "name": "Sun Stone"
+                    }
                 }
             ],
             "name": "Sunkern",
@@ -20384,7 +20836,12 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sunflora",
-            "id": "SUNFLORA"
+            "id": "SUNFLORA",
+            "candyCost": 50,
+            "evolutionItem": {
+                "id": "ITEM_SUN_STONE",
+                "name": "Sun Stone"
+            }
         }
     },
     {
@@ -20575,7 +21032,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Quagsire",
-                "id": "QUAGSIRE"
+                "id": "QUAGSIRE",
+                "candyCost": 50
             }
         ],
         "maxCP": 596,
@@ -20584,7 +21042,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Quagsire",
-                    "id": "QUAGSIRE"
+                    "id": "QUAGSIRE",
+                    "candyCost": 50
                 }
             ],
             "name": "Wooper",
@@ -20694,7 +21153,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Quagsire",
-            "id": "QUAGSIRE"
+            "id": "QUAGSIRE",
+            "candyCost": 50
         }
     },
     {
@@ -20791,7 +21251,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Espeon",
-            "id": "ESPEON"
+            "id": "ESPEON",
+            "candyCost": 25
         }
     },
     {
@@ -20884,7 +21345,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Umbreon",
-            "id": "UMBREON"
+            "id": "UMBREON",
+            "candyCost": 25
         }
     },
     {
@@ -21087,7 +21549,12 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Slowking",
-            "id": "SLOWKING"
+            "id": "SLOWKING",
+            "candyCost": 50,
+            "evolutionItem": {
+                "id": "ITEM_KINGS_ROCK",
+                "name": "Kings Rock"
+            }
         }
     },
     {
@@ -21355,7 +21822,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Wobbuffet",
-            "id": "WOBBUFFET"
+            "id": "WOBBUFFET",
+            "candyCost": 25
         }
     },
     {
@@ -21545,7 +22013,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Forretress",
-                "id": "FORRETRESS"
+                "id": "FORRETRESS",
+                "candyCost": 50
             }
         ],
         "maxCP": 1045,
@@ -21554,7 +22023,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Forretress",
-                    "id": "FORRETRESS"
+                    "id": "FORRETRESS",
+                    "candyCost": 50
                 }
             ],
             "name": "Pineco",
@@ -21665,7 +22135,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Forretress",
-            "id": "FORRETRESS"
+            "id": "FORRETRESS",
+            "candyCost": 50
         }
     },
     {
@@ -21956,7 +22427,12 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Steelix",
-            "id": "STEELIX"
+            "id": "STEELIX",
+            "candyCost": 50,
+            "evolutionItem": {
+                "id": "ITEM_METAL_COAT",
+                "name": "Metal Coat"
+            }
         }
     },
     {
@@ -22046,7 +22522,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Granbull",
-                "id": "GRANBULL"
+                "id": "GRANBULL",
+                "candyCost": 50
             }
         ],
         "maxCP": 1124,
@@ -22055,7 +22532,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Granbull",
-                    "id": "GRANBULL"
+                    "id": "GRANBULL",
+                    "candyCost": 50
                 }
             ],
             "name": "Snubbull",
@@ -22161,7 +22639,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Granbull",
-            "id": "GRANBULL"
+            "id": "GRANBULL",
+            "candyCost": 50
         }
     },
     {
@@ -22364,7 +22843,12 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Scizor",
-            "id": "SCIZOR"
+            "id": "SCIZOR",
+            "candyCost": 50,
+            "evolutionItem": {
+                "id": "ITEM_METAL_COAT",
+                "name": "Metal Coat"
+            }
         }
     },
     {
@@ -22746,7 +23230,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ursaring",
-                "id": "URSARING"
+                "id": "URSARING",
+                "candyCost": 50
             }
         ],
         "maxCP": 1184,
@@ -22755,7 +23240,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ursaring",
-                    "id": "URSARING"
+                    "id": "URSARING",
+                    "candyCost": 50
                 }
             ],
             "name": "Teddiursa",
@@ -22861,7 +23347,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ursaring",
-            "id": "URSARING"
+            "id": "URSARING",
+            "candyCost": 50
         }
     },
     {
@@ -22951,7 +23438,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magcargo",
-                "id": "MAGCARGO"
+                "id": "MAGCARGO",
+                "candyCost": 50
             }
         ],
         "maxCP": 750,
@@ -22960,7 +23448,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Magcargo",
-                    "id": "MAGCARGO"
+                    "id": "MAGCARGO",
+                    "candyCost": 50
                 }
             ],
             "name": "Slugma",
@@ -23066,7 +23555,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Magcargo",
-            "id": "MAGCARGO"
+            "id": "MAGCARGO",
+            "candyCost": 50
         }
     },
     {
@@ -23160,7 +23650,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Piloswine",
-                "id": "PILOSWINE"
+                "id": "PILOSWINE",
+                "candyCost": 50
             }
         ],
         "maxCP": 663,
@@ -23169,7 +23660,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Piloswine",
-                    "id": "PILOSWINE"
+                    "id": "PILOSWINE",
+                    "candyCost": 50
                 }
             ],
             "name": "Swinub",
@@ -23279,7 +23771,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Piloswine",
-            "id": "PILOSWINE"
+            "id": "PILOSWINE",
+            "candyCost": 50
         }
     },
     {
@@ -23463,7 +23956,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Octillery",
-                "id": "OCTILLERY"
+                "id": "OCTILLERY",
+                "candyCost": 50
             }
         ],
         "maxCP": 749,
@@ -23472,7 +23966,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Octillery",
-                    "id": "OCTILLERY"
+                    "id": "OCTILLERY",
+                    "candyCost": 50
                 }
             ],
             "name": "Remoraid",
@@ -23574,7 +24069,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Octillery",
-            "id": "OCTILLERY"
+            "id": "OCTILLERY",
+            "candyCost": 50
         }
     },
     {
@@ -23966,7 +24462,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Houndoom",
-                "id": "HOUNDOOM"
+                "id": "HOUNDOOM",
+                "candyCost": 50
             }
         ],
         "maxCP": 1110,
@@ -23975,7 +24472,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Houndoom",
-                    "id": "HOUNDOOM"
+                    "id": "HOUNDOOM",
+                    "candyCost": 50
                 }
             ],
             "name": "Houndour",
@@ -24081,7 +24579,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Houndoom",
-            "id": "HOUNDOOM"
+            "id": "HOUNDOOM",
+            "candyCost": 50
         }
     },
     {
@@ -24186,13 +24685,19 @@
             },
             {
                 "name": "Seadra",
-                "id": "SEADRA"
+                "id": "SEADRA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Kingdra",
-            "id": "KINGDRA"
+            "id": "KINGDRA",
+            "candyCost": 100,
+            "evolutionItem": {
+                "id": "ITEM_DRAGON_SCALE",
+                "name": "Dragon Scale"
+            }
         }
     },
     {
@@ -24282,7 +24787,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Donphan",
-                "id": "DONPHAN"
+                "id": "DONPHAN",
+                "candyCost": 50
             }
         ],
         "maxCP": 1175,
@@ -24291,7 +24797,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Donphan",
-                    "id": "DONPHAN"
+                    "id": "DONPHAN",
+                    "candyCost": 50
                 }
             ],
             "name": "Phanpy",
@@ -24397,7 +24904,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Donphan",
-            "id": "DONPHAN"
+            "id": "DONPHAN",
+            "candyCost": 50
         }
     },
     {
@@ -24492,7 +25000,12 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Porygon2",
-            "id": "PORYGON2"
+            "id": "PORYGON2",
+            "candyCost": 50,
+            "evolutionItem": {
+                "id": "ITEM_UP_GRADE",
+                "name": "Up Grade"
+            }
         }
     },
     {
@@ -24761,15 +25274,18 @@
         "nextEvolutionBranches": [
             {
                 "name": "Hitmonlee",
-                "id": "HITMONLEE"
+                "id": "HITMONLEE",
+                "candyCost": 25
             },
             {
                 "name": "Hitmonchan",
-                "id": "HITMONCHAN"
+                "id": "HITMONCHAN",
+                "candyCost": 25
             },
             {
                 "name": "Hitmontop",
-                "id": "HITMONTOP"
+                "id": "HITMONTOP",
+                "candyCost": 25
             }
         ],
         "maxCP": 404,
@@ -24778,17 +25294,20 @@
                 {
                     "futureEvolutions": [],
                     "name": "Hitmonlee",
-                    "id": "HITMONLEE"
+                    "id": "HITMONLEE",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Hitmonchan",
-                    "id": "HITMONCHAN"
+                    "id": "HITMONCHAN",
+                    "candyCost": 25
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Hitmontop",
-                    "id": "HITMONTOP"
+                    "id": "HITMONTOP",
+                    "candyCost": 25
                 }
             ],
             "name": "Tyrogue",
@@ -24890,7 +25409,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Hitmontop",
-            "id": "HITMONTOP"
+            "id": "HITMONTOP",
+            "candyCost": 25
         }
     },
     {
@@ -24987,7 +25507,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Jynx",
-                "id": "JYNX"
+                "id": "JYNX",
+                "candyCost": 25
             }
         ],
         "maxCP": 1230,
@@ -24996,7 +25517,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Jynx",
-                    "id": "JYNX"
+                    "id": "JYNX",
+                    "candyCost": 25
                 }
             ],
             "name": "Smoochum",
@@ -25093,7 +25615,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Electabuzz",
-                "id": "ELECTABUZZ"
+                "id": "ELECTABUZZ",
+                "candyCost": 25
             }
         ],
         "maxCP": 1073,
@@ -25102,7 +25625,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Electabuzz",
-                    "id": "ELECTABUZZ"
+                    "id": "ELECTABUZZ",
+                    "candyCost": 25
                 }
             ],
             "name": "Elekid",
@@ -25199,7 +25723,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Magmar",
-                "id": "MAGMAR"
+                "id": "MAGMAR",
+                "candyCost": 25
             }
         ],
         "maxCP": 1178,
@@ -25208,7 +25733,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Magmar",
-                    "id": "MAGMAR"
+                    "id": "MAGMAR",
+                    "candyCost": 25
                 }
             ],
             "name": "Magby",
@@ -25410,7 +25936,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Blissey",
-            "id": "BLISSEY"
+            "id": "BLISSEY",
+            "candyCost": 50
         }
     },
     {
@@ -25792,7 +26319,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pupitar",
-                "id": "PUPITAR"
+                "id": "PUPITAR",
+                "candyCost": 25
             }
         ],
         "maxCP": 904,
@@ -25803,11 +26331,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Tyranitar",
-                            "id": "TYRANITAR"
+                            "id": "TYRANITAR",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Pupitar",
-                    "id": "PUPITAR"
+                    "id": "PUPITAR",
+                    "candyCost": 25
                 }
             ],
             "name": "Larvitar",
@@ -25905,7 +26435,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Tyranitar",
-                "id": "TYRANITAR"
+                "id": "TYRANITAR",
+                "candyCost": 100
             }
         ],
         "maxCP": 1608,
@@ -25920,11 +26451,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Tyranitar",
-                    "id": "TYRANITAR"
+                    "id": "TYRANITAR",
+                    "candyCost": 100
                 }
             ],
             "name": "Pupitar",
-            "id": "PUPITAR"
+            "id": "PUPITAR",
+            "candyCost": 25
         }
     },
     {
@@ -26028,13 +26561,15 @@
             },
             {
                 "name": "Pupitar",
-                "id": "PUPITAR"
+                "id": "PUPITAR",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Tyranitar",
-            "id": "TYRANITAR"
+            "id": "TYRANITAR",
+            "candyCost": 100
         }
     },
     {
@@ -26422,7 +26957,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Grovyle",
-                "id": "GROVYLE"
+                "id": "GROVYLE",
+                "candyCost": 25
             }
         ],
         "maxCP": 923,
@@ -26433,11 +26969,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Sceptile",
-                            "id": "SCEPTILE"
+                            "id": "SCEPTILE",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Grovyle",
-                    "id": "GROVYLE"
+                    "id": "GROVYLE",
+                    "candyCost": 25
                 }
             ],
             "name": "Treecko",
@@ -26531,7 +27069,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sceptile",
-                "id": "SCEPTILE"
+                "id": "SCEPTILE",
+                "candyCost": 100
             }
         ],
         "maxCP": 1508,
@@ -26546,11 +27085,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Sceptile",
-                    "id": "SCEPTILE"
+                    "id": "SCEPTILE",
+                    "candyCost": 100
                 }
             ],
             "name": "Grovyle",
-            "id": "GROVYLE"
+            "id": "GROVYLE",
+            "candyCost": 25
         }
     },
     {
@@ -26650,13 +27191,15 @@
             },
             {
                 "name": "Grovyle",
-                "id": "GROVYLE"
+                "id": "GROVYLE",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sceptile",
-            "id": "SCEPTILE"
+            "id": "SCEPTILE",
+            "candyCost": 100
         }
     },
     {
@@ -26746,7 +27289,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Combusken",
-                "id": "COMBUSKEN"
+                "id": "COMBUSKEN",
+                "candyCost": 25
             }
         ],
         "maxCP": 959,
@@ -26757,11 +27301,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Blaziken",
-                            "id": "BLAZIKEN"
+                            "id": "BLAZIKEN",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Combusken",
-                    "id": "COMBUSKEN"
+                    "id": "COMBUSKEN",
+                    "candyCost": 25
                 }
             ],
             "name": "Torchic",
@@ -26863,7 +27409,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Blaziken",
-                "id": "BLAZIKEN"
+                "id": "BLAZIKEN",
+                "candyCost": 100
             }
         ],
         "maxCP": 1472,
@@ -26878,11 +27425,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Blaziken",
-                    "id": "BLAZIKEN"
+                    "id": "BLAZIKEN",
+                    "candyCost": 100
                 }
             ],
             "name": "Combusken",
-            "id": "COMBUSKEN"
+            "id": "COMBUSKEN",
+            "candyCost": 25
         }
     },
     {
@@ -26986,13 +27535,15 @@
             },
             {
                 "name": "Combusken",
-                "id": "COMBUSKEN"
+                "id": "COMBUSKEN",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Blaziken",
-            "id": "BLAZIKEN"
+            "id": "BLAZIKEN",
+            "candyCost": 100
         }
     },
     {
@@ -27082,7 +27633,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Marshtomp",
-                "id": "MARSHTOMP"
+                "id": "MARSHTOMP",
+                "candyCost": 25
             }
         ],
         "maxCP": 981,
@@ -27093,11 +27645,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Swampert",
-                            "id": "SWAMPERT"
+                            "id": "SWAMPERT",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Marshtomp",
-                    "id": "MARSHTOMP"
+                    "id": "MARSHTOMP",
+                    "candyCost": 25
                 }
             ],
             "name": "Mudkip",
@@ -27195,7 +27749,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Swampert",
-                "id": "SWAMPERT"
+                "id": "SWAMPERT",
+                "candyCost": 100
             }
         ],
         "maxCP": 1617,
@@ -27210,11 +27765,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Swampert",
-                    "id": "SWAMPERT"
+                    "id": "SWAMPERT",
+                    "candyCost": 100
                 }
             ],
             "name": "Marshtomp",
-            "id": "MARSHTOMP"
+            "id": "MARSHTOMP",
+            "candyCost": 25
         }
     },
     {
@@ -27318,13 +27875,15 @@
             },
             {
                 "name": "Marshtomp",
-                "id": "MARSHTOMP"
+                "id": "MARSHTOMP",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Swampert",
-            "id": "SWAMPERT"
+            "id": "SWAMPERT",
+            "candyCost": 100
         }
     },
     {
@@ -27414,7 +27973,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Mightyena",
-                "id": "MIGHTYENA"
+                "id": "MIGHTYENA",
+                "candyCost": 50
             }
         ],
         "maxCP": 564,
@@ -27423,7 +27983,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Mightyena",
-                    "id": "MIGHTYENA"
+                    "id": "MIGHTYENA",
+                    "candyCost": 50
                 }
             ],
             "name": "Poochyena",
@@ -27525,7 +28086,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Mightyena",
-            "id": "MIGHTYENA"
+            "id": "MIGHTYENA",
+            "candyCost": 50
         }
     },
     {
@@ -27615,7 +28177,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Linoone",
-                "id": "LINOONE"
+                "id": "LINOONE",
+                "candyCost": 50
             }
         ],
         "maxCP": 423,
@@ -27624,7 +28187,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Linoone",
-                    "id": "LINOONE"
+                    "id": "LINOONE",
+                    "candyCost": 50
                 }
             ],
             "name": "Zigzagoon",
@@ -27726,7 +28290,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Linoone",
-            "id": "LINOONE"
+            "id": "LINOONE",
+            "candyCost": 50
         }
     },
     {
@@ -27812,11 +28377,13 @@
         "nextEvolutionBranches": [
             {
                 "name": "Silcoon",
-                "id": "SILCOON"
+                "id": "SILCOON",
+                "candyCost": 12
             },
             {
                 "name": "Cascoon",
-                "id": "CASCOON"
+                "id": "CASCOON",
+                "candyCost": 12
             }
         ],
         "maxCP": 502,
@@ -27827,22 +28394,26 @@
                         {
                             "futureEvolutions": [],
                             "name": "Beautifly",
-                            "id": "BEAUTIFLY"
+                            "id": "BEAUTIFLY",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Silcoon",
-                    "id": "SILCOON"
+                    "id": "SILCOON",
+                    "candyCost": 12
                 },
                 {
                     "futureEvolutions": [
                         {
                             "futureEvolutions": [],
                             "name": "Dustox",
-                            "id": "DUSTOX"
+                            "id": "DUSTOX",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Cascoon",
-                    "id": "CASCOON"
+                    "id": "CASCOON",
+                    "candyCost": 12
                 }
             ],
             "name": "Wurmple",
@@ -27928,7 +28499,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Beautifly",
-                "id": "BEAUTIFLY"
+                "id": "BEAUTIFLY",
+                "candyCost": 50
             }
         ],
         "maxCP": 517,
@@ -27943,11 +28515,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Beautifly",
-                    "id": "BEAUTIFLY"
+                    "id": "BEAUTIFLY",
+                    "candyCost": 50
                 }
             ],
             "name": "Silcoon",
-            "id": "SILCOON"
+            "id": "SILCOON",
+            "candyCost": 12
         }
     },
     {
@@ -28052,13 +28626,15 @@
             },
             {
                 "name": "Silcoon",
-                "id": "SILCOON"
+                "id": "SILCOON",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Beautifly",
-            "id": "BEAUTIFLY"
+            "id": "BEAUTIFLY",
+            "candyCost": 50
         }
     },
     {
@@ -28140,7 +28716,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dustox",
-                "id": "DUSTOX"
+                "id": "DUSTOX",
+                "candyCost": 50
             }
         ],
         "maxCP": 517,
@@ -28155,11 +28732,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dustox",
-                    "id": "DUSTOX"
+                    "id": "DUSTOX",
+                    "candyCost": 50
                 }
             ],
             "name": "Cascoon",
-            "id": "CASCOON"
+            "id": "CASCOON",
+            "candyCost": 12
         }
     },
     {
@@ -28264,13 +28843,15 @@
             },
             {
                 "name": "Cascoon",
-                "id": "CASCOON"
+                "id": "CASCOON",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dustox",
-            "id": "DUSTOX"
+            "id": "DUSTOX",
+            "candyCost": 50
         }
     },
     {
@@ -28364,7 +28945,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Lombre",
-                "id": "LOMBRE"
+                "id": "LOMBRE",
+                "candyCost": 25
             }
         ],
         "maxCP": 526,
@@ -28375,11 +28957,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Ludicolo",
-                            "id": "LUDICOLO"
+                            "id": "LUDICOLO",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Lombre",
-                    "id": "LOMBRE"
+                    "id": "LOMBRE",
+                    "candyCost": 25
                 }
             ],
             "name": "Lotad",
@@ -28481,7 +29065,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ludicolo",
-                "id": "LUDICOLO"
+                "id": "LUDICOLO",
+                "candyCost": 100
             }
         ],
         "maxCP": 1102,
@@ -28496,11 +29081,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ludicolo",
-                    "id": "LUDICOLO"
+                    "id": "LUDICOLO",
+                    "candyCost": 100
                 }
             ],
             "name": "Lombre",
-            "id": "LOMBRE"
+            "id": "LOMBRE",
+            "candyCost": 25
         }
     },
     {
@@ -28604,13 +29191,15 @@
             },
             {
                 "name": "Lombre",
-                "id": "LOMBRE"
+                "id": "LOMBRE",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ludicolo",
-            "id": "LUDICOLO"
+            "id": "LUDICOLO",
+            "candyCost": 100
         }
     },
     {
@@ -28700,7 +29289,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Nuzleaf",
-                "id": "NUZLEAF"
+                "id": "NUZLEAF",
+                "candyCost": 25
             }
         ],
         "maxCP": 526,
@@ -28711,11 +29301,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Shiftry",
-                            "id": "SHIFTRY"
+                            "id": "SHIFTRY",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Nuzleaf",
-                    "id": "NUZLEAF"
+                    "id": "NUZLEAF",
+                    "candyCost": 25
                 }
             ],
             "name": "Seedot",
@@ -28817,7 +29409,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Shiftry",
-                "id": "SHIFTRY"
+                "id": "SHIFTRY",
+                "candyCost": 100
             }
         ],
         "maxCP": 1117,
@@ -28832,11 +29425,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Shiftry",
-                    "id": "SHIFTRY"
+                    "id": "SHIFTRY",
+                    "candyCost": 100
                 }
             ],
             "name": "Nuzleaf",
-            "id": "NUZLEAF"
+            "id": "NUZLEAF",
+            "candyCost": 25
         }
     },
     {
@@ -28940,13 +29535,15 @@
             },
             {
                 "name": "Nuzleaf",
-                "id": "NUZLEAF"
+                "id": "NUZLEAF",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Shiftry",
-            "id": "SHIFTRY"
+            "id": "SHIFTRY",
+            "candyCost": 100
         }
     },
     {
@@ -29032,7 +29629,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Swellow",
-                "id": "SWELLOW"
+                "id": "SWELLOW",
+                "candyCost": 50
             }
         ],
         "maxCP": 642,
@@ -29041,7 +29639,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Swellow",
-                    "id": "SWELLOW"
+                    "id": "SWELLOW",
+                    "candyCost": 50
                 }
             ],
             "name": "Taillow",
@@ -29152,7 +29751,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Swellow",
-            "id": "SWELLOW"
+            "id": "SWELLOW",
+            "candyCost": 50
         }
     },
     {
@@ -29251,7 +29851,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Pelipper",
-                "id": "PELIPPER"
+                "id": "PELIPPER",
+                "candyCost": 50
             }
         ],
         "maxCP": 642,
@@ -29260,7 +29861,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Pelipper",
-                    "id": "PELIPPER"
+                    "id": "PELIPPER",
+                    "candyCost": 50
                 }
             ],
             "name": "Wingull",
@@ -29371,7 +29973,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Pelipper",
-            "id": "PELIPPER"
+            "id": "PELIPPER",
+            "candyCost": 50
         }
     },
     {
@@ -29465,7 +30068,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Kirlia",
-                "id": "KIRLIA"
+                "id": "KIRLIA",
+                "candyCost": 25
             }
         ],
         "maxCP": 436,
@@ -29476,11 +30080,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Gardevoir",
-                            "id": "GARDEVOIR"
+                            "id": "GARDEVOIR",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Kirlia",
-                    "id": "KIRLIA"
+                    "id": "KIRLIA",
+                    "candyCost": 25
                 }
             ],
             "name": "Ralts",
@@ -29578,7 +30184,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Gardevoir",
-                "id": "GARDEVOIR"
+                "id": "GARDEVOIR",
+                "candyCost": 100
             }
         ],
         "maxCP": 843,
@@ -29593,11 +30200,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Gardevoir",
-                    "id": "GARDEVOIR"
+                    "id": "GARDEVOIR",
+                    "candyCost": 100
                 }
             ],
             "name": "Kirlia",
-            "id": "KIRLIA"
+            "id": "KIRLIA",
+            "candyCost": 25
         }
     },
     {
@@ -29701,13 +30310,15 @@
             },
             {
                 "name": "Kirlia",
-                "id": "KIRLIA"
+                "id": "KIRLIA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Gardevoir",
-            "id": "GARDEVOIR"
+            "id": "GARDEVOIR",
+            "candyCost": 100
         }
     },
     {
@@ -29801,7 +30412,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Masquerain",
-                "id": "MASQUERAIN"
+                "id": "MASQUERAIN",
+                "candyCost": 50
             }
         ],
         "maxCP": 695,
@@ -29810,7 +30422,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Masquerain",
-                    "id": "MASQUERAIN"
+                    "id": "MASQUERAIN",
+                    "candyCost": 50
                 }
             ],
             "name": "Surskit",
@@ -29921,7 +30534,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Masquerain",
-            "id": "MASQUERAIN"
+            "id": "MASQUERAIN",
+            "candyCost": 50
         }
     },
     {
@@ -30011,7 +30625,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Breloom",
-                "id": "BRELOOM"
+                "id": "BRELOOM",
+                "candyCost": 50
             }
         ],
         "maxCP": 722,
@@ -30020,7 +30635,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Breloom",
-                    "id": "BRELOOM"
+                    "id": "BRELOOM",
+                    "candyCost": 50
                 }
             ],
             "name": "Shroomish",
@@ -30130,7 +30746,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Breloom",
-            "id": "BRELOOM"
+            "id": "BRELOOM",
+            "candyCost": 50
         }
     },
     {
@@ -30219,7 +30836,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vigoroth",
-                "id": "VIGOROTH"
+                "id": "VIGOROTH",
+                "candyCost": 25
             }
         ],
         "maxCP": 942,
@@ -30230,11 +30848,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Slaking",
-                            "id": "SLAKING"
+                            "id": "SLAKING",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Vigoroth",
-                    "id": "VIGOROTH"
+                    "id": "VIGOROTH",
+                    "candyCost": 25
                 }
             ],
             "name": "Slakoth",
@@ -30332,7 +30952,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Slaking",
-                "id": "SLAKING"
+                "id": "SLAKING",
+                "candyCost": 100
             }
         ],
         "maxCP": 1896,
@@ -30347,11 +30968,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Slaking",
-                    "id": "SLAKING"
+                    "id": "SLAKING",
+                    "candyCost": 100
                 }
             ],
             "name": "Vigoroth",
-            "id": "VIGOROTH"
+            "id": "VIGOROTH",
+            "candyCost": 25
         }
     },
     {
@@ -30444,13 +31067,15 @@
             },
             {
                 "name": "Vigoroth",
-                "id": "VIGOROTH"
+                "id": "VIGOROTH",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Slaking",
-            "id": "SLAKING"
+            "id": "SLAKING",
+            "candyCost": 100
         }
     },
     {
@@ -30544,11 +31169,13 @@
         "nextEvolutionBranches": [
             {
                 "name": "Ninjask",
-                "id": "NINJASK"
+                "id": "NINJASK",
+                "candyCost": 50
             },
             {
                 "name": "Shedinja",
-                "id": "SHEDINJA"
+                "id": "SHEDINJA",
+                "candyCost": 50
             }
         ],
         "maxCP": 674,
@@ -30557,12 +31184,14 @@
                 {
                     "futureEvolutions": [],
                     "name": "Ninjask",
-                    "id": "NINJASK"
+                    "id": "NINJASK",
+                    "candyCost": 50
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Shedinja",
-                    "id": "SHEDINJA"
+                    "id": "SHEDINJA",
+                    "candyCost": 50
                 }
             ],
             "name": "Nincada",
@@ -30673,7 +31302,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Ninjask",
-            "id": "NINJASK"
+            "id": "NINJASK",
+            "candyCost": 50
         }
     },
     {
@@ -30776,7 +31406,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Shedinja",
-            "id": "SHEDINJA"
+            "id": "SHEDINJA",
+            "candyCost": 50
         }
     },
     {
@@ -30866,7 +31497,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Loudred",
-                "id": "LOUDRED"
+                "id": "LOUDRED",
+                "candyCost": 12
             }
         ],
         "maxCP": 603,
@@ -30877,11 +31509,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Exploud",
-                            "id": "EXPLOUD"
+                            "id": "EXPLOUD",
+                            "candyCost": 50
                         }
                     ],
                     "name": "Loudred",
-                    "id": "LOUDRED"
+                    "id": "LOUDRED",
+                    "candyCost": 12
                 }
             ],
             "name": "Whismur",
@@ -30979,7 +31613,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Exploud",
-                "id": "EXPLOUD"
+                "id": "EXPLOUD",
+                "candyCost": 50
             }
         ],
         "maxCP": 1233,
@@ -30994,11 +31629,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Exploud",
-                    "id": "EXPLOUD"
+                    "id": "EXPLOUD",
+                    "candyCost": 50
                 }
             ],
             "name": "Loudred",
-            "id": "LOUDRED"
+            "id": "LOUDRED",
+            "candyCost": 12
         }
     },
     {
@@ -31098,13 +31735,15 @@
             },
             {
                 "name": "Loudred",
-                "id": "LOUDRED"
+                "id": "LOUDRED",
+                "candyCost": 12
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Exploud",
-            "id": "EXPLOUD"
+            "id": "EXPLOUD",
+            "candyCost": 50
         }
     },
     {
@@ -31198,7 +31837,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Hariyama",
-                "id": "HARIYAMA"
+                "id": "HARIYAMA",
+                "candyCost": 50
             }
         ],
         "maxCP": 745,
@@ -31207,7 +31847,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Hariyama",
-                    "id": "HARIYAMA"
+                    "id": "HARIYAMA",
+                    "candyCost": 50
                 }
             ],
             "name": "Makuhita",
@@ -31313,7 +31954,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Hariyama",
-            "id": "HARIYAMA"
+            "id": "HARIYAMA",
+            "candyCost": 50
         }
     },
     {
@@ -31407,7 +32049,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Marill",
-                "id": "MARILL"
+                "id": "MARILL",
+                "candyCost": 25
             }
         ],
         "maxCP": 316,
@@ -31418,11 +32061,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Azumarill",
-                            "id": "AZUMARILL"
+                            "id": "AZUMARILL",
+                            "candyCost": 25
                         }
                     ],
                     "name": "Marill",
-                    "id": "MARILL"
+                    "id": "MARILL",
+                    "candyCost": 25
                 }
             ],
             "name": "Azurill",
@@ -31612,7 +32257,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Delcatty",
-                "id": "DELCATTY"
+                "id": "DELCATTY",
+                "candyCost": 50
             }
         ],
         "maxCP": 659,
@@ -31621,7 +32267,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Delcatty",
-                    "id": "DELCATTY"
+                    "id": "DELCATTY",
+                    "candyCost": 50
                 }
             ],
             "name": "Skitty",
@@ -31727,7 +32374,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Delcatty",
-            "id": "DELCATTY"
+            "id": "DELCATTY",
+            "candyCost": 50
         }
     },
     {
@@ -32013,7 +32661,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Lairon",
-                "id": "LAIRON"
+                "id": "LAIRON",
+                "candyCost": 25
             }
         ],
         "maxCP": 1232,
@@ -32024,11 +32673,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Aggron",
-                            "id": "AGGRON"
+                            "id": "AGGRON",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Lairon",
-                    "id": "LAIRON"
+                    "id": "LAIRON",
+                    "candyCost": 25
                 }
             ],
             "name": "Aron",
@@ -32130,7 +32781,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Aggron",
-                "id": "AGGRON"
+                "id": "AGGRON",
+                "candyCost": 100
             }
         ],
         "maxCP": 2004,
@@ -32145,11 +32797,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Aggron",
-                    "id": "AGGRON"
+                    "id": "AGGRON",
+                    "candyCost": 100
                 }
             ],
             "name": "Lairon",
-            "id": "LAIRON"
+            "id": "LAIRON",
+            "candyCost": 25
         }
     },
     {
@@ -32253,13 +32907,15 @@
             },
             {
                 "name": "Lairon",
-                "id": "LAIRON"
+                "id": "LAIRON",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Aggron",
-            "id": "AGGRON"
+            "id": "AGGRON",
+            "candyCost": 100
         }
     },
     {
@@ -32353,7 +33009,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Medicham",
-                "id": "MEDICHAM"
+                "id": "MEDICHAM",
+                "candyCost": 50
             }
         ],
         "maxCP": 555,
@@ -32362,7 +33019,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Medicham",
-                    "id": "MEDICHAM"
+                    "id": "MEDICHAM",
+                    "candyCost": 50
                 }
             ],
             "name": "Meditite",
@@ -32472,7 +33130,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Medicham",
-            "id": "MEDICHAM"
+            "id": "MEDICHAM",
+            "candyCost": 50
         }
     },
     {
@@ -32566,7 +33225,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Manectric",
-                "id": "MANECTRIC"
+                "id": "MANECTRIC",
+                "candyCost": 50
             }
         ],
         "maxCP": 810,
@@ -32575,7 +33235,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Manectric",
-                    "id": "MANECTRIC"
+                    "id": "MANECTRIC",
+                    "candyCost": 50
                 }
             ],
             "name": "Electrike",
@@ -32681,7 +33342,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Manectric",
-            "id": "MANECTRIC"
+            "id": "MANECTRIC",
+            "candyCost": 50
         }
     },
     {
@@ -33251,7 +33913,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Swalot",
-                "id": "SWALOT"
+                "id": "SWALOT",
+                "candyCost": 50
             }
         ],
         "maxCP": 788,
@@ -33260,7 +33923,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Swalot",
-                    "id": "SWALOT"
+                    "id": "SWALOT",
+                    "candyCost": 50
                 }
             ],
             "name": "Gulpin",
@@ -33366,7 +34030,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Swalot",
-            "id": "SWALOT"
+            "id": "SWALOT",
+            "candyCost": 50
         }
     },
     {
@@ -33465,7 +34130,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sharpedo",
-                "id": "SHARPEDO"
+                "id": "SHARPEDO",
+                "candyCost": 50
             }
         ],
         "maxCP": 874,
@@ -33474,7 +34140,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Sharpedo",
-                    "id": "SHARPEDO"
+                    "id": "SHARPEDO",
+                    "candyCost": 50
                 }
             ],
             "name": "Carvanha",
@@ -33585,7 +34252,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Sharpedo",
-            "id": "SHARPEDO"
+            "id": "SHARPEDO",
+            "candyCost": 50
         }
     },
     {
@@ -33680,7 +34348,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wailord",
-                "id": "WAILORD"
+                "id": "WAILORD",
+                "candyCost": 400
             }
         ],
         "maxCP": 1424,
@@ -33689,7 +34358,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Wailord",
-                    "id": "WAILORD"
+                    "id": "WAILORD",
+                    "candyCost": 400
                 }
             ],
             "name": "Wailmer",
@@ -33792,7 +34462,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Wailord",
-            "id": "WAILORD"
+            "id": "WAILORD",
+            "candyCost": 400
         }
     },
     {
@@ -33886,7 +34557,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Camerupt",
-                "id": "CAMERUPT"
+                "id": "CAMERUPT",
+                "candyCost": 50
             }
         ],
         "maxCP": 957,
@@ -33895,7 +34567,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Camerupt",
-                    "id": "CAMERUPT"
+                    "id": "CAMERUPT",
+                    "candyCost": 50
                 }
             ],
             "name": "Numel",
@@ -34005,7 +34678,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Camerupt",
-            "id": "CAMERUPT"
+            "id": "CAMERUPT",
+            "candyCost": 50
         }
     },
     {
@@ -34184,7 +34858,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Grumpig",
-                "id": "GRUMPIG"
+                "id": "GRUMPIG",
+                "candyCost": 50
             }
         ],
         "maxCP": 1285,
@@ -34193,7 +34868,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Grumpig",
-                    "id": "GRUMPIG"
+                    "id": "GRUMPIG",
+                    "candyCost": 50
                 }
             ],
             "name": "Spoink",
@@ -34299,7 +34975,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Grumpig",
-            "id": "GRUMPIG"
+            "id": "GRUMPIG",
+            "candyCost": 50
         }
     },
     {
@@ -34485,7 +35162,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Vibrava",
-                "id": "VIBRAVA"
+                "id": "VIBRAVA",
+                "candyCost": 25
             }
         ],
         "maxCP": 1092,
@@ -34496,11 +35174,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Flygon",
-                            "id": "FLYGON"
+                            "id": "FLYGON",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Vibrava",
-                    "id": "VIBRAVA"
+                    "id": "VIBRAVA",
+                    "candyCost": 25
                 }
             ],
             "name": "Trapinch",
@@ -34603,7 +35283,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Flygon",
-                "id": "FLYGON"
+                "id": "FLYGON",
+                "candyCost": 100
             }
         ],
         "maxCP": 1065,
@@ -34618,11 +35299,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Flygon",
-                    "id": "FLYGON"
+                    "id": "FLYGON",
+                    "candyCost": 100
                 }
             ],
             "name": "Vibrava",
-            "id": "VIBRAVA"
+            "id": "VIBRAVA",
+            "candyCost": 25
         }
     },
     {
@@ -34727,13 +35410,15 @@
             },
             {
                 "name": "Vibrava",
-                "id": "VIBRAVA"
+                "id": "VIBRAVA",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Flygon",
-            "id": "FLYGON"
+            "id": "FLYGON",
+            "candyCost": 100
         }
     },
     {
@@ -34827,7 +35512,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Cacturne",
-                "id": "CACTURNE"
+                "id": "CACTURNE",
+                "candyCost": 50
             }
         ],
         "maxCP": 1080,
@@ -34836,7 +35522,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Cacturne",
-                    "id": "CACTURNE"
+                    "id": "CACTURNE",
+                    "candyCost": 50
                 }
             ],
             "name": "Cacnea",
@@ -34946,7 +35633,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Cacturne",
-            "id": "CACTURNE"
+            "id": "CACTURNE",
+            "candyCost": 50
         }
     },
     {
@@ -35044,7 +35732,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Altaria",
-                "id": "ALTARIA"
+                "id": "ALTARIA",
+                "candyCost": 400
             }
         ],
         "maxCP": 722,
@@ -35053,7 +35742,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Altaria",
-                    "id": "ALTARIA"
+                    "id": "ALTARIA",
+                    "candyCost": 400
                 }
             ],
             "name": "Swablu",
@@ -35164,7 +35854,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Altaria",
-            "id": "ALTARIA"
+            "id": "ALTARIA",
+            "candyCost": 400
         }
     },
     {
@@ -35641,7 +36332,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Whiscash",
-                "id": "WHISCASH"
+                "id": "WHISCASH",
+                "candyCost": 50
             }
         ],
         "maxCP": 716,
@@ -35650,7 +36342,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Whiscash",
-                    "id": "WHISCASH"
+                    "id": "WHISCASH",
+                    "candyCost": 50
                 }
             ],
             "name": "Barboach",
@@ -35761,7 +36454,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Whiscash",
-            "id": "WHISCASH"
+            "id": "WHISCASH",
+            "candyCost": 50
         }
     },
     {
@@ -35851,7 +36545,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Crawdaunt",
-                "id": "CRAWDAUNT"
+                "id": "CRAWDAUNT",
+                "candyCost": 50
             }
         ],
         "maxCP": 1107,
@@ -35860,7 +36555,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Crawdaunt",
-                    "id": "CRAWDAUNT"
+                    "id": "CRAWDAUNT",
+                    "candyCost": 50
                 }
             ],
             "name": "Corphish",
@@ -35970,7 +36666,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Crawdaunt",
-            "id": "CRAWDAUNT"
+            "id": "CRAWDAUNT",
+            "candyCost": 50
         }
     },
     {
@@ -36061,7 +36758,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Claydol",
-                "id": "CLAYDOL"
+                "id": "CLAYDOL",
+                "candyCost": 50
             }
         ],
         "maxCP": 676,
@@ -36070,7 +36768,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Claydol",
-                    "id": "CLAYDOL"
+                    "id": "CLAYDOL",
+                    "candyCost": 50
                 }
             ],
             "name": "Baltoy",
@@ -36177,7 +36876,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Claydol",
-            "id": "CLAYDOL"
+            "id": "CLAYDOL",
+            "candyCost": 50
         }
     },
     {
@@ -36272,7 +36972,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Cradily",
-                "id": "CRADILY"
+                "id": "CRADILY",
+                "candyCost": 50
             }
         ],
         "maxCP": 1181,
@@ -36281,7 +36982,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Cradily",
-                    "id": "CRADILY"
+                    "id": "CRADILY",
+                    "candyCost": 50
                 }
             ],
             "name": "Lileep",
@@ -36388,7 +37090,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Cradily",
-            "id": "CRADILY"
+            "id": "CRADILY",
+            "candyCost": 50
         }
     },
     {
@@ -36486,7 +37189,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Armaldo",
-                "id": "ARMALDO"
+                "id": "ARMALDO",
+                "candyCost": 50
             }
         ],
         "maxCP": 1310,
@@ -36495,7 +37199,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Armaldo",
-                    "id": "ARMALDO"
+                    "id": "ARMALDO",
+                    "candyCost": 50
                 }
             ],
             "name": "Anorith",
@@ -36605,7 +37310,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Armaldo",
-            "id": "ARMALDO"
+            "id": "ARMALDO",
+            "candyCost": 50
         }
     },
     {
@@ -36688,7 +37394,9 @@
         "nextEvolutionBranches": [
             {
                 "name": "Milotic",
-                "id": "MILOTIC"
+                "id": "MILOTIC",
+                "candyCost": 100,
+                "kmBuddyDistanceRequirement": 20
             }
         ],
         "maxCP": 220,
@@ -36697,7 +37405,9 @@
                 {
                     "futureEvolutions": [],
                     "name": "Milotic",
-                    "id": "MILOTIC"
+                    "id": "MILOTIC",
+                    "candyCost": 100,
+                    "kmBuddyDistanceRequirement": 20
                 }
             ],
             "name": "Feebas",
@@ -36803,7 +37513,9 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Milotic",
-            "id": "MILOTIC"
+            "id": "MILOTIC",
+            "candyCost": 100,
+            "kmBuddyDistanceRequirement": 20
         }
     },
     {
@@ -37091,7 +37803,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Banette",
-                "id": "BANETTE"
+                "id": "BANETTE",
+                "candyCost": 50
             }
         ],
         "maxCP": 872,
@@ -37100,7 +37813,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Banette",
-                    "id": "BANETTE"
+                    "id": "BANETTE",
+                    "candyCost": 50
                 }
             ],
             "name": "Shuppet",
@@ -37206,7 +37920,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Banette",
-            "id": "BANETTE"
+            "id": "BANETTE",
+            "candyCost": 50
         }
     },
     {
@@ -37300,7 +38015,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Dusclops",
-                "id": "DUSCLOPS"
+                "id": "DUSCLOPS",
+                "candyCost": 50
             }
         ],
         "maxCP": 523,
@@ -37309,7 +38025,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Dusclops",
-                    "id": "DUSCLOPS"
+                    "id": "DUSCLOPS",
+                    "candyCost": 50
                 }
             ],
             "name": "Duskull",
@@ -37415,7 +38132,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Dusclops",
-            "id": "DUSCLOPS"
+            "id": "DUSCLOPS",
+            "candyCost": 50
         }
     },
     {
@@ -37787,7 +38505,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Wobbuffet",
-                "id": "WOBBUFFET"
+                "id": "WOBBUFFET",
+                "candyCost": 25
             }
         ],
         "maxCP": 503,
@@ -37796,7 +38515,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Wobbuffet",
-                    "id": "WOBBUFFET"
+                    "id": "WOBBUFFET",
+                    "candyCost": 25
                 }
             ],
             "name": "Wynaut",
@@ -37890,7 +38610,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Glalie",
-                "id": "GLALIE"
+                "id": "GLALIE",
+                "candyCost": 50
             }
         ],
         "maxCP": 772,
@@ -37899,7 +38620,8 @@
                 {
                     "futureEvolutions": [],
                     "name": "Glalie",
-                    "id": "GLALIE"
+                    "id": "GLALIE",
+                    "candyCost": 50
                 }
             ],
             "name": "Snorunt",
@@ -38006,7 +38728,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Glalie",
-            "id": "GLALIE"
+            "id": "GLALIE",
+            "candyCost": 50
         }
     },
     {
@@ -38104,7 +38827,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Sealeo",
-                "id": "SEALEO"
+                "id": "SEALEO",
+                "candyCost": 25
             }
         ],
         "maxCP": 876,
@@ -38115,11 +38839,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Walrein",
-                            "id": "WALREIN"
+                            "id": "WALREIN",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Sealeo",
-                    "id": "SEALEO"
+                    "id": "SEALEO",
+                    "candyCost": 25
                 }
             ],
             "name": "Spheal",
@@ -38221,7 +38947,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Walrein",
-                "id": "WALREIN"
+                "id": "WALREIN",
+                "candyCost": 100
             }
         ],
         "maxCP": 1607,
@@ -38236,11 +38963,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Walrein",
-                    "id": "WALREIN"
+                    "id": "WALREIN",
+                    "candyCost": 100
                 }
             ],
             "name": "Sealeo",
-            "id": "SEALEO"
+            "id": "SEALEO",
+            "candyCost": 25
         }
     },
     {
@@ -38344,13 +39073,15 @@
             },
             {
                 "name": "Sealeo",
-                "id": "SEALEO"
+                "id": "SEALEO",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Walrein",
-            "id": "WALREIN"
+            "id": "WALREIN",
+            "candyCost": 100
         }
     },
     {
@@ -38432,11 +39163,13 @@
         "nextEvolutionBranches": [
             {
                 "name": "Huntail",
-                "id": "HUNTAIL"
+                "id": "HUNTAIL",
+                "candyCost": 50
             },
             {
                 "name": "Gorebyss",
-                "id": "GOREBYSS"
+                "id": "GOREBYSS",
+                "candyCost": 50
             }
         ],
         "maxCP": 1091,
@@ -38445,12 +39178,14 @@
                 {
                     "futureEvolutions": [],
                     "name": "Huntail",
-                    "id": "HUNTAIL"
+                    "id": "HUNTAIL",
+                    "candyCost": 50
                 },
                 {
                     "futureEvolutions": [],
                     "name": "Gorebyss",
-                    "id": "GOREBYSS"
+                    "id": "GOREBYSS",
+                    "candyCost": 50
                 }
             ],
             "name": "Clamperl",
@@ -38556,7 +39291,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Huntail",
-            "id": "HUNTAIL"
+            "id": "HUNTAIL",
+            "candyCost": 50
         }
     },
     {
@@ -38658,7 +39394,8 @@
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Gorebyss",
-            "id": "GOREBYSS"
+            "id": "GOREBYSS",
+            "candyCost": 50
         }
     },
     {
@@ -38942,7 +39679,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Shelgon",
-                "id": "SHELGON"
+                "id": "SHELGON",
+                "candyCost": 25
             }
         ],
         "maxCP": 1053,
@@ -38953,11 +39691,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Salamence",
-                            "id": "SALAMENCE"
+                            "id": "SALAMENCE",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Shelgon",
-                    "id": "SHELGON"
+                    "id": "SHELGON",
+                    "candyCost": 25
                 }
             ],
             "name": "Bagon",
@@ -39055,7 +39795,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Salamence",
-                "id": "SALAMENCE"
+                "id": "SALAMENCE",
+                "candyCost": 100
             }
         ],
         "maxCP": 1958,
@@ -39070,11 +39811,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Salamence",
-                    "id": "SALAMENCE"
+                    "id": "SALAMENCE",
+                    "candyCost": 100
                 }
             ],
             "name": "Shelgon",
-            "id": "SHELGON"
+            "id": "SHELGON",
+            "candyCost": 25
         }
     },
     {
@@ -39179,13 +39922,15 @@
             },
             {
                 "name": "Shelgon",
-                "id": "SHELGON"
+                "id": "SHELGON",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Salamence",
-            "id": "SALAMENCE"
+            "id": "SALAMENCE",
+            "candyCost": 100
         }
     },
     {
@@ -39264,7 +40009,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Metang",
-                "id": "METANG"
+                "id": "METANG",
+                "candyCost": 25
             }
         ],
         "maxCP": 843,
@@ -39275,11 +40021,13 @@
                         {
                             "futureEvolutions": [],
                             "name": "Metagross",
-                            "id": "METAGROSS"
+                            "id": "METAGROSS",
+                            "candyCost": 100
                         }
                     ],
                     "name": "Metang",
-                    "id": "METANG"
+                    "id": "METANG",
+                    "candyCost": 25
                 }
             ],
             "name": "Beldum",
@@ -39378,7 +40126,8 @@
         "nextEvolutionBranches": [
             {
                 "name": "Metagross",
-                "id": "METAGROSS"
+                "id": "METAGROSS",
+                "candyCost": 100
             }
         ],
         "maxCP": 1570,
@@ -39393,11 +40142,13 @@
                 {
                     "futureEvolutions": [],
                     "name": "Metagross",
-                    "id": "METAGROSS"
+                    "id": "METAGROSS",
+                    "candyCost": 100
                 }
             ],
             "name": "Metang",
-            "id": "METANG"
+            "id": "METANG",
+            "candyCost": 25
         }
     },
     {
@@ -39497,13 +40248,15 @@
             },
             {
                 "name": "Metang",
-                "id": "METANG"
+                "id": "METANG",
+                "candyCost": 25
             }
         ],
         "futureEvolutions": {
             "futureEvolutions": [],
             "name": "Metagross",
-            "id": "METAGROSS"
+            "id": "METAGROSS",
+            "candyCost": 100
         }
     },
     {
