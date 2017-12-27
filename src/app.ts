@@ -1,4 +1,4 @@
-import * as chalk from 'chalk';
+import chalk from 'chalk';
 
 import APP_SETTINGS from '@settings/app';
 import { PokemonWriter } from '@components/pokemon/pokemon.writer';

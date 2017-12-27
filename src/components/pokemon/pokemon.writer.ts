@@ -1,6 +1,6 @@
 import * as path from 'path';
 import * as fs from 'fs';
-import * as chalk from 'chalk';
+import chalk from 'chalk';
 import { Promise } from 'es6-shim';
 
 import APP_SETTINGS from '@settings/app';
