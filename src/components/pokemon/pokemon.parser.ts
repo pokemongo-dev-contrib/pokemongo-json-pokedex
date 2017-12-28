@@ -16,6 +16,7 @@ class PokemonParser implements Parser {
             .map(p => PokemonMapper.Map(p, gameMaster));
         returnValue = this.generateBackrefs(returnValue);
         returnValue = this.generateFrontRefs(returnValue);
+        returnValue = this.generateBackrefCosts(returnValue);
         return returnValue;
     }
 
@@ -30,11 +31,11 @@ class PokemonParser implements Parser {
         // TODO: Use a for loop to iterate over more than 2 previous evolutions.
         backrefs.forEach((pastPokemonList, backrefIndex, backrefsTemp) => pastPokemonList.forEach(currentPastEvolution => {
             if (!backrefsTemp.has(currentPastEvolution.id)) { return; }
+
             const newPastEvolutions = backrefsTemp.get(currentPastEvolution.id);
             backrefs.set(backrefIndex, newPastEvolutions.concat(pastPokemonList));
         }));
 
-        // Finally, update the parsedPokemon list.
         return parsedPokemon.map(pokemon => {
             const pastEvolutions = backrefs.get(pokemon.id);
             if (pastEvolutions === undefined || pastEvolutions.length === 0) {
@@ -42,8 +43,11 @@ class PokemonParser implements Parser {
             }
             pokemon.pastEvolutions = pokemon.pastEvolutions || [];
             pokemon.pastEvolutions = pastEvolutions
-                .map(currentPriorEvolution => { return { name: currentPriorEvolution.name, id: currentPriorEvolution.id }; })
+                .map(currentPriorEvolution => {
+                    return { name: currentPriorEvolution.name, id: currentPriorEvolution.id };
+                })
                 .concat(pokemon.pastEvolutions);
+
             return pokemon;
         });
     }
@@ -56,22 +60,59 @@ class PokemonParser implements Parser {
         }, new Map<string, Pokemon>());
 
         // And now, graph traversal...
-        for (let treeLevel = 0; treeLevel < 2; treeLevel++) {
-            pokemonIdMap.forEach((pokemonObject, pokemonId) => {
-                if (pokemonObject.futureEvolutions === undefined) {
+        pokemonIdMap.forEach((pokemonObject, pokemonId) => {
+            if (pokemonObject.futureEvolutions === undefined) {
+                if (pokemonObject.pastEvolutions && pokemonObject.pastEvolutions.length) {
+                    const preEvolution = pokemonIdMap.get(pokemonObject.pastEvolutions[pokemonObject.pastEvolutions.length - 1].id);
+                    const evolutionCost = preEvolution.nextEvolutionBranches.filter(evolution => evolution.id === pokemonObject.id)[0];
+                    pokemonObject.futureEvolutions = new EvolutionTree(pokemonObject.name, pokemonObject.id, evolutionCost.candyCost, evolutionCost.evolutionItem, evolutionCost.kmBuddyDistanceRequirement);
+                } else {
                     pokemonObject.futureEvolutions = new EvolutionTree(pokemonObject.name, pokemonObject.id);
                 }
+            }
+            for (let treeLevel = 0; treeLevel < 2; treeLevel++) {
                 pokemonObject.futureEvolutions = pokemonObject.futureEvolutions.mapInLevel(treeLevel, currentSubtree => {
                     const currEntry = pokemonIdMap.get(currentSubtree.id);
+                    let evolutionCost: Identifyable = { name: currentSubtree.name, id: currentSubtree.id };
+                    if (currEntry.pastEvolutions && currEntry.pastEvolutions.length) {
+                        const preEvolution = pokemonIdMap.get(currEntry.pastEvolutions[currEntry.pastEvolutions.length - 1].id);
+                        evolutionCost = preEvolution.nextEvolutionBranches.filter(evolution => evolution.id === currEntry.id)[0];
+                        pokemonObject.futureEvolutions = new EvolutionTree(pokemonObject.name, pokemonObject.id, evolutionCost.candyCost, evolutionCost.evolutionItem, evolutionCost.kmBuddyDistanceRequirement);
+                    }
+
                     return new EvolutionTree(
                         currentSubtree.name,
                         currentSubtree.id,
-                        currEntry.nextEvolutionBranches.map(evolutionBranch => new EvolutionTree(evolutionBranch.name, evolutionBranch.id))
+                        evolutionCost.candyCost,
+                        evolutionCost.evolutionItem,
+                        evolutionCost.kmBuddyDistanceRequirement,
+                        currEntry.nextEvolutionBranches.map(evolutionBranch => new EvolutionTree(evolutionBranch.name, evolutionBranch.id, evolutionBranch.candyCost, evolutionBranch.evolutionItem, evolutionBranch.kmBuddyDistanceRequirement))
                     );
                 })
-            });
-        }
+            }
+        });
         return Array.from(pokemonIdMap.values());
+    }
+
+    public generateBackrefCosts(parsedPokemon: Pokemon[]): Pokemon[] {
+        const dictionary = parsedPokemon.reduce((dictionaryTemp, pokemon) => {
+            dictionaryTemp.set(pokemon.id, pokemon)
+            return dictionaryTemp;
+        }, new Map<string, Pokemon>());
+
+        return parsedPokemon.map(pokemon => {
+            if (pokemon.pastEvolutions) {
+                pokemon.pastEvolutions = pokemon.pastEvolutions.map(pastPokemon => {
+                    const pastPokemonTemp = dictionary.get(pastPokemon.id)
+                    pastPokemon.candyCost = pastPokemonTemp.futureEvolutions.candyCost;
+                    pastPokemon.evolutionItem = pastPokemonTemp.futureEvolutions.evolutionItem;
+                    pastPokemon.kmBuddyDistanceRequirement = pastPokemonTemp.futureEvolutions.kmBuddyDistanceRequirement;
+                    return pastPokemon;
+                })
+            }
+
+            return pokemon;
+        });
     }
 }
 

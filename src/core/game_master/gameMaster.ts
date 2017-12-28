@@ -1,3 +1,5 @@
+import { Identifyable } from '../identifyable';
+
 export interface AvatarCustomization {
     enabled: boolean;
     avatarType: string;
@@ -200,6 +202,8 @@ export interface EvolutionBranch {
     evolution: string;
     candyCost: number;
     evolutionItemRequirement: string;
+    evolutionItem?: Identifyable;
+    kmBuddyDistanceRequirement?: number;
 }
 
 export interface PokemonSettings {

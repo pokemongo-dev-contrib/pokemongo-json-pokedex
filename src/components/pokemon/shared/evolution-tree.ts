@@ -11,10 +11,16 @@ class EvolutionTree implements Identifyable {
      */
     public name: string;
     public id: string;
+    public candyCost: number;
+    public evolutionItem: Identifyable;
+    public kmBuddyDistanceRequirement: number;
     public futureEvolutions: EvolutionTree[] = [];
-    public constructor(name: string, id: string, futureEvolutions: EvolutionTree[] = []) {
+    public constructor(name: string, id: string, candyCost: number = undefined, evolutionItem: Identifyable = undefined, kmBuddyDistanceRequirement: number = undefined, futureEvolutions: EvolutionTree[] = []) {
         this.name = name;
         this.id = id;
+        this.candyCost = candyCost;
+        this.evolutionItem = evolutionItem;
+        this.kmBuddyDistanceRequirement = kmBuddyDistanceRequirement;
         this.futureEvolutions = futureEvolutions;
     }
 
@@ -32,6 +38,9 @@ class EvolutionTree implements Identifyable {
             return new EvolutionTree(
                 this.name,
                 this.id,
+                this.candyCost,
+                this.evolutionItem,
+                this.kmBuddyDistanceRequirement,
                 this.futureEvolutions.map(evo => evo.mapInLevel(treeLevel - 1, mapperFunction))
             );
         }
