@@ -1,6 +1,5 @@
 {
 	"compilerOptions": {
-		// remove skipLibCheck after https://github.com/DefinitelyTyped/DefinitelyTyped/issues/14324 fixed
 		"skipLibCheck": true,
 		"module": "commonjs",
 		"target": "es5",
@@ -17,7 +16,11 @@
 			"@util/*": ["src/util/*"],
 			"@settings/app": ["src/app.settings"],
 			"@settings/package": ["package.json"],
-			"@data/*": ["src/data/*"]
+			"@data/*": ["src/data/*"],
+			"@outcome": ["src/outcome"],
+			"@outcome/*": ["src/outcome/*"],
+			"@income": ["src/income"],
+			"@income/*": ["src/income/*"]
 		}
 	}
 }

@@ -7,7 +7,7 @@ import { PokemonStats } from './pokemonStats';
 /**
  * Represents one Pokemon of PokemonGO
  */
-interface Pokemon extends Identifyable {
+interface Pokemon {
     /**
      * The formatted english name of the Pokemon.
      * @example
