@@ -1,5 +1,4 @@
 import { ComponentRegistry } from './registry';
-import { compile } from 'handlebars';
 
 /**
  * Represents a component
@@ -7,20 +6,37 @@ import { compile } from 'handlebars';
 export interface IComponent {
   /**
    * Alters any data from the input and saves it in the output.
+   * @param {any} output The object which will be the output. Must be returned
+   * @param {any} input The raw data
    */
   Process(output: any, input: any): any;
 }
 
+/**
+ * The type of the component
+ */
+export enum ComponentType {
+  /**
+   * Simple maps are used for components which only require
+   * a single item.
+   */
+  SIMPLE_MAP,
+  /**
+   * Advanced maps are used for components which requires
+   * more than one item.
+   */
+  ADVANCED_MAP
+}
 
 /**
  * Settings a component can have
  */
 export interface ComponentSettings {
   /**
-   * The type of the component. Decides in which
-   * pipeline this component belongs to
+   * Which pipeline this component belongs to
    */
-  type: string;
+  pipeline: string;
+  type?: ComponentType;
 }
 
 /**
@@ -28,6 +44,8 @@ export interface ComponentSettings {
  * @param settings The settings of the component
  */
 export function Component(settings: ComponentSettings) {
+  // Default values
+  settings.type = settings.type || ComponentType.SIMPLE_MAP;
   return function (target: any) {
     const component = Object.create(target.prototype);
     ComponentRegistry.Instance.Register(component, settings);

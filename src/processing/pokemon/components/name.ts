@@ -1,12 +1,12 @@
-import { Component, IComponent } from '@core';
+import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
 
 @Component({
-  type: 'pokemon'
+  pipeline: 'pokemon'
 })
-export class NameParser implements IComponent {
+export class Name implements IComponent {
   /**
    * Parses the english name of the Pokemon (eg: "BULBASAUR" => "Bulbasaur")
    */

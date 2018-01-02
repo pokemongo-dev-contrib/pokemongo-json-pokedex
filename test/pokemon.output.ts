@@ -1,5 +1,5 @@
 import { Move } from '../src/components/move';
-import { Pokemon } from '../src/components/pokemon';
+import { Pokemon } from '@outcome/pokemon';
 import { expect } from 'chai';
 
 describe('Pokemon Output', () => {

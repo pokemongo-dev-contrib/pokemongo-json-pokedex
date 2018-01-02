@@ -5,7 +5,7 @@ import { Promise } from 'es6-shim';
 
 import APP_SETTINGS from '@settings/app';
 import { Writer } from '@core/writer';
-import { PokemonParser } from './';
+import { PokemonParser } from './pokemon.parser';
 
 export class PokemonWriter extends Writer {
     constructor() {

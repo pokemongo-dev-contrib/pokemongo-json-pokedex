@@ -4,4 +4,3 @@ export * from './identifyable';
 export * from './parser';
 export * from './writer';
 export * from './pipeline';
-export * from './finalModel';
