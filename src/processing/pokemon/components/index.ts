@@ -12,7 +12,4 @@ import './rarity';
 import './encounter/enounter';
 import './encounter/genderPercentage';
 import './camera';
-import './evolution/nextEvolutionBranches';
-import './evolution/pastEvolutionBranches';
-import './evolution/futureEvolutionBranches';
-import './evolution/cost';
+import './evolution';

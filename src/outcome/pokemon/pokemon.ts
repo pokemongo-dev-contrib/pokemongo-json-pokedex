@@ -1,7 +1,7 @@
-import { PokemonEvolutionTree } from './pokemonEvolutionTree';
 import { Identifyable } from '@core/identifyable';
 import { PokemonCamera } from './pokemonCamera';
 import { PokemonEncounter } from './pokemonEncounter';
+import { PokemonEvolution } from './evolution';
 import { PokemonStats } from './pokemonStats';
 
 /**
@@ -156,25 +156,10 @@ interface Pokemon {
      * 1.91
      */
     modelHeight: number;
-
     /**
-     * What could the player choose to evolve this Pokemon into
+     * Evolution related data
      */
-    nextEvolutionBranches: Identifyable[];
-
-    /**
-     * All the possible future evolutions of this pokemon, including indirect
-     * evolutions. For example, given Charmander, futureEvolutions would list
-     * Charmeleon and Charizard.
-     */
-    futureEvolutions: PokemonEvolutionTree;
-
-    /**
-     * All past evolutions of this pokemon, direct and indirect.
-     *
-     * For Charizard, this field would list Charmander and Charmeleon.
-     */
-    pastEvolutions: Identifyable[];
+    evolution: PokemonEvolution;
 }
 
 export { Pokemon };

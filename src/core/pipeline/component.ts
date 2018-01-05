@@ -37,6 +37,10 @@ export interface ComponentSettings {
    */
   pipeline: string;
   type?: ComponentType;
+  /**
+   * List of components which need to be executed in advance
+   */
+  dependencies?: IComponent[]
 }
 
 /**
