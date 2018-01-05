@@ -88,7 +88,28 @@
             "diskRadius": 0.5723,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Ivysaur",
+                    "id": "IVYSAUR",
+                    "futureBranches": [
+                        {
+                            "name": "Venusaur",
+                            "id": "VENUSAUR",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 2,
@@ -191,7 +212,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Venusaur",
+                    "id": "VENUSAUR",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -391,7 +422,28 @@
             "diskRadius": 0.4688,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Charmeleon",
+                    "id": "CHARMELEON",
+                    "futureBranches": [
+                        {
+                            "name": "Charizard",
+                            "id": "CHARIZARD",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 5,
@@ -486,7 +538,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Charizard",
+                    "id": "CHARIZARD",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -687,7 +749,28 @@
             "diskRadius": 0.5738,
             "shoulderModeScale": 0.1
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Wartortle",
+                    "id": "WARTORTLE",
+                    "futureBranches": [
+                        {
+                            "name": "Blastoise",
+                            "id": "BLASTOISE",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 8,
@@ -782,7 +865,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Blastoise",
+                    "id": "BLASTOISE",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -972,7 +1065,28 @@
             "cylinderRadius": 0.1,
             "diskRadius": 0.459
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Metapod",
+                    "id": "METAPOD",
+                    "futureBranches": [
+                        {
+                            "name": "Butterfree",
+                            "id": "BUTTERFREE",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 11,
@@ -1055,7 +1169,17 @@
                     "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Butterfree",
+                    "id": "BUTTERFREE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -1256,7 +1380,28 @@
             "diskRadius": 0.3135,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Kakuna",
+                    "id": "KAKUNA",
+                    "futureBranches": [
+                        {
+                            "name": "Beedrill",
+                            "id": "BEEDRILL",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 14,
@@ -1342,7 +1487,17 @@
                     "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Beedrill",
+                    "id": "BEEDRILL",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -1551,7 +1706,28 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Pidgeotto",
+                    "id": "PIDGEOTTO",
+                    "futureBranches": [
+                        {
+                            "name": "Pidgeot",
+                            "id": "PIDGEOT",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 17,
@@ -1655,7 +1831,17 @@
                     "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Pidgeot",
+                    "id": "PIDGEOT",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -1856,7 +2042,18 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Raticate",
+                    "id": "RATICATE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 20,
@@ -2047,7 +2244,18 @@
             "diskRadius": 0.444,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Fearow",
+                    "id": "FEAROW",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 22,
@@ -2239,7 +2447,18 @@
             "diskRadius": 0.6488,
             "shoulderModeScale": 0.375
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Arbok",
+                    "id": "ARBOK",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 24,
@@ -2438,7 +2657,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Raichu",
+                    "id": "RAICHU",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -2630,7 +2859,18 @@
             "diskRadius": 0.4838,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Sandslash",
+                    "id": "SANDSLASH",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 28,
@@ -2813,7 +3053,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Nidorina",
+                    "id": "NIDORINA",
+                    "futureBranches": [
+                        {
+                            "name": "Nidoqueen",
+                            "id": "NIDOQUEEN",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 30,
@@ -2908,7 +3169,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Nidoqueen",
+                    "id": "NIDOQUEEN",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -3108,7 +3379,28 @@
             "diskRadius": 0.7088,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Nidorino",
+                    "id": "NIDORINO",
+                    "futureBranches": [
+                        {
+                            "name": "Nidoking",
+                            "id": "NIDOKING",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 33,
@@ -3203,7 +3495,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Nidoking",
+                    "id": "NIDOKING",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -3411,7 +3713,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Clefable",
+                    "id": "CLEFABLE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -3607,7 +3919,18 @@
             "diskRadius": 0.8505,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Ninetales",
+                    "id": "NINETALES",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 38,
@@ -3806,7 +4129,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Wigglytuff",
+                    "id": "WIGGLYTUFF",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -4015,7 +4348,18 @@
             "diskRadius": 0.963,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Golbat",
+                    "id": "GOLBAT",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 42,
@@ -4211,7 +4555,28 @@
             "diskRadius": 0.6075,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Gloom",
+                    "id": "GLOOM",
+                    "futureBranches": [
+                        {
+                            "name": "Vileplume",
+                            "id": "VILEPLUME",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 44,
@@ -4310,7 +4675,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Vileplume",
+                    "id": "VILEPLUME",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -4514,7 +4889,18 @@
             "diskRadius": 0.576,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Parasect",
+                    "id": "PARASECT",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 47,
@@ -4705,7 +5091,18 @@
             "diskRadius": 0.7988,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Venomoth",
+                    "id": "VENOMOTH",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 49,
@@ -4892,7 +5289,18 @@
             "diskRadius": 0.45,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Dugtrio",
+                    "id": "DUGTRIO",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 51,
@@ -5074,7 +5482,18 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Persian",
+                    "id": "PERSIAN",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 53,
@@ -5257,7 +5676,18 @@
             "diskRadius": 0.5456,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Golduck",
+                    "id": "GOLDUCK",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 55,
@@ -5444,7 +5874,18 @@
             "diskRadius": 0.7256,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Primeape",
+                    "id": "PRIMEAPE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 57,
@@ -5631,7 +6072,18 @@
             "diskRadius": 0.8775,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Arcanine",
+                    "id": "ARCANINE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 59,
@@ -5818,7 +6270,28 @@
             "diskRadius": 0.75,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Poliwhirl",
+                    "id": "POLIWHIRL",
+                    "futureBranches": [
+                        {
+                            "name": "Poliwrath",
+                            "id": "POLIWRATH",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 61,
@@ -5917,7 +6390,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Poliwrath",
+                    "id": "POLIWRATH",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -6118,7 +6601,28 @@
             "diskRadius": 0.672,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Kadabra",
+                    "id": "KADABRA",
+                    "futureBranches": [
+                        {
+                            "name": "Alakazam",
+                            "id": "ALAKAZAM",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 64,
@@ -6217,7 +6721,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Alakazam",
+                    "id": "ALAKAZAM",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -6413,7 +6927,28 @@
             "diskRadius": 0.6188,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Machoke",
+                    "id": "MACHOKE",
+                    "futureBranches": [
+                        {
+                            "name": "Machamp",
+                            "id": "MACHAMP",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 67,
@@ -6512,7 +7047,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Machamp",
+                    "id": "MACHAMP",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -6712,7 +7257,28 @@
             "diskRadius": 0.6773,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Weepinbell",
+                    "id": "WEEPINBELL",
+                    "futureBranches": [
+                        {
+                            "name": "Victreebel",
+                            "id": "VICTREEBEL",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 70,
@@ -6816,7 +7382,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Victreebel",
+                    "id": "VICTREEBEL",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -7022,7 +7598,18 @@
             "diskRadius": 0.4725,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Tentacruel",
+                    "id": "TENTACRUEL",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 73,
@@ -7219,7 +7806,28 @@
             "diskRadius": 0.5873,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Graveler",
+                    "id": "GRAVELER",
+                    "futureBranches": [
+                        {
+                            "name": "Golem",
+                            "id": "GOLEM",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 75,
@@ -7322,7 +7930,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Golem",
+                    "id": "GOLEM",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
         }
     },
     {
@@ -7522,7 +8140,18 @@
             "diskRadius": 0.5681,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Rapidash",
+                    "id": "RAPIDASH",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 78,
@@ -7713,7 +8342,18 @@
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Slowbro",
+                    "id": "SLOWBRO",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 80,
@@ -7909,7 +8549,18 @@
             "diskRadius": 0.684,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Magneton",
+                    "id": "MAGNETON",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 82,
@@ -8192,7 +8843,18 @@
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Dodrio",
+                    "id": "DODRIO",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 85,
@@ -8383,7 +9045,18 @@
             "diskRadius": 0.4125,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Dewgong",
+                    "id": "DEWGONG",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 87,
@@ -8575,7 +9248,18 @@
             "diskRadius": 0.882,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Muk",
+                    "id": "MUK",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 89,
@@ -8762,7 +9446,18 @@
             "diskRadius": 0.5796,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Cloyster",
+                    "id": "CLOYSTER",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 91,
@@ -8963,7 +9658,28 @@
             "diskRadius": 0.675,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Haunter",
+                    "id": "HAUNTER",
+                    "futureBranches": [
+                        {
+                            "name": "Gengar",
+                            "id": "GENGAR",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 93,
@@ -9067,7 +9783,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Gengar",
+                    "id": "GENGAR",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -9362,7 +10088,18 @@
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Hypno",
+                    "id": "HYPNO",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 97,
@@ -9549,7 +10286,18 @@
             "diskRadius": 0.783,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Kingler",
+                    "id": "KINGLER",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 99,
@@ -9732,7 +10480,18 @@
             "diskRadius": 0.5063,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Electrode",
+                    "id": "ELECTRODE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 101,
@@ -9919,7 +10678,18 @@
             "diskRadius": 0.7725,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Exeggutor",
+                    "id": "EXEGGUTOR",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 103,
@@ -10110,7 +10880,18 @@
             "diskRadius": 0.444,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Marowak",
+                    "id": "MAROWAK",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 105,
@@ -10589,7 +11370,18 @@
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Weezing",
+                    "id": "WEEZING",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 110,
@@ -10785,7 +11577,18 @@
             "diskRadius": 0.75,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Rhydon",
+                    "id": "RHYDON",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 112,
@@ -11246,7 +12049,18 @@
             "diskRadius": 0.2775,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Seadra",
+                    "id": "SEADRA",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 117,
@@ -11435,7 +12249,18 @@
             "diskRadius": 0.405,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Seaking",
+                    "id": "SEAKING",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 119,
@@ -11623,7 +12448,18 @@
             "diskRadius": 0.6188,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Starmie",
+                    "id": "STARMIE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 121,
@@ -12468,7 +13304,18 @@
             "diskRadius": 0.642,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Gyarados",
+                    "id": "GYARADOS",
+                    "costToEvolve": {
+                        "candyCost": 400,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 130,
@@ -12826,7 +13673,34 @@
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Vaporeon",
+                    "id": "VAPOREON",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                {
+                    "name": "Jolteon",
+                    "id": "JOLTEON",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                {
+                    "name": "Flareon",
+                    "id": "FLAREON",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 134,
@@ -13289,7 +14163,18 @@
             "diskRadius": 0.333,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Omastar",
+                    "id": "OMASTAR",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 139,
@@ -13484,7 +14369,18 @@
             "diskRadius": 0.5063,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Kabutops",
+                    "id": "KABUTOPS",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 141,
@@ -14138,7 +15034,28 @@
             "diskRadius": 0.4163,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Dragonair",
+                    "id": "DRAGONAIR",
+                    "futureBranches": [
+                        {
+                            "name": "Dragonite",
+                            "id": "DRAGONITE",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 5
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 148,
@@ -14237,7 +15154,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Dragonite",
+                    "id": "DRAGONITE",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
         }
     },
     {
@@ -14636,7 +15563,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Bayleef",
+                    "id": "BAYLEEF",
+                    "futureBranches": [
+                        {
+                            "name": "Meganium",
+                            "id": "MEGANIUM",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 153,
@@ -14731,7 +15679,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Meganium",
+                    "id": "MEGANIUM",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -14927,7 +15885,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Quilava",
+                    "id": "QUILAVA",
+                    "futureBranches": [
+                        {
+                            "name": "Typhlosion",
+                            "id": "TYPHLOSION",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 156,
@@ -15022,7 +16001,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Typhlosion",
+                    "id": "TYPHLOSION",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -15218,7 +16207,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Croconaw",
+                    "id": "CROCONAW",
+                    "futureBranches": [
+                        {
+                            "name": "Feraligatr",
+                            "id": "FERALIGATR",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 159,
@@ -15313,7 +16323,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Feraligatr",
+                    "id": "FERALIGATR",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -15509,7 +16529,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Furret",
+                    "id": "FURRET",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 162,
@@ -15696,7 +16727,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Noctowl",
+                    "id": "NOCTOWL",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 164,
@@ -15897,7 +16939,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Ledian",
+                    "id": "LEDIAN",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 166,
@@ -16093,7 +17146,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Ariados",
+                    "id": "ARIADOS",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 168,
@@ -16397,7 +17461,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Lanturn",
+                    "id": "LANTURN",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 171,
@@ -16588,7 +17663,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Pikachu",
+                    "id": "PIKACHU",
+                    "futureBranches": [
+                        {
+                            "name": "Raichu",
+                            "id": "RAICHU",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 173,
@@ -16678,7 +17774,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Clefairy",
+                    "id": "CLEFAIRY",
+                    "futureBranches": [
+                        {
+                            "name": "Clefable",
+                            "id": "CLEFABLE",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 174,
@@ -16769,7 +17886,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Jigglypuff",
+                    "id": "JIGGLYPUFF",
+                    "futureBranches": [
+                        {
+                            "name": "Wigglytuff",
+                            "id": "WIGGLYTUFF",
+                            "costToEvolve": {
+                                "candyCost": 50,
+                                "kmBuddyDistance": 1
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 175,
@@ -16859,7 +17997,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Togetic",
+                    "id": "TOGETIC",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 176,
@@ -17055,7 +18204,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Xatu",
+                    "id": "XATU",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 178,
@@ -17247,7 +18407,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Flaaffy",
+                    "id": "FLAAFFY",
+                    "futureBranches": [
+                        {
+                            "name": "Ampharos",
+                            "id": "AMPHAROS",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 5
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 180,
@@ -17342,7 +18523,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Ampharos",
+                    "id": "AMPHAROS",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
         }
     },
     {
@@ -17657,7 +18848,17 @@
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Azumarill",
+                    "id": "AZUMARILL",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -18052,7 +19253,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Skiploom",
+                    "id": "SKIPLOOM",
+                    "futureBranches": [
+                        {
+                            "name": "Jumpluff",
+                            "id": "JUMPLUFF",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 3
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 188,
@@ -18156,7 +19378,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Jumpluff",
+                    "id": "JUMPLUFF",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
         }
     },
     {
@@ -18448,7 +19680,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Sunflora",
+                    "id": "SUNFLORA",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3,
+                        "evolutionItem": {
+                            "name": "Item Sun Stone",
+                            "id": "ITEM_SUN_STONE"
+                        }
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 192,
@@ -18731,7 +19978,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Quagsire",
+                    "id": "QUAGSIRE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 195,
@@ -19658,7 +20916,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Forretress",
+                    "id": "FORRETRESS",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 205,
@@ -20132,7 +21401,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Granbull",
+                    "id": "GRANBULL",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 210,
@@ -20795,7 +22075,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Ursaring",
+                    "id": "URSARING",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 217,
@@ -20982,7 +22273,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Magcargo",
+                    "id": "MAGCARGO",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 219,
@@ -21173,7 +22475,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Piloswine",
+                    "id": "PILOSWINE",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 221,
@@ -21453,7 +22766,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Octillery",
+                    "id": "OCTILLERY",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 224,
@@ -21923,7 +23247,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Houndoom",
+                    "id": "HOUNDOOM",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 229,
@@ -22226,7 +23561,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Donphan",
+                    "id": "DONPHAN",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 232,
@@ -22678,7 +24024,34 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Hitmonlee",
+                    "id": "HITMONLEE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                {
+                    "name": "Hitmonchan",
+                    "id": "HITMONCHAN",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                {
+                    "name": "Hitmontop",
+                    "id": "HITMONTOP",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 237,
@@ -22868,7 +24241,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Jynx",
+                    "id": "JYNX",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 239,
@@ -22958,7 +24342,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Electabuzz",
+                    "id": "ELECTABUZZ",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 240,
@@ -23048,7 +24443,18 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Magmar",
+                    "id": "MAGMAR",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 241,
@@ -23602,7 +25008,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Pupitar",
+                    "id": "PUPITAR",
+                    "futureBranches": [
+                        {
+                            "name": "Tyranitar",
+                            "id": "TYRANITAR",
+                            "costToEvolve": {
+                                "candyCost": 100,
+                                "kmBuddyDistance": 5
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
+        }
     },
     {
         "dex": 247,
@@ -23701,7 +25128,17 @@
                     "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
-            }
+            },
+            "futureBranches": [
+                {
+                    "name": "Tyranitar",
+                    "id": "TYRANITAR",
+                    "costToEvolve": {
+                        "candyCost": 100,
+                        "kmBuddyDistance": 5
+                    }
+                }
+            ]
         }
     },
     {
