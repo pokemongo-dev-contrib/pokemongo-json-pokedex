@@ -207,11 +207,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Bulbasaur",
-                "id": "BULBASAUR",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "BULBASAUR"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -324,16 +324,16 @@
                 "id": "IVYSAUR",
                 "pastBranch": {
                     "name": "Bulbasaur",
-                    "id": "BULBASAUR",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "BULBASAUR"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -533,11 +533,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Charmander",
-                "id": "CHARMANDER",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "CHARMANDER"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -651,16 +651,16 @@
                 "id": "CHARMELEON",
                 "pastBranch": {
                     "name": "Charmander",
-                    "id": "CHARMANDER",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "CHARMANDER"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -860,11 +860,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Squirtle",
-                "id": "SQUIRTLE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SQUIRTLE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -973,16 +973,16 @@
                 "id": "WARTORTLE",
                 "pastBranch": {
                     "name": "Squirtle",
-                    "id": "SQUIRTLE",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "SQUIRTLE"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -1164,11 +1164,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Caterpie",
-                "id": "CATERPIE",
-                "costToEvolve": {
-                    "candyCost": 12,
-                    "kmBuddyDistance": 1
-                }
+                "id": "CATERPIE"
+            },
+            "costToEvolve": {
+                "candyCost": 12,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -1282,16 +1282,16 @@
                 "id": "METAPOD",
                 "pastBranch": {
                     "name": "Caterpie",
-                    "id": "CATERPIE",
-                    "costToEvolve": {
-                        "candyCost": 12,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "CATERPIE"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -1482,11 +1482,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Weedle",
-                "id": "WEEDLE",
-                "costToEvolve": {
-                    "candyCost": 12,
-                    "kmBuddyDistance": 1
-                }
+                "id": "WEEDLE"
+            },
+            "costToEvolve": {
+                "candyCost": 12,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -1600,16 +1600,16 @@
                 "id": "KAKUNA",
                 "pastBranch": {
                     "name": "Weedle",
-                    "id": "WEEDLE",
-                    "costToEvolve": {
-                        "candyCost": 12,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "WEEDLE"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -1826,11 +1826,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Pidgey",
-                "id": "PIDGEY",
-                "costToEvolve": {
-                    "candyCost": 12,
-                    "kmBuddyDistance": 1
-                }
+                "id": "PIDGEY"
+            },
+            "costToEvolve": {
+                "candyCost": 12,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -1944,16 +1944,16 @@
                 "id": "PIDGEOTTO",
                 "pastBranch": {
                     "name": "Pidgey",
-                    "id": "PIDGEY",
-                    "costToEvolve": {
-                        "candyCost": 12,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "PIDGEY"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 12,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -2143,11 +2143,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Rattata",
-                "id": "RATTATA",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "RATTATA"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -2354,11 +2354,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Spearow",
-                "id": "SPEAROW",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "SPEAROW"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -2552,11 +2552,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Ekans",
-                "id": "EKANS",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "EKANS"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -2652,11 +2652,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Pichu",
-                "id": "PICHU",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "PICHU"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -2761,16 +2761,16 @@
                 "id": "PIKACHU",
                 "pastBranch": {
                     "name": "Pichu",
-                    "id": "PICHU",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "PICHU"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -2960,11 +2960,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Sandshrew",
-                "id": "SANDSHREW",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SANDSHREW"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -3164,11 +3164,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Nidoran Female",
-                "id": "NIDORAN_FEMALE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "NIDORAN_FEMALE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -3281,16 +3281,16 @@
                 "id": "NIDORINA",
                 "pastBranch": {
                     "name": "Nidoran Female",
-                    "id": "NIDORAN_FEMALE",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "NIDORAN_FEMALE"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -3490,11 +3490,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Nidoran Male",
-                "id": "NIDORAN_MALE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "NIDORAN_MALE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -3607,16 +3607,16 @@
                 "id": "NIDORINO",
                 "pastBranch": {
                     "name": "Nidoran Male",
-                    "id": "NIDORAN_MALE",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "NIDORAN_MALE"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -3708,11 +3708,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Cleffa",
-                "id": "CLEFFA",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "CLEFFA"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -3821,16 +3821,16 @@
                 "id": "CLEFAIRY",
                 "pastBranch": {
                     "name": "Cleffa",
-                    "id": "CLEFFA",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "CLEFFA"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -4024,11 +4024,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Vulpix",
-                "id": "VULPIX",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "VULPIX"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -4124,11 +4124,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Igglybuff",
-                "id": "IGGLYBUFF",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "IGGLYBUFF"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -4241,16 +4241,16 @@
                 "id": "JIGGLYPUFF",
                 "pastBranch": {
                     "name": "Igglybuff",
-                    "id": "IGGLYBUFF",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "IGGLYBUFF"
                 },
                 "costToEvolve": {
-                    "candyCost": 50,
+                    "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -4458,11 +4458,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Zubat",
-                "id": "ZUBAT",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "ZUBAT"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -4670,11 +4670,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Oddish",
-                "id": "ODDISH",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "ODDISH"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -4787,16 +4787,16 @@
                 "id": "GLOOM",
                 "pastBranch": {
                     "name": "Oddish",
-                    "id": "ODDISH",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "ODDISH"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -4994,11 +4994,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Paras",
-                "id": "PARAS",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "PARAS"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -5201,11 +5201,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Venonat",
-                "id": "VENONAT",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "VENONAT"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -5389,11 +5389,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Diglett",
-                "id": "DIGLETT",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "DIGLETT"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -5583,11 +5583,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Meowth",
-                "id": "MEOWTH",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "MEOWTH"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -5781,11 +5781,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Psyduck",
-                "id": "PSYDUCK",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "PSYDUCK"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -5979,11 +5979,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Mankey",
-                "id": "MANKEY",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "MANKEY"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -6177,11 +6177,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Growlithe",
-                "id": "GROWLITHE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "GROWLITHE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -6385,11 +6385,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Poliwag",
-                "id": "POLIWAG",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "POLIWAG"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -6502,16 +6502,16 @@
                 "id": "POLIWHIRL",
                 "pastBranch": {
                     "name": "Poliwag",
-                    "id": "POLIWAG",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "POLIWAG"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -6716,11 +6716,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Abra",
-                "id": "ABRA",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "ABRA"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -6829,16 +6829,16 @@
                 "id": "KADABRA",
                 "pastBranch": {
                     "name": "Abra",
-                    "id": "ABRA",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "ABRA"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -7042,11 +7042,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Machop",
-                "id": "MACHOP",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "MACHOP"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -7155,16 +7155,16 @@
                 "id": "MACHOKE",
                 "pastBranch": {
                     "name": "Machop",
-                    "id": "MACHOP",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "MACHOP"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -7377,11 +7377,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Bellsprout",
-                "id": "BELLSPROUT",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "BELLSPROUT"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -7495,16 +7495,16 @@
                 "id": "WEEPINBELL",
                 "pastBranch": {
                     "name": "Bellsprout",
-                    "id": "BELLSPROUT",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "BELLSPROUT"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -7708,11 +7708,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Tentacool",
-                "id": "TENTACOOL",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "TENTACOOL"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -7925,11 +7925,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Geodude",
-                "id": "GEODUDE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "GEODUDE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             },
             "futureBranches": [
                 {
@@ -8042,16 +8042,16 @@
                 "id": "GRAVELER",
                 "pastBranch": {
                     "name": "Geodude",
-                    "id": "GEODUDE",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "GEODUDE"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -8245,11 +8245,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Ponyta",
-                "id": "PONYTA",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "PONYTA"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -8451,11 +8451,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Slowpoke",
-                "id": "SLOWPOKE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SLOWPOKE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -8655,11 +8655,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Magnemite",
-                "id": "MAGNEMITE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "MAGNEMITE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -8952,11 +8952,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Doduo",
-                "id": "DODUO",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "DODUO"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -9151,11 +9151,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Seel",
-                "id": "SEEL",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SEEL"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -9353,11 +9353,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Grimer",
-                "id": "GRIMER",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "GRIMER"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -9556,11 +9556,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Shellder",
-                "id": "SHELLDER",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SHELLDER"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -9778,11 +9778,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Gastly",
-                "id": "GASTLY",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "GASTLY"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -9895,16 +9895,16 @@
                 "id": "HAUNTER",
                 "pastBranch": {
                     "name": "Gastly",
-                    "id": "GASTLY",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "GASTLY"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -10193,11 +10193,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Drowzee",
-                "id": "DROWZEE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "DROWZEE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -10391,11 +10391,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Krabby",
-                "id": "KRABBY",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "KRABBY"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -10581,11 +10581,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Voltorb",
-                "id": "VOLTORB",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "VOLTORB"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -10787,11 +10787,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Exeggcute",
-                "id": "EXEGGCUTE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "EXEGGCUTE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -10981,11 +10981,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Cubone",
-                "id": "CUBONE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "CUBONE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -11081,11 +11081,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Tyrogue",
-                "id": "TYROGUE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "TYROGUE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -11185,11 +11185,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Tyrogue",
-                "id": "TYROGUE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "TYROGUE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -11476,11 +11476,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Koffing",
-                "id": "KOFFING",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "KOFFING"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -11686,11 +11686,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Rhyhorn",
-                "id": "RHYHORN",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "RHYHORN"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -12155,11 +12155,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Horsea",
-                "id": "HORSEA",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "HORSEA"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -12355,11 +12355,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Goldeen",
-                "id": "GOLDEEN",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "GOLDEEN"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -12553,11 +12553,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Staryu",
-                "id": "STARYU",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "STARYU"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -12844,11 +12844,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Smoochum",
-                "id": "SMOOCHUM",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "SMOOCHUM"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -12944,11 +12944,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Elekid",
-                "id": "ELEKID",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "ELEKID"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -13044,11 +13044,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Magby",
-                "id": "MAGBY",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "MAGBY"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -13414,11 +13414,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Magikarp",
-                "id": "MAGIKARP",
-                "costToEvolve": {
-                    "candyCost": 400,
-                    "kmBuddyDistance": 1
-                }
+                "id": "MAGIKARP"
+            },
+            "costToEvolve": {
+                "candyCost": 400,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -13786,11 +13786,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Eevee",
-                "id": "EEVEE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "EEVEE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -13882,11 +13882,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Eevee",
-                "id": "EEVEE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "EEVEE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -13978,11 +13978,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Eevee",
-                "id": "EEVEE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "EEVEE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -14272,11 +14272,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Omanyte",
-                "id": "OMANYTE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 5
-                }
+                "id": "OMANYTE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -14478,11 +14478,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Kabuto",
-                "id": "KABUTO",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 5
-                }
+                "id": "KABUTO"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -15149,11 +15149,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Dratini",
-                "id": "DRATINI",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "DRATINI"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             },
             "futureBranches": [
                 {
@@ -15267,16 +15267,16 @@
                 "id": "DRAGONAIR",
                 "pastBranch": {
                     "name": "Dratini",
-                    "id": "DRATINI",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "DRATINI"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -15674,11 +15674,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Chikorita",
-                "id": "CHIKORITA",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "CHIKORITA"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -15787,16 +15787,16 @@
                 "id": "BAYLEEF",
                 "pastBranch": {
                     "name": "Chikorita",
-                    "id": "CHIKORITA",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "CHIKORITA"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -15996,11 +15996,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Cyndaquil",
-                "id": "CYNDAQUIL",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "CYNDAQUIL"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -16109,16 +16109,16 @@
                 "id": "QUILAVA",
                 "pastBranch": {
                     "name": "Cyndaquil",
-                    "id": "CYNDAQUIL",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "CYNDAQUIL"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -16318,11 +16318,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Totodile",
-                "id": "TOTODILE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "TOTODILE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -16431,16 +16431,16 @@
                 "id": "CROCONAW",
                 "pastBranch": {
                     "name": "Totodile",
-                    "id": "TOTODILE",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "TOTODILE"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -16630,11 +16630,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Sentret",
-                "id": "SENTRET",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "SENTRET"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -16837,11 +16837,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Hoothoot",
-                "id": "HOOTHOOT",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "HOOTHOOT"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -17049,11 +17049,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Ledyba",
-                "id": "LEDYBA",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 1
-                }
+                "id": "LEDYBA"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -17251,11 +17251,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Spinarak",
-                "id": "SPINARAK",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "SPINARAK"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -17359,15 +17359,15 @@
                 "id": "GOLBAT",
                 "pastBranch": {
                     "name": "Zubat",
-                    "id": "ZUBAT",
-                    "costToEvolve": {
-                        "candyCost": 50,
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "ZUBAT"
                 },
                 "costToEvolve": {
+                    "candyCost": 50,
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -17571,11 +17571,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Chinchou",
-                "id": "CHINCHOU",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "CHINCHOU"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -18103,11 +18103,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Togepi",
-                "id": "TOGEPI",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "TOGEPI"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -18314,11 +18314,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Natu",
-                "id": "NATU",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "NATU"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -18518,11 +18518,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Mareep",
-                "id": "MAREEP",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "MAREEP"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             },
             "futureBranches": [
                 {
@@ -18631,16 +18631,16 @@
                 "id": "FLAAFFY",
                 "pastBranch": {
                     "name": "Mareep",
-                    "id": "MAREEP",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "MAREEP"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -18735,19 +18735,19 @@
                 "id": "GLOOM",
                 "pastBranch": {
                     "name": "Oddish",
-                    "id": "ODDISH",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "ODDISH"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Sun Stone",
-                        "id": "ITEM_SUN_STONE"
-                    }
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Sun Stone",
+                    "id": "ITEM_SUN_STONE"
                 }
             }
         }
@@ -18844,10 +18844,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Azurill",
-                "id": "AZURILL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "AZURILL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -18956,15 +18956,15 @@
                 "id": "MARILL",
                 "pastBranch": {
                     "name": "Azurill",
-                    "id": "AZURILL",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "AZURILL"
                 },
                 "costToEvolve": {
-                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -19142,19 +19142,19 @@
                 "id": "POLIWHIRL",
                 "pastBranch": {
                     "name": "Poliwag",
-                    "id": "POLIWAG",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "POLIWAG"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Kings Rock",
-                        "id": "ITEM_KINGS_ROCK"
-                    }
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Kings Rock",
+                    "id": "ITEM_KINGS_ROCK"
                 }
             }
         }
@@ -19373,11 +19373,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Hoppip",
-                "id": "HOPPIP",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 3
-                }
+                "id": "HOPPIP"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 3
             },
             "futureBranches": [
                 {
@@ -19491,16 +19491,16 @@
                 "id": "SKIPLOOM",
                 "pastBranch": {
                     "name": "Hoppip",
-                    "id": "HOPPIP",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "HOPPIP"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -19785,14 +19785,14 @@
         "evolution": {
             "pastBranch": {
                 "name": "Sunkern",
-                "id": "SUNKERN",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Sun Stone",
-                        "id": "ITEM_SUN_STONE"
-                    }
+                "id": "SUNKERN"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Sun Stone",
+                    "id": "ITEM_SUN_STONE"
                 }
             }
         }
@@ -20087,11 +20087,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wooper",
-                "id": "WOOPER",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "WOOPER"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -20182,11 +20182,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Eevee",
-                "id": "EEVEE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "EEVEE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -20273,11 +20273,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Eevee",
-                "id": "EEVEE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "EEVEE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -20469,14 +20469,14 @@
         "evolution": {
             "pastBranch": {
                 "name": "Slowpoke",
-                "id": "SLOWPOKE",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Kings Rock",
-                        "id": "ITEM_KINGS_ROCK"
-                    }
+                "id": "SLOWPOKE"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Kings Rock",
+                    "id": "ITEM_KINGS_ROCK"
                 }
             }
         }
@@ -20729,10 +20729,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wynaut",
-                "id": "WYNAUT",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "WYNAUT"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -21026,11 +21026,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Pineco",
-                "id": "PINECO",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 5
-                }
+                "id": "PINECO"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -21305,13 +21305,13 @@
         "evolution": {
             "pastBranch": {
                 "name": "Onix",
-                "id": "ONIX",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5,
-                    "evolutionItem": {
-                        "name": "Item Metal Coat",
-                        "id": "ITEM_METAL_COAT"
-                    }
+                "id": "ONIX"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5,
+                "evolutionItem": {
+                    "name": "Item Metal Coat",
+                    "id": "ITEM_METAL_COAT"
                 }
             }
         }
@@ -21506,11 +21506,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Snubbull",
-                "id": "SNUBBULL",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SNUBBULL"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -21702,13 +21702,13 @@
         "evolution": {
             "pastBranch": {
                 "name": "Scyther",
-                "id": "SCYTHER",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5,
-                    "evolutionItem": {
-                        "name": "Item Metal Coat",
-                        "id": "ITEM_METAL_COAT"
-                    }
+                "id": "SCYTHER"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5,
+                "evolutionItem": {
+                    "name": "Item Metal Coat",
+                    "id": "ITEM_METAL_COAT"
                 }
             }
         }
@@ -22180,11 +22180,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Teddiursa",
-                "id": "TEDDIURSA",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "TEDDIURSA"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -22378,11 +22378,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Slugma",
-                "id": "SLUGMA",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "SLUGMA"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -22584,11 +22584,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Swinub",
-                "id": "SWINUB",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "SWINUB"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -22867,11 +22867,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Remoraid",
-                "id": "REMORAID",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 1
-                }
+                "id": "REMORAID"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -23352,11 +23352,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Houndour",
-                "id": "HOUNDOUR",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "HOUNDOUR"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -23460,18 +23460,18 @@
                 "id": "SEADRA",
                 "pastBranch": {
                     "name": "Horsea",
-                    "id": "HORSEA",
-                    "costToEvolve": {
-                        "candyCost": 50,
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "HORSEA"
                 },
                 "costToEvolve": {
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Dragon Scale",
-                        "id": "ITEM_DRAGON_SCALE"
-                    }
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Dragon Scale",
+                    "id": "ITEM_DRAGON_SCALE"
                 }
             }
         }
@@ -23666,11 +23666,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Phanpy",
-                "id": "PHANPY",
-                "costToEvolve": {
-                    "candyCost": 50,
-                    "kmBuddyDistance": 3
-                }
+                "id": "PHANPY"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -23759,13 +23759,13 @@
         "evolution": {
             "pastBranch": {
                 "name": "Porygon",
-                "id": "PORYGON",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3,
-                    "evolutionItem": {
-                        "name": "Item Up Grade",
-                        "id": "ITEM_UP_GRADE"
-                    }
+                "id": "PORYGON"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3,
+                "evolutionItem": {
+                    "name": "Item Up Grade",
+                    "id": "ITEM_UP_GRADE"
                 }
             }
         }
@@ -24141,11 +24141,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Tyrogue",
-                "id": "TYROGUE",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "TYROGUE"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -24639,10 +24639,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Chansey",
-                "id": "CHANSEY",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "CHANSEY"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -25123,11 +25123,11 @@
         "evolution": {
             "pastBranch": {
                 "name": "Larvitar",
-                "id": "LARVITAR",
-                "costToEvolve": {
-                    "candyCost": 25,
-                    "kmBuddyDistance": 5
-                }
+                "id": "LARVITAR"
+            },
+            "costToEvolve": {
+                "candyCost": 25,
+                "kmBuddyDistance": 5
             },
             "futureBranches": [
                 {
@@ -25240,16 +25240,16 @@
                 "id": "PUPITAR",
                 "pastBranch": {
                     "name": "Larvitar",
-                    "id": "LARVITAR",
-                    "costToEvolve": {
-                        "candyCost": 25,
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "LARVITAR"
                 },
                 "costToEvolve": {
-                    "candyCost": 100,
+                    "candyCost": 25,
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "candyCost": 100,
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -25711,10 +25711,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Treecko",
-                "id": "TREECKO",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "TREECKO"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -25813,14 +25813,14 @@
                 "id": "GROVYLE",
                 "pastBranch": {
                     "name": "Treecko",
-                    "id": "TREECKO",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "TREECKO"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -26007,10 +26007,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Torchic",
-                "id": "TORCHIC",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "TORCHIC"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -26113,14 +26113,14 @@
                 "id": "COMBUSKEN",
                 "pastBranch": {
                     "name": "Torchic",
-                    "id": "TORCHIC",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "TORCHIC"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -26303,10 +26303,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Mudkip",
-                "id": "MUDKIP",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "MUDKIP"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -26409,14 +26409,14 @@
                 "id": "MARSHTOMP",
                 "pastBranch": {
                     "name": "Mudkip",
-                    "id": "MUDKIP",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "MUDKIP"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -26595,10 +26595,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Poochyena",
-                "id": "POOCHYENA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "POOCHYENA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -26777,10 +26777,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Zigzagoon",
-                "id": "ZIGZAGOON",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "ZIGZAGOON"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -26947,10 +26947,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wurmple",
-                "id": "WURMPLE",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "WURMPLE"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -27054,14 +27054,14 @@
                 "id": "SILCOON",
                 "pastBranch": {
                     "name": "Wurmple",
-                    "id": "WURMPLE",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "WURMPLE"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -27145,10 +27145,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wurmple",
-                "id": "WURMPLE",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "WURMPLE"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -27252,14 +27252,14 @@
                 "id": "CASCOON",
                 "pastBranch": {
                     "name": "Wurmple",
-                    "id": "WURMPLE",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "WURMPLE"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -27450,10 +27450,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Lotad",
-                "id": "LOTAD",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "LOTAD"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -27556,14 +27556,14 @@
                 "id": "LOMBRE",
                 "pastBranch": {
                     "name": "Lotad",
-                    "id": "LOTAD",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "LOTAD"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -27750,10 +27750,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Seedot",
-                "id": "SEEDOT",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SEEDOT"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -27856,14 +27856,14 @@
                 "id": "NUZLEAF",
                 "pastBranch": {
                     "name": "Seedot",
-                    "id": "SEEDOT",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "SEEDOT"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -28047,10 +28047,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Taillow",
-                "id": "TAILLOW",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "TAILLOW"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -28247,10 +28247,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wingull",
-                "id": "WINGULL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "WINGULL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -28437,10 +28437,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Ralts",
-                "id": "RALTS",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "RALTS"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -28543,14 +28543,14 @@
                 "id": "KIRLIA",
                 "pastBranch": {
                     "name": "Ralts",
-                    "id": "RALTS",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "RALTS"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -28742,10 +28742,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Surskit",
-                "id": "SURSKIT",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "SURSKIT"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -28932,10 +28932,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Shroomish",
-                "id": "SHROOMISH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SHROOMISH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -29117,10 +29117,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Slakoth",
-                "id": "SLAKOTH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "SLAKOTH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -29212,14 +29212,14 @@
                 "id": "VIGOROTH",
                 "pastBranch": {
                     "name": "Slakoth",
-                    "id": "SLAKOTH",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "SLAKOTH"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -29411,10 +29411,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Nincada",
-                "id": "NINCADA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "NINCADA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -29511,10 +29511,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Nincada",
-                "id": "NINCADA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "NINCADA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -29697,10 +29697,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Whismur",
-                "id": "WHISMUR",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "WHISMUR"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -29799,14 +29799,14 @@
                 "id": "LOUDRED",
                 "pastBranch": {
                     "name": "Whismur",
-                    "id": "WHISMUR",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "WHISMUR"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -29993,10 +29993,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Makuhita",
-                "id": "MAKUHITA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "MAKUHITA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -30361,10 +30361,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Skitty",
-                "id": "SKITTY",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SKITTY"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -30737,10 +30737,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Aron",
-                "id": "ARON",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "ARON"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -30843,14 +30843,14 @@
                 "id": "LAIRON",
                 "pastBranch": {
                     "name": "Aron",
-                    "id": "ARON",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 1
-                    }
+                    "id": "ARON"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 1
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -31041,10 +31041,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Meditite",
-                "id": "MEDITITE",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "MEDITITE"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -31231,10 +31231,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Electrike",
-                "id": "ELECTRIKE",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "ELECTRIKE"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -31872,10 +31872,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Gulpin",
-                "id": "GULPIN",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "GULPIN"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -32072,10 +32072,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Carvanha",
-                "id": "CARVANHA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "CARVANHA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -32260,10 +32260,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Wailmer",
-                "id": "WAILMER",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "WAILMER"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -32454,10 +32454,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Numel",
-                "id": "NUMEL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "NUMEL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -32724,10 +32724,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Spoink",
-                "id": "SPOINK",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "SPOINK"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -33006,10 +33006,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Trapinch",
-                "id": "TRAPINCH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "TRAPINCH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -33113,14 +33113,14 @@
                 "id": "VIBRAVA",
                 "pastBranch": {
                     "name": "Trapinch",
-                    "id": "TRAPINCH",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "TRAPINCH"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -33311,10 +33311,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Cacnea",
-                "id": "CACNEA",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "CACNEA"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -33510,10 +33510,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Swablu",
-                "id": "SWABLU",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "SWABLU"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -34068,10 +34068,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Barboach",
-                "id": "BARBOACH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 1
-                }
+                "id": "BARBOACH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 1
             }
         }
     },
@@ -34258,10 +34258,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Corphish",
-                "id": "CORPHISH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "CORPHISH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -34446,10 +34446,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Baltoy",
-                "id": "BALTOY",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "BALTOY"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -34638,10 +34638,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Lileep",
-                "id": "LILEEP",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "LILEEP"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -34836,10 +34836,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Anorith",
-                "id": "ANORITH",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "ANORITH"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -35015,10 +35015,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Feebas",
-                "id": "FEEBAS",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "FEEBAS"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -35389,10 +35389,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Shuppet",
-                "id": "SHUPPET",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SHUPPET"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -35579,10 +35579,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Duskull",
-                "id": "DUSKULL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "DUSKULL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -36120,10 +36120,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Snorunt",
-                "id": "SNORUNT",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SNORUNT"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -36318,10 +36318,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Spheal",
-                "id": "SPHEAL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "SPHEAL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -36424,14 +36424,14 @@
                 "id": "SEALEO",
                 "pastBranch": {
                     "name": "Spheal",
-                    "id": "SPHEAL",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 3
-                    }
+                    "id": "SPHEAL"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 3
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -36606,10 +36606,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Clamperl",
-                "id": "CLAMPERL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "CLAMPERL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -36705,10 +36705,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Clamperl",
-                "id": "CLAMPERL",
-                "costToEvolve": {
-                    "kmBuddyDistance": 3
-                }
+                "id": "CLAMPERL"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 3
             }
         }
     },
@@ -37075,10 +37075,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Bagon",
-                "id": "BAGON",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "BAGON"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -37182,14 +37182,14 @@
                 "id": "SHELGON",
                 "pastBranch": {
                     "name": "Bagon",
-                    "id": "BAGON",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "BAGON"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -37362,10 +37362,10 @@
         "evolution": {
             "pastBranch": {
                 "name": "Beldum",
-                "id": "BELDUM",
-                "costToEvolve": {
-                    "kmBuddyDistance": 5
-                }
+                "id": "BELDUM"
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
@@ -37464,14 +37464,14 @@
                 "id": "METANG",
                 "pastBranch": {
                     "name": "Beldum",
-                    "id": "BELDUM",
-                    "costToEvolve": {
-                        "kmBuddyDistance": 5
-                    }
+                    "id": "BELDUM"
                 },
                 "costToEvolve": {
                     "kmBuddyDistance": 5
                 }
+            },
+            "costToEvolve": {
+                "kmBuddyDistance": 5
             }
         }
     },
