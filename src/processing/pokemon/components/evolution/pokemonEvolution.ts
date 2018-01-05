@@ -7,9 +7,11 @@ import { ItemTemplate } from '@income';
     pipeline: 'pokemon',
     type: ComponentType.SIMPLE_MAP
 })
+/**
+ * Ensures if `pokemon.evolution` is set.
+ */
 export class PokemonEvolutionParser implements IComponent {
     Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-        // Ensure Pokemon Evolution is set
         pokemon.evolution = pokemon.evolution || {} as PokemonEvolution;
         return pokemon;
     }

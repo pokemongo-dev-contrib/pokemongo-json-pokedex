@@ -8,5 +8,5 @@ export interface PastEvolutionBranch extends Identifyable {
     /**
      * Past evolution branches of this Pokemon
      */
-    pastBranches?: PastEvolutionBranch[]
+    pastBranch?: PastEvolutionBranch
 }

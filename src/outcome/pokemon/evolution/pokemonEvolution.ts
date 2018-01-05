@@ -8,7 +8,7 @@ export interface PokemonEvolution {
     /**
      * Past evolution branches of this Pokemon
      */
-    pastBranches: PastEvolutionBranch[];
+    pastBranch: PastEvolutionBranch;
     /**
      * Future evolution branches of this Pokemon
      */

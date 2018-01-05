@@ -9,4 +9,9 @@ export interface EvolutionCostToEvolve {
      * The item which is required in order to evolve.
      */
     evolutionItem?: Identifyable;
+    /**
+     * The amount of kilometers a player must walk in order to
+     * evolve it
+     */
+    kmBuddyDistance?: number;
 }

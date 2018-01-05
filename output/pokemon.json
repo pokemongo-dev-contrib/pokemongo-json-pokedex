@@ -183,7 +183,16 @@
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Bulbasaur",
+                "id": "BULBASAUR",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 3,
@@ -278,7 +287,24 @@
             "diskRadius": 1.1385,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Ivysaur",
+                "id": "IVYSAUR",
+                "pastBranch": {
+                    "name": "Bulbasaur",
+                    "id": "BULBASAUR",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 4,
@@ -452,7 +478,16 @@
             "diskRadius": 0.6953,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Charmander",
+                "id": "CHARMANDER",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 6,
@@ -548,7 +583,24 @@
             "diskRadius": 1.215,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Charmeleon",
+                "id": "CHARMELEON",
+                "pastBranch": {
+                    "name": "Charmander",
+                    "id": "CHARMANDER",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 7,
@@ -722,7 +774,16 @@
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Squirtle",
+                "id": "SQUIRTLE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 9,
@@ -813,7 +874,24 @@
             "diskRadius": 0.846,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wartortle",
+                "id": "WARTORTLE",
+                "pastBranch": {
+                    "name": "Squirtle",
+                    "id": "SQUIRTLE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 10,
@@ -969,7 +1047,16 @@
             "diskRadius": 0.5265,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Caterpie",
+                "id": "CATERPIE",
+                "costToEvolve": {
+                    "candyCost": 12,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 12,
@@ -1065,7 +1152,24 @@
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Metapod",
+                "id": "METAPOD",
+                "pastBranch": {
+                    "name": "Caterpie",
+                    "id": "CATERPIE",
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 13,
@@ -1230,7 +1334,16 @@
             "diskRadius": 0.375,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Weedle",
+                "id": "WEEDLE",
+                "costToEvolve": {
+                    "candyCost": 12,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 15,
@@ -1326,7 +1439,24 @@
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Kakuna",
+                "id": "KAKUNA",
+                "pastBranch": {
+                    "name": "Weedle",
+                    "id": "WEEDLE",
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 16,
@@ -1517,7 +1647,16 @@
             "diskRadius": 0.711,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pidgey",
+                "id": "PIDGEY",
+                "costToEvolve": {
+                    "candyCost": 12,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 18,
@@ -1613,7 +1752,24 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pidgeotto",
+                "id": "PIDGEOTTO",
+                "pastBranch": {
+                    "name": "Pidgey",
+                    "id": "PIDGEY",
+                    "costToEvolve": {
+                        "candyCost": 12,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 19,
@@ -1787,7 +1943,16 @@
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Rattata",
+                "id": "RATTATA",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 21,
@@ -1978,7 +2143,16 @@
             "diskRadius": 1.26,
             "shoulderModeScale": 0.375
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Spearow",
+                "id": "SPEAROW",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 23,
@@ -2156,7 +2330,16 @@
             "diskRadius": 0.9225,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Ekans",
+                "id": "EKANS",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 25,
@@ -2247,7 +2430,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pichu",
+                "id": "PICHU",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 26,
@@ -2334,7 +2526,24 @@
             "diskRadius": 0.729,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pikachu",
+                "id": "PIKACHU",
+                "pastBranch": {
+                    "name": "Pichu",
+                    "id": "PICHU",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 27,
@@ -2508,7 +2717,16 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Sandshrew",
+                "id": "SANDSHREW",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 29,
@@ -2682,7 +2900,16 @@
             "diskRadius": 0.6581,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nidoran Female",
+                "id": "NIDORAN_FEMALE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 31,
@@ -2777,7 +3004,24 @@
             "diskRadius": 0.6143,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nidorina",
+                "id": "NIDORINA",
+                "pastBranch": {
+                    "name": "Nidoran Female",
+                    "id": "NIDORAN_FEMALE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 32,
@@ -2951,7 +3195,16 @@
             "diskRadius": 0.7425,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nidoran Male",
+                "id": "NIDORAN_MALE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 34,
@@ -3046,7 +3299,24 @@
             "diskRadius": 0.8222,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nidorino",
+                "id": "NIDORINO",
+                "pastBranch": {
+                    "name": "Nidoran Male",
+                    "id": "NIDORAN_MALE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 35,
@@ -3133,7 +3403,16 @@
             "diskRadius": 0.675,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Cleffa",
+                "id": "CLEFFA",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 36,
@@ -3224,7 +3503,24 @@
             "diskRadius": 1.1681,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Clefairy",
+                "id": "CLEFAIRY",
+                "pastBranch": {
+                    "name": "Cleffa",
+                    "id": "CLEFFA",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 37,
@@ -3402,7 +3698,16 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Vulpix",
+                "id": "VULPIX",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 39,
@@ -3493,7 +3798,16 @@
             "diskRadius": 0.768,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Igglybuff",
+                "id": "IGGLYBUFF",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 40,
@@ -3588,7 +3902,24 @@
             "diskRadius": 1.0013,
             "shoulderModeScale": 0.4
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Jigglypuff",
+                "id": "JIGGLYPUFF",
+                "pastBranch": {
+                    "name": "Igglybuff",
+                    "id": "IGGLYBUFF",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 41,
@@ -3780,7 +4111,16 @@
             "diskRadius": 1.5975,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Zubat",
+                "id": "ZUBAT",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 43,
@@ -3962,7 +4302,16 @@
             "diskRadius": 0.7425,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Oddish",
+                "id": "ODDISH",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 45,
@@ -4057,7 +4406,24 @@
             "diskRadius": 1.242,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Gloom",
+                "id": "GLOOM",
+                "pastBranch": {
+                    "name": "Oddish",
+                    "id": "ODDISH",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 46,
@@ -4239,7 +4605,16 @@
             "diskRadius": 0.9469,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Paras",
+                "id": "PARAS",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 48,
@@ -4426,7 +4801,16 @@
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Venonat",
+                "id": "VENONAT",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 50,
@@ -4594,7 +4978,16 @@
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Diglett",
+                "id": "DIGLETT",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 52,
@@ -4768,7 +5161,16 @@
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Meowth",
+                "id": "MEOWTH",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 54,
@@ -4946,7 +5348,16 @@
             "diskRadius": 0.9765,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Psyduck",
+                "id": "PSYDUCK",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 56,
@@ -5124,7 +5535,16 @@
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Mankey",
+                "id": "MANKEY",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 58,
@@ -5302,7 +5722,16 @@
             "diskRadius": 0.999,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Growlithe",
+                "id": "GROWLITHE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 60,
@@ -5480,7 +5909,16 @@
             "diskRadius": 1.1025,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Poliwag",
+                "id": "POLIWAG",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 62,
@@ -5575,7 +6013,24 @@
             "diskRadius": 1.2255,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Poliwhirl",
+                "id": "POLIWHIRL",
+                "pastBranch": {
+                    "name": "Poliwag",
+                    "id": "POLIWAG",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 63,
@@ -5754,7 +6209,16 @@
             "diskRadius": 1.0013,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Abra",
+                "id": "ABRA",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 65,
@@ -5845,7 +6309,24 @@
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Kadabra",
+                "id": "KADABRA",
+                "pastBranch": {
+                    "name": "Abra",
+                    "id": "ABRA",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 66,
@@ -6023,7 +6504,16 @@
             "diskRadius": 0.819,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Machop",
+                "id": "MACHOP",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 68,
@@ -6114,7 +6604,24 @@
             "diskRadius": 0.8678,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Machoke",
+                "id": "MACHOKE",
+                "pastBranch": {
+                    "name": "Machop",
+                    "id": "MACHOP",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 69,
@@ -6301,7 +6808,16 @@
             "diskRadius": 0.975,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Bellsprout",
+                "id": "BELLSPROUT",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 71,
@@ -6397,7 +6913,24 @@
             "diskRadius": 0.819,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Weepinbell",
+                "id": "WEEPINBELL",
+                "pastBranch": {
+                    "name": "Bellsprout",
+                    "id": "BELLSPROUT",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 72,
@@ -6585,7 +7118,16 @@
             "diskRadius": 0.738,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Tentacool",
+                "id": "TENTACOOL",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 74,
@@ -6772,7 +7314,16 @@
             "diskRadius": 1.0455,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Geodude",
+                "id": "GEODUDE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 76,
@@ -6867,7 +7418,24 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Graveler",
+                "id": "GRAVELER",
+                "pastBranch": {
+                    "name": "Geodude",
+                    "id": "GEODUDE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 77,
@@ -7045,7 +7613,16 @@
             "diskRadius": 0.6075,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Ponyta",
+                "id": "PONYTA",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 79,
@@ -7231,7 +7808,16 @@
             "diskRadius": 0.7013,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Slowpoke",
+                "id": "SLOWPOKE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 81,
@@ -7415,7 +8001,16 @@
             "diskRadius": 0.66,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Magnemite",
+                "id": "MAGNEMITE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 83,
@@ -7692,7 +8287,16 @@
             "diskRadius": 0.7722,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Doduo",
+                "id": "DODUO",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 86,
@@ -7871,7 +8475,16 @@
             "diskRadius": 0.7875,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Seel",
+                "id": "SEEL",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 88,
@@ -8053,7 +8666,16 @@
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Grimer",
+                "id": "GRIMER",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 90,
@@ -8236,7 +8858,16 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Shellder",
+                "id": "SHELLDER",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 92,
@@ -8428,7 +9059,16 @@
             "diskRadius": 0.765,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Gastly",
+                "id": "GASTLY",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 94,
@@ -8523,7 +9163,24 @@
             "diskRadius": 0.693,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Haunter",
+                "id": "HAUNTER",
+                "pastBranch": {
+                    "name": "Gastly",
+                    "id": "GASTLY",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 95,
@@ -8796,7 +9453,16 @@
             "diskRadius": 0.9338,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Drowzee",
+                "id": "DROWZEE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 98,
@@ -8974,7 +9640,16 @@
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Krabby",
+                "id": "KRABBY",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 100,
@@ -9144,7 +9819,16 @@
             "diskRadius": 0.828,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Voltorb",
+                "id": "VOLTORB",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 102,
@@ -9330,7 +10014,16 @@
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Exeggcute",
+                "id": "EXEGGCUTE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 104,
@@ -9504,7 +10197,16 @@
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Cubone",
+                "id": "CUBONE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 106,
@@ -9595,7 +10297,16 @@
             "diskRadius": 0.6225,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Tyrogue",
+                "id": "TYROGUE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 107,
@@ -9690,7 +10401,16 @@
             "diskRadius": 0.6885,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Tyrogue",
+                "id": "TYROGUE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 108,
@@ -9961,7 +10681,16 @@
             "diskRadius": 0.93,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Koffing",
+                "id": "KOFFING",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 111,
@@ -10151,7 +10880,16 @@
             "diskRadius": 1.185,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Rhyhorn",
+                "id": "RHYHORN",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 113,
@@ -10600,7 +11338,16 @@
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Horsea",
+                "id": "HORSEA",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 118,
@@ -10780,7 +11527,16 @@
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Goldeen",
+                "id": "GOLDEEN",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 120,
@@ -10958,7 +11714,16 @@
             "diskRadius": 0.7275,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Staryu",
+                "id": "STARYU",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 122,
@@ -11240,7 +12005,16 @@
             "diskRadius": 0.9788,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Smoochum",
+                "id": "SMOOCHUM",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 125,
@@ -11331,7 +12105,16 @@
             "diskRadius": 0.8453,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Elekid",
+                "id": "ELEKID",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 126,
@@ -11422,7 +12205,16 @@
             "diskRadius": 0.99,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Magby",
+                "id": "MAGBY",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 127,
@@ -11772,7 +12564,16 @@
             "diskRadius": 0.72,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Magikarp",
+                "id": "MAGIKARP",
+                "costToEvolve": {
+                    "candyCost": 400,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 131,
@@ -12108,7 +12909,16 @@
             "diskRadius": 0.5198,
             "shoulderModeScale": 0.4
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Eevee",
+                "id": "EEVEE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 135,
@@ -12195,7 +13005,16 @@
             "diskRadius": 0.495,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Eevee",
+                "id": "EEVEE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 136,
@@ -12282,7 +13101,16 @@
             "diskRadius": 0.4568,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Eevee",
+                "id": "EEVEE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 137,
@@ -12556,7 +13384,16 @@
             "diskRadius": 0.5625,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Omanyte",
+                "id": "OMANYTE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 140,
@@ -12742,7 +13579,16 @@
             "diskRadius": 0.6825,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Kabuto",
+                "id": "KABUTO",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 142,
@@ -13383,7 +14229,16 @@
             "diskRadius": 0.8438,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Dratini",
+                "id": "DRATINI",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 149,
@@ -13479,7 +14334,24 @@
             "diskRadius": 0.63,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Dragonair",
+                "id": "DRAGONAIR",
+                "pastBranch": {
+                    "name": "Dratini",
+                    "id": "DRATINI",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 150,
@@ -13851,7 +14723,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Chikorita",
+                "id": "CHIKORITA",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 154,
@@ -13942,7 +14823,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Bayleef",
+                "id": "BAYLEEF",
+                "pastBranch": {
+                    "name": "Chikorita",
+                    "id": "CHIKORITA",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 155,
@@ -14116,7 +15014,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Cyndaquil",
+                "id": "CYNDAQUIL",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 157,
@@ -14207,7 +15114,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Quilava",
+                "id": "QUILAVA",
+                "pastBranch": {
+                    "name": "Cyndaquil",
+                    "id": "CYNDAQUIL",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 158,
@@ -14381,7 +15305,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Totodile",
+                "id": "TOTODILE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 160,
@@ -14472,7 +15405,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Croconaw",
+                "id": "CROCONAW",
+                "pastBranch": {
+                    "name": "Totodile",
+                    "id": "TOTODILE",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 161,
@@ -14646,7 +15596,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Sentret",
+                "id": "SENTRET",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 163,
@@ -14833,7 +15792,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Hoothoot",
+                "id": "HOOTHOOT",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 165,
@@ -15025,7 +15993,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Ledyba",
+                "id": "LEDYBA",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 167,
@@ -15207,7 +16184,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Spinarak",
+                "id": "SPINARAK",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 169,
@@ -15303,7 +16289,23 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Golbat",
+                "id": "GOLBAT",
+                "pastBranch": {
+                    "name": "Zubat",
+                    "id": "ZUBAT",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 170,
@@ -15491,7 +16493,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Chinchou",
+                "id": "CHINCHOU",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 172,
@@ -15940,7 +16951,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Togepi",
+                "id": "TOGEPI",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 177,
@@ -16131,7 +17151,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Natu",
+                "id": "NATU",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 179,
@@ -16305,7 +17334,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Mareep",
+                "id": "MAREEP",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 181,
@@ -16396,7 +17434,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Flaaffy",
+                "id": "FLAAFFY",
+                "pastBranch": {
+                    "name": "Mareep",
+                    "id": "MAREEP",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 182,
@@ -16483,7 +17538,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Gloom",
+                "id": "GLOOM",
+                "pastBranch": {
+                    "name": "Oddish",
+                    "id": "ODDISH",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Sun Stone",
+                        "id": "ITEM_SUN_STONE"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 183,
@@ -16574,7 +17650,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Azurill",
+                "id": "AZURILL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 184,
@@ -16665,7 +17749,23 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Marill",
+                "id": "MARILL",
+                "pastBranch": {
+                    "name": "Azurill",
+                    "id": "AZURILL",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 185,
@@ -16835,7 +17935,28 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Poliwhirl",
+                "id": "POLIWHIRL",
+                "pastBranch": {
+                    "name": "Poliwag",
+                    "id": "POLIWAG",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Kings Rock",
+                        "id": "ITEM_KINGS_ROCK"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 187,
@@ -17027,7 +18148,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Hoppip",
+                "id": "HOPPIP",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 189,
@@ -17123,7 +18253,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Skiploom",
+                "id": "SKIPLOOM",
+                "pastBranch": {
+                    "name": "Hoppip",
+                    "id": "HOPPIP",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 190,
@@ -17388,7 +18535,20 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Sunkern",
+                "id": "SUNKERN",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Sun Stone",
+                        "id": "ITEM_SUN_STONE"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 193,
@@ -17666,7 +18826,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wooper",
+                "id": "WOOPER",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 196,
@@ -17752,7 +18921,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Eevee",
+                "id": "EEVEE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 197,
@@ -17834,7 +19012,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Eevee",
+                "id": "EEVEE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 198,
@@ -18021,7 +19208,20 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Slowpoke",
+                "id": "SLOWPOKE",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Kings Rock",
+                        "id": "ITEM_KINGS_ROCK"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 200,
@@ -18268,7 +19468,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wynaut",
+                "id": "WYNAUT",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 203,
@@ -18546,7 +19754,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pineco",
+                "id": "PINECO",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 206,
@@ -18816,7 +20033,19 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Onix",
+                "id": "ONIX",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5,
+                    "evolutionItem": {
+                        "name": "Item Metal Coat",
+                        "id": "ITEM_METAL_COAT"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 209,
@@ -18994,7 +20223,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Snubbull",
+                "id": "SNUBBULL",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 211,
@@ -19181,7 +20419,19 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Scyther",
+                "id": "SCYTHER",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5,
+                    "evolutionItem": {
+                        "name": "Item Metal Coat",
+                        "id": "ITEM_METAL_COAT"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 213,
@@ -19636,7 +20886,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Teddiursa",
+                "id": "TEDDIURSA",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 218,
@@ -19814,7 +21073,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Slugma",
+                "id": "SLUGMA",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 220,
@@ -20000,7 +21268,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Swinub",
+                "id": "SWINUB",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 222,
@@ -20263,7 +21540,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Remoraid",
+                "id": "REMORAID",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 225,
@@ -20728,7 +22014,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Houndour",
+                "id": "HOUNDOUR",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 230,
@@ -20824,7 +22119,27 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Seadra",
+                "id": "SEADRA",
+                "pastBranch": {
+                    "name": "Horsea",
+                    "id": "HORSEA",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Dragon Scale",
+                        "id": "ITEM_DRAGON_SCALE"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 231,
@@ -21002,7 +22317,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Phanpy",
+                "id": "PHANPY",
+                "costToEvolve": {
+                    "candyCost": 50,
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 233,
@@ -21086,7 +22410,19 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Porygon",
+                "id": "PORYGON",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3,
+                    "evolutionItem": {
+                        "name": "Item Up Grade",
+                        "id": "ITEM_UP_GRADE"
+                    }
+                }
+            }
+        }
     },
     {
         "dex": 234,
@@ -21429,7 +22765,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Tyrogue",
+                "id": "TYROGUE",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 238,
@@ -21885,7 +23230,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Chansey",
+                "id": "CHANSEY",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 243,
@@ -22340,7 +23693,16 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Larvitar",
+                "id": "LARVITAR",
+                "costToEvolve": {
+                    "candyCost": 25,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 248,
@@ -22435,7 +23797,24 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Pupitar",
+                "id": "PUPITAR",
+                "pastBranch": {
+                    "name": "Larvitar",
+                    "id": "LARVITAR",
+                    "costToEvolve": {
+                        "candyCost": 25,
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "candyCost": 100,
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 249,
@@ -22892,7 +24271,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Treecko",
+                "id": "TREECKO",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 254,
@@ -22983,7 +24370,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Grovyle",
+                "id": "GROVYLE",
+                "pastBranch": {
+                    "name": "Treecko",
+                    "id": "TREECKO",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 255,
@@ -23165,7 +24567,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Torchic",
+                "id": "TORCHIC",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 257,
@@ -23260,7 +24670,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Combusken",
+                "id": "COMBUSKEN",
+                "pastBranch": {
+                    "name": "Torchic",
+                    "id": "TORCHIC",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 258,
@@ -23438,7 +24863,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Mudkip",
+                "id": "MUDKIP",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 260,
@@ -23533,7 +24966,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Marshtomp",
+                "id": "MARSHTOMP",
+                "pastBranch": {
+                    "name": "Mudkip",
+                    "id": "MUDKIP",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 261,
@@ -23707,7 +25155,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Poochyena",
+                "id": "POOCHYENA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 263,
@@ -23881,7 +25337,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Zigzagoon",
+                "id": "ZIGZAGOON",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 265,
@@ -24043,7 +25507,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wurmple",
+                "id": "WURMPLE",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 267,
@@ -24139,7 +25611,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Silcoon",
+                "id": "SILCOON",
+                "pastBranch": {
+                    "name": "Wurmple",
+                    "id": "WURMPLE",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 268,
@@ -24218,7 +25705,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wurmple",
+                "id": "WURMPLE",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 269,
@@ -24314,7 +25809,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Cascoon",
+                "id": "CASCOON",
+                "pastBranch": {
+                    "name": "Wurmple",
+                    "id": "WURMPLE",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 270,
@@ -24500,7 +26010,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Lotad",
+                "id": "LOTAD",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 272,
@@ -24595,7 +26113,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Lombre",
+                "id": "LOMBRE",
+                "pastBranch": {
+                    "name": "Lotad",
+                    "id": "LOTAD",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 273,
@@ -24777,7 +26310,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Seedot",
+                "id": "SEEDOT",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 275,
@@ -24872,7 +26413,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nuzleaf",
+                "id": "NUZLEAF",
+                "pastBranch": {
+                    "name": "Seedot",
+                    "id": "SEEDOT",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 276,
@@ -25051,7 +26607,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Taillow",
+                "id": "TAILLOW",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 278,
@@ -25243,7 +26807,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wingull",
+                "id": "WINGULL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 280,
@@ -25425,7 +26997,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Ralts",
+                "id": "RALTS",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 282,
@@ -25520,7 +27100,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Kirlia",
+                "id": "KIRLIA",
+                "pastBranch": {
+                    "name": "Ralts",
+                    "id": "RALTS",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 283,
@@ -25707,7 +27302,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Surskit",
+                "id": "SURSKIT",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 285,
@@ -25889,7 +27492,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Shroomish",
+                "id": "SHROOMISH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 287,
@@ -26066,7 +27677,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Slakoth",
+                "id": "SLAKOTH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 289,
@@ -26150,7 +27769,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Vigoroth",
+                "id": "VIGOROTH",
+                "pastBranch": {
+                    "name": "Slakoth",
+                    "id": "SLAKOTH",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 290,
@@ -26337,7 +27971,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nincada",
+                "id": "NINCADA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 292,
@@ -26429,7 +28071,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Nincada",
+                "id": "NINCADA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 293,
@@ -26607,7 +28257,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Whismur",
+                "id": "WHISMUR",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 295,
@@ -26698,7 +28356,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Loudred",
+                "id": "LOUDRED",
+                "pastBranch": {
+                    "name": "Whismur",
+                    "id": "WHISMUR",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 296,
@@ -26880,7 +28553,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Makuhita",
+                "id": "MAKUHITA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 298,
@@ -27240,7 +28921,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Skitty",
+                "id": "SKITTY",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 302,
@@ -27608,7 +29297,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Aron",
+                "id": "ARON",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 306,
@@ -27703,7 +29400,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Lairon",
+                "id": "LAIRON",
+                "pastBranch": {
+                    "name": "Aron",
+                    "id": "ARON",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 1
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 307,
@@ -27889,7 +29601,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Meditite",
+                "id": "MEDITITE",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 309,
@@ -28071,7 +29791,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Electrike",
+                "id": "ELECTRIKE",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 311,
@@ -28704,7 +30432,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Gulpin",
+                "id": "GULPIN",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 318,
@@ -28896,7 +30632,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Carvanha",
+                "id": "CARVANHA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 320,
@@ -29076,7 +30820,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Wailmer",
+                "id": "WAILMER",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 322,
@@ -29262,7 +31014,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Numel",
+                "id": "NUMEL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 324,
@@ -29524,7 +31284,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Spoink",
+                "id": "SPOINK",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 327,
@@ -29798,7 +31566,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Trapinch",
+                "id": "TRAPINCH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 330,
@@ -29894,7 +31670,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Vibrava",
+                "id": "VIBRAVA",
+                "pastBranch": {
+                    "name": "Trapinch",
+                    "id": "TRAPINCH",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 331,
@@ -30080,7 +31871,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Cacnea",
+                "id": "CACNEA",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 333,
@@ -30271,7 +32070,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Swablu",
+                "id": "SWABLU",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 335,
@@ -30821,7 +32628,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Barboach",
+                "id": "BARBOACH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 1
+                }
+            }
+        }
     },
     {
         "dex": 341,
@@ -31003,7 +32818,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Corphish",
+                "id": "CORPHISH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 343,
@@ -31183,7 +33006,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Baltoy",
+                "id": "BALTOY",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 345,
@@ -31367,7 +33198,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Lileep",
+                "id": "LILEEP",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 347,
@@ -31557,7 +33396,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Anorith",
+                "id": "ANORITH",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 349,
@@ -31728,7 +33575,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Feebas",
+                "id": "FEEBAS",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 351,
@@ -32094,7 +33949,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Shuppet",
+                "id": "SHUPPET",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 355,
@@ -32276,7 +34139,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Duskull",
+                "id": "DUSKULL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 357,
@@ -32809,7 +34680,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Snorunt",
+                "id": "SNORUNT",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 363,
@@ -32999,7 +34878,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Spheal",
+                "id": "SPHEAL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 365,
@@ -33094,7 +34981,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Sealeo",
+                "id": "SEALEO",
+                "pastBranch": {
+                    "name": "Spheal",
+                    "id": "SPHEAL",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 3
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 366,
@@ -33264,7 +35166,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Clamperl",
+                "id": "CLAMPERL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 368,
@@ -33355,7 +35265,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Clamperl",
+                "id": "CLAMPERL",
+                "costToEvolve": {
+                    "kmBuddyDistance": 3
+                }
+            }
+        }
     },
     {
         "dex": 369,
@@ -33717,7 +35635,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Bagon",
+                "id": "BAGON",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 373,
@@ -33813,7 +35739,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Shelgon",
+                "id": "SHELGON",
+                "pastBranch": {
+                    "name": "Bagon",
+                    "id": "BAGON",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 374,
@@ -33981,7 +35922,15 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Beldum",
+                "id": "BELDUM",
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 376,
@@ -34072,7 +36021,22 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {
+            "pastBranch": {
+                "name": "Metang",
+                "id": "METANG",
+                "pastBranch": {
+                    "name": "Beldum",
+                    "id": "BELDUM",
+                    "costToEvolve": {
+                        "kmBuddyDistance": 5
+                    }
+                },
+                "costToEvolve": {
+                    "kmBuddyDistance": 5
+                }
+            }
+        }
     },
     {
         "dex": 377,
