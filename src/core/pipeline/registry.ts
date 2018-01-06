@@ -28,7 +28,9 @@ export class ComponentRegistry {
     this.areDependenciesAlreadyMapped = true;
     (this.components || []).forEach(component =>
       component.dependencies = (component.settings.dependencies || []).map(dependency =>
-        this.GetComponentById(dependency.constructor.name)));
+        this.GetComponentById(
+          // @ts-ignore
+          dependency.constructor.name)));
   }
   /**
    * Registers the given component with the given settings
@@ -36,7 +38,11 @@ export class ComponentRegistry {
    * @param settings The settings the component has
    */
   public Register(component: IComponent, settings: ComponentSettings) {
-    this.components.push({ settings, component, id: component.constructor.name });
+    this.components.push({
+      settings, component,
+      // @ts-ignore
+      id: component.constructor.name
+    });
   }
 
   public GetComponentById(componentId) {

@@ -53,6 +53,7 @@ export abstract class Pipeline {
     this.visitedComponents[component.id] = true;
 
     component.dependencies.forEach(dependency => {
+      // @ts-ignore
       const dependencyId = dependency.constructor.name;
       if (ancestors.indexOf(dependencyId) >= 0)  // if already in ancestors, a closed chain exists.
         throw new Error(`Circular dependency "${dependencyId}'" is required by "${component.id}": ${ancestors.join(' -> ')}`);
