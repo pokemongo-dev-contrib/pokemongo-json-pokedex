@@ -5,6 +5,7 @@ import { GenericPropertyMapper } from '../genericPropertyMapper';
 import { ItemTemplate } from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
+import { Identifyable } from '@core';
 
 @Component({
     pipeline: 'pokemon',
@@ -46,11 +47,21 @@ export class PastBranches implements IComponent {
      */
     private GetEvolutionCost(pokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         if (!rawPokemon) return undefined;
+
         const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch.find(evolution => evolution.evolution === pokemonId);
+
+        // Make evolutionItemRequirement to Identifyable
+        let evolutionItem: Identifyable;
+        if (evolutionBranch.evolutionItemRequirement) {
+            evolutionItem = {
+                id: evolutionBranch.evolutionItemRequirement,
+                name: Util.SnakeCase2HumanReadable(evolutionBranch.evolutionItemRequirement.replace('ITEM_', ''))
+            };
+        }
         return {
-            candyCost: rawPokemon.pokemonSettings.candyToEvolve,
-            kmBuddyDistance: rawPokemon.pokemonSettings.kmBuddyDistance,
-            evolutionItem: evolutionBranch.evolutionItemRequirement ? Util.SnakeCase2Identifyable(evolutionBranch.evolutionItemRequirement) : undefined,
+            candyCost: evolutionBranch.candyCost,
+            kmBuddyDistance: evolutionBranch.kmBuddyDistanceRequirement,
+            evolutionItem: evolutionItem,
         }
     }
 

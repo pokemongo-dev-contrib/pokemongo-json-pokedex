@@ -5,6 +5,7 @@ import { GenericPropertyMapper } from '../genericPropertyMapper';
 import { ItemTemplate } from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
+import { Identifyable } from '@core';
 
 @Component({
     pipeline: 'pokemon',
@@ -25,7 +26,7 @@ export class FutureBranches implements IComponent {
      * @param pokemonId The id of the pokemon
      */
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
-        return (pokemon.pokemonSettings.evolutionIds || []).map(id => this.GetRawPokemonById(id));
+        return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => this.GetRawPokemonById(branch.evolution));
     }
 
     /**
@@ -35,13 +36,26 @@ export class FutureBranches implements IComponent {
      */
     private GetEvolutionCost(futurePokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || []).find(evolution => evolution.evolution === futurePokemonId);
+
+        // If no evolution is found, just return nothing
         if (!evolutionBranch) {
             return;
         }
+
+        // Make evolutionItemRequirement to Identifyable
+        let evolutionItem: Identifyable;
+        if (evolutionBranch.evolutionItemRequirement) {
+            evolutionItem = {
+                id: evolutionBranch.evolutionItemRequirement,
+                name: Util.SnakeCase2HumanReadable(evolutionBranch.evolutionItemRequirement.replace('ITEM_', ''))
+            };
+        }
+
+        // Return evolutionCost Object
         return {
-            candyCost: rawPokemon.pokemonSettings.candyToEvolve,
-            kmBuddyDistance: rawPokemon.pokemonSettings.kmBuddyDistance,
-            evolutionItem: evolutionBranch.evolutionItemRequirement ? Util.SnakeCase2Identifyable(evolutionBranch.evolutionItemRequirement) : undefined,
+            candyCost: evolutionBranch.candyCost,
+            kmBuddyDistance: evolutionBranch.kmBuddyDistanceRequirement,
+            evolutionItem: evolutionItem ? evolutionItem : undefined,
         }
     }
 
