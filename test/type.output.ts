@@ -1,4 +1,4 @@
-import { Type } from '@components/type';
+import { Type } from '@outcome/type';
 import { expect } from 'chai';
 
 describe('Type Output', () => {
