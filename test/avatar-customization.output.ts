@@ -1,4 +1,4 @@
-import { AvatarCustomization } from '@components/avatar-customization';
+import { AvatarCustomization } from '@outcome/avatarCustomization';
 import { expect } from 'chai';
 
 describe('AvatarCustomization Output', () => {
