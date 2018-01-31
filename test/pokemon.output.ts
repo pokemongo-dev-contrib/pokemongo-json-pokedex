@@ -1,4 +1,4 @@
-import { Move } from '../src/components/move';
+import { Move } from '@outcome/move';
 import { Pokemon } from '@outcome/pokemon';
 import { expect } from 'chai';
 

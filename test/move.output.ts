@@ -1,4 +1,4 @@
-import { Move } from '../src/components/move/move.model';
+import { Move } from '@outcome/move';
 import { expect } from 'chai';
 
 describe('Move Output', () => {
