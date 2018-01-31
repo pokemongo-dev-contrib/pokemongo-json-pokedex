@@ -1,19 +1,20 @@
-import { ItemTemplate } from '@core/game_master';
-import { InternalIdParser } from './shared/internalid-parser.component';
-import { Move } from './';
+import { Component, IComponent } from '@core/pipeline';
+
+import { ItemTemplate } from '@income';
+import { Move } from '@outcome/move';
 import { Util } from '@util';
 
-export class MoveMapper {
-    public static Map(rawMove: ItemTemplate): Move {
-        let move: Move = new Move();
-        let moveStgs = rawMove.moveSettings;
+@Component({
+  pipeline: 'move'
+})
+export class GenericPropertyMapper implements IComponent {
+  /**
+   * Maps generic properties which do not need to be processed.
+   */
+  Process(move: Move, rawMove: ItemTemplate): Move {
+    let moveStgs = rawMove.moveSettings;
         move.accuracyChange = moveStgs.accuracyChance;
         move.animationId = moveStgs.animationId;
-        move.pokemonType = {
-            id: moveStgs.pokemonType,
-            name: Util.SnakeCase2HumanReadable(moveStgs.pokemonType
-                .replace('POKEMON_TYPE_', ''))
-        }
         move.power = moveStgs.power;
         move.criticalChance = moveStgs.criticalChance;
         move.staminaLossScalar = moveStgs.staminaLossScalar;
@@ -25,8 +26,6 @@ export class MoveMapper {
         move.damageWindowEndMs = moveStgs.damageWindowEndMs;
         move.energyDelta = moveStgs.energyDelta;
         move.id = moveStgs.movementId;
-        move.name = Util.SnakeCase2HumanReadable(moveStgs.movementId);
-        move.internalId = new InternalIdParser().Process(rawMove.templateId);
         return move;
-    }
+  }
 }
