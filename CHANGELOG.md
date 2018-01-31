@@ -1,3 +1,13 @@
+# Version 3.0.0 (31.01.2018)
+
+## Features
+- **Refactor**: Heavily changes the core structure
+- **Scripts**: Add generate-game-masterts.js script, to automatically generate `src/income/gameMaster.ts` file
+
+BREAKING CHANGES: 
+- **Pokemon Evolution Tree**
+
+
 # Version 2.1 (6.4.2017)
 
 ## Features
