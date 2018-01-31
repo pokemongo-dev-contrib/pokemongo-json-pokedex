@@ -14,9 +14,7 @@
     "docs": "node_modules/.bin/typedoc --out docs src",
     "lint": "tslint src/**/*.ts test/**/*.ts",
     "fetch-game-master": "node bin/get-latest-game-master.js",
-    "test": "node_modules/.bin/mocha --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts src/**/*.spec.ts",
-    "precommit": "npm test && npm run lint",
-    "prepush": "npm run precommit && npm run start:build"
+    "test": "node_modules/.bin/mocha --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts src/**/*.spec.ts"
   },
   "repository": {
     "type": "git",
@@ -44,7 +42,6 @@
     "@types/lodash": "^4.14.58",
     "@types/mocha": "^2.2.40",
     "@types/node": "^8.0.46",
-    "husky": "^0.14.3",
     "pokemongo-game-master": "^1.0.3",
     "rimraf": "^2.6.1",
     "ts-node": "^4.1.0",
