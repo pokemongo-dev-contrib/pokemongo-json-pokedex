@@ -1,6 +1,4 @@
-import { Gender } from './shared/gender';
 import { Identifyable } from '@core/identifyable';
-
 export class AvatarCustomization {
     /**
      * If it is enabled in the shop or not
