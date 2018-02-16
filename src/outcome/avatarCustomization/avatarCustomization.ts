@@ -44,7 +44,7 @@ export class AvatarCustomization {
      * @example
      * 10
      */
-    public unlockBadgeLevel: number;
+    public unlockBadgeLevel?: number;
     /**
      * The name of the icon
      * @example

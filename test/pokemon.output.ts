@@ -12,7 +12,7 @@ describe('Pokemon Output', () => {
 
     it('should have items', () => {
         expect(input.length).to.not.equal(0);
-        expect(input.length).to.equal(386);
+        expect(input.length).to.equal(394);
     });
 
     it('should have values', () => {
