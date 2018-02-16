@@ -350,6 +350,16 @@
         "category": "Glasses"
     },
     {
+        "name": "Gloves Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_battlegirl_0",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Default 0",
         "gender": "Female",
         "enabled": true,
@@ -700,6 +710,16 @@
         "category": "Necklace"
     },
     {
+        "name": "Pants Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_battlegirl_0",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Default 0",
         "gender": "Female",
         "enabled": true,
@@ -968,6 +988,16 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Shirt Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_battlegirl_0",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
     },
     {
         "name": "Shirt Buttondown 0",
@@ -1362,6 +1392,16 @@
         "category": "Shirt"
     },
     {
+        "name": "Shoes Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_battlegirl_0",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Default 0",
         "gender": "Female",
         "enabled": true,
@@ -1652,6 +1692,16 @@
         "category": "Glasses"
     },
     {
+        "name": "Glasses Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_jogger_0",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
         "name": "Glasses Mask 0",
         "gender": "Male",
         "enabled": true,
@@ -1766,6 +1816,16 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_empty",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_jogger",
         "slot": [
             "Gloves"
         ],
@@ -1942,6 +2002,26 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_fisher_0",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_jogger_0",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Magikarp",
         "gender": "Male",
         "enabled": true,
@@ -1986,6 +2066,26 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_default_0",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_fisher_0",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_jogger_0",
         "slot": [
             "Pants"
         ],
@@ -2176,6 +2276,26 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_7",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_fisher_0",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_jogger_0",
         "slot": [
             "Shirt"
         ],
@@ -2540,6 +2660,26 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_empty",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_fisher_0",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_jogger_0",
         "slot": [
             "Shoes"
         ],

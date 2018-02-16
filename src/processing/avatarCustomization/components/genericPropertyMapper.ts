@@ -14,6 +14,8 @@ export class GenericPropertyMapper implements IComponent {
     avatarCustomization.enabled = rawAvatarCustomization.avatarCustomization.enabled;
     avatarCustomization.unlockPlayerLevel = rawAvatarCustomization.avatarCustomization.unlockPlayerLevel;
     avatarCustomization.id = rawAvatarCustomization.avatarCustomization.assetName;
+    avatarCustomization.unlockBadgeLevel = rawAvatarCustomization.avatarCustomization.unlockBadgeLevel;
+    avatarCustomization.iconName = rawAvatarCustomization.avatarCustomization.iconName;
     return avatarCustomization;
   }
 }
