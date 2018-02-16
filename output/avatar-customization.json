@@ -4,6 +4,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_cute_0",
+        "iconName": "f_backpack_cute_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -14,6 +15,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_default_0",
+        "iconName": "f_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -24,6 +26,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_default_1",
+        "iconName": "f_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -34,6 +37,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_default_2",
+        "iconName": "f_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -44,6 +48,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_default_3",
+        "iconName": "f_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -54,6 +59,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_empty",
+        "iconName": "f_backpack_empty_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -64,6 +70,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_backpack_ultra",
+        "iconName": "f_backpack_ultra_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -74,6 +81,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_0",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -84,6 +92,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_1",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -94,6 +103,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_2",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -104,6 +114,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_3",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -114,6 +125,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_4",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -124,6 +136,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_5",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -134,6 +147,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_6",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -144,6 +158,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_7",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -154,6 +169,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_default_8",
+        "iconName": "f_belt_default_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -164,6 +180,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_empty",
+        "iconName": "f_belt_empty_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -174,6 +191,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_simple_0",
+        "iconName": "f_belt_simple_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -184,6 +202,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_simple_1",
+        "iconName": "f_belt_simple_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -194,6 +213,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_simple_2",
+        "iconName": "f_belt_simple_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -204,6 +224,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_belt_simple_3",
+        "iconName": "f_belt_simple_bundle_icon",
         "slot": [
             "Belt"
         ],
@@ -214,6 +235,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_eyes_0",
+        "iconName": "f_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -224,6 +246,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_eyes_1",
+        "iconName": "f_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -234,6 +257,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_eyes_2",
+        "iconName": "f_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -244,6 +268,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_eyes_3",
+        "iconName": "f_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -254,6 +279,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_eyes_4",
+        "iconName": "f_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -264,6 +290,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_3d",
+        "iconName": "f_glasses_3d_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -274,6 +301,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_empty",
+        "iconName": "f_glasses_empty_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -284,6 +312,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_mask_0",
+        "iconName": "f_glasses_mask_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -294,6 +323,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_mask_1",
+        "iconName": "f_glasses_mask_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -304,6 +334,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_thick_0",
+        "iconName": "f_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -314,6 +345,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_thick_1",
+        "iconName": "f_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -324,6 +356,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_thick_2",
+        "iconName": "f_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -334,6 +367,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_thick_3",
+        "iconName": "f_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -344,16 +378,30 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_thick_4",
+        "iconName": "f_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
         "category": "Glasses"
     },
     {
+        "name": "Gloves Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_battlegirl_0",
+        "unlockBadgeLevel": 10,
+        "iconName": "f_gloves_battlegirl_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Default 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_gloves_default_0",
+        "iconName": "f_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -364,6 +412,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_gloves_default_1",
+        "iconName": "f_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -374,6 +423,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_gloves_default_2",
+        "iconName": "f_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -384,6 +434,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_gloves_default_3",
+        "iconName": "f_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -394,6 +445,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_gloves_empty",
+        "iconName": "f_gloves_empty_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -404,6 +456,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_0",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -414,6 +467,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_1",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -424,6 +478,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_2",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -434,6 +489,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_3",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -444,6 +500,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_4",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -454,6 +511,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_5",
+        "iconName": "f_group_hair",
         "slot": [
             "Hair"
         ],
@@ -464,6 +522,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_adventure_0",
+        "iconName": "f_hat_adventure_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -474,6 +533,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_casket_0",
+        "iconName": "f_hat_casket_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -484,6 +544,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_0",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -494,6 +555,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_1",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -504,6 +566,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_2",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -514,6 +577,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_3",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -524,6 +588,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_4",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -534,6 +599,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_A_5",
+        "iconName": "f_hat_default_a_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -544,6 +610,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_B_0",
+        "iconName": "f_hat_default_b_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -554,6 +621,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_default_B_1",
+        "iconName": "f_hat_default_b_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -564,6 +632,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_empty",
+        "iconName": "f_hat_empty_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -574,6 +643,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_fedora_0",
+        "iconName": "f_hat_fedora_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -584,6 +654,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_fedora_1",
+        "iconName": "f_hat_fedora_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -594,6 +665,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_knitted_0",
+        "iconName": "f_hat_knitted_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -604,6 +676,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_knitted_1",
+        "iconName": "f_hat_knitted_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -614,6 +687,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_magikarp",
+        "iconName": "f_hat_magikarp_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -624,6 +698,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_mimikyu_0",
+        "iconName": "f_hat_mimikyu_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -634,6 +709,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_tophat_0",
+        "iconName": "f_hat_tophat_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -644,6 +720,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_ultra_0",
+        "iconName": "f_hat_ultra_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -654,6 +731,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_necklace_default_0",
+        "iconName": "f_necklace_default_bundle_icon",
         "slot": [
             "Necklace"
         ],
@@ -664,6 +742,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_necklace_default_1",
+        "iconName": "f_necklace_default_bundle_icon",
         "slot": [
             "Necklace"
         ],
@@ -674,6 +753,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_necklace_empty",
+        "iconName": "f_necklace_empty_bundle_icon",
         "slot": [
             "Necklace"
         ],
@@ -684,6 +764,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_necklace_heart_0",
+        "iconName": "f_necklace_heart_bundle_icon",
         "slot": [
             "Necklace"
         ],
@@ -694,16 +775,30 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_necklace_star_0",
+        "iconName": "f_necklace_star_bundle_icon",
         "slot": [
             "Necklace"
         ],
         "category": "Necklace"
     },
     {
+        "name": "Pants Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_battlegirl_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_pants_battlegirl_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Default 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_0",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -714,6 +809,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_1",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -724,6 +820,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_2",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -734,6 +831,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_3",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -744,6 +842,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_4",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -754,6 +853,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_default_5",
+        "iconName": "f_pants_default_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -764,6 +864,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_0",
+        "iconName": "f_pants_miniskirt_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -774,6 +875,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_1",
+        "iconName": "f_pants_miniskirt_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -784,6 +886,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_2",
+        "iconName": "f_pants_miniskirt_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -794,6 +897,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_3",
+        "iconName": "f_pants_miniskirt_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -804,6 +908,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_wave_0",
+        "iconName": "f_pants_miniskirt_wave_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -814,6 +919,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_wave_1",
+        "iconName": "f_pants_miniskirt_wave_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -824,6 +930,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_wave_2",
+        "iconName": "f_pants_miniskirt_wave_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -834,6 +941,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_neon_solid_0",
+        "iconName": "f_pants_neon_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -844,6 +952,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_neon_solid_1",
+        "iconName": "f_pants_neon_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -854,6 +963,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_neon_solid_2",
+        "iconName": "f_pants_neon_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -864,6 +974,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_neon_stripes_0",
+        "iconName": "f_pants_neon_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -874,6 +985,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_neon_stripes_1",
+        "iconName": "f_pants_neon_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -884,6 +996,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_shorts_0",
+        "iconName": "f_pants_shorts_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -894,6 +1007,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_shorts_1",
+        "iconName": "f_pants_shorts_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -904,6 +1018,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_shorts_2",
+        "iconName": "f_pants_shorts_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -914,6 +1029,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_shorts_3",
+        "iconName": "f_pants_shorts_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -924,6 +1040,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_skinnyjeans_0",
+        "iconName": "f_pants_skinnyjeans_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -934,6 +1051,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_turbine_0",
+        "iconName": "f_pants_miniskirt_turbine_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -944,6 +1062,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_turbine_1",
+        "iconName": "f_pants_miniskirt_turbine_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -954,6 +1073,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_miniskirt_turbine_2",
+        "iconName": "f_pants_miniskirt_turbine_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -964,15 +1084,29 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_pants_ultra_0",
+        "iconName": "f_pants_ultra_bundle_icon",
         "slot": [
             "Pants"
         ],
         "category": "Pants"
     },
     {
+        "name": "Shirt Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_battlegirl_0",
+        "unlockBadgeLevel": 1000,
+        "iconName": "f_shirt_battlegirl_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Buttondown 0",
         "gender": "Female",
         "id": "f_shirt_buttondown_0",
+        "iconName": "f_shirt_buttondown_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -983,6 +1117,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_0",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -993,6 +1128,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_1",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1003,6 +1139,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_2",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1013,6 +1150,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_3",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1023,6 +1161,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_4",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1033,6 +1172,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_5",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1043,6 +1183,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_6",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1053,6 +1194,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_7",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1063,6 +1205,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_default_8",
+        "iconName": "f_shirt_default_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1074,6 +1217,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "f_shirt_sweater_30_0",
+        "iconName": "f_shirt_sweater_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1085,6 +1229,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "f_shirt_sweater_30_1",
+        "iconName": "f_shirt_sweater_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1096,6 +1241,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "f_shirt_sweater_30_2",
+        "iconName": "f_shirt_sweater_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1106,6 +1252,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_sweater_instinct",
+        "iconName": "f_shirt_sweater_instinct_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1116,6 +1263,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_sweater_mystic",
+        "iconName": "f_shirt_sweater_mystic_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1126,6 +1274,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_sweater_valor",
+        "iconName": "f_shirt_sweater_valor_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1136,6 +1285,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_0",
+        "iconName": "f_shirt_tanktop_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1146,6 +1296,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_1",
+        "iconName": "f_shirt_tanktop_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1156,6 +1307,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_2",
+        "iconName": "f_shirt_tanktop_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1166,6 +1318,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_charizard_0",
+        "iconName": "f_shirt_tanktop_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1176,6 +1329,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_charizard_1",
+        "iconName": "f_shirt_tanktop_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1186,6 +1340,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_charizard_2",
+        "iconName": "f_shirt_tanktop_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1196,6 +1351,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_pikachu_0",
+        "iconName": "f_shirt_tanktop_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1206,6 +1362,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_pikachu_1",
+        "iconName": "f_shirt_tanktop_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1216,6 +1373,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tanktop_pikachu_2",
+        "iconName": "f_shirt_tanktop_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1226,6 +1384,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_cycling_0",
+        "iconName": "f_shirt_tshirt_cycling_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1236,6 +1395,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_cycling_1",
+        "iconName": "f_shirt_tshirt_cycling_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1246,6 +1406,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_cycling_2",
+        "iconName": "f_shirt_tshirt_cycling_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1256,6 +1417,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_cycling_3",
+        "iconName": "f_shirt_tshirt_cycling_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1266,6 +1428,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_fest_chicago_2017",
+        "iconName": "f_shirt_tshirt_fest_chicago_2017_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1276,6 +1439,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_global_goals_2017",
+        "iconName": "f_shirt_tshirt_global_goals_2017_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1286,6 +1450,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_0",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1296,6 +1461,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_1",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1306,6 +1472,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_2",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1316,6 +1483,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_3",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1326,6 +1494,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_4",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1336,6 +1505,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_5",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1346,6 +1516,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_tshirt_pikachu_6",
+        "iconName": "f_shirt_tshirt_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1356,16 +1527,30 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_ultra_0",
+        "iconName": "f_shirt_ultra_bundle_icon",
         "slot": [
             "Shirt"
         ],
         "category": "Shirt"
     },
     {
+        "name": "Shoes Battlegirl 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_battlegirl_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_shoes_battlegirl_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Default 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_0",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1376,6 +1561,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_1",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1386,6 +1572,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_2",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1396,6 +1583,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_3",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1406,6 +1594,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_4",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1416,6 +1605,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_5",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1426,6 +1616,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_default_6",
+        "iconName": "f_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1436,6 +1627,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_empty",
+        "iconName": "f_shoes_empty_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1446,6 +1638,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_ultra_0",
+        "iconName": "f_shoes_ultra_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -1456,6 +1649,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_socks_default_0",
+        "iconName": "f_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -1466,6 +1660,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_socks_default_1",
+        "iconName": "f_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -1476,6 +1671,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_socks_default_2",
+        "iconName": "f_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -1486,6 +1682,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_socks_empty",
+        "iconName": "f_socks_empty_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -1496,6 +1693,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_socks_thighhighs_0",
+        "iconName": "f_socks_thighhighs_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -1506,6 +1704,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_0",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1516,6 +1715,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_1",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1526,6 +1726,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_2",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1536,6 +1737,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_3",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1546,6 +1748,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_4",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1556,6 +1759,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_default_5",
+        "iconName": "m_backpack_default_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1566,6 +1770,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_empty",
+        "iconName": "m_backpack_empty_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1576,6 +1781,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_backpack_ultra",
+        "iconName": "m_backpack_ultra_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1586,6 +1792,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_eyes_0",
+        "iconName": "m_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -1596,6 +1803,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_eyes_1",
+        "iconName": "m_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -1606,6 +1814,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_eyes_2",
+        "iconName": "m_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -1616,6 +1825,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_eyes_3",
+        "iconName": "m_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -1626,6 +1836,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_eyes_4",
+        "iconName": "m_group_eye",
         "slot": [
             "Eyes"
         ],
@@ -1636,6 +1847,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_3d",
+        "iconName": "m_glasses_3d_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1646,6 +1858,19 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_empty",
+        "iconName": "m_glasses_empty_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_jogger_0",
+        "unlockBadgeLevel": 10,
+        "iconName": "m_glasses_jogger_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1656,6 +1881,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_mask_0",
+        "iconName": "m_glasses_mask_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1666,6 +1892,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_mask_1",
+        "iconName": "m_glasses_mask_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1676,6 +1903,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_thick_0",
+        "iconName": "m_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1686,6 +1914,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_thick_1",
+        "iconName": "m_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1696,6 +1925,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_thick_2",
+        "iconName": "m_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1706,6 +1936,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_thick_3",
+        "iconName": "m_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1716,6 +1947,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_thick_4",
+        "iconName": "m_glasses_thick_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1726,6 +1958,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_default_0",
+        "iconName": "m_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1736,6 +1969,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_default_1",
+        "iconName": "m_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1746,6 +1980,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_default_2",
+        "iconName": "m_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1756,6 +1991,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_default_3",
+        "iconName": "m_gloves_default_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1766,6 +2002,19 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_gloves_empty",
+        "iconName": "m_gloves_empty_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_jogger",
+        "unlockBadgeLevel": 10,
+        "iconName": "m_gloves_jogger_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1776,6 +2025,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_0",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1786,6 +2036,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_1",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1796,6 +2047,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_2",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1806,6 +2058,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_3",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1816,6 +2069,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_4",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1826,6 +2080,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_5",
+        "iconName": "m_group_hair",
         "slot": [
             "Hair"
         ],
@@ -1836,6 +2091,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_adventure_0",
+        "iconName": "m_hat_adventure_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1846,6 +2102,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_casket_0",
+        "iconName": "m_hat_casket_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1856,6 +2113,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_0",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1866,6 +2124,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_1",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1876,6 +2135,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_2",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1886,6 +2146,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_3",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1896,6 +2157,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_4",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1906,6 +2168,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_default_5",
+        "iconName": "m_hat_default_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1916,6 +2179,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_empty",
+        "iconName": "m_hat_empty_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1926,6 +2190,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_fedora_0",
+        "iconName": "m_hat_fedora_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1936,6 +2201,31 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_fedora_1",
+        "iconName": "m_hat_fedora_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_fisher_0",
+        "unlockBadgeLevel": 3,
+        "iconName": "m_hat_fisher_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_jogger_0",
+        "unlockBadgeLevel": 10,
+        "iconName": "m_hat_jogger_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1946,6 +2236,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_magikarp",
+        "iconName": "m_hat_magikarp_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1956,6 +2247,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_mimikyu_0",
+        "iconName": "m_hat_mimikyu_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1966,6 +2258,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_tophat_0",
+        "iconName": "m_hat_tophat_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1976,6 +2269,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_ultra_0",
+        "iconName": "m_hat_ultra_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1986,6 +2280,31 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_default_0",
+        "iconName": "m_pants_default_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_fisher_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "m_pants_fisher_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_jogger_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_pants_jogger_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -1996,6 +2315,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_skinnyjeans_0",
+        "iconName": "m_pants_skinnyjeans_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2006,6 +2326,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_skinnyjeans_1",
+        "iconName": "m_pants_skinnyjeans_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2016,6 +2337,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_skinnyjeans_2",
+        "iconName": "m_pants_skinnyjeans_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2026,6 +2348,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_sweats_0",
+        "iconName": "m_pants_sweats_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2036,6 +2359,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_sweats_1",
+        "iconName": "m_pants_sweats_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2046,6 +2370,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_sweats_2",
+        "iconName": "m_pants_sweats_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2056,6 +2381,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_sweats_3",
+        "iconName": "m_pants_sweats_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2066,6 +2392,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_sweats_4",
+        "iconName": "m_pants_sweats_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2076,6 +2403,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_pants_ultra_0",
+        "iconName": "m_pants_ultra_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2086,6 +2414,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_blazer_0",
+        "iconName": "m_shirt_blazer_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2096,6 +2425,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_0",
+        "iconName": "m_shirt_default_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2106,6 +2436,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_1",
+        "iconName": "m_shirt_default_1_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2116,6 +2447,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_2",
+        "iconName": "m_shirt_default_2_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2126,6 +2458,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_2B",
+        "iconName": "m_shirt_default_2_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2136,6 +2469,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_3",
+        "iconName": "m_shirt_default_3_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2146,6 +2480,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_4",
+        "iconName": "m_shirt_default_2_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2156,6 +2491,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_5",
+        "iconName": "m_shirt_default_2_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2166,6 +2502,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_6",
+        "iconName": "m_shirt_default_2_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2176,6 +2513,31 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_default_7",
+        "iconName": "m_shirt_default_2_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_fisher_0",
+        "unlockBadgeLevel": 300,
+        "iconName": "m_shirt_fisher_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_jogger_0",
+        "unlockBadgeLevel": 1000,
+        "iconName": "m_shirt_jogger_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2186,6 +2548,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_charizard_0",
+        "iconName": "m_shirt_longsleeves_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2196,6 +2559,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_charizard_1",
+        "iconName": "m_shirt_longsleeves_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2206,6 +2570,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_charizard_2",
+        "iconName": "m_shirt_longsleeves_charizard_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2216,6 +2581,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_pikachu_0",
+        "iconName": "m_shirt_longsleeves_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2226,6 +2592,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_pikachu_1",
+        "iconName": "m_shirt_longsleeves_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2236,6 +2603,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_longsleeves_pikachu_2",
+        "iconName": "m_shirt_longsleeves_pikachu_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2246,6 +2614,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_sporty_0",
+        "iconName": "m_shirt_sweatshirt_sporty_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2256,6 +2625,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_sporty_1",
+        "iconName": "m_shirt_sweatshirt_sporty_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2266,6 +2636,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_sporty_2",
+        "iconName": "m_shirt_sweatshirt_sporty_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2276,6 +2647,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_sporty_3",
+        "iconName": "m_shirt_sweatshirt_sporty_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2286,6 +2658,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_streak_0",
+        "iconName": "m_shirt_sweatshirt_streak_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2296,6 +2669,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_streak_1",
+        "iconName": "m_shirt_sweatshirt_streak_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2306,6 +2680,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_streak_2",
+        "iconName": "m_shirt_sweatshirt_streak_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2316,6 +2691,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_streak_3",
+        "iconName": "m_shirt_sweatshirt_streak_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2326,6 +2702,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_sweatshirt_streak_4",
+        "iconName": "m_shirt_sweatshirt_streak_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2336,6 +2713,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_fest_chicago_2017",
+        "iconName": "m_shirt_tshirt_fest_chicago_2017_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2346,6 +2724,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_geometric_0",
+        "iconName": "m_shirt_tshirt_geometric_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2356,6 +2735,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_geometric_1",
+        "iconName": "m_shirt_tshirt_geometric_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2366,6 +2746,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_geometric_2",
+        "iconName": "m_shirt_tshirt_geometric_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2376,6 +2757,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_global_goals_2017",
+        "iconName": "m_shirt_tshirt_global_goals_2017_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2386,6 +2768,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_instinct",
+        "iconName": "m_shirt_tshirt_instinct_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2396,6 +2779,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_mystic",
+        "iconName": "m_shirt_tshirt_mystic_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2406,6 +2790,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_tshirt_valor",
+        "iconName": "m_shirt_tshirt_valor_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2417,6 +2802,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "m_shirt_turtleneck_30_0",
+        "iconName": "m_shirt_turtleneck_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2428,6 +2814,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "m_shirt_turtleneck_30_1",
+        "iconName": "m_shirt_turtleneck_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2439,6 +2826,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "m_shirt_turtleneck_30_2",
+        "iconName": "m_shirt_turtleneck_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2450,6 +2838,7 @@
         "enabled": true,
         "unlockPlayerLevel": 30,
         "id": "m_shirt_turtleneck_30_3",
+        "iconName": "m_shirt_turtleneck_30_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2460,6 +2849,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_ultra_0",
+        "iconName": "m_shirt_ultra_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2470,6 +2860,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_0",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2480,6 +2871,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_1",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2490,6 +2882,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_2",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2500,6 +2893,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_3",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2510,6 +2904,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_4",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2520,6 +2915,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_5",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2530,6 +2926,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_default_6",
+        "iconName": "m_shoes_default_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2540,6 +2937,31 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_empty",
+        "iconName": "m_shoes_empty_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Fisher 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_fisher_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "m_shoes_fisher_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Jogger 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_jogger_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_shoes_jogger_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2550,6 +2972,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_ultra_0",
+        "iconName": "m_shoes_ultra_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2560,6 +2983,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_socks_default_0",
+        "iconName": "m_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -2570,6 +2994,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_socks_default_1",
+        "iconName": "m_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -2580,6 +3005,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_socks_default_2",
+        "iconName": "m_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -2590,6 +3016,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_socks_default_3",
+        "iconName": "m_socks_default_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -2600,6 +3027,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_socks_empty",
+        "iconName": "m_socks_empty_bundle_icon",
         "slot": [
             "Socks"
         ],

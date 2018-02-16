@@ -16,6 +16,7 @@ export interface ItemTemplate {
   iapSettings?: IapSettings;
   itemSettings?: ItemSettings;
   playerLevel?: PlayerLevel;
+  pokemonScaleSettings?: PokemonScaleSettings;
   typeEffective?: TypeEffective;
   pokemonUpgrades?: PokemonUpgrades;
   questSettings?: QuestSettings;
@@ -114,9 +115,11 @@ export interface PokemonSettings {
   kmBuddyDistance: number;
   modelHeight: number;
   evolutionBranch?: EvolutionBranch[];
+  modelScaleV2: number;
   parentPokemonId?: string;
   buddySize?: string;
   rarity?: string;
+  form?: string;
 }
 
 export interface EvolutionBranch {
@@ -194,6 +197,12 @@ export interface PokemonUpgrades {
 export interface TypeEffective {
   attackScalar: number[];
   attackType: string;
+}
+
+export interface PokemonScaleSettings {
+  pokemonScaleMode?: string;
+  minHeight: number;
+  maxHeight: number;
 }
 
 export interface PlayerLevel {
@@ -303,6 +312,9 @@ export interface EncounterSettings {
   greatThrowThreshold: number;
   niceThrowThreshold: number;
   milestoneThreshold: number;
+  arPlusModeEnabled: boolean;
+  arCloseProximityThreshold: number;
+  arLowAwarenessThreshold: number;
 }
 
 export interface BattleSettings {
@@ -340,6 +352,8 @@ export interface AvatarCustomization {
   unlockType: string;
   iapSku?: string;
   iconName: string;
+  unlockBadgeType?: string;
+  unlockBadgeLevel?: number;
   unlockPlayerLevel?: number;
 }
 

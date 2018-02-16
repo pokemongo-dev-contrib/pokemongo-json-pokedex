@@ -19,7 +19,8 @@ describe('AvatarCustomization Output', () => {
             item => expect(item.slot.length).to.not.equal(0, 'slot length'),
             item => expect(item.name).to.not.equal(undefined, 'name'),
             item => expect(item.id).to.not.equal(undefined, 'id'),
-            item => expect(item.category).to.not.equal(undefined, 'category')
+            item => expect(item.category).to.not.equal(undefined, 'category'),
+            item => expect(item.iconName).to.not.equal(undefined, 'iconName')
         ];
 
         input.forEach(item => {

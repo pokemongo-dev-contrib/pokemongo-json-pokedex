@@ -39,4 +39,16 @@ export class AvatarCustomization {
      * "Shirt", "Shoes"
      */
     public category: string;
+    /**
+     * The level to unlock the badge
+     * @example
+     * 10
+     */
+    public unlockBadgeLevel?: number;
+    /**
+     * The name of the icon
+     * @example
+     * f_gloves_battlegirl_bundle_icon
+     */
+    public iconName: string;
 }
