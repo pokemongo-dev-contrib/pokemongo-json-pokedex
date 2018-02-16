@@ -3836,7 +3836,7 @@
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
-        "vfxName": "present",
+        "vfxName": "present_fast",
         "durationMs": 1300,
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1300,
