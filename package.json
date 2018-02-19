@@ -1,7 +1,7 @@
 {
   "name": "pokemongo-json-pokedex",
   "version": "3.0.1",
-  "description": "",
+  "description": "This program transforms the data from the Pokemon GO master files to a better readable & processable JSON file.",
   "main": "src/app.js",
   "scripts": {
     "prestart": "npm run lint",
@@ -21,7 +21,8 @@
     "url": "git+https://github.com/PokemonGOAPI/pokemongo-json-pokedex.git"
   },
   "keywords": [
-    "pokemongo"
+    "pokemongo",
+    "gamemaster"
   ],
   "author": "Livio Brunner",
   "license": "ISC",

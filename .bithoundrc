@@ -1,6 +1,9 @@
 {
     "ignore": [
-        "**/docs/**"
+        "**/docs/**",
+        "**/outcome/**",
+        "**/data/**",
+        "**/income/**"
     ],
     "dependencies": {
         "unused-ignores": [
