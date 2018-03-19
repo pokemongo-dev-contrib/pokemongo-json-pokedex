@@ -3137,7 +3137,7 @@
     {
         "accuracyChange": 1,
         "animationId": 5,
-        "power": 70,
+        "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
         "trainerLevelMin": 1,

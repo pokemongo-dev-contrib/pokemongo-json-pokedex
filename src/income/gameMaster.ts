@@ -25,7 +25,6 @@ export interface ItemTemplate {
   moveSettings?: MoveSettings;
   weatherAffinities?: WeatherAffinities;
   weatherBonusSettings?: WeatherBonusSettings;
-  iapItemDisplay?: IapItemDisplay;
   camera?: Camera2;
   moveSequenceSettings?: MoveSequenceSettings;
 }
@@ -51,14 +50,6 @@ export interface Camera2 {
   heightPercent: number[];
   vertCtrRatio: number[];
   nextCamera?: string;
-}
-
-export interface IapItemDisplay {
-  sku: string;
-  category: string;
-  sortOrder: number;
-  itemIds?: string[];
-  counts?: number[];
 }
 
 export interface WeatherBonusSettings {
