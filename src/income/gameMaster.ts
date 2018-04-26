@@ -13,6 +13,7 @@ export interface ItemTemplate {
   formSettings?: FormSettings;
   gymBadgeSettings?: GymBadgeSettings;
   gymLevel?: GymLevel;
+  iapCategoryDisplay?: IapCategoryDisplay;
   iapSettings?: IapSettings;
   itemSettings?: ItemSettings;
   playerLevel?: PlayerLevel;
@@ -107,6 +108,9 @@ export interface PokemonSettings {
   modelHeight: number;
   evolutionBranch?: EvolutionBranch[];
   modelScaleV2: number;
+  buddyOffsetMale: number[];
+  buddyOffsetFemale: number[];
+  buddyScale: number;
   parentPokemonId?: string;
   buddySize?: string;
   rarity?: string;
@@ -128,7 +132,7 @@ export interface Stats {
 
 export interface Encounter {
   baseCaptureRate?: number;
-  baseFleeRate: number;
+  baseFleeRate?: number;
   collisionRadiusM: number;
   collisionHeightM: number;
   collisionHeadRadiusM: number;
@@ -136,7 +140,7 @@ export interface Encounter {
   movementTimerS: number;
   jumpTimeS?: number;
   attackTimerS: number;
-  attackProbability: number;
+  attackProbability?: number;
   dodgeProbability?: number;
   dodgeDurationS: number;
   dodgeDistance: number;
@@ -271,6 +275,13 @@ export interface IapSettings {
   minTimeBetweenClaimsMs: string;
 }
 
+export interface IapCategoryDisplay {
+  category: string;
+  sortOrder: number;
+  bannerEnabled?: boolean;
+  bannerTitle?: string;
+}
+
 export interface GymLevel {
   requiredExperience: number[];
   leaderSlots: number[];
@@ -326,7 +337,7 @@ export interface BattleSettings {
 }
 
 export interface BadgeSettings {
-  badgeType: string;
+  badgeType: number | string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;
