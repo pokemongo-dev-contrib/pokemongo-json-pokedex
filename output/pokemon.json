@@ -15375,42 +15375,202 @@
         "maxCP": 3090,
         "cinematicMoves": [
             {
-                "name": "Blizzard",
-                "id": "BLIZZARD"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
                 "name": "Psychic",
                 "id": "PSYCHIC"
             },
             {
-                "name": "Focus Blast",
-                "id": "FOCUS_BLAST"
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             },
             {
-                "name": "Thunder",
-                "id": "THUNDER"
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
             },
             {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             },
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
             },
             {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
             {
                 "name": "Pound Fast",
                 "id": "POUND_FAST"
+            },
+            {
+                "name": "Steel Wing Fast",
+                "id": "STEEL_WING_FAST"
+            },
+            {
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
+            },
+            {
+                "name": "Frost Breath Fast",
+                "id": "FROST_BREATH_FAST"
+            },
+            {
+                "name": "Dragon Tail Fast",
+                "id": "DRAGON_TAIL_FAST"
+            },
+            {
+                "name": "Infestation Fast",
+                "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Cut Fast",
+                "id": "CUT_FAST"
+            },
+            {
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
             }
         ],
         "family": {
@@ -15433,13 +15593,12 @@
             "name": "Mythic"
         },
         "encounter": {
-            "attackProbability": 0.1,
             "attackTimer": 8,
-            "baseFleeRate": 0.1,
+            "baseCaptureRate": 100,
             "cameraDistance": 2.908125,
             "collisionRadius": 0.141,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
+            "dodgeDistance": 0.3,
+            "dodgeProbability": 1,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
@@ -38732,8 +38891,8 @@
                 "id": "PSYCHIC"
             },
             {
-                "name": "Dragon Claw",
-                "id": "DRAGON_CLAW"
+                "name": "Outrage",
+                "id": "OUTRAGE"
             },
             {
                 "name": "Thunder",

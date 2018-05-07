@@ -498,6 +498,18 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Gymleader 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_gymleader_0",
+        "unlockBadgeLevel": 10,
+        "iconName": "f_gloves_gymleader_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Teamrocket 0",
         "gender": "Female",
         "enabled": true,
@@ -952,6 +964,42 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Gymleader 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_gymleader_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gymleader 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_gymleader_1",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gymleader 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_gymleader_2",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Miniskirt 0",
         "gender": "Female",
         "enabled": true,
@@ -1315,12 +1363,59 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Earthday 2018",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_earthday_2018",
+        "iconName": "f_shirt_earthday_2018_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Frlg 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gymleader_0",
+        "unlockBadgeLevel": 1000,
+        "iconName": "f_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gymleader_1",
+        "unlockBadgeLevel": 1000,
+        "iconName": "f_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gymleader_2",
+        "unlockBadgeLevel": 1000,
+        "iconName": "f_shirt_gymleader_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1783,6 +1878,42 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Gymleader 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_gymleader_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gymleader 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_gymleader_1",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gymleader 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_gymleader_2",
+        "unlockBadgeLevel": 100,
+        "iconName": "f_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Teamrocket 0",
         "gender": "Female",
         "enabled": true,
@@ -2204,6 +2335,18 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Gymleader 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_gymleader_0",
+        "unlockBadgeLevel": 10,
+        "iconName": "m_gloves_gymleader_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Jogger 0",
         "gender": "Male",
         "enabled": true,
@@ -2540,6 +2683,42 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Gymleader 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_gymleader_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gymleader 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_gymleader_1",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gymleader 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_gymleader_2",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Jogger 0",
         "gender": "Male",
         "enabled": true,
@@ -2772,6 +2951,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Earthday 2018",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_earthday_2018",
+        "iconName": "m_shirt_earthday_2018_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -2790,6 +2980,42 @@
         "id": "m_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gymleader_0",
+        "unlockBadgeLevel": 1000,
+        "iconName": "m_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gymleader_1",
+        "unlockBadgeLevel": 1000,
+        "iconName": "m_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gymleader 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gymleader_2",
+        "unlockBadgeLevel": 1000,
+        "iconName": "m_shirt_gymleader_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3248,6 +3474,42 @@
         "id": "m_shoes_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shoes_frlg_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gymleader 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_gymleader_0",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gymleader 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_gymleader_1",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gymleader 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_gymleader_2",
+        "unlockBadgeLevel": 100,
+        "iconName": "m_shoes_gymleader_bundle_icon",
         "slot": [
             "Shoes"
         ],

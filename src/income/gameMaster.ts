@@ -27,11 +27,18 @@ export interface ItemTemplate {
   weatherAffinities?: WeatherAffinities;
   weatherBonusSettings?: WeatherBonusSettings;
   camera?: Camera2;
+  iapItemDisplay?: IapItemDisplay;
   moveSequenceSettings?: MoveSequenceSettings;
 }
 
 export interface MoveSequenceSettings {
   sequence: string[];
+}
+
+export interface IapItemDisplay {
+  sku: string;
+  category: string;
+  sortOrder: number;
 }
 
 export interface Camera2 {
@@ -206,6 +213,7 @@ export interface PlayerLevel {
   cpMultiplier: number[];
   maxEggPlayerLevel: number;
   maxEncounterPlayerLevel: number;
+  maxQuestEncounterPlayerLevel: number;
 }
 
 export interface ItemSettings {
@@ -337,7 +345,7 @@ export interface BattleSettings {
 }
 
 export interface BadgeSettings {
-  badgeType: number | string;
+  badgeType: string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;

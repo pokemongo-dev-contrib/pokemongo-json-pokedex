@@ -44,7 +44,7 @@
     "@types/mocha": "^2.2.40",
     "@types/node": "^8.0.46",
     "json-to-ts": "^1.5.4",
-    "pokemongo-game-master": "^1.0.3",
+    "pokemongo-game-master": "^1.0.4",
     "rimraf": "^2.6.1",
     "ts-node": "^4.1.0",
     "tsconfig-paths": "^2.1.2",
