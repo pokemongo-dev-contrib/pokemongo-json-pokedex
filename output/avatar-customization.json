@@ -1422,6 +1422,28 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Latias Latios 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_latias_latios_0",
+        "iconName": "f_shirt_latias_latios_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Mew 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_mew_0",
+        "iconName": "f_shirt_mew_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Sweater 30 0",
         "gender": "Female",
         "enabled": true,
@@ -3034,6 +3056,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Latias Latios 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_latias_latios_0",
+        "iconName": "m_shirt_latias_latios_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Longsleeves Charizard 0",
         "gender": "Male",
         "enabled": true,
@@ -3094,6 +3127,17 @@
         "enabled": true,
         "id": "m_shirt_longsleeves_pikachu_2",
         "iconName": "m_shirt_longsleeves_pikachu_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Mew 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_mew_0",
+        "iconName": "m_shirt_mew_bundle_icon",
         "slot": [
             "Shirt"
         ],

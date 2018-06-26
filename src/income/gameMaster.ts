@@ -11,6 +11,7 @@ export interface ItemTemplate {
   battleSettings?: BattleSettings;
   encounterSettings?: EncounterSettings;
   formSettings?: FormSettings;
+  friendshipMilestoneSettings?: FriendshipMilestoneSettings;
   gymBadgeSettings?: GymBadgeSettings;
   gymLevel?: GymLevel;
   iapCategoryDisplay?: IapCategoryDisplay;
@@ -26,19 +27,13 @@ export interface ItemTemplate {
   moveSettings?: MoveSettings;
   weatherAffinities?: WeatherAffinities;
   weatherBonusSettings?: WeatherBonusSettings;
-  camera?: Camera2;
   iapItemDisplay?: IapItemDisplay;
+  camera?: Camera2;
   moveSequenceSettings?: MoveSequenceSettings;
 }
 
 export interface MoveSequenceSettings {
   sequence: string[];
-}
-
-export interface IapItemDisplay {
-  sku: string;
-  category: string;
-  sortOrder: number;
 }
 
 export interface Camera2 {
@@ -58,6 +53,14 @@ export interface Camera2 {
   heightPercent: number[];
   vertCtrRatio: number[];
   nextCamera?: string;
+}
+
+export interface IapItemDisplay {
+  sku: string;
+  category: string;
+  sortOrder: number;
+  sale: boolean;
+  hidden?: boolean;
 }
 
 export interface WeatherBonusSettings {
@@ -120,13 +123,14 @@ export interface PokemonSettings {
   buddyScale: number;
   parentPokemonId?: string;
   buddySize?: string;
-  rarity?: string;
   form?: string;
+  rarity?: string;
 }
 
 export interface EvolutionBranch {
   evolution: string;
   candyCost: number;
+  form?: string;
   evolutionItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
 }
@@ -306,6 +310,15 @@ export interface GymBadgeSettings {
   loseAllBattlesScore: number;
 }
 
+export interface FriendshipMilestoneSettings {
+  milestoneXpReward: number;
+  attackBonusPercentage: number;
+  unlockedTrading: string[];
+  minPointsToReach?: number;
+  raidBallBonus?: number;
+  tradingDiscount?: number;
+}
+
 export interface FormSettings {
   pokemon: string;
   forms?: Form[];
@@ -313,7 +326,7 @@ export interface FormSettings {
 
 export interface Form {
   form: string;
-  assetBundleValue: number;
+  assetBundleValue?: number;
 }
 
 export interface EncounterSettings {

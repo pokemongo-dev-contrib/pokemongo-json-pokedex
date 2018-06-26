@@ -3948,5 +3948,45 @@
         },
         "name": "Frenzy Plant",
         "internalId": 296
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "power": 16,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "smack_down_fast",
+        "durationMs": 1200,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 8,
+        "id": "SMACK_DOWN_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ROCK",
+            "name": "Rock"
+        },
+        "name": "Smack Down Fast",
+        "internalId": 297
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 110,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "blast_burn",
+        "durationMs": 3300,
+        "damageWindowStartMs": 2750,
+        "damageWindowEndMs": 3200,
+        "energyDelta": -50,
+        "id": "BLAST_BURN",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Blast Burn",
+        "internalId": 298
     }
 ]

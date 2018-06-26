@@ -10,9 +10,9 @@ describe('Pokemon Output', () => {
         moves = require('../output/move.json');
     });
 
-    it('should have items', () => {
+    it('should have pokemons', () => {
         expect(input.length).to.not.equal(0);
-        expect(input.length).to.equal(394);
+        expect(input.length).to.equal(430);
     });
 
     it('should have values', () => {
