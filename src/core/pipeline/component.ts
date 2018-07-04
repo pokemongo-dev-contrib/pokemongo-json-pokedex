@@ -36,6 +36,12 @@ export interface ComponentSettings {
    * Which pipeline this component belongs to
    */
   pipeline: string;
+  /**
+   * The templateId, which the component `process` function should only
+   * be invoked.
+   * Can only be used with ComponentType.SIMPLE_MAP
+   */
+  templateId?: string;
   type?: ComponentType;
   /**
    * List of components which need to be executed in advance
