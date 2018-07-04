@@ -1,11 +1,10 @@
-FROM readytalk/nodejs
-MAINTAINER "livio.brunner.lb1@gmail.com"
+FROM node:9.6.1
 
-RUN mkdir -p /usr/src/app
-WORKDIR /usr/src/app
+WORKDIR /var/lib/pokemongo-json-pokedex
 
-COPY package.json /usr/src/app/
+COPY package.json package-lock.json ./
 RUN npm install
+COPY . .
 
-COPY . /usr/src/app
-CMD [ "npm", "start" ]
+ENTRYPOINT [ "npm", "run" ]
+CMD [ "start" ]
