@@ -165,6 +165,12 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.pastBranch.id, 'Hitmontop\'s only pastEvolution should be Tyrogue').to.equal('TYROGUE'),
                 item => expect(item.evolution.futureBranches, 'Hitmontop should not evolve').to.be.undefined
             ],
+            'MR_MIME': [
+                item => expect(item.name, 'MR_MIME should have the name Mr. Mime').to.equal('Mr. Mime'),
+            ],
+            'FARFETCHD': [
+                item => expect(item.name, 'FARFETCHD should have the name Farfetch\'d').to.equal('Farfetch\'d'),
+            ]
 
         };
 

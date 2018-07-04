@@ -1,8 +1,5 @@
 import { ComponentRegister, ComponentRegistry, ComponentType } from '@core/pipeline';
-import { ItemTemplate, RootObject } from '../game_master/index';
-
-import { Component } from '@core/pipeline';
-import { IComponent } from './component';
+import { ItemTemplate, RootObject } from '../../income';
 
 /**
  * Represents a Pipeline which runs multiple components
@@ -86,7 +83,16 @@ export abstract class Pipeline {
     this.sortedComponents
       .forEach(component => {
         if (component.settings.type === ComponentType.SIMPLE_MAP) {
-          output = this.parsedInput.map((input, index) => component.component.Process(output[index] || {}, input));
+          output = this
+            .parsedInput
+            .map((input, index) => {
+              if (!component.settings.templateId || input.templateId === component.settings.templateId) {
+                return component.component.Process(output[index] || {}, input);
+              } else {
+                // Skip component processing
+                return output[index];
+              }
+            });
         } else if (component.settings.type === ComponentType.ADVANCED_MAP) {
           output = component.component.Process(output, this.parsedInput);
         }

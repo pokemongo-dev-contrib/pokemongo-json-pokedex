@@ -39,7 +39,8 @@ export class ComponentRegistry {
    */
   public Register(component: IComponent, settings: ComponentSettings) {
     this.components.push({
-      settings, component,
+      settings,
+      component,
       // @ts-ignore
       id: component.constructor.name
     });
