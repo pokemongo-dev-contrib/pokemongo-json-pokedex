@@ -1,4 +1,4 @@
-import { ItemTemplate, RootObject } from '@core';
+import { ItemTemplate, RootObject } from '@income';
 
 import { Move } from '@outcome/move';
 import { Pipeline } from '@core/pipeline';

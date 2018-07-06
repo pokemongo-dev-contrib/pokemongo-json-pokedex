@@ -1,5 +1,5 @@
 import { Pipeline } from '@core/pipeline';
-import { RootObject, ItemTemplate } from '@core';
+import { RootObject, ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 
 /**
