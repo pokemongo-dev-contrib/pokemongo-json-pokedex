@@ -8,19 +8,53 @@
 		"emitDecoratorMetadata": true,
 		"experimentalDecorators": true,
 		"baseUrl": ".",
+		"outDir": "lib",
+		"declaration": true,
+		"noLib": false,
+		"rootDir": "src",
 		"paths": {
-			"@core": ["src/core"],
-			"@core/*": ["src/core/*"],
-			"@components/*": ["src/components/*"],
-			"@util": ["src/util"],
-			"@util/*": ["src/util/*"],
-			"@settings/app": ["src/app.settings"],
-			"@settings/package": ["package.json"],
-			"@data/*": ["src/data/*"],
-			"@outcome": ["src/outcome"],
-			"@outcome/*": ["src/outcome/*"],
-			"@income": ["src/income"],
-			"@income/*": ["src/income/*"]
+			"@core": [
+				"src/core"
+			],
+			"@core/*": [
+				"src/core/*"
+			],
+			"@components/*": [
+				"src/components/*"
+			],
+			"@util": [
+				"src/util"
+			],
+			"@util/*": [
+				"src/util/*"
+			],
+			"@settings/app": [
+				"src/app.settings"
+			],
+			"@settings/package": [
+				"package.json"
+			],
+			"@data/*": [
+				"src/data/*"
+			],
+			"@outcome": [
+				"src/outcome"
+			],
+			"@outcome/*": [
+				"src/outcome/*"
+			],
+			"@income": [
+				"src/income"
+			],
+			"@income/*": [
+				"src/income/*"
+			]
 		}
-	}
+	},
+	"exclude": [
+		"**/node_modules",
+		"**/lib",
+		"**/*.spec.ts",
+		"test/**.ts"
+	]
 }
