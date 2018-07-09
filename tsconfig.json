@@ -11,7 +11,8 @@
 		"outDir": "lib",
 		"declaration": true,
 		"noLib": false,
-		"rootDir": "src",
+		"moduleResolution": "node",
+		"rootDirs": ["src", "test"],
 		"paths": {
 			"@core": [
 				"src/core"
