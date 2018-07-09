@@ -36,28 +36,18 @@ wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-poke
 
 ```
 
-You can read about the output-data inside the [documentation](.github/model.md).
-
-## Programmatic Use
-
-In case you need the processing unit itself, you can control it using NodeJS. Make sure you've installed the
-npm package using `npm i -s pokemongo-json-pokedex`.
+or you can use it with npm using `npm install pokemongo-json-pokedex`
 
 ```JavaScript
 
-// Import the Pokemon Pipeline which transforms the data
-const { PokemonPipeline } = require('pokemongo-json-pokedex');
-
-// Import the GAME_MASTER.json data from https://github.com/pokemongo-dev-contrib/pokemongo-game-master
-const gameMaster = require('./GAME_MASTER.json');
-
-const pipeline = new PokemonPipeline(gameMaster);
-
-// Run the pipeline and return the transformed data
-const output = pipeline.Run();
-console.log(output);
+const pokemon = require('pokemongo-json-pokedex/output/pokemon.json');
+const move = require('pokemongo-json-pokedex/output/move.json');
+const type = require('pokemongo-json-pokedex/output/type.json');
+const avatarCustomization = require('pokemongo-json-pokedex/output/avatar-customization.json');
 
 ```
+
+You can read about the output-data inside the [documentation](.github/model.md).
 
 ## More Links
 

@@ -59,6 +59,7 @@
   },
   "_moduleAliases": {
     "@core": "lib/core",
+    "@core/*": "lib/core/*",
     "@util": "lib/util",
     "@settings/app": "lib/app.settings",
     "@settings/package": "package.json",

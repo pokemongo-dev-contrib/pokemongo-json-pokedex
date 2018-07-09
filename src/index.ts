@@ -1,4 +1,4 @@
-import 'module-alias/register';
+require('module-alias/register');
 export { AvatarCustomizationPipeline } from './processing/avatarCustomization';
 export { MovePipeline } from './processing/move';
 export { PokemonPipeline } from './processing/pokemon';
