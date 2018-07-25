@@ -1,5 +1,6 @@
 import './id';
 import './name';
 import './category';
-import './itemType';
+import './type';
 import './genericPropertyMapper';
+import './food';

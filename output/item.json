@@ -6,11 +6,18 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "effect": [
+            {
+                "name": "Cap No Movement",
+                "id": "CAP_NO_MOVEMENT",
+                "effectPercent": 1
+            }
+        ]
     },
     {
         "id": "DRAGON_SCALE",
@@ -19,7 +26,7 @@
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
-        "itemType": {
+        "type": {
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
@@ -32,7 +39,7 @@
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
-        "itemType": {
+        "type": {
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
@@ -45,7 +52,7 @@
             "name": "Friend Gift Box",
             "id": "FRIEND_GIFT_BOX"
         },
-        "itemType": {
+        "type": {
             "name": "Friend Gift Box",
             "id": "FRIEND_GIFT_BOX"
         },
@@ -58,11 +65,23 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 10
+        "dropTrainerLevel": 10,
+        "effect": [
+            {
+                "name": "Cap Chance Single Throw",
+                "id": "CAP_CHANCE_SINGLE_THROW",
+                "effectPercent": 2.5
+            },
+            {
+                "name": "Full Motivation",
+                "id": "FULL_MOTIVATION",
+                "effectPercent": 1
+            }
+        ]
     },
     {
         "id": "GREAT_BALL",
@@ -71,7 +90,7 @@
             "name": "Pokeball",
             "id": "POKEBALL"
         },
-        "itemType": {
+        "type": {
             "name": "Pokeball",
             "id": "POKEBALL"
         },
@@ -84,7 +103,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Potion",
             "id": "POTION"
         },
@@ -97,7 +116,7 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "itemType": {
+        "type": {
             "name": "Incense",
             "id": "INCENSE"
         },
@@ -110,7 +129,7 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "itemType": {
+        "type": {
             "name": "Incubator",
             "id": "INCUBATOR"
         },
@@ -123,7 +142,7 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "itemType": {
+        "type": {
             "name": "Incubator",
             "id": "INCUBATOR"
         },
@@ -136,7 +155,7 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "itemType": {
+        "type": {
             "name": "Incubator",
             "id": "INCUBATOR"
         },
@@ -149,7 +168,7 @@
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
-        "itemType": {
+        "type": {
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
@@ -162,7 +181,7 @@
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
-        "itemType": {
+        "type": {
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
@@ -175,7 +194,7 @@
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
-        "itemType": {
+        "type": {
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
@@ -188,7 +207,7 @@
             "name": "Xp Boost",
             "id": "XP_BOOST"
         },
-        "itemType": {
+        "type": {
             "name": "Xp Boost",
             "id": "XP_BOOST"
         },
@@ -201,7 +220,7 @@
             "name": "Pokeball",
             "id": "POKEBALL"
         },
-        "itemType": {
+        "type": {
             "name": "Pokeball",
             "id": "POKEBALL"
         },
@@ -214,7 +233,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Potion",
             "id": "POTION"
         },
@@ -227,7 +246,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Revive",
             "id": "REVIVE"
         },
@@ -240,7 +259,7 @@
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
-        "itemType": {
+        "type": {
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
@@ -253,7 +272,7 @@
             "name": "Move Reroll",
             "id": "MOVE_REROLL"
         },
-        "itemType": {
+        "type": {
             "name": "Move Reroll",
             "id": "MOVE_REROLL"
         },
@@ -266,7 +285,7 @@
             "name": "Move Reroll",
             "id": "MOVE_REROLL"
         },
-        "itemType": {
+        "type": {
             "name": "Move Reroll",
             "id": "MOVE_REROLL"
         },
@@ -279,11 +298,18 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 4
+        "dropTrainerLevel": 4,
+        "effect": [
+            {
+                "name": "Cap Target Slow",
+                "id": "CAP_TARGET_SLOW",
+                "effectPercent": 0.05
+            }
+        ]
     },
     {
         "id": "PAID_RAID_TICKET",
@@ -292,7 +318,7 @@
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
-        "itemType": {
+        "type": {
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
@@ -305,11 +331,18 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 18
+        "dropTrainerLevel": 18,
+        "effect": [
+            {
+                "name": "Candy Award",
+                "id": "CANDY_AWARD",
+                "effectPercent": 2
+            }
+        ]
     },
     {
         "id": "POKEMON_STORAGE_UPGRADE",
@@ -318,7 +351,7 @@
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
-        "itemType": {
+        "type": {
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
@@ -331,7 +364,7 @@
             "name": "Pokeball",
             "id": "POKEBALL"
         },
-        "itemType": {
+        "type": {
             "name": "Pokeball",
             "id": "POKEBALL"
         },
@@ -344,7 +377,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Potion",
             "id": "POTION"
         },
@@ -357,7 +390,7 @@
             "name": "Pokeball",
             "id": "POKEBALL"
         },
-        "itemType": {
+        "type": {
             "name": "Pokeball",
             "id": "POKEBALL"
         },
@@ -370,7 +403,7 @@
             "name": "Candy",
             "id": "CANDY"
         },
-        "itemType": {
+        "type": {
             "name": "Candy",
             "id": "CANDY"
         },
@@ -383,11 +416,18 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 8
+        "dropTrainerLevel": 8,
+        "effect": [
+            {
+                "name": "Cap Chance Single Throw",
+                "id": "CAP_CHANCE_SINGLE_THROW",
+                "effectPercent": 1.5
+            }
+        ]
     },
     {
         "id": "REVIVE",
@@ -396,7 +436,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Revive",
             "id": "REVIVE"
         },
@@ -409,7 +449,7 @@
             "name": "Camera",
             "id": "CAMERA"
         },
-        "itemType": {
+        "type": {
             "name": "Camera",
             "id": "CAMERA"
         },
@@ -422,7 +462,7 @@
             "name": "Stardust Boost",
             "id": "STARDUST_BOOST"
         },
-        "itemType": {
+        "type": {
             "name": "Stardust Boost",
             "id": "STARDUST_BOOST"
         },
@@ -435,7 +475,7 @@
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
-        "itemType": {
+        "type": {
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
@@ -448,7 +488,7 @@
             "name": "Medicine",
             "id": "MEDICINE"
         },
-        "itemType": {
+        "type": {
             "name": "Potion",
             "id": "POTION"
         },
@@ -461,7 +501,7 @@
             "name": "Disk",
             "id": "DISK"
         },
-        "itemType": {
+        "type": {
             "name": "Disk",
             "id": "DISK"
         },
@@ -474,7 +514,7 @@
             "name": "Pokeball",
             "id": "POKEBALL"
         },
-        "itemType": {
+        "type": {
             "name": "Pokeball",
             "id": "POKEBALL"
         },
@@ -487,7 +527,7 @@
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
-        "itemType": {
+        "type": {
             "name": "Evolution Requirement",
             "id": "EVOLUTION_REQUIREMENT"
         },
@@ -500,11 +540,18 @@
             "name": "Food",
             "id": "FOOD"
         },
-        "itemType": {
+        "type": {
             "name": "Food",
             "id": "FOOD"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "effect": [
+            {
+                "name": "Cap Target Max",
+                "id": "CAP_TARGET_MAX",
+                "effectPercent": 1
+            }
+        ]
     },
     {
         "id": "X_ATTACK",
@@ -513,7 +560,7 @@
             "name": "Boost",
             "id": "BOOST"
         },
-        "itemType": {
+        "type": {
             "name": "Battle",
             "id": "BATTLE"
         },
@@ -526,7 +573,7 @@
             "name": "Boost",
             "id": "BOOST"
         },
-        "itemType": {
+        "type": {
             "name": "Battle",
             "id": "BATTLE"
         },
@@ -539,7 +586,7 @@
             "name": "Boost",
             "id": "BOOST"
         },
-        "itemType": {
+        "type": {
             "name": "Battle",
             "id": "BATTLE"
         },

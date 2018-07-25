@@ -1,4 +1,19 @@
-import { Identifyable } from '../../core/identifyable';
+import { Identifyable } from '@core/identifyable';
+
+export class ItemEffect implements Identifyable {
+    /**
+     * The unique id of the effect
+     */
+    public id: string;
+    /**
+     * The human readable name of the effect
+     */
+    public name: string;
+    /**
+     * The effectiveness of the effect in percent
+     */
+    public effectPercent: number;
+}
 
 export class Item {
     /**
@@ -22,5 +37,9 @@ export class Item {
      * The type of the item.
      * e.g. Food
      */
-    public itemType: Identifyable;
+    public type: Identifyable;
+    /**
+     * Effect of the item (e.g. Berry effect)
+     */
+    public effect: ItemEffect[];
 }
