@@ -1,14 +1,14 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
-import { Item, ItemFood } from '@outcome/item/index';
+import { Item, ItemPotion } from '@outcome/item/index';
 import { ItemTemplate } from '@income/index';
 
 @Component({
     pipeline: 'item'
 })
-export class Food implements IComponent {
+export class Potion implements IComponent {
     /**
-     * Sets the food object
+     * Sets the potion object
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a food
@@ -16,7 +16,7 @@ export class Food implements IComponent {
             return item;
         }
 
-        item.food = item.food || {} as ItemFood;
+        item.potion = item.potion || {} as ItemPotion;
 
         return item;
     }

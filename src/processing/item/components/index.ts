@@ -4,3 +4,4 @@ import './category';
 import './type';
 import './genericPropertyMapper';
 import './food';
+import './potion';

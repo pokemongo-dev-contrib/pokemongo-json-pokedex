@@ -26,6 +26,17 @@ export class ItemFood {
     public growthPercent: number;
 }
 
+export class ItemPotion {
+    /**
+     * The amount of stamina which gets recharged
+     */
+    staminaAmount: number;
+    /**
+     * The percent of stamina which gets recharged
+     */
+    staminaPercent: number;
+}
+
 export class Item {
     /**
      * The identifier of the item
@@ -53,5 +64,8 @@ export class Item {
      * Data of a food item
      */
     public food?: ItemFood;
-
+    /**
+     * Data of a potion item
+     */
+    public potion?: ItemPotion;
 }

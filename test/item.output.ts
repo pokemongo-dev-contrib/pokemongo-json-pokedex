@@ -40,4 +40,12 @@ describe('Item Output', () => {
             ((item.food || {}).effect || []).forEach(effect => expect(effect.effectPercent).to.not.equal(undefined));
         });
     });
+
+    it('items with potion should have staminaPercent or staminaAmount', () => {
+        input.forEach(item => {
+            if (item.potion) {
+                expect(item.potion.staminaAmount || item.potion.staminaPercent).to.not.equal(undefined);
+            }
+        });
+    });
 });
