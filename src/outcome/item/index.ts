@@ -1,1 +1,1 @@
-export * from './avatarCustomization';
+export * from './item';

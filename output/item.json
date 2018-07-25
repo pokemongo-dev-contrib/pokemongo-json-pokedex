@@ -1,128 +1,548 @@
 [
     {
-        "name": "Bluk Berry"
+        "id": "BLUK_BERRY",
+        "name": "Bluk Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Dragon Scale"
+        "id": "DRAGON_SCALE",
+        "name": "Dragon Scale",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "itemType": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Free Raid Ticket"
+        "id": "FREE_RAID_TICKET",
+        "name": "Free Raid Ticket",
+        "category": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "itemType": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Friend Gift Box"
+        "id": "FRIEND_GIFT_BOX",
+        "name": "Friend Gift Box",
+        "category": {
+            "name": "Friend Gift Box",
+            "id": "FRIEND_GIFT_BOX"
+        },
+        "itemType": {
+            "name": "Friend Gift Box",
+            "id": "FRIEND_GIFT_BOX"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Golden Razz Berry"
+        "id": "GOLDEN_RAZZ_BERRY",
+        "name": "Golden Razz Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Great Ball"
+        "id": "GREAT_BALL",
+        "name": "Great Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "itemType": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 12
     },
     {
-        "name": "Hyper Potion"
+        "id": "HYPER_POTION",
+        "name": "Hyper Potion",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Potion",
+            "id": "POTION"
+        },
+        "dropTrainerLevel": 15
     },
     {
-        "name": "Incense Ordinary"
+        "id": "INCENSE_ORDINARY",
+        "name": "Incense Ordinary",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "itemType": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Incubator Basic"
+        "id": "INCUBATOR_BASIC",
+        "name": "Incubator Basic",
+        "category": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "itemType": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Incubator Basic Unlimited"
+        "id": "INCUBATOR_BASIC_UNLIMITED",
+        "name": "Incubator Basic Unlimited",
+        "category": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "itemType": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Incubator Super"
+        "id": "INCUBATOR_SUPER",
+        "name": "Incubator Super",
+        "category": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "itemType": {
+            "name": "Incubator",
+            "id": "INCUBATOR"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Item Storage Upgrade"
+        "id": "ITEM_STORAGE_UPGRADE",
+        "name": "Item Storage Upgrade",
+        "category": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "itemType": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Kings Rock"
+        "id": "KINGS_ROCK",
+        "name": "Kings Rock",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "itemType": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Legendary Raid Ticket"
+        "id": "LEGENDARY_RAID_TICKET",
+        "name": "Legendary Raid Ticket",
+        "category": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "itemType": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Lucky Egg"
+        "id": "LUCKY_EGG",
+        "name": "Lucky Egg",
+        "category": {
+            "name": "Xp Boost",
+            "id": "XP_BOOST"
+        },
+        "itemType": {
+            "name": "Xp Boost",
+            "id": "XP_BOOST"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Master Ball"
+        "id": "MASTER_BALL",
+        "name": "Master Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "itemType": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Max Potion"
+        "id": "MAX_POTION",
+        "name": "Max Potion",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Potion",
+            "id": "POTION"
+        },
+        "dropTrainerLevel": 25
     },
     {
-        "name": "Max Revive"
+        "id": "MAX_REVIVE",
+        "name": "Max Revive",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Revive",
+            "id": "REVIVE"
+        },
+        "dropTrainerLevel": 30
     },
     {
-        "name": "Metal Coat"
+        "id": "METAL_COAT",
+        "name": "Metal Coat",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "itemType": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Move Reroll Fast Attack"
+        "id": "MOVE_REROLL_FAST_ATTACK",
+        "name": "Move Reroll Fast Attack",
+        "category": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "itemType": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "dropTrainerLevel": 15
     },
     {
-        "name": "Move Reroll Special Attack"
+        "id": "MOVE_REROLL_SPECIAL_ATTACK",
+        "name": "Move Reroll Special Attack",
+        "category": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "itemType": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "dropTrainerLevel": 25
     },
     {
-        "name": "Nanab Berry"
+        "id": "NANAB_BERRY",
+        "name": "Nanab Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 4
     },
     {
-        "name": "Paid Raid Ticket"
+        "id": "PAID_RAID_TICKET",
+        "name": "Paid Raid Ticket",
+        "category": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "itemType": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Pinap Berry"
+        "id": "PINAP_BERRY",
+        "name": "Pinap Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 18
     },
     {
-        "name": "Pokemon Storage Upgrade"
+        "id": "POKEMON_STORAGE_UPGRADE",
+        "name": "Pokemon Storage Upgrade",
+        "category": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "itemType": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Poke Ball"
+        "id": "POKE_BALL",
+        "name": "Poke Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "itemType": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 1
     },
     {
-        "name": "Potion"
+        "id": "POTION",
+        "name": "Potion",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Potion",
+            "id": "POTION"
+        },
+        "dropTrainerLevel": 5
     },
     {
-        "name": "Premier Ball"
+        "id": "PREMIER_BALL",
+        "name": "Premier Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "itemType": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Rare Candy"
+        "id": "RARE_CANDY",
+        "name": "Rare Candy",
+        "category": {
+            "name": "Candy",
+            "id": "CANDY"
+        },
+        "itemType": {
+            "name": "Candy",
+            "id": "CANDY"
+        },
+        "dropTrainerLevel": 5
     },
     {
-        "name": "Razz Berry"
+        "id": "RAZZ_BERRY",
+        "name": "Razz Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 8
     },
     {
-        "name": "Revive"
+        "id": "REVIVE",
+        "name": "Revive",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Revive",
+            "id": "REVIVE"
+        },
+        "dropTrainerLevel": 5
     },
     {
-        "name": "Special Camera"
+        "id": "SPECIAL_CAMERA",
+        "name": "Special Camera",
+        "category": {
+            "name": "Camera",
+            "id": "CAMERA"
+        },
+        "itemType": {
+            "name": "Camera",
+            "id": "CAMERA"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Star Piece"
+        "id": "STAR_PIECE",
+        "name": "Star Piece",
+        "category": {
+            "name": "Stardust Boost",
+            "id": "STARDUST_BOOST"
+        },
+        "itemType": {
+            "name": "Stardust Boost",
+            "id": "STARDUST_BOOST"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Sun Stone"
+        "id": "SUN_STONE",
+        "name": "Sun Stone",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "itemType": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Super Potion"
+        "id": "SUPER_POTION",
+        "name": "Super Potion",
+        "category": {
+            "name": "Medicine",
+            "id": "MEDICINE"
+        },
+        "itemType": {
+            "name": "Potion",
+            "id": "POTION"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Troy Disk"
+        "id": "TROY_DISK",
+        "name": "Troy Disk",
+        "category": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "itemType": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "Ultra Ball"
+        "id": "ULTRA_BALL",
+        "name": "Ultra Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "itemType": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 20
     },
     {
-        "name": "Up Grade"
+        "id": "UP_GRADE",
+        "name": "Up Grade",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "itemType": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
-        "name": "Wepar Berry"
+        "id": "WEPAR_BERRY",
+        "name": "Wepar Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "itemType": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "X Attack"
+        "id": "X_ATTACK",
+        "name": "X Attack",
+        "category": {
+            "name": "Boost",
+            "id": "BOOST"
+        },
+        "itemType": {
+            "name": "Battle",
+            "id": "BATTLE"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "X Defense"
+        "id": "X_DEFENSE",
+        "name": "X Defense",
+        "category": {
+            "name": "Boost",
+            "id": "BOOST"
+        },
+        "itemType": {
+            "name": "Battle",
+            "id": "BATTLE"
+        },
+        "dropTrainerLevel": 100
     },
     {
-        "name": "X Miracle"
+        "id": "X_MIRACLE",
+        "name": "X Miracle",
+        "category": {
+            "name": "Boost",
+            "id": "BOOST"
+        },
+        "itemType": {
+            "name": "Battle",
+            "id": "BATTLE"
+        },
+        "dropTrainerLevel": 100
     }
 ]

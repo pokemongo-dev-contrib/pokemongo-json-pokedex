@@ -1,4 +1,5 @@
-import { Identifyable } from '@core/identifyable';
+import { Identifyable } from '../../core/identifyable';
+
 export class Item {
     /**
      * The identifier of the item
@@ -17,4 +18,9 @@ export class Item {
      * The level on which level this item gets dropped
      */
     public dropTrainerLevel: number;
+    /**
+     * The type of the item.
+     * e.g. Food
+     */
+    public itemType: Identifyable;
 }
