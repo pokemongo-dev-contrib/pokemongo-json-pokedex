@@ -17,7 +17,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.9,
         "modelScale": 1.09,
-        "id": "BULBASAUR",
         "maxCP": 981,
         "cinematicMoves": [
             {
@@ -107,7 +106,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BULBASAUR"
     },
     {
         "dex": 2,
@@ -127,7 +127,6 @@
         "kmBuddyDistance": 3,
         "weight": 13,
         "modelScale": 0.85,
-        "id": "IVYSAUR",
         "maxCP": 1552,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -219,7 +218,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "IVYSAUR"
     },
     {
         "dex": 3,
@@ -239,7 +239,6 @@
         "kmBuddyDistance": 3,
         "weight": 100,
         "modelScale": 0.69,
-        "id": "VENUSAUR",
         "maxCP": 2568,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -329,7 +328,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "VENUSAUR"
     },
     {
         "dex": 4,
@@ -349,7 +349,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.5,
         "modelScale": 1.25,
-        "id": "CHARMANDER",
         "maxCP": 831,
         "cinematicMoves": [
             {
@@ -435,7 +434,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CHARMANDER"
     },
     {
         "dex": 5,
@@ -455,7 +455,6 @@
         "kmBuddyDistance": 3,
         "weight": 19,
         "modelScale": 1.03,
-        "id": "CHARMELEON",
         "maxCP": 1484,
         "cinematicMoves": [
             {
@@ -539,7 +538,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CHARMELEON"
     },
     {
         "dex": 6,
@@ -559,7 +559,6 @@
         "kmBuddyDistance": 3,
         "weight": 90.5,
         "modelScale": 0.81,
-        "id": "CHARIZARD",
         "maxCP": 2686,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -650,7 +649,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "CHARIZARD"
     },
     {
         "dex": 7,
@@ -670,7 +670,6 @@
         "kmBuddyDistance": 3,
         "weight": 9,
         "modelScale": 1.53,
-        "id": "SQUIRTLE",
         "maxCP": 808,
         "cinematicMoves": [
             {
@@ -756,7 +755,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SQUIRTLE"
     },
     {
         "dex": 8,
@@ -776,7 +776,6 @@
         "kmBuddyDistance": 3,
         "weight": 22.5,
         "modelScale": 1,
-        "id": "WARTORTLE",
         "maxCP": 1324,
         "cinematicMoves": [
             {
@@ -860,7 +859,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WARTORTLE"
     },
     {
         "dex": 9,
@@ -880,7 +880,6 @@
         "kmBuddyDistance": 3,
         "weight": 85.5,
         "modelScale": 0.94,
-        "id": "BLASTOISE",
         "maxCP": 2291,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -966,7 +965,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "BLASTOISE"
     },
     {
         "dex": 10,
@@ -986,7 +986,6 @@
         "kmBuddyDistance": 1,
         "weight": 2.9,
         "modelScale": 2.04,
-        "id": "CATERPIE",
         "maxCP": 393,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -1067,7 +1066,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CATERPIE"
     },
     {
         "dex": 11,
@@ -1087,7 +1087,6 @@
         "kmBuddyDistance": 1,
         "weight": 9.9,
         "modelScale": 1.17,
-        "id": "METAPOD",
         "maxCP": 419,
         "cinematicMoves": [
             {
@@ -1158,7 +1157,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "METAPOD"
     },
     {
         "dex": 12,
@@ -1178,7 +1178,6 @@
         "kmBuddyDistance": 1,
         "weight": 32,
         "modelScale": 1.11,
-        "id": "BUTTERFREE",
         "maxCP": 1701,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -1269,7 +1268,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BUTTERFREE"
     },
     {
         "dex": 13,
@@ -1289,7 +1289,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.2,
         "modelScale": 2.09,
-        "id": "WEEDLE",
         "maxCP": 397,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -1375,7 +1374,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WEEDLE"
     },
     {
         "dex": 14,
@@ -1395,7 +1395,6 @@
         "kmBuddyDistance": 1,
         "weight": 10,
         "modelScale": 1.25,
-        "id": "KAKUNA",
         "maxCP": 392,
         "cinematicMoves": [
             {
@@ -1470,7 +1469,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KAKUNA"
     },
     {
         "dex": 15,
@@ -1490,7 +1490,6 @@
         "kmBuddyDistance": 1,
         "weight": 29.5,
         "modelScale": 0.77,
-        "id": "BEEDRILL",
         "maxCP": 1777,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -1581,7 +1580,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BEEDRILL"
     },
     {
         "dex": 16,
@@ -1601,7 +1601,6 @@
         "kmBuddyDistance": 1,
         "weight": 1.8,
         "modelScale": 1.68,
-        "id": "PIDGEY",
         "maxCP": 580,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -1695,7 +1694,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PIDGEY"
     },
     {
         "dex": 17,
@@ -1715,7 +1715,6 @@
         "kmBuddyDistance": 1,
         "weight": 30,
         "modelScale": 0.79,
-        "id": "PIDGEOTTO",
         "maxCP": 1085,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -1808,7 +1807,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PIDGEOTTO"
     },
     {
         "dex": 18,
@@ -1828,7 +1828,6 @@
         "kmBuddyDistance": 1,
         "weight": 39.5,
         "modelScale": 0.72,
-        "id": "PIDGEOT",
         "maxCP": 1994,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -1919,7 +1918,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PIDGEOT"
     },
     {
         "dex": 19,
@@ -1939,7 +1939,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.5,
         "modelScale": 1.26,
-        "id": "RATTATA",
         "maxCP": 588,
         "cinematicMoves": [
             {
@@ -2016,11 +2015,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "RATTATA"
     },
     {
         "dex": 19,
-        "name": "Rattata",
+        "name": "Rattata Alola",
         "animationTime": [
             1.9,
             0.6667,
@@ -2036,7 +2036,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.8,
         "modelScale": 1.26,
-        "id": "RATTATA",
         "maxCP": 588,
         "cinematicMoves": [
             {
@@ -2117,11 +2116,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "RATTATA_ALOLA"
     },
     {
         "dex": 19,
-        "name": "Rattata",
+        "name": "Rattata Normal",
         "animationTime": [
             1.9,
             0.6667,
@@ -2137,7 +2137,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.5,
         "modelScale": 1.26,
-        "id": "RATTATA",
         "maxCP": 588,
         "cinematicMoves": [
             {
@@ -2214,7 +2213,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "RATTATA_NORMAL"
     },
     {
         "dex": 20,
@@ -2234,7 +2234,6 @@
         "kmBuddyDistance": 1,
         "weight": 18.5,
         "modelScale": 1.17,
-        "id": "RATICATE",
         "maxCP": 1549,
         "cinematicMoves": [
             {
@@ -2309,11 +2308,12 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "RATICATE"
     },
     {
         "dex": 20,
-        "name": "Raticate",
+        "name": "Raticate Alola",
         "animationTime": [
             1.6667,
             0.6667,
@@ -2329,7 +2329,6 @@
         "kmBuddyDistance": 1,
         "weight": 25.5,
         "modelScale": 1.17,
-        "id": "RATICATE",
         "maxCP": 1587,
         "cinematicMoves": [
             {
@@ -2400,19 +2399,12 @@
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Rattata",
-                "id": "RATTATA"
-            },
-            "costToEvolve": {
-                "candyCost": 25
-            }
-        }
+        "evolution": {},
+        "id": "RATICATE_ALOLA"
     },
     {
         "dex": 20,
-        "name": "Raticate",
+        "name": "Raticate Normal",
         "animationTime": [
             1.6667,
             0.6667,
@@ -2428,7 +2420,6 @@
         "kmBuddyDistance": 1,
         "weight": 18.5,
         "modelScale": 1.17,
-        "id": "RATICATE",
         "maxCP": 1549,
         "cinematicMoves": [
             {
@@ -2495,15 +2486,8 @@
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Rattata",
-                "id": "RATTATA"
-            },
-            "costToEvolve": {
-                "candyCost": 25
-            }
-        }
+        "evolution": {},
+        "id": "RATICATE_NORMAL"
     },
     {
         "dex": 21,
@@ -2523,7 +2507,6 @@
         "kmBuddyDistance": 1,
         "weight": 2,
         "modelScale": 1.48,
-        "id": "SPEAROW",
         "maxCP": 673,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -2608,7 +2591,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SPEAROW"
     },
     {
         "dex": 22,
@@ -2628,7 +2612,6 @@
         "kmBuddyDistance": 1,
         "weight": 38,
         "modelScale": 0.84,
-        "id": "FEAROW",
         "maxCP": 1814,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -2712,7 +2695,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "FEAROW"
     },
     {
         "dex": 23,
@@ -2732,7 +2716,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.9,
         "modelScale": 1.73,
-        "id": "EKANS",
         "maxCP": 778,
         "cinematicMoves": [
             {
@@ -2809,7 +2792,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "EKANS"
     },
     {
         "dex": 24,
@@ -2829,7 +2813,6 @@
         "kmBuddyDistance": 3,
         "weight": 65,
         "modelScale": 0.82,
-        "id": "ARBOK",
         "maxCP": 1737,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -2908,7 +2891,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "ARBOK"
     },
     {
         "dex": 25,
@@ -2928,7 +2912,6 @@
         "kmBuddyDistance": 1,
         "weight": 6,
         "modelScale": 1.48,
-        "id": "PIKACHU",
         "maxCP": 787,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -3016,7 +2999,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PIKACHU"
     },
     {
         "dex": 26,
@@ -3036,7 +3020,6 @@
         "kmBuddyDistance": 1,
         "weight": 30,
         "modelScale": 1.08,
-        "id": "RAICHU",
         "maxCP": 2025,
         "cinematicMoves": [
             {
@@ -3118,11 +3101,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "RAICHU"
     },
     {
         "dex": 26,
-        "name": "Raichu",
+        "name": "Raichu Alola",
         "animationTime": [
             2.2333,
             0.6667,
@@ -3138,7 +3122,6 @@
         "kmBuddyDistance": 1,
         "weight": 21,
         "modelScale": 1.08,
-        "id": "RAICHU",
         "maxCP": 2143,
         "cinematicMoves": [
             {
@@ -3209,26 +3192,12 @@
             "diskRadius": 0.729,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Pikachu",
-                "id": "PIKACHU",
-                "pastBranch": {
-                    "name": "Pichu",
-                    "id": "PICHU"
-                },
-                "costToEvolve": {
-                    "candyCost": 25
-                }
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "RAICHU_ALOLA"
     },
     {
         "dex": 26,
-        "name": "Raichu",
+        "name": "Raichu Normal",
         "animationTime": [
             2.2333,
             0.6667,
@@ -3244,7 +3213,6 @@
         "kmBuddyDistance": 1,
         "weight": 30,
         "modelScale": 1.08,
-        "id": "RAICHU",
         "maxCP": 2025,
         "cinematicMoves": [
             {
@@ -3311,22 +3279,8 @@
             "diskRadius": 0.729,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Pikachu",
-                "id": "PIKACHU",
-                "pastBranch": {
-                    "name": "Pichu",
-                    "id": "PICHU"
-                },
-                "costToEvolve": {
-                    "candyCost": 25
-                }
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "RAICHU_NORMAL"
     },
     {
         "dex": 27,
@@ -3346,7 +3300,6 @@
         "kmBuddyDistance": 3,
         "weight": 12,
         "modelScale": 1.29,
-        "id": "SANDSHREW",
         "maxCP": 1194,
         "cinematicMoves": [
             {
@@ -3423,11 +3376,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SANDSHREW"
     },
     {
         "dex": 27,
-        "name": "Sandshrew",
+        "name": "Sandshrew Alola",
         "animationTime": [
             1.8,
             0.6667,
@@ -3443,7 +3397,6 @@
         "kmBuddyDistance": 3,
         "weight": 40,
         "modelScale": 1.29,
-        "id": "SANDSHREW",
         "maxCP": 1219,
         "cinematicMoves": [
             {
@@ -3524,11 +3477,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SANDSHREW_ALOLA"
     },
     {
         "dex": 27,
-        "name": "Sandshrew",
+        "name": "Sandshrew Normal",
         "animationTime": [
             1.8,
             0.6667,
@@ -3544,7 +3498,6 @@
         "kmBuddyDistance": 3,
         "weight": 12,
         "modelScale": 1.29,
-        "id": "SANDSHREW",
         "maxCP": 1194,
         "cinematicMoves": [
             {
@@ -3621,7 +3574,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SANDSHREW_NORMAL"
     },
     {
         "dex": 28,
@@ -3641,7 +3595,6 @@
         "kmBuddyDistance": 3,
         "weight": 29.5,
         "modelScale": 1,
-        "id": "SANDSLASH",
         "maxCP": 2328,
         "cinematicMoves": [
             {
@@ -3716,11 +3669,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SANDSLASH"
     },
     {
         "dex": 28,
-        "name": "Sandslash",
+        "name": "Sandslash Alola",
         "animationTime": [
             1.7333,
             0.6667,
@@ -3736,7 +3690,6 @@
         "kmBuddyDistance": 3,
         "weight": 55,
         "modelScale": 1,
-        "id": "SANDSLASH",
         "maxCP": 2366,
         "cinematicMoves": [
             {
@@ -3807,19 +3760,12 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Sandshrew",
-                "id": "SANDSHREW"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "SANDSLASH_ALOLA"
     },
     {
         "dex": 28,
-        "name": "Sandslash",
+        "name": "Sandslash Normal",
         "animationTime": [
             1.7333,
             0.6667,
@@ -3835,7 +3781,6 @@
         "kmBuddyDistance": 3,
         "weight": 29.5,
         "modelScale": 1,
-        "id": "SANDSLASH",
         "maxCP": 2328,
         "cinematicMoves": [
             {
@@ -3902,19 +3847,12 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Sandshrew",
-                "id": "SANDSHREW"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "SANDSLASH_NORMAL"
     },
     {
         "dex": 29,
-        "name": "Nidoran Female",
+        "name": "Nidoran",
         "animationTime": [
             1.3333,
             0.6667,
@@ -3930,7 +3868,6 @@
         "kmBuddyDistance": 3,
         "weight": 7,
         "modelScale": 1.48,
-        "id": "NIDORAN_FEMALE",
         "maxCP": 736,
         "cinematicMoves": [
             {
@@ -4016,7 +3953,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NIDORAN_FEMALE"
     },
     {
         "dex": 30,
@@ -4036,7 +3974,6 @@
         "kmBuddyDistance": 3,
         "weight": 20,
         "modelScale": 1.17,
-        "id": "NIDORINA",
         "maxCP": 1218,
         "cinematicMoves": [
             {
@@ -4120,7 +4057,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NIDORINA"
     },
     {
         "dex": 31,
@@ -4140,7 +4078,6 @@
         "kmBuddyDistance": 3,
         "weight": 60,
         "modelScale": 0.91,
-        "id": "NIDOQUEEN",
         "maxCP": 2338,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -4230,11 +4167,12 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "NIDOQUEEN"
     },
     {
         "dex": 32,
-        "name": "Nidoran Male",
+        "name": "Nidoran",
         "animationTime": [
             1.8333,
             0.6667,
@@ -4250,7 +4188,6 @@
         "kmBuddyDistance": 3,
         "weight": 9,
         "modelScale": 1.26,
-        "id": "NIDORAN_MALE",
         "maxCP": 739,
         "cinematicMoves": [
             {
@@ -4336,7 +4273,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NIDORAN_MALE"
     },
     {
         "dex": 33,
@@ -4356,7 +4294,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.5,
         "modelScale": 0.99,
-        "id": "NIDORINO",
         "maxCP": 1252,
         "cinematicMoves": [
             {
@@ -4440,7 +4377,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NIDORINO"
     },
     {
         "dex": 34,
@@ -4460,7 +4398,6 @@
         "kmBuddyDistance": 3,
         "weight": 62,
         "modelScale": 0.87,
-        "id": "NIDOKING",
         "maxCP": 2386,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -4550,7 +4487,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "NIDOKING"
     },
     {
         "dex": 35,
@@ -4570,7 +4508,6 @@
         "kmBuddyDistance": 1,
         "weight": 7.5,
         "modelScale": 1.25,
-        "id": "CLEFAIRY",
         "maxCP": 1085,
         "cinematicMoves": [
             {
@@ -4654,7 +4591,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CLEFAIRY"
     },
     {
         "dex": 36,
@@ -4674,7 +4612,6 @@
         "kmBuddyDistance": 1,
         "weight": 40,
         "modelScale": 0.89,
-        "id": "CLEFABLE",
         "maxCP": 2353,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -4760,7 +4697,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CLEFABLE"
     },
     {
         "dex": 37,
@@ -4780,7 +4718,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.9,
         "modelScale": 1.26,
-        "id": "VULPIX",
         "maxCP": 774,
         "cinematicMoves": [
             {
@@ -4857,11 +4794,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VULPIX"
     },
     {
         "dex": 37,
-        "name": "Vulpix",
+        "name": "Vulpix Alola",
         "animationTime": [
             1.6667,
             0.6667,
@@ -4877,7 +4815,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.9,
         "modelScale": 1.26,
-        "id": "VULPIX",
         "maxCP": 774,
         "cinematicMoves": [
             {
@@ -4954,11 +4891,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VULPIX_ALOLA"
     },
     {
         "dex": 37,
-        "name": "Vulpix",
+        "name": "Vulpix Normal",
         "animationTime": [
             1.6667,
             0.6667,
@@ -4974,7 +4912,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.9,
         "modelScale": 1.26,
-        "id": "VULPIX",
         "maxCP": 774,
         "cinematicMoves": [
             {
@@ -5051,7 +4988,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VULPIX_NORMAL"
     },
     {
         "dex": 38,
@@ -5071,7 +5009,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.9,
         "modelScale": 0.96,
-        "id": "NINETALES",
         "maxCP": 2157,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -5150,11 +5087,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "NINETALES"
     },
     {
         "dex": 38,
-        "name": "Ninetales",
+        "name": "Ninetales Alola",
         "animationTime": [
             2.6667,
             0.6667,
@@ -5170,7 +5108,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.9,
         "modelScale": 0.96,
-        "id": "NINETALES",
         "maxCP": 2184,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -5245,19 +5182,12 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Vulpix",
-                "id": "VULPIX"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "NINETALES_ALOLA"
     },
     {
         "dex": 38,
-        "name": "Ninetales",
+        "name": "Ninetales Normal",
         "animationTime": [
             2.6667,
             0.6667,
@@ -5273,7 +5203,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.9,
         "modelScale": 0.96,
-        "id": "NINETALES",
         "maxCP": 2157,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -5344,15 +5273,8 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Vulpix",
-                "id": "VULPIX"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "NINETALES_NORMAL"
     },
     {
         "dex": 39,
@@ -5372,7 +5294,6 @@
         "kmBuddyDistance": 1,
         "weight": 5.5,
         "modelScale": 1.28,
-        "id": "JIGGLYPUFF",
         "maxCP": 713,
         "cinematicMoves": [
             {
@@ -5460,7 +5381,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "JIGGLYPUFF"
     },
     {
         "dex": 40,
@@ -5480,7 +5402,6 @@
         "kmBuddyDistance": 1,
         "weight": 12,
         "modelScale": 0.89,
-        "id": "WIGGLYTUFF",
         "maxCP": 1906,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -5570,7 +5491,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "WIGGLYTUFF"
     },
     {
         "dex": 41,
@@ -5590,7 +5512,6 @@
         "kmBuddyDistance": 1,
         "weight": 7.5,
         "modelScale": 1.07,
-        "id": "ZUBAT",
         "maxCP": 569,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -5685,7 +5606,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ZUBAT"
     },
     {
         "dex": 42,
@@ -5705,7 +5627,6 @@
         "kmBuddyDistance": 1,
         "weight": 55,
         "modelScale": 0.71,
-        "id": "GOLBAT",
         "maxCP": 1830,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -5798,7 +5719,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GOLBAT"
     },
     {
         "dex": 43,
@@ -5818,7 +5740,6 @@
         "kmBuddyDistance": 3,
         "weight": 5.4,
         "modelScale": 1.35,
-        "id": "ODDISH",
         "maxCP": 1069,
         "cinematicMoves": [
             {
@@ -5919,7 +5840,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ODDISH"
     },
     {
         "dex": 44,
@@ -5939,7 +5861,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.6,
         "modelScale": 1.1,
-        "id": "GLOOM",
         "maxCP": 1512,
         "cinematicMoves": [
             {
@@ -6038,7 +5959,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GLOOM"
     },
     {
         "dex": 45,
@@ -6058,7 +5980,6 @@
         "kmBuddyDistance": 3,
         "weight": 18.6,
         "modelScale": 0.92,
-        "id": "VILEPLUME",
         "maxCP": 2367,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -6148,7 +6069,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "VILEPLUME"
     },
     {
         "dex": 46,
@@ -6168,7 +6090,6 @@
         "kmBuddyDistance": 3,
         "weight": 5.4,
         "modelScale": 1.28,
-        "id": "PARAS",
         "maxCP": 836,
         "cinematicMoves": [
             {
@@ -6249,7 +6170,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PARAS"
     },
     {
         "dex": 47,
@@ -6269,7 +6191,6 @@
         "kmBuddyDistance": 3,
         "weight": 29.5,
         "modelScale": 1.01,
-        "id": "PARASECT",
         "maxCP": 1657,
         "cinematicMoves": [
             {
@@ -6348,7 +6269,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PARASECT"
     },
     {
         "dex": 48,
@@ -6368,7 +6290,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 0.71,
-        "id": "VENONAT",
         "maxCP": 902,
         "cinematicMoves": [
             {
@@ -6449,7 +6370,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VENONAT"
     },
     {
         "dex": 49,
@@ -6469,7 +6391,6 @@
         "kmBuddyDistance": 3,
         "weight": 12.5,
         "modelScale": 0.72,
-        "id": "VENOMOTH",
         "maxCP": 1937,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -6553,7 +6474,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "VENOMOTH"
     },
     {
         "dex": 50,
@@ -6573,7 +6495,6 @@
         "kmBuddyDistance": 3,
         "weight": 0.8,
         "modelScale": 2,
-        "id": "DIGLETT",
         "maxCP": 465,
         "cinematicMoves": [
             {
@@ -6645,11 +6566,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DIGLETT"
     },
     {
         "dex": 50,
-        "name": "Diglett",
+        "name": "Diglett Alola",
         "animationTime": [
             1.4333,
             0.6667,
@@ -6665,7 +6587,6 @@
         "kmBuddyDistance": 3,
         "weight": 1,
         "modelScale": 2,
-        "id": "DIGLETT",
         "maxCP": 467,
         "cinematicMoves": [
             {
@@ -6741,11 +6662,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DIGLETT_ALOLA"
     },
     {
         "dex": 50,
-        "name": "Diglett",
+        "name": "Diglett Normal",
         "animationTime": [
             1.4333,
             0.6667,
@@ -6761,7 +6683,6 @@
         "kmBuddyDistance": 3,
         "weight": 0.8,
         "modelScale": 2,
-        "id": "DIGLETT",
         "maxCP": 465,
         "cinematicMoves": [
             {
@@ -6833,7 +6754,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DIGLETT_NORMAL"
     },
     {
         "dex": 51,
@@ -6853,7 +6775,6 @@
         "kmBuddyDistance": 3,
         "weight": 33.3,
         "modelScale": 1.12,
-        "id": "DUGTRIO",
         "maxCP": 1333,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -6927,11 +6848,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DUGTRIO"
     },
     {
         "dex": 51,
-        "name": "Dugtrio",
+        "name": "Dugtrio Alola",
         "animationTime": [
             1.7333,
             0.6667,
@@ -6947,7 +6869,6 @@
         "kmBuddyDistance": 3,
         "weight": 66.6,
         "modelScale": 1.12,
-        "id": "DUGTRIO",
         "maxCP": 1587,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -7017,19 +6938,12 @@
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Diglett",
-                "id": "DIGLETT"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "DUGTRIO_ALOLA"
     },
     {
         "dex": 51,
-        "name": "Dugtrio",
+        "name": "Dugtrio Normal",
         "animationTime": [
             1.7333,
             0.6667,
@@ -7045,7 +6959,6 @@
         "kmBuddyDistance": 3,
         "weight": 33.3,
         "modelScale": 1.12,
-        "id": "DUGTRIO",
         "maxCP": 1333,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -7111,15 +7024,8 @@
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Diglett",
-                "id": "DIGLETT"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "DUGTRIO_NORMAL"
     },
     {
         "dex": 52,
@@ -7139,7 +7045,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.2,
         "modelScale": 1.6,
-        "id": "MEOWTH",
         "maxCP": 638,
         "cinematicMoves": [
             {
@@ -7216,11 +7121,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MEOWTH"
     },
     {
         "dex": 52,
-        "name": "Meowth",
+        "name": "Meowth Alola",
         "animationTime": [
             2,
             0.6667,
@@ -7236,7 +7142,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.2,
         "modelScale": 1.6,
-        "id": "MEOWTH",
         "maxCP": 679,
         "cinematicMoves": [
             {
@@ -7313,11 +7218,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MEOWTH_ALOLA"
     },
     {
         "dex": 52,
-        "name": "Meowth",
+        "name": "Meowth Normal",
         "animationTime": [
             2,
             0.6667,
@@ -7333,7 +7239,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.2,
         "modelScale": 1.6,
-        "id": "MEOWTH",
         "maxCP": 638,
         "cinematicMoves": [
             {
@@ -7410,7 +7315,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MEOWTH_NORMAL"
     },
     {
         "dex": 53,
@@ -7430,7 +7336,6 @@
         "kmBuddyDistance": 3,
         "weight": 32,
         "modelScale": 0.82,
-        "id": "PERSIAN",
         "maxCP": 1539,
         "cinematicMoves": [
             {
@@ -7505,11 +7410,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PERSIAN"
     },
     {
         "dex": 53,
-        "name": "Persian",
+        "name": "Persian Alola",
         "animationTime": [
             2,
             0.6667,
@@ -7525,7 +7431,6 @@
         "kmBuddyDistance": 3,
         "weight": 33,
         "modelScale": 0.82,
-        "id": "PERSIAN",
         "maxCP": 1614,
         "cinematicMoves": [
             {
@@ -7592,19 +7497,12 @@
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Meowth",
-                "id": "MEOWTH"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "PERSIAN_ALOLA"
     },
     {
         "dex": 53,
-        "name": "Persian",
+        "name": "Persian Normal",
         "animationTime": [
             2,
             0.6667,
@@ -7620,7 +7518,6 @@
         "kmBuddyDistance": 3,
         "weight": 32,
         "modelScale": 0.82,
-        "id": "PERSIAN",
         "maxCP": 1539,
         "cinematicMoves": [
             {
@@ -7687,15 +7584,8 @@
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Meowth",
-                "id": "MEOWTH"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "PERSIAN_NORMAL"
     },
     {
         "dex": 54,
@@ -7715,7 +7605,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.6,
         "modelScale": 0.97,
-        "id": "PSYDUCK",
         "maxCP": 966,
         "cinematicMoves": [
             {
@@ -7792,7 +7681,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PSYDUCK"
     },
     {
         "dex": 55,
@@ -7812,7 +7702,6 @@
         "kmBuddyDistance": 3,
         "weight": 76.6,
         "modelScale": 0.93,
-        "id": "GOLDUCK",
         "maxCP": 2270,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -7891,7 +7780,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "GOLDUCK"
     },
     {
         "dex": 56,
@@ -7911,7 +7801,6 @@
         "kmBuddyDistance": 3,
         "weight": 28,
         "modelScale": 1.29,
-        "id": "MANKEY",
         "maxCP": 1002,
         "cinematicMoves": [
             {
@@ -7988,7 +7877,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MANKEY"
     },
     {
         "dex": 57,
@@ -8008,7 +7898,6 @@
         "kmBuddyDistance": 3,
         "weight": 32,
         "modelScale": 0.92,
-        "id": "PRIMEAPE",
         "maxCP": 2105,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8087,7 +7976,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PRIMEAPE"
     },
     {
         "dex": 58,
@@ -8107,7 +7997,6 @@
         "kmBuddyDistance": 3,
         "weight": 19,
         "modelScale": 1.17,
-        "id": "GROWLITHE",
         "maxCP": 1110,
         "cinematicMoves": [
             {
@@ -8184,7 +8073,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GROWLITHE"
     },
     {
         "dex": 59,
@@ -8204,7 +8094,6 @@
         "kmBuddyDistance": 3,
         "weight": 155,
         "modelScale": 0.74,
-        "id": "ARCANINE",
         "maxCP": 2839,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8283,7 +8172,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "ARCANINE"
     },
     {
         "dex": 60,
@@ -8303,7 +8193,6 @@
         "kmBuddyDistance": 3,
         "weight": 12.4,
         "modelScale": 1.25,
-        "id": "POLIWAG",
         "maxCP": 695,
         "cinematicMoves": [
             {
@@ -8400,7 +8289,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "POLIWAG"
     },
     {
         "dex": 61,
@@ -8420,7 +8310,6 @@
         "kmBuddyDistance": 3,
         "weight": 20,
         "modelScale": 0.98,
-        "id": "POLIWHIRL",
         "maxCP": 1313,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8519,7 +8408,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "POLIWHIRL"
     },
     {
         "dex": 62,
@@ -8539,7 +8429,6 @@
         "kmBuddyDistance": 3,
         "weight": 54,
         "modelScale": 0.86,
-        "id": "POLIWRATH",
         "maxCP": 2441,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8629,7 +8518,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "POLIWRATH"
     },
     {
         "dex": 63,
@@ -8649,7 +8539,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.5,
         "modelScale": 1.12,
-        "id": "ABRA",
         "maxCP": 1148,
         "cinematicMoves": [
             {
@@ -8736,7 +8625,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ABRA"
     },
     {
         "dex": 64,
@@ -8756,7 +8646,6 @@
         "kmBuddyDistance": 3,
         "weight": 56.5,
         "modelScale": 0.89,
-        "id": "KADABRA",
         "maxCP": 1859,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8844,7 +8733,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KADABRA"
     },
     {
         "dex": 65,
@@ -8864,7 +8754,6 @@
         "kmBuddyDistance": 3,
         "weight": 48,
         "modelScale": 0.85,
-        "id": "ALAKAZAM",
         "maxCP": 2887,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -8950,7 +8839,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "ALAKAZAM"
     },
     {
         "dex": 66,
@@ -8970,7 +8860,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.5,
         "modelScale": 1.1,
-        "id": "MACHOP",
         "maxCP": 1199,
         "cinematicMoves": [
             {
@@ -9056,7 +8945,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MACHOP"
     },
     {
         "dex": 67,
@@ -9076,7 +8966,6 @@
         "kmBuddyDistance": 3,
         "weight": 70.5,
         "modelScale": 0.91,
-        "id": "MACHOKE",
         "maxCP": 1910,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -9164,7 +9053,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MACHOKE"
     },
     {
         "dex": 68,
@@ -9184,7 +9074,6 @@
         "kmBuddyDistance": 3,
         "weight": 130,
         "modelScale": 0.89,
-        "id": "MACHAMP",
         "maxCP": 2889,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -9270,7 +9159,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "MACHAMP"
     },
     {
         "dex": 69,
@@ -9290,7 +9180,6 @@
         "kmBuddyDistance": 3,
         "weight": 4,
         "modelScale": 1.29,
-        "id": "BELLSPROUT",
         "maxCP": 916,
         "cinematicMoves": [
             {
@@ -9380,7 +9269,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BELLSPROUT"
     },
     {
         "dex": 70,
@@ -9400,7 +9290,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.4,
         "modelScale": 1,
-        "id": "WEEPINBELL",
         "maxCP": 1475,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -9493,7 +9382,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WEEPINBELL"
     },
     {
         "dex": 71,
@@ -9513,7 +9403,6 @@
         "kmBuddyDistance": 3,
         "weight": 15.5,
         "modelScale": 0.84,
-        "id": "VICTREEBEL",
         "maxCP": 2268,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -9604,7 +9493,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "VICTREEBEL"
     },
     {
         "dex": 72,
@@ -9624,7 +9514,6 @@
         "kmBuddyDistance": 3,
         "weight": 45.5,
         "modelScale": 1.05,
-        "id": "TENTACOOL",
         "maxCP": 956,
         "cinematicMoves": [
             {
@@ -9706,7 +9595,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TENTACOOL"
     },
     {
         "dex": 73,
@@ -9726,7 +9616,6 @@
         "kmBuddyDistance": 3,
         "weight": 55,
         "modelScale": 0.82,
-        "id": "TENTACRUEL",
         "maxCP": 2374,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -9810,7 +9699,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "TENTACRUEL"
     },
     {
         "dex": 74,
@@ -9830,7 +9720,6 @@
         "kmBuddyDistance": 1,
         "weight": 20,
         "modelScale": 0.87,
-        "id": "GEODUDE",
         "maxCP": 1193,
         "cinematicMoves": [
             {
@@ -9921,11 +9810,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GEODUDE"
     },
     {
         "dex": 74,
-        "name": "Geodude",
+        "name": "Geodude Alola",
         "animationTime": [
             2.3333,
             0.6667,
@@ -9941,7 +9831,6 @@
         "kmBuddyDistance": 1,
         "weight": 20.3,
         "modelScale": 0.87,
-        "id": "GEODUDE",
         "maxCP": 1193,
         "cinematicMoves": [
             {
@@ -10032,11 +9921,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GEODUDE_ALOLA"
     },
     {
         "dex": 74,
-        "name": "Geodude",
+        "name": "Geodude Normal",
         "animationTime": [
             2.3333,
             0.6667,
@@ -10052,7 +9942,6 @@
         "kmBuddyDistance": 1,
         "weight": 20,
         "modelScale": 0.87,
-        "id": "GEODUDE",
         "maxCP": 1193,
         "cinematicMoves": [
             {
@@ -10143,7 +10032,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GEODUDE_NORMAL"
     },
     {
         "dex": 75,
@@ -10163,7 +10053,6 @@
         "kmBuddyDistance": 1,
         "weight": 105,
         "modelScale": 0.82,
-        "id": "GRAVELER",
         "maxCP": 1815,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10255,11 +10144,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRAVELER"
     },
     {
         "dex": 75,
-        "name": "Graveler",
+        "name": "Graveler Alola",
         "animationTime": [
             2.3333,
             0.6667,
@@ -10275,7 +10165,6 @@
         "kmBuddyDistance": 1,
         "weight": 110,
         "modelScale": 0.82,
-        "id": "GRAVELER",
         "maxCP": 1815,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10351,13 +10240,6 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {
-            "pastBranch": {
-                "name": "Geodude",
-                "id": "GEODUDE"
-            },
-            "costToEvolve": {
-                "candyCost": 25
-            },
             "futureBranches": [
                 {
                     "name": "Golem",
@@ -10367,11 +10249,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRAVELER_ALOLA"
     },
     {
         "dex": 75,
-        "name": "Graveler",
+        "name": "Graveler Normal",
         "animationTime": [
             2.3333,
             0.6667,
@@ -10387,7 +10270,6 @@
         "kmBuddyDistance": 1,
         "weight": 105,
         "modelScale": 0.82,
-        "id": "GRAVELER",
         "maxCP": 1815,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10463,13 +10345,6 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {
-            "pastBranch": {
-                "name": "Geodude",
-                "id": "GEODUDE"
-            },
-            "costToEvolve": {
-                "candyCost": 25
-            },
             "futureBranches": [
                 {
                     "name": "Golem",
@@ -10479,7 +10354,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRAVELER_NORMAL"
     },
     {
         "dex": 76,
@@ -10499,7 +10375,6 @@
         "kmBuddyDistance": 1,
         "weight": 300,
         "modelScale": 0.84,
-        "id": "GOLEM",
         "maxCP": 2916,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10589,11 +10464,12 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "GOLEM"
     },
     {
         "dex": 76,
-        "name": "Golem",
+        "name": "Golem Alola",
         "animationTime": [
             2.6667,
             0.6667,
@@ -10609,7 +10485,6 @@
         "kmBuddyDistance": 1,
         "weight": 316,
         "modelScale": 0.84,
-        "id": "GOLEM",
         "maxCP": 2916,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10684,26 +10559,12 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Graveler",
-                "id": "GRAVELER",
-                "pastBranch": {
-                    "name": "Geodude",
-                    "id": "GEODUDE"
-                },
-                "costToEvolve": {
-                    "candyCost": 25
-                }
-            },
-            "costToEvolve": {
-                "candyCost": 100
-            }
-        }
+        "evolution": {},
+        "id": "GOLEM_ALOLA"
     },
     {
         "dex": 76,
-        "name": "Golem",
+        "name": "Golem Normal",
         "animationTime": [
             2.6667,
             0.6667,
@@ -10719,7 +10580,6 @@
         "kmBuddyDistance": 1,
         "weight": 300,
         "modelScale": 0.84,
-        "id": "GOLEM",
         "maxCP": 2916,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -10794,22 +10654,8 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Graveler",
-                "id": "GRAVELER",
-                "pastBranch": {
-                    "name": "Geodude",
-                    "id": "GEODUDE"
-                },
-                "costToEvolve": {
-                    "candyCost": 25
-                }
-            },
-            "costToEvolve": {
-                "candyCost": 100
-            }
-        }
+        "evolution": {},
+        "id": "GOLEM_NORMAL"
     },
     {
         "dex": 77,
@@ -10829,7 +10675,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 1.01,
-        "id": "PONYTA",
         "maxCP": 1502,
         "cinematicMoves": [
             {
@@ -10906,7 +10751,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PONYTA"
     },
     {
         "dex": 78,
@@ -10926,7 +10772,6 @@
         "kmBuddyDistance": 3,
         "weight": 95,
         "modelScale": 0.81,
-        "id": "RAPIDASH",
         "maxCP": 2252,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -11005,7 +10850,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "RAPIDASH"
     },
     {
         "dex": 79,
@@ -11025,7 +10871,6 @@
         "kmBuddyDistance": 3,
         "weight": 36,
         "modelScale": 0.79,
-        "id": "SLOWPOKE",
         "maxCP": 1204,
         "cinematicMoves": [
             {
@@ -11117,7 +10962,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SLOWPOKE"
     },
     {
         "dex": 80,
@@ -11137,7 +10983,6 @@
         "kmBuddyDistance": 3,
         "weight": 78.5,
         "modelScale": 0.85,
-        "id": "SLOWBRO",
         "maxCP": 2482,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -11220,7 +11065,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SLOWBRO"
     },
     {
         "dex": 81,
@@ -11240,7 +11086,6 @@
         "kmBuddyDistance": 3,
         "weight": 6,
         "modelScale": 1.52,
-        "id": "MAGNEMITE",
         "maxCP": 1083,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -11322,7 +11167,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MAGNEMITE"
     },
     {
         "dex": 82,
@@ -11342,7 +11188,6 @@
         "kmBuddyDistance": 3,
         "weight": 60,
         "modelScale": 1.1,
-        "id": "MAGNETON",
         "maxCP": 2237,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -11422,7 +11267,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MAGNETON"
     },
     {
         "dex": 83,
@@ -11442,7 +11288,6 @@
         "kmBuddyDistance": 3,
         "weight": 15,
         "modelScale": 1.13,
-        "id": "FARFETCHD",
         "maxCP": 1092,
         "cinematicMoves": [
             {
@@ -11513,7 +11358,8 @@
             "diskRadius": 0.678,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "FARFETCHD"
     },
     {
         "dex": 84,
@@ -11533,7 +11379,6 @@
         "kmBuddyDistance": 3,
         "weight": 39.2,
         "modelScale": 0.88,
-        "id": "DODUO",
         "maxCP": 1011,
         "cinematicMoves": [
             {
@@ -11614,7 +11459,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DODUO"
     },
     {
         "dex": 85,
@@ -11634,7 +11480,6 @@
         "kmBuddyDistance": 3,
         "weight": 85.2,
         "modelScale": 0.78,
-        "id": "DODRIO",
         "maxCP": 2138,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -11717,7 +11562,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DODRIO"
     },
     {
         "dex": 86,
@@ -11737,7 +11583,6 @@
         "kmBuddyDistance": 3,
         "weight": 90,
         "modelScale": 1.1,
-        "id": "SEEL",
         "maxCP": 899,
         "cinematicMoves": [
             {
@@ -11814,7 +11659,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SEEL"
     },
     {
         "dex": 87,
@@ -11834,7 +11680,6 @@
         "kmBuddyDistance": 3,
         "weight": 120,
         "modelScale": 1.05,
-        "id": "DEWGONG",
         "maxCP": 1894,
         "cinematicMoves": [
             {
@@ -11914,7 +11759,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DEWGONG"
     },
     {
         "dex": 88,
@@ -11934,7 +11780,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 0.98,
-        "id": "GRIMER",
         "maxCP": 1269,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12015,11 +11860,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRIMER"
     },
     {
         "dex": 88,
-        "name": "Grimer",
+        "name": "Grimer Alola",
         "animationTime": [
             1.6667,
             0.6667,
@@ -12035,7 +11881,6 @@
         "kmBuddyDistance": 3,
         "weight": 42,
         "modelScale": 0.98,
-        "id": "GRIMER",
         "maxCP": 1269,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12120,11 +11965,12 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRIMER_ALOLA"
     },
     {
         "dex": 88,
-        "name": "Grimer",
+        "name": "Grimer Normal",
         "animationTime": [
             1.6667,
             0.6667,
@@ -12140,7 +11986,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 0.98,
-        "id": "GRIMER",
         "maxCP": 1269,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12221,7 +12066,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GRIMER_NORMAL"
     },
     {
         "dex": 89,
@@ -12241,7 +12087,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 0.76,
-        "id": "MUK",
         "maxCP": 2709,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12320,11 +12165,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MUK"
     },
     {
         "dex": 89,
-        "name": "Muk",
+        "name": "Muk Alola",
         "animationTime": [
             2,
             1,
@@ -12340,7 +12186,6 @@
         "kmBuddyDistance": 3,
         "weight": 52,
         "modelScale": 0.76,
-        "id": "MUK",
         "maxCP": 2709,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12415,19 +12260,12 @@
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Grimer",
-                "id": "GRIMER"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "MUK_ALOLA"
     },
     {
         "dex": 89,
-        "name": "Muk",
+        "name": "Muk Normal",
         "animationTime": [
             2,
             1,
@@ -12443,7 +12281,6 @@
         "kmBuddyDistance": 3,
         "weight": 30,
         "modelScale": 0.76,
-        "id": "MUK",
         "maxCP": 2709,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12514,15 +12351,8 @@
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Grimer",
-                "id": "GRIMER"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "MUK_NORMAL"
     },
     {
         "dex": 90,
@@ -12542,7 +12372,6 @@
         "kmBuddyDistance": 3,
         "weight": 4,
         "modelScale": 1.68,
-        "id": "SHELLDER",
         "maxCP": 958,
         "cinematicMoves": [
             {
@@ -12619,7 +12448,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SHELLDER"
     },
     {
         "dex": 91,
@@ -12639,7 +12469,6 @@
         "kmBuddyDistance": 3,
         "weight": 132.5,
         "modelScale": 0.84,
-        "id": "CLOYSTER",
         "maxCP": 2475,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -12723,7 +12552,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CLOYSTER"
     },
     {
         "dex": 92,
@@ -12743,7 +12573,6 @@
         "kmBuddyDistance": 3,
         "weight": 0.1,
         "modelScale": 1,
-        "id": "GASTLY",
         "maxCP": 1002,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -12838,7 +12667,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GASTLY"
     },
     {
         "dex": 93,
@@ -12858,7 +12688,6 @@
         "kmBuddyDistance": 3,
         "weight": 0.1,
         "modelScale": 0.68,
-        "id": "HAUNTER",
         "maxCP": 1716,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -12951,7 +12780,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "HAUNTER"
     },
     {
         "dex": 94,
@@ -12971,7 +12801,6 @@
         "kmBuddyDistance": 3,
         "weight": 40.5,
         "modelScale": 0.84,
-        "id": "GENGAR",
         "maxCP": 2619,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13061,7 +12890,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "GENGAR"
     },
     {
         "dex": 95,
@@ -13081,7 +12911,6 @@
         "kmBuddyDistance": 5,
         "weight": 210,
         "modelScale": 0.47,
-        "id": "ONIX",
         "maxCP": 1002,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13166,7 +12995,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ONIX"
     },
     {
         "dex": 96,
@@ -13186,7 +13016,6 @@
         "kmBuddyDistance": 3,
         "weight": 32.4,
         "modelScale": 1.05,
-        "id": "DROWZEE",
         "maxCP": 992,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13267,7 +13096,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DROWZEE"
     },
     {
         "dex": 97,
@@ -13287,7 +13117,6 @@
         "kmBuddyDistance": 3,
         "weight": 75.6,
         "modelScale": 0.83,
-        "id": "HYPNO",
         "maxCP": 2048,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13366,7 +13195,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "HYPNO"
     },
     {
         "dex": 98,
@@ -13386,7 +13216,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.5,
         "modelScale": 1.16,
-        "id": "KRABBY",
         "maxCP": 1386,
         "cinematicMoves": [
             {
@@ -13463,7 +13292,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KRABBY"
     },
     {
         "dex": 99,
@@ -13483,7 +13313,6 @@
         "kmBuddyDistance": 3,
         "weight": 60,
         "modelScale": 0.87,
-        "id": "KINGLER",
         "maxCP": 2694,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13562,7 +13391,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "KINGLER"
     },
     {
         "dex": 100,
@@ -13582,7 +13412,6 @@
         "kmBuddyDistance": 3,
         "weight": 10.4,
         "modelScale": 1.35,
-        "id": "VOLTORB",
         "maxCP": 857,
         "cinematicMoves": [
             {
@@ -13655,7 +13484,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VOLTORB"
     },
     {
         "dex": 101,
@@ -13675,7 +13505,6 @@
         "kmBuddyDistance": 3,
         "weight": 66.6,
         "modelScale": 0.92,
-        "id": "ELECTRODE",
         "maxCP": 1900,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13750,7 +13579,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "ELECTRODE"
     },
     {
         "dex": 102,
@@ -13770,7 +13600,6 @@
         "kmBuddyDistance": 3,
         "weight": 2.5,
         "modelScale": 1.03,
-        "id": "EXEGGCUTE",
         "maxCP": 1102,
         "cinematicMoves": [
             {
@@ -13851,7 +13680,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "EXEGGCUTE"
     },
     {
         "dex": 103,
@@ -13871,7 +13701,6 @@
         "kmBuddyDistance": 3,
         "weight": 120,
         "modelScale": 0.78,
-        "id": "EXEGGUTOR",
         "maxCP": 2916,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -13954,11 +13783,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "EXEGGUTOR"
     },
     {
         "dex": 103,
-        "name": "Exeggutor",
+        "name": "Exeggutor Alola",
         "animationTime": [
             2.4667,
             0.6667,
@@ -13974,7 +13804,6 @@
         "kmBuddyDistance": 3,
         "weight": 415.6,
         "modelScale": 0.78,
-        "id": "EXEGGUTOR",
         "maxCP": 2881,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -14049,19 +13878,12 @@
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Exeggcute",
-                "id": "EXEGGCUTE"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "EXEGGUTOR_ALOLA"
     },
     {
         "dex": 103,
-        "name": "Exeggutor",
+        "name": "Exeggutor Normal",
         "animationTime": [
             2.4667,
             0.6667,
@@ -14077,7 +13899,6 @@
         "kmBuddyDistance": 3,
         "weight": 120,
         "modelScale": 0.78,
-        "id": "EXEGGUTOR",
         "maxCP": 2916,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -14152,15 +13973,8 @@
             "diskRadius": 0.7605,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Exeggcute",
-                "id": "EXEGGCUTE"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "EXEGGUTOR_NORMAL"
     },
     {
         "dex": 104,
@@ -14180,7 +13994,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.5,
         "modelScale": 1.48,
-        "id": "CUBONE",
         "maxCP": 943,
         "cinematicMoves": [
             {
@@ -14257,7 +14070,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CUBONE"
     },
     {
         "dex": 105,
@@ -14277,7 +14091,6 @@
         "kmBuddyDistance": 3,
         "weight": 45,
         "modelScale": 1,
-        "id": "MAROWAK",
         "maxCP": 1691,
         "cinematicMoves": [
             {
@@ -14352,11 +14165,12 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MAROWAK"
     },
     {
         "dex": 105,
-        "name": "Marowak",
+        "name": "Marowak Alola",
         "animationTime": [
             2,
             0.6667,
@@ -14372,7 +14186,6 @@
         "kmBuddyDistance": 3,
         "weight": 34,
         "modelScale": 1,
-        "id": "MAROWAK",
         "maxCP": 1691,
         "cinematicMoves": [
             {
@@ -14443,19 +14256,12 @@
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Cubone",
-                "id": "CUBONE"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "MAROWAK_ALOLA"
     },
     {
         "dex": 105,
-        "name": "Marowak",
+        "name": "Marowak Normal",
         "animationTime": [
             2,
             0.6667,
@@ -14471,7 +14277,6 @@
         "kmBuddyDistance": 3,
         "weight": 45,
         "modelScale": 1,
-        "id": "MAROWAK",
         "maxCP": 1691,
         "cinematicMoves": [
             {
@@ -14538,15 +14343,8 @@
             "diskRadius": 0.525,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Cubone",
-                "id": "CUBONE"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        }
+        "evolution": {},
+        "id": "MAROWAK_NORMAL"
     },
     {
         "dex": 106,
@@ -14566,7 +14364,6 @@
         "kmBuddyDistance": 5,
         "weight": 49.8,
         "modelScale": 0.83,
-        "id": "HITMONLEE",
         "maxCP": 2406,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -14645,7 +14442,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "HITMONLEE"
     },
     {
         "dex": 107,
@@ -14665,7 +14463,6 @@
         "kmBuddyDistance": 5,
         "weight": 50.2,
         "modelScale": 1.02,
-        "id": "HITMONCHAN",
         "maxCP": 2098,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -14748,7 +14545,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "HITMONCHAN"
     },
     {
         "dex": 108,
@@ -14768,7 +14566,6 @@
         "kmBuddyDistance": 3,
         "weight": 65.5,
         "modelScale": 0.92,
-        "id": "LICKITUNG",
         "maxCP": 1322,
         "cinematicMoves": [
             {
@@ -14835,7 +14632,8 @@
             "diskRadius": 0.69,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LICKITUNG"
     },
     {
         "dex": 109,
@@ -14855,7 +14653,6 @@
         "kmBuddyDistance": 3,
         "weight": 1,
         "modelScale": 1.2,
-        "id": "KOFFING",
         "maxCP": 1091,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -14937,7 +14734,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KOFFING"
     },
     {
         "dex": 110,
@@ -14957,7 +14755,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.5,
         "modelScale": 1.24,
-        "id": "WEEZING",
         "maxCP": 2183,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15037,7 +14834,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "WEEZING"
     },
     {
         "dex": 111,
@@ -15057,7 +14855,6 @@
         "kmBuddyDistance": 3,
         "weight": 115,
         "modelScale": 1,
-        "id": "RHYHORN",
         "maxCP": 1679,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15142,7 +14939,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "RHYHORN"
     },
     {
         "dex": 112,
@@ -15162,7 +14960,6 @@
         "kmBuddyDistance": 3,
         "weight": 120,
         "modelScale": 0.79,
-        "id": "RHYDON",
         "maxCP": 3300,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15245,7 +15042,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "RHYDON"
     },
     {
         "dex": 113,
@@ -15265,7 +15063,6 @@
         "kmBuddyDistance": 5,
         "weight": 34.6,
         "modelScale": 0.96,
-        "id": "CHANSEY",
         "maxCP": 1469,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15346,7 +15143,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CHANSEY"
     },
     {
         "dex": 114,
@@ -15366,7 +15164,6 @@
         "kmBuddyDistance": 3,
         "weight": 35,
         "modelScale": 1,
-        "id": "TANGELA",
         "maxCP": 2208,
         "cinematicMoves": [
             {
@@ -15433,7 +15230,8 @@
             "diskRadius": 1.095,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "TANGELA"
     },
     {
         "dex": 115,
@@ -15453,7 +15251,6 @@
         "kmBuddyDistance": 3,
         "weight": 80,
         "modelScale": 0.72,
-        "id": "KANGASKHAN",
         "maxCP": 2463,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15524,7 +15321,8 @@
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "KANGASKHAN"
     },
     {
         "dex": 116,
@@ -15544,7 +15342,6 @@
         "kmBuddyDistance": 3,
         "weight": 8,
         "modelScale": 1.48,
-        "id": "HORSEA",
         "maxCP": 921,
         "cinematicMoves": [
             {
@@ -15635,7 +15432,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "HORSEA"
     },
     {
         "dex": 117,
@@ -15655,7 +15453,6 @@
         "kmBuddyDistance": 3,
         "weight": 25,
         "modelScale": 0.92,
-        "id": "SEADRA",
         "maxCP": 1979,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15748,7 +15545,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SEADRA"
     },
     {
         "dex": 118,
@@ -15768,7 +15566,6 @@
         "kmBuddyDistance": 3,
         "weight": 15,
         "modelScale": 1.35,
-        "id": "GOLDEEN",
         "maxCP": 1006,
         "cinematicMoves": [
             {
@@ -15846,7 +15643,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GOLDEEN"
     },
     {
         "dex": 119,
@@ -15866,7 +15664,6 @@
         "kmBuddyDistance": 3,
         "weight": 39,
         "modelScale": 0.88,
-        "id": "SEAKING",
         "maxCP": 2040,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -15946,7 +15743,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SEAKING"
     },
     {
         "dex": 120,
@@ -15966,7 +15764,6 @@
         "kmBuddyDistance": 3,
         "weight": 34.5,
         "modelScale": 1.1,
-        "id": "STARYU",
         "maxCP": 926,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16043,7 +15840,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "STARYU"
     },
     {
         "dex": 121,
@@ -16063,7 +15861,6 @@
         "kmBuddyDistance": 3,
         "weight": 80,
         "modelScale": 0.97,
-        "id": "STARMIE",
         "maxCP": 2303,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16142,7 +15939,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "STARMIE"
     },
     {
         "dex": 122,
@@ -16162,7 +15960,6 @@
         "kmBuddyDistance": 5,
         "weight": 54.5,
         "modelScale": 0.89,
-        "id": "MR_MIME",
         "maxCP": 1984,
         "cinematicMoves": [
             {
@@ -16233,7 +16030,8 @@
             "diskRadius": 0.6675,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MR_MIME"
     },
     {
         "dex": 123,
@@ -16253,7 +16051,6 @@
         "kmBuddyDistance": 5,
         "weight": 56,
         "modelScale": 0.8,
-        "id": "SCYTHER",
         "maxCP": 2464,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16343,7 +16140,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SCYTHER"
     },
     {
         "dex": 124,
@@ -16363,7 +16161,6 @@
         "kmBuddyDistance": 5,
         "weight": 40.6,
         "modelScale": 0.87,
-        "id": "JYNX",
         "maxCP": 2512,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16446,7 +16243,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "JYNX"
     },
     {
         "dex": 125,
@@ -16466,7 +16264,6 @@
         "kmBuddyDistance": 5,
         "weight": 30,
         "modelScale": 0.98,
-        "id": "ELECTABUZZ",
         "maxCP": 2196,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16545,7 +16342,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "ELECTABUZZ"
     },
     {
         "dex": 126,
@@ -16565,7 +16363,6 @@
         "kmBuddyDistance": 5,
         "weight": 44.5,
         "modelScale": 0.88,
-        "id": "MAGMAR",
         "maxCP": 2254,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16644,7 +16441,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "MAGMAR"
     },
     {
         "dex": 127,
@@ -16664,7 +16462,6 @@
         "kmBuddyDistance": 5,
         "weight": 55,
         "modelScale": 0.87,
-        "id": "PINSIR",
         "maxCP": 2770,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16735,7 +16532,8 @@
             "diskRadius": 0.522,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "PINSIR"
     },
     {
         "dex": 128,
@@ -16755,7 +16553,6 @@
         "kmBuddyDistance": 3,
         "weight": 88.4,
         "modelScale": 0.87,
-        "id": "TAUROS",
         "maxCP": 2488,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -16826,7 +16623,8 @@
             "diskRadius": 0.8613,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "TAUROS"
     },
     {
         "dex": 129,
@@ -16846,7 +16644,6 @@
         "kmBuddyDistance": 1,
         "weight": 10,
         "modelScale": 1.07,
-        "id": "MAGIKARP",
         "maxCP": 220,
         "cinematicMoves": [
             {
@@ -16908,7 +16705,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MAGIKARP"
     },
     {
         "dex": 130,
@@ -16928,7 +16726,6 @@
         "kmBuddyDistance": 1,
         "weight": 235,
         "modelScale": 0.48,
-        "id": "GYARADOS",
         "maxCP": 3281,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -17012,7 +16809,8 @@
             "costToEvolve": {
                 "candyCost": 400
             }
-        }
+        },
+        "id": "GYARADOS"
     },
     {
         "dex": 131,
@@ -17032,7 +16830,6 @@
         "kmBuddyDistance": 5,
         "weight": 220,
         "modelScale": 0.7,
-        "id": "LAPRAS",
         "maxCP": 2603,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -17107,7 +16904,8 @@
             "diskRadius": 1.05,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LAPRAS"
     },
     {
         "dex": 132,
@@ -17127,7 +16925,6 @@
         "kmBuddyDistance": 3,
         "weight": 4,
         "modelScale": 1.61,
-        "id": "DITTO",
         "maxCP": 718,
         "cinematicMoves": [
             {
@@ -17178,7 +16975,8 @@
             "diskRadius": 0.6038,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DITTO"
     },
     {
         "dex": 133,
@@ -17198,7 +16996,6 @@
         "kmBuddyDistance": 5,
         "weight": 6.5,
         "modelScale": 1.68,
-        "id": "EEVEE",
         "maxCP": 969,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -17303,7 +17100,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "EEVEE"
     },
     {
         "dex": 134,
@@ -17323,7 +17121,6 @@
         "kmBuddyDistance": 5,
         "weight": 29,
         "modelScale": 1.05,
-        "id": "VAPOREON",
         "maxCP": 3157,
         "cinematicMoves": [
             {
@@ -17394,7 +17191,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "VAPOREON"
     },
     {
         "dex": 135,
@@ -17414,7 +17212,6 @@
         "kmBuddyDistance": 5,
         "weight": 24.5,
         "modelScale": 1.1,
-        "id": "JOLTEON",
         "maxCP": 2730,
         "cinematicMoves": [
             {
@@ -17489,7 +17286,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "JOLTEON"
     },
     {
         "dex": 136,
@@ -17509,7 +17307,6 @@
         "kmBuddyDistance": 5,
         "weight": 25,
         "modelScale": 0.87,
-        "id": "FLAREON",
         "maxCP": 2904,
         "cinematicMoves": [
             {
@@ -17584,7 +17381,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "FLAREON"
     },
     {
         "dex": 137,
@@ -17604,7 +17402,6 @@
         "kmBuddyDistance": 3,
         "weight": 36.5,
         "modelScale": 1.1,
-        "id": "PORYGON",
         "maxCP": 1567,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -17686,7 +17483,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PORYGON"
     },
     {
         "dex": 138,
@@ -17706,7 +17504,6 @@
         "kmBuddyDistance": 5,
         "weight": 7.5,
         "modelScale": 1.48,
-        "id": "OMANYTE",
         "maxCP": 1345,
         "cinematicMoves": [
             {
@@ -17787,7 +17584,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "OMANYTE"
     },
     {
         "dex": 139,
@@ -17807,7 +17605,6 @@
         "kmBuddyDistance": 5,
         "weight": 35,
         "modelScale": 1,
-        "id": "OMASTAR",
         "maxCP": 2685,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -17890,7 +17687,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "OMASTAR"
     },
     {
         "dex": 140,
@@ -17910,7 +17708,6 @@
         "kmBuddyDistance": 5,
         "weight": 11.5,
         "modelScale": 1.35,
-        "id": "KABUTO",
         "maxCP": 1172,
         "cinematicMoves": [
             {
@@ -17991,7 +17788,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KABUTO"
     },
     {
         "dex": 141,
@@ -18011,7 +17809,6 @@
         "kmBuddyDistance": 5,
         "weight": 40.5,
         "modelScale": 0.91,
-        "id": "KABUTOPS",
         "maxCP": 2517,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18094,7 +17891,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "KABUTOPS"
     },
     {
         "dex": 142,
@@ -18114,7 +17912,6 @@
         "kmBuddyDistance": 5,
         "weight": 59,
         "modelScale": 0.57,
-        "id": "AERODACTYL",
         "maxCP": 2608,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18190,7 +17987,8 @@
             "diskRadius": 0.5985,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "AERODACTYL"
     },
     {
         "dex": 143,
@@ -18210,7 +18008,6 @@
         "kmBuddyDistance": 5,
         "weight": 460,
         "modelScale": 0.74,
-        "id": "SNORLAX",
         "maxCP": 3355,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18281,7 +18078,8 @@
             "diskRadius": 1.11,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SNORLAX"
     },
     {
         "dex": 144,
@@ -18301,7 +18099,6 @@
         "kmBuddyDistance": 20,
         "weight": 55.4,
         "modelScale": 0.66,
-        "id": "ARTICUNO",
         "maxCP": 2933,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -18373,7 +18170,8 @@
             "diskRadius": 0.594,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ARTICUNO"
     },
     {
         "dex": 145,
@@ -18393,7 +18191,6 @@
         "kmBuddyDistance": 20,
         "weight": 52.6,
         "modelScale": 0.69,
-        "id": "ZAPDOS",
         "maxCP": 3330,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -18465,7 +18262,8 @@
             "diskRadius": 0.7763,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ZAPDOS"
     },
     {
         "dex": 146,
@@ -18485,7 +18283,6 @@
         "kmBuddyDistance": 20,
         "weight": 60,
         "modelScale": 0.62,
-        "id": "MOLTRES",
         "maxCP": 3272,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -18557,7 +18354,8 @@
             "diskRadius": 0.93,
             "shoulderModeScale": 0.25
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MOLTRES"
     },
     {
         "dex": 147,
@@ -18577,7 +18375,6 @@
         "kmBuddyDistance": 5,
         "weight": 3.3,
         "modelScale": 1.11,
-        "id": "DRATINI",
         "maxCP": 860,
         "cinematicMoves": [
             {
@@ -18663,7 +18460,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DRATINI"
     },
     {
         "dex": 148,
@@ -18683,7 +18481,6 @@
         "kmBuddyDistance": 5,
         "weight": 16.5,
         "modelScale": 0.75,
-        "id": "DRAGONAIR",
         "maxCP": 1609,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18771,7 +18568,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DRAGONAIR"
     },
     {
         "dex": 149,
@@ -18791,7 +18589,6 @@
         "kmBuddyDistance": 5,
         "weight": 210,
         "modelScale": 0.7,
-        "id": "DRAGONITE",
         "maxCP": 3581,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18882,7 +18679,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "DRAGONITE"
     },
     {
         "dex": 150,
@@ -18902,7 +18700,6 @@
         "kmBuddyDistance": 20,
         "weight": 122,
         "modelScale": 0.74,
-        "id": "MEWTWO",
         "maxCP": 3982,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -18977,7 +18774,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MEWTWO"
     },
     {
         "dex": 151,
@@ -18997,7 +18795,6 @@
         "kmBuddyDistance": 20,
         "weight": 4,
         "modelScale": 1.41,
-        "id": "MEW",
         "maxCP": 3090,
         "cinematicMoves": [
             {
@@ -19239,7 +19036,8 @@
             "diskRadius": 0.423,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MEW"
     },
     {
         "dex": 152,
@@ -19259,7 +19057,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.4,
         "modelScale": 1.29,
-        "id": "CHIKORITA",
         "maxCP": 801,
         "cinematicMoves": [
             {
@@ -19345,7 +19142,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CHIKORITA"
     },
     {
         "dex": 153,
@@ -19365,7 +19163,6 @@
         "kmBuddyDistance": 3,
         "weight": 15.8,
         "modelScale": 0.89,
-        "id": "BAYLEEF",
         "maxCP": 1296,
         "cinematicMoves": [
             {
@@ -19449,7 +19246,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BAYLEEF"
     },
     {
         "dex": 154,
@@ -19469,7 +19267,6 @@
         "kmBuddyDistance": 3,
         "weight": 100.5,
         "modelScale": 0.79,
-        "id": "MEGANIUM",
         "maxCP": 2227,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -19555,7 +19352,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "MEGANIUM"
     },
     {
         "dex": 155,
@@ -19575,7 +19373,6 @@
         "kmBuddyDistance": 3,
         "weight": 7.9,
         "modelScale": 1.4,
-        "id": "CYNDAQUIL",
         "maxCP": 831,
         "cinematicMoves": [
             {
@@ -19661,7 +19458,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CYNDAQUIL"
     },
     {
         "dex": 156,
@@ -19681,7 +19479,6 @@
         "kmBuddyDistance": 3,
         "weight": 19,
         "modelScale": 0.98,
-        "id": "QUILAVA",
         "maxCP": 1484,
         "cinematicMoves": [
             {
@@ -19765,7 +19562,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "QUILAVA"
     },
     {
         "dex": 157,
@@ -19785,7 +19583,6 @@
         "kmBuddyDistance": 3,
         "weight": 79.5,
         "modelScale": 0.8,
-        "id": "TYPHLOSION",
         "maxCP": 2686,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -19871,7 +19668,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "TYPHLOSION"
     },
     {
         "dex": 158,
@@ -19891,7 +19689,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.5,
         "modelScale": 1.27,
-        "id": "TOTODILE",
         "maxCP": 1011,
         "cinematicMoves": [
             {
@@ -19977,7 +19774,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TOTODILE"
     },
     {
         "dex": 159,
@@ -19997,7 +19795,6 @@
         "kmBuddyDistance": 3,
         "weight": 25,
         "modelScale": 0.98,
-        "id": "CROCONAW",
         "maxCP": 1598,
         "cinematicMoves": [
             {
@@ -20081,7 +19878,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CROCONAW"
     },
     {
         "dex": 160,
@@ -20101,7 +19899,6 @@
         "kmBuddyDistance": 3,
         "weight": 88.8,
         "modelScale": 0.73,
-        "id": "FERALIGATR",
         "maxCP": 2721,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -20187,7 +19984,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "FERALIGATR"
     },
     {
         "dex": 161,
@@ -20207,7 +20005,6 @@
         "kmBuddyDistance": 1,
         "weight": 6,
         "modelScale": 1.15,
-        "id": "SENTRET",
         "maxCP": 519,
         "cinematicMoves": [
             {
@@ -20284,7 +20081,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SENTRET"
     },
     {
         "dex": 162,
@@ -20304,7 +20102,6 @@
         "kmBuddyDistance": 1,
         "weight": 32.5,
         "modelScale": 1.08,
-        "id": "FURRET",
         "maxCP": 1667,
         "cinematicMoves": [
             {
@@ -20379,7 +20176,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "FURRET"
     },
     {
         "dex": 163,
@@ -20399,7 +20197,6 @@
         "kmBuddyDistance": 1,
         "weight": 21.2,
         "modelScale": 1.17,
-        "id": "HOOTHOOT",
         "maxCP": 640,
         "cinematicMoves": [
             {
@@ -20480,7 +20277,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "HOOTHOOT"
     },
     {
         "dex": 164,
@@ -20500,7 +20298,6 @@
         "kmBuddyDistance": 1,
         "weight": 40.8,
         "modelScale": 0.81,
-        "id": "NOCTOWL",
         "maxCP": 2040,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -20584,7 +20381,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "NOCTOWL"
     },
     {
         "dex": 165,
@@ -20604,7 +20402,6 @@
         "kmBuddyDistance": 1,
         "weight": 10.8,
         "modelScale": 0.93,
-        "id": "LEDYBA",
         "maxCP": 663,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -20690,7 +20487,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LEDYBA"
     },
     {
         "dex": 166,
@@ -20710,7 +20508,6 @@
         "kmBuddyDistance": 1,
         "weight": 35.6,
         "modelScale": 0.87,
-        "id": "LEDIAN",
         "maxCP": 1275,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -20794,7 +20591,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "LEDIAN"
     },
     {
         "dex": 167,
@@ -20814,7 +20612,6 @@
         "kmBuddyDistance": 1,
         "weight": 8.5,
         "modelScale": 1.32,
-        "id": "SPINARAK",
         "maxCP": 685,
         "cinematicMoves": [
             {
@@ -20895,7 +20692,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SPINARAK"
     },
     {
         "dex": 168,
@@ -20915,7 +20713,6 @@
         "kmBuddyDistance": 1,
         "weight": 33.5,
         "modelScale": 1.02,
-        "id": "ARIADOS",
         "maxCP": 1636,
         "cinematicMoves": [
             {
@@ -20994,7 +20791,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "ARIADOS"
     },
     {
         "dex": 169,
@@ -21014,7 +20812,6 @@
         "kmBuddyDistance": 1,
         "weight": 75,
         "modelScale": 0.66,
-        "id": "CROBAT",
         "maxCP": 2466,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -21105,7 +20902,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "CROBAT"
     },
     {
         "dex": 170,
@@ -21125,7 +20923,6 @@
         "kmBuddyDistance": 3,
         "weight": 12,
         "modelScale": 1.25,
-        "id": "CHINCHOU",
         "maxCP": 1067,
         "cinematicMoves": [
             {
@@ -21207,7 +21004,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CHINCHOU"
     },
     {
         "dex": 171,
@@ -21227,7 +21025,6 @@
         "kmBuddyDistance": 3,
         "weight": 22.5,
         "modelScale": 0.87,
-        "id": "LANTURN",
         "maxCP": 2077,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -21311,7 +21108,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "LANTURN"
     },
     {
         "dex": 172,
@@ -21331,7 +21129,6 @@
         "kmBuddyDistance": 1,
         "weight": 2,
         "modelScale": 1.53,
-        "id": "PICHU",
         "maxCP": 376,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -21416,7 +21213,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PICHU"
     },
     {
         "dex": 173,
@@ -21436,7 +21234,6 @@
         "kmBuddyDistance": 1,
         "weight": 3,
         "modelScale": 1.68,
-        "id": "CLEFFA",
         "maxCP": 620,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -21525,7 +21322,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CLEFFA"
     },
     {
         "dex": 174,
@@ -21545,7 +21343,6 @@
         "kmBuddyDistance": 1,
         "weight": 1,
         "modelScale": 1.61,
-        "id": "IGGLYBUFF",
         "maxCP": 512,
         "cinematicMoves": [
             {
@@ -21635,7 +21432,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "IGGLYBUFF"
     },
     {
         "dex": 175,
@@ -21655,7 +21453,6 @@
         "kmBuddyDistance": 3,
         "weight": 1.5,
         "modelScale": 1.68,
-        "id": "TOGEPI",
         "maxCP": 540,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -21735,7 +21532,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TOGEPI"
     },
     {
         "dex": 176,
@@ -21755,7 +21553,6 @@
         "kmBuddyDistance": 3,
         "weight": 3.2,
         "modelScale": 1.25,
-        "id": "TOGETIC",
         "maxCP": 1543,
         "cinematicMoves": [
             {
@@ -21835,7 +21632,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "TOGETIC"
     },
     {
         "dex": 177,
@@ -21855,7 +21653,6 @@
         "kmBuddyDistance": 3,
         "weight": 2,
         "modelScale": 2,
-        "id": "NATU",
         "maxCP": 925,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -21940,7 +21737,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NATU"
     },
     {
         "dex": 178,
@@ -21960,7 +21758,6 @@
         "kmBuddyDistance": 3,
         "weight": 15,
         "modelScale": 0.81,
-        "id": "XATU",
         "maxCP": 1975,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -22044,7 +21841,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "XATU"
     },
     {
         "dex": 179,
@@ -22064,7 +21862,6 @@
         "kmBuddyDistance": 5,
         "weight": 7.8,
         "modelScale": 1.25,
-        "id": "MAREEP",
         "maxCP": 887,
         "cinematicMoves": [
             {
@@ -22150,7 +21947,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MAREEP"
     },
     {
         "dex": 180,
@@ -22170,7 +21968,6 @@
         "kmBuddyDistance": 5,
         "weight": 13.3,
         "modelScale": 1.1,
-        "id": "FLAAFFY",
         "maxCP": 1402,
         "cinematicMoves": [
             {
@@ -22254,7 +22051,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "FLAAFFY"
     },
     {
         "dex": 181,
@@ -22274,7 +22072,6 @@
         "kmBuddyDistance": 5,
         "weight": 61.5,
         "modelScale": 0.84,
-        "id": "AMPHAROS",
         "maxCP": 2695,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -22360,7 +22157,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "AMPHAROS"
     },
     {
         "dex": 182,
@@ -22380,7 +22178,6 @@
         "kmBuddyDistance": 3,
         "weight": 5.8,
         "modelScale": 1.48,
-        "id": "BELLOSSOM",
         "maxCP": 2108,
         "cinematicMoves": [
             {
@@ -22466,7 +22263,8 @@
                     "name": "Sun Stone"
                 }
             }
-        }
+        },
+        "id": "BELLOSSOM"
     },
     {
         "dex": 183,
@@ -22486,7 +22284,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.5,
         "modelScale": 1.47,
-        "id": "MARILL",
         "maxCP": 420,
         "cinematicMoves": [
             {
@@ -22574,7 +22371,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MARILL"
     },
     {
         "dex": 184,
@@ -22594,7 +22392,6 @@
         "kmBuddyDistance": 3,
         "weight": 28.5,
         "modelScale": 1.15,
-        "id": "AZUMARILL",
         "maxCP": 1503,
         "cinematicMoves": [
             {
@@ -22680,7 +22477,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "AZUMARILL"
     },
     {
         "dex": 185,
@@ -22700,7 +22498,6 @@
         "kmBuddyDistance": 5,
         "weight": 38,
         "modelScale": 0.92,
-        "id": "SUDOWOODO",
         "maxCP": 2065,
         "cinematicMoves": [
             {
@@ -22763,7 +22560,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SUDOWOODO"
     },
     {
         "dex": 186,
@@ -22783,7 +22581,6 @@
         "kmBuddyDistance": 3,
         "weight": 33.9,
         "modelScale": 0.96,
-        "id": "POLITOED",
         "maxCP": 2371,
         "cinematicMoves": [
             {
@@ -22869,7 +22666,8 @@
                     "name": "Kings Rock"
                 }
             }
-        }
+        },
+        "id": "POLITOED"
     },
     {
         "dex": 187,
@@ -22889,7 +22687,6 @@
         "kmBuddyDistance": 3,
         "weight": 0.5,
         "modelScale": 1.09,
-        "id": "HOPPIP",
         "maxCP": 508,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -22984,7 +22781,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "HOPPIP"
     },
     {
         "dex": 188,
@@ -23004,7 +22802,6 @@
         "kmBuddyDistance": 3,
         "weight": 1,
         "modelScale": 1.18,
-        "id": "SKIPLOOM",
         "maxCP": 882,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -23097,7 +22894,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SKIPLOOM"
     },
     {
         "dex": 189,
@@ -23117,7 +22915,6 @@
         "kmBuddyDistance": 3,
         "weight": 3,
         "modelScale": 1.13,
-        "id": "JUMPLUFF",
         "maxCP": 1553,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -23208,7 +23005,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "JUMPLUFF"
     },
     {
         "dex": 190,
@@ -23228,7 +23026,6 @@
         "kmBuddyDistance": 3,
         "weight": 11.5,
         "modelScale": 1.1,
-        "id": "AIPOM",
         "maxCP": 1188,
         "cinematicMoves": [
             {
@@ -23295,7 +23092,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "AIPOM"
     },
     {
         "dex": 191,
@@ -23315,7 +23113,6 @@
         "kmBuddyDistance": 3,
         "weight": 1.8,
         "modelScale": 1.68,
-        "id": "SUNKERN",
         "maxCP": 316,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -23400,7 +23197,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SUNKERN"
     },
     {
         "dex": 192,
@@ -23420,7 +23218,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.5,
         "modelScale": 1.13,
-        "id": "SUNFLORA",
         "maxCP": 2048,
         "cinematicMoves": [
             {
@@ -23499,7 +23296,8 @@
                     "name": "Sun Stone"
                 }
             }
-        }
+        },
+        "id": "SUNFLORA"
     },
     {
         "dex": 193,
@@ -23519,7 +23317,6 @@
         "kmBuddyDistance": 3,
         "weight": 38,
         "modelScale": 0.95,
-        "id": "YANMA",
         "maxCP": 1326,
         "cinematicMoves": [
             {
@@ -23591,7 +23388,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "YANMA"
     },
     {
         "dex": 194,
@@ -23611,7 +23409,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.5,
         "modelScale": 1.48,
-        "id": "WOOPER",
         "maxCP": 596,
         "cinematicMoves": [
             {
@@ -23692,7 +23489,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WOOPER"
     },
     {
         "dex": 195,
@@ -23712,7 +23510,6 @@
         "kmBuddyDistance": 3,
         "weight": 75,
         "modelScale": 0.87,
-        "id": "QUAGSIRE",
         "maxCP": 1929,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -23795,7 +23592,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "QUAGSIRE"
     },
     {
         "dex": 196,
@@ -23815,7 +23613,6 @@
         "kmBuddyDistance": 5,
         "weight": 26.5,
         "modelScale": 1.16,
-        "id": "ESPEON",
         "maxCP": 3000,
         "cinematicMoves": [
             {
@@ -23889,7 +23686,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "ESPEON"
     },
     {
         "dex": 197,
@@ -23909,7 +23707,6 @@
         "kmBuddyDistance": 5,
         "weight": 27,
         "modelScale": 1.03,
-        "id": "UMBREON",
         "maxCP": 2052,
         "cinematicMoves": [
             {
@@ -23979,7 +23776,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "UMBREON"
     },
     {
         "dex": 198,
@@ -23999,7 +23797,6 @@
         "kmBuddyDistance": 3,
         "weight": 2.1,
         "modelScale": 1.35,
-        "id": "MURKROW",
         "maxCP": 1392,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -24074,7 +23871,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MURKROW"
     },
     {
         "dex": 199,
@@ -24094,7 +23892,6 @@
         "kmBuddyDistance": 3,
         "weight": 79.5,
         "modelScale": 0.74,
-        "id": "SLOWKING",
         "maxCP": 2482,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -24178,7 +23975,8 @@
                     "name": "Kings Rock"
                 }
             }
-        }
+        },
+        "id": "SLOWKING"
     },
     {
         "dex": 200,
@@ -24198,7 +23996,6 @@
         "kmBuddyDistance": 3,
         "weight": 1,
         "modelScale": 1.22,
-        "id": "MISDREAVUS",
         "maxCP": 1781,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -24270,7 +24067,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MISDREAVUS"
     },
     {
         "dex": 201,
@@ -24290,7 +24088,6 @@
         "kmBuddyDistance": 5,
         "weight": 5,
         "modelScale": 1.35,
-        "id": "UNOWN",
         "maxCP": 1022,
         "cinematicMoves": [
             {
@@ -24342,7 +24139,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "UNOWN"
     },
     {
         "dex": 202,
@@ -24362,7 +24160,6 @@
         "kmBuddyDistance": 3,
         "weight": 28.5,
         "modelScale": 0.89,
-        "id": "WOBBUFFET",
         "maxCP": 1024,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -24433,7 +24230,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "WOBBUFFET"
     },
     {
         "dex": 203,
@@ -24453,7 +24251,6 @@
         "kmBuddyDistance": 3,
         "weight": 41.5,
         "modelScale": 0.84,
-        "id": "GIRAFARIG",
         "maxCP": 1863,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -24528,7 +24325,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "GIRAFARIG"
     },
     {
         "dex": 204,
@@ -24548,7 +24346,6 @@
         "kmBuddyDistance": 5,
         "weight": 7.2,
         "modelScale": 1.25,
-        "id": "PINECO",
         "maxCP": 1045,
         "cinematicMoves": [
             {
@@ -24625,7 +24422,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PINECO"
     },
     {
         "dex": 205,
@@ -24645,7 +24443,6 @@
         "kmBuddyDistance": 5,
         "weight": 125.8,
         "modelScale": 0.92,
-        "id": "FORRETRESS",
         "maxCP": 2263,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -24729,7 +24526,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "FORRETRESS"
     },
     {
         "dex": 206,
@@ -24749,7 +24547,6 @@
         "kmBuddyDistance": 3,
         "weight": 14,
         "modelScale": 0.84,
-        "id": "DUNSPARCE",
         "maxCP": 1615,
         "cinematicMoves": [
             {
@@ -24816,7 +24613,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DUNSPARCE"
     },
     {
         "dex": 207,
@@ -24836,7 +24634,6 @@
         "kmBuddyDistance": 5,
         "weight": 64.8,
         "modelScale": 0.97,
-        "id": "GLIGAR",
         "maxCP": 1758,
         "cinematicMoves": [
             {
@@ -24908,7 +24705,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "GLIGAR"
     },
     {
         "dex": 208,
@@ -24928,7 +24726,6 @@
         "kmBuddyDistance": 5,
         "weight": 400,
         "modelScale": 0.43,
-        "id": "STEELIX",
         "maxCP": 2439,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -25011,7 +24808,8 @@
                     "name": "Metal Coat"
                 }
             }
-        }
+        },
+        "id": "STEELIX"
     },
     {
         "dex": 209,
@@ -25031,7 +24829,6 @@
         "kmBuddyDistance": 3,
         "weight": 7.8,
         "modelScale": 1.2,
-        "id": "SNUBBULL",
         "maxCP": 1124,
         "cinematicMoves": [
             {
@@ -25108,7 +24905,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SNUBBULL"
     },
     {
         "dex": 210,
@@ -25128,7 +24926,6 @@
         "kmBuddyDistance": 3,
         "weight": 48.7,
         "modelScale": 0.87,
-        "id": "GRANBULL",
         "maxCP": 2440,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -25207,7 +25004,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "GRANBULL"
     },
     {
         "dex": 211,
@@ -25227,7 +25025,6 @@
         "kmBuddyDistance": 3,
         "weight": 3.9,
         "modelScale": 1.35,
-        "id": "QWILFISH",
         "maxCP": 1910,
         "cinematicMoves": [
             {
@@ -25299,7 +25096,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "QWILFISH"
     },
     {
         "dex": 212,
@@ -25319,7 +25117,6 @@
         "kmBuddyDistance": 5,
         "weight": 125,
         "modelScale": 0.76,
-        "id": "SCIZOR",
         "maxCP": 2801,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -25406,7 +25203,8 @@
                     "name": "Metal Coat"
                 }
             }
-        }
+        },
+        "id": "SCIZOR"
     },
     {
         "dex": 213,
@@ -25426,7 +25224,6 @@
         "kmBuddyDistance": 3,
         "weight": 20.5,
         "modelScale": 1.25,
-        "id": "SHUCKLE",
         "maxCP": 300,
         "cinematicMoves": [
             {
@@ -25497,7 +25294,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SHUCKLE"
     },
     {
         "dex": 214,
@@ -25517,7 +25315,6 @@
         "kmBuddyDistance": 3,
         "weight": 54,
         "modelScale": 0.84,
-        "id": "HERACROSS",
         "maxCP": 2938,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -25592,7 +25389,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "HERACROSS"
     },
     {
         "dex": 215,
@@ -25612,7 +25410,6 @@
         "kmBuddyDistance": 3,
         "weight": 28,
         "modelScale": 1.1,
-        "id": "SNEASEL",
         "maxCP": 1868,
         "cinematicMoves": [
             {
@@ -25683,7 +25480,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SNEASEL"
     },
     {
         "dex": 216,
@@ -25703,7 +25501,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.8,
         "modelScale": 1.25,
-        "id": "TEDDIURSA",
         "maxCP": 1184,
         "cinematicMoves": [
             {
@@ -25780,7 +25577,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TEDDIURSA"
     },
     {
         "dex": 217,
@@ -25800,7 +25598,6 @@
         "kmBuddyDistance": 3,
         "weight": 125.8,
         "modelScale": 0.78,
-        "id": "URSARING",
         "maxCP": 2760,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -25879,7 +25676,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "URSARING"
     },
     {
         "dex": 218,
@@ -25899,7 +25697,6 @@
         "kmBuddyDistance": 1,
         "weight": 35,
         "modelScale": 1.2,
-        "id": "SLUGMA",
         "maxCP": 750,
         "cinematicMoves": [
             {
@@ -25976,7 +25773,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SLUGMA"
     },
     {
         "dex": 219,
@@ -25996,7 +25794,6 @@
         "kmBuddyDistance": 1,
         "weight": 55,
         "modelScale": 1.11,
-        "id": "MAGCARGO",
         "maxCP": 1543,
         "cinematicMoves": [
             {
@@ -26075,7 +25872,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MAGCARGO"
     },
     {
         "dex": 220,
@@ -26095,7 +25893,6 @@
         "kmBuddyDistance": 3,
         "weight": 6.5,
         "modelScale": 1.48,
-        "id": "SWINUB",
         "maxCP": 663,
         "cinematicMoves": [
             {
@@ -26176,7 +25973,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SWINUB"
     },
     {
         "dex": 221,
@@ -26196,7 +25994,6 @@
         "kmBuddyDistance": 3,
         "weight": 55.8,
         "modelScale": 0.96,
-        "id": "PILOSWINE",
         "maxCP": 2284,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -26279,7 +26076,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PILOSWINE"
     },
     {
         "dex": 222,
@@ -26299,7 +26097,6 @@
         "kmBuddyDistance": 3,
         "weight": 5,
         "modelScale": 1.25,
-        "id": "CORSOLA",
         "maxCP": 1214,
         "cinematicMoves": [
             {
@@ -26367,7 +26164,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CORSOLA"
     },
     {
         "dex": 223,
@@ -26387,7 +26185,6 @@
         "kmBuddyDistance": 1,
         "weight": 12,
         "modelScale": 1.29,
-        "id": "REMORAID",
         "maxCP": 749,
         "cinematicMoves": [
             {
@@ -26465,7 +26262,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "REMORAID"
     },
     {
         "dex": 224,
@@ -26485,7 +26283,6 @@
         "kmBuddyDistance": 1,
         "weight": 28.5,
         "modelScale": 1.04,
-        "id": "OCTILLERY",
         "maxCP": 2124,
         "cinematicMoves": [
             {
@@ -26560,7 +26357,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "OCTILLERY"
     },
     {
         "dex": 225,
@@ -26580,7 +26378,6 @@
         "kmBuddyDistance": 5,
         "weight": 16,
         "modelScale": 1.1,
-        "id": "DELIBIRD",
         "maxCP": 937,
         "cinematicMoves": [
             {
@@ -26647,7 +26444,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DELIBIRD"
     },
     {
         "dex": 226,
@@ -26667,7 +26465,6 @@
         "kmBuddyDistance": 5,
         "weight": 220,
         "modelScale": 0.73,
-        "id": "MANTINE",
         "maxCP": 2032,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -26743,7 +26540,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MANTINE"
     },
     {
         "dex": 227,
@@ -26763,7 +26561,6 @@
         "kmBuddyDistance": 5,
         "weight": 50.5,
         "modelScale": 0.77,
-        "id": "SKARMORY",
         "maxCP": 2032,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -26839,7 +26636,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SKARMORY"
     },
     {
         "dex": 228,
@@ -26859,7 +26657,6 @@
         "kmBuddyDistance": 3,
         "weight": 10.8,
         "modelScale": 1.25,
-        "id": "HOUNDOUR",
         "maxCP": 1110,
         "cinematicMoves": [
             {
@@ -26940,7 +26737,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "HOUNDOUR"
     },
     {
         "dex": 229,
@@ -26960,7 +26758,6 @@
         "kmBuddyDistance": 3,
         "weight": 35,
         "modelScale": 0.91,
-        "id": "HOUNDOOM",
         "maxCP": 2529,
         "cinematicMoves": [
             {
@@ -27039,7 +26836,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "HOUNDOOM"
     },
     {
         "dex": 230,
@@ -27059,7 +26857,6 @@
         "kmBuddyDistance": 3,
         "weight": 152,
         "modelScale": 0.78,
-        "id": "KINGDRA",
         "maxCP": 2424,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -27154,7 +26951,8 @@
                     "name": "Dragon Scale"
                 }
             }
-        }
+        },
+        "id": "KINGDRA"
     },
     {
         "dex": 231,
@@ -27174,7 +26972,6 @@
         "kmBuddyDistance": 3,
         "weight": 33.5,
         "modelScale": 1.35,
-        "id": "PHANPY",
         "maxCP": 1175,
         "cinematicMoves": [
             {
@@ -27251,7 +27048,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PHANPY"
     },
     {
         "dex": 232,
@@ -27271,7 +27069,6 @@
         "kmBuddyDistance": 3,
         "weight": 120,
         "modelScale": 0.99,
-        "id": "DONPHAN",
         "maxCP": 3022,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -27350,7 +27147,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DONPHAN"
     },
     {
         "dex": 233,
@@ -27370,7 +27168,6 @@
         "kmBuddyDistance": 3,
         "weight": 32.5,
         "modelScale": 1.24,
-        "id": "PORYGON2",
         "maxCP": 2546,
         "cinematicMoves": [
             {
@@ -27446,7 +27243,8 @@
                     "name": "Up Grade"
                 }
             }
-        }
+        },
+        "id": "PORYGON2"
     },
     {
         "dex": 234,
@@ -27466,7 +27264,6 @@
         "kmBuddyDistance": 3,
         "weight": 71.2,
         "modelScale": 0.87,
-        "id": "STANTLER",
         "maxCP": 1988,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -27537,7 +27334,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "STANTLER"
     },
     {
         "dex": 235,
@@ -27557,7 +27355,6 @@
         "kmBuddyDistance": 3,
         "weight": 58,
         "modelScale": 0.92,
-        "id": "SMEARGLE",
         "maxCP": 389,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -27616,7 +27413,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SMEARGLE"
     },
     {
         "dex": 236,
@@ -27636,7 +27434,6 @@
         "kmBuddyDistance": 5,
         "weight": 21,
         "modelScale": 1.17,
-        "id": "TYROGUE",
         "maxCP": 404,
         "cinematicMoves": [
             {
@@ -27726,7 +27523,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TYROGUE"
     },
     {
         "dex": 237,
@@ -27746,7 +27544,6 @@
         "kmBuddyDistance": 5,
         "weight": 48,
         "modelScale": 0.89,
-        "id": "HITMONTOP",
         "maxCP": 1905,
         "cinematicMoves": [
             {
@@ -27821,7 +27618,8 @@
             "costToEvolve": {
                 "candyCost": 25
             }
-        }
+        },
+        "id": "HITMONTOP"
     },
     {
         "dex": 238,
@@ -27841,7 +27639,6 @@
         "kmBuddyDistance": 5,
         "weight": 6,
         "modelScale": 1.37,
-        "id": "SMOOCHUM",
         "maxCP": 1230,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -27925,7 +27722,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SMOOCHUM"
     },
     {
         "dex": 239,
@@ -27945,7 +27743,6 @@
         "kmBuddyDistance": 5,
         "weight": 23.5,
         "modelScale": 1.25,
-        "id": "ELEKID",
         "maxCP": 1073,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -28025,7 +27822,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ELEKID"
     },
     {
         "dex": 240,
@@ -28045,7 +27843,6 @@
         "kmBuddyDistance": 5,
         "weight": 21.4,
         "modelScale": 1.17,
-        "id": "MAGBY",
         "maxCP": 1178,
         "buddySize": {
             "id": "BUDDY_BABY",
@@ -28125,7 +27922,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MAGBY"
     },
     {
         "dex": 241,
@@ -28145,7 +27943,6 @@
         "kmBuddyDistance": 5,
         "weight": 75.5,
         "modelScale": 0.92,
-        "id": "MILTANK",
         "maxCP": 2312,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28216,7 +28013,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MILTANK"
     },
     {
         "dex": 242,
@@ -28236,7 +28034,6 @@
         "kmBuddyDistance": 5,
         "weight": 46.8,
         "modelScale": 0.84,
-        "id": "BLISSEY",
         "maxCP": 3219,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28315,7 +28112,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BLISSEY"
     },
     {
         "dex": 243,
@@ -28335,7 +28133,6 @@
         "kmBuddyDistance": 20,
         "weight": 178,
         "modelScale": 0.78,
-        "id": "RAIKOU",
         "maxCP": 3349,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28406,7 +28203,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "RAIKOU"
     },
     {
         "dex": 244,
@@ -28426,7 +28224,6 @@
         "kmBuddyDistance": 20,
         "weight": 198,
         "modelScale": 0.73,
-        "id": "ENTEI",
         "maxCP": 3377,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28497,7 +28294,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ENTEI"
     },
     {
         "dex": 245,
@@ -28517,7 +28315,6 @@
         "kmBuddyDistance": 20,
         "weight": 187,
         "modelScale": 0.73,
-        "id": "SUICUNE",
         "maxCP": 2823,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28588,7 +28385,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SUICUNE"
     },
     {
         "dex": 246,
@@ -28608,7 +28406,6 @@
         "kmBuddyDistance": 5,
         "weight": 72,
         "modelScale": 1.24,
-        "id": "LARVITAR",
         "maxCP": 904,
         "cinematicMoves": [
             {
@@ -28696,7 +28493,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LARVITAR"
     },
     {
         "dex": 247,
@@ -28716,7 +28514,6 @@
         "kmBuddyDistance": 5,
         "weight": 152,
         "modelScale": 0.92,
-        "id": "PUPITAR",
         "maxCP": 1608,
         "cinematicMoves": [
             {
@@ -28804,7 +28601,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "PUPITAR"
     },
     {
         "dex": 248,
@@ -28824,7 +28622,6 @@
         "kmBuddyDistance": 5,
         "weight": 202,
         "modelScale": 0.74,
-        "id": "TYRANITAR",
         "maxCP": 3670,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -28914,7 +28711,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "TYRANITAR"
     },
     {
         "dex": 249,
@@ -28934,7 +28732,6 @@
         "kmBuddyDistance": 20,
         "weight": 216,
         "modelScale": 0.42,
-        "id": "LUGIA",
         "maxCP": 3598,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -29010,7 +28807,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LUGIA"
     },
     {
         "dex": 250,
@@ -29030,7 +28828,6 @@
         "kmBuddyDistance": 20,
         "weight": 199,
         "modelScale": 0.53,
-        "id": "HO_OH",
         "maxCP": 3889,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -29106,7 +28903,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "HO_OH"
     },
     {
         "dex": 251,
@@ -29126,7 +28924,6 @@
         "kmBuddyDistance": 5,
         "weight": 5,
         "modelScale": 1.2,
-        "id": "CELEBI",
         "maxCP": 3090,
         "cinematicMoves": [
             {
@@ -29197,7 +28994,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CELEBI"
     },
     {
         "dex": 252,
@@ -29217,7 +29015,6 @@
         "kmBuddyDistance": 3,
         "weight": 5,
         "modelScale": 1.35,
-        "id": "TREECKO",
         "maxCP": 923,
         "cinematicMoves": [
             {
@@ -29303,7 +29100,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TREECKO"
     },
     {
         "dex": 253,
@@ -29323,7 +29121,6 @@
         "kmBuddyDistance": 3,
         "weight": 21.6,
         "modelScale": 1.09,
-        "id": "GROVYLE",
         "maxCP": 1508,
         "cinematicMoves": [
             {
@@ -29407,7 +29204,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GROVYLE"
     },
     {
         "dex": 254,
@@ -29427,7 +29225,6 @@
         "kmBuddyDistance": 3,
         "weight": 52.2,
         "modelScale": 0.8,
-        "id": "SCEPTILE",
         "maxCP": 2584,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -29513,7 +29310,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "SCEPTILE"
     },
     {
         "dex": 255,
@@ -29533,7 +29331,6 @@
         "kmBuddyDistance": 3,
         "weight": 2.5,
         "modelScale": 1.48,
-        "id": "TORCHIC",
         "maxCP": 959,
         "cinematicMoves": [
             {
@@ -29619,7 +29416,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TORCHIC"
     },
     {
         "dex": 256,
@@ -29639,7 +29437,6 @@
         "kmBuddyDistance": 3,
         "weight": 19.5,
         "modelScale": 1.03,
-        "id": "COMBUSKEN",
         "maxCP": 1472,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -29731,7 +29528,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "COMBUSKEN"
     },
     {
         "dex": 257,
@@ -29751,7 +29549,6 @@
         "kmBuddyDistance": 3,
         "weight": 52,
         "modelScale": 0.78,
-        "id": "BLAZIKEN",
         "maxCP": 2631,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -29841,7 +29638,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "BLAZIKEN"
     },
     {
         "dex": 258,
@@ -29861,7 +29659,6 @@
         "kmBuddyDistance": 3,
         "weight": 7.6,
         "modelScale": 1.48,
-        "id": "MUDKIP",
         "maxCP": 981,
         "cinematicMoves": [
             {
@@ -29947,7 +29744,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MUDKIP"
     },
     {
         "dex": 259,
@@ -29967,7 +29765,6 @@
         "kmBuddyDistance": 3,
         "weight": 28,
         "modelScale": 1.17,
-        "id": "MARSHTOMP",
         "maxCP": 1617,
         "cinematicMoves": [
             {
@@ -30055,7 +29852,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MARSHTOMP"
     },
     {
         "dex": 260,
@@ -30075,7 +29873,6 @@
         "kmBuddyDistance": 3,
         "weight": 81.9,
         "modelScale": 0.78,
-        "id": "SWAMPERT",
         "maxCP": 2815,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -30165,7 +29962,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "SWAMPERT"
     },
     {
         "dex": 261,
@@ -30185,7 +29983,6 @@
         "kmBuddyDistance": 1,
         "weight": 13.6,
         "modelScale": 1.35,
-        "id": "POOCHYENA",
         "maxCP": 564,
         "cinematicMoves": [
             {
@@ -30262,7 +30059,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "POOCHYENA"
     },
     {
         "dex": 262,
@@ -30282,7 +30080,6 @@
         "kmBuddyDistance": 1,
         "weight": 37,
         "modelScale": 1,
-        "id": "MIGHTYENA",
         "maxCP": 1783,
         "cinematicMoves": [
             {
@@ -30357,7 +30154,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MIGHTYENA"
     },
     {
         "dex": 263,
@@ -30377,7 +30175,6 @@
         "kmBuddyDistance": 1,
         "weight": 17.5,
         "modelScale": 0.96,
-        "id": "ZIGZAGOON",
         "maxCP": 423,
         "cinematicMoves": [
             {
@@ -30454,7 +30251,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ZIGZAGOON"
     },
     {
         "dex": 264,
@@ -30474,7 +30272,6 @@
         "kmBuddyDistance": 1,
         "weight": 32.5,
         "modelScale": 0.78,
-        "id": "LINOONE",
         "maxCP": 1533,
         "cinematicMoves": [
             {
@@ -30549,7 +30346,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "LINOONE"
     },
     {
         "dex": 265,
@@ -30569,7 +30367,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.6,
         "modelScale": 1.92,
-        "id": "WURMPLE",
         "maxCP": 502,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -30667,7 +30464,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WURMPLE"
     },
     {
         "dex": 266,
@@ -30687,7 +30485,6 @@
         "kmBuddyDistance": 1,
         "weight": 10,
         "modelScale": 1.5,
-        "id": "SILCOON",
         "maxCP": 517,
         "cinematicMoves": [
             {
@@ -30763,7 +30560,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SILCOON"
     },
     {
         "dex": 267,
@@ -30783,7 +30581,6 @@
         "kmBuddyDistance": 1,
         "weight": 28.4,
         "modelScale": 0.95,
-        "id": "BEAUTIFLY",
         "maxCP": 1573,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -30874,7 +30671,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BEAUTIFLY"
     },
     {
         "dex": 268,
@@ -30894,7 +30692,6 @@
         "kmBuddyDistance": 1,
         "weight": 11.5,
         "modelScale": 1.4,
-        "id": "CASCOON",
         "maxCP": 517,
         "cinematicMoves": [
             {
@@ -30970,7 +30767,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CASCOON"
     },
     {
         "dex": 269,
@@ -30990,7 +30788,6 @@
         "kmBuddyDistance": 1,
         "weight": 31.6,
         "modelScale": 0.89,
-        "id": "DUSTOX",
         "maxCP": 1121,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -31081,7 +30878,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DUSTOX"
     },
     {
         "dex": 270,
@@ -31101,7 +30899,6 @@
         "kmBuddyDistance": 3,
         "weight": 2.6,
         "modelScale": 1.1,
-        "id": "LOTAD",
         "maxCP": 526,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -31191,7 +30988,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LOTAD"
     },
     {
         "dex": 271,
@@ -31211,7 +31009,6 @@
         "kmBuddyDistance": 3,
         "weight": 32.5,
         "modelScale": 0.85,
-        "id": "LOMBRE",
         "maxCP": 1102,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -31303,7 +31100,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LOMBRE"
     },
     {
         "dex": 272,
@@ -31323,7 +31121,6 @@
         "kmBuddyDistance": 3,
         "weight": 55,
         "modelScale": 1.1,
-        "id": "LUDICOLO",
         "maxCP": 2229,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -31413,7 +31210,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "LUDICOLO"
     },
     {
         "dex": 273,
@@ -31433,7 +31231,6 @@
         "kmBuddyDistance": 3,
         "weight": 4,
         "modelScale": 1.35,
-        "id": "SEEDOT",
         "maxCP": 526,
         "cinematicMoves": [
             {
@@ -31519,7 +31316,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SEEDOT"
     },
     {
         "dex": 274,
@@ -31539,7 +31337,6 @@
         "kmBuddyDistance": 3,
         "weight": 28,
         "modelScale": 1,
-        "id": "NUZLEAF",
         "maxCP": 1117,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -31631,7 +31428,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NUZLEAF"
     },
     {
         "dex": 275,
@@ -31651,7 +31449,6 @@
         "kmBuddyDistance": 3,
         "weight": 59.6,
         "modelScale": 0.98,
-        "id": "SHIFTRY",
         "maxCP": 2186,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -31741,7 +31538,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "SHIFTRY"
     },
     {
         "dex": 276,
@@ -31761,7 +31559,6 @@
         "kmBuddyDistance": 1,
         "weight": 2.3,
         "modelScale": 1.68,
-        "id": "TAILLOW",
         "maxCP": 642,
         "cinematicMoves": [
             {
@@ -31834,7 +31631,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TAILLOW"
     },
     {
         "dex": 277,
@@ -31854,7 +31652,6 @@
         "kmBuddyDistance": 1,
         "weight": 19.8,
         "modelScale": 0.92,
-        "id": "SWELLOW",
         "maxCP": 1747,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -31938,7 +31735,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SWELLOW"
     },
     {
         "dex": 278,
@@ -31958,7 +31756,6 @@
         "kmBuddyDistance": 3,
         "weight": 9.5,
         "modelScale": 0.9,
-        "id": "WINGULL",
         "maxCP": 642,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -32044,7 +31841,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WINGULL"
     },
     {
         "dex": 279,
@@ -32064,7 +31862,6 @@
         "kmBuddyDistance": 3,
         "weight": 28,
         "modelScale": 0.8,
-        "id": "PELIPPER",
         "maxCP": 1969,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -32148,7 +31945,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "PELIPPER"
     },
     {
         "dex": 280,
@@ -32168,7 +31966,6 @@
         "kmBuddyDistance": 5,
         "weight": 6.6,
         "modelScale": 1.48,
-        "id": "RALTS",
         "maxCP": 436,
         "cinematicMoves": [
             {
@@ -32258,7 +32055,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "RALTS"
     },
     {
         "dex": 281,
@@ -32278,7 +32076,6 @@
         "kmBuddyDistance": 5,
         "weight": 20.2,
         "modelScale": 1.3,
-        "id": "KIRLIA",
         "maxCP": 843,
         "cinematicMoves": [
             {
@@ -32366,7 +32163,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "KIRLIA"
     },
     {
         "dex": 282,
@@ -32386,7 +32184,6 @@
         "kmBuddyDistance": 5,
         "weight": 48.4,
         "modelScale": 0.9,
-        "id": "GARDEVOIR",
         "maxCP": 2964,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -32476,7 +32273,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "GARDEVOIR"
     },
     {
         "dex": 283,
@@ -32496,7 +32294,6 @@
         "kmBuddyDistance": 1,
         "weight": 1.7,
         "modelScale": 1.35,
-        "id": "SURSKIT",
         "maxCP": 695,
         "cinematicMoves": [
             {
@@ -32577,7 +32374,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SURSKIT"
     },
     {
         "dex": 284,
@@ -32597,7 +32395,6 @@
         "kmBuddyDistance": 1,
         "weight": 3.6,
         "modelScale": 1.13,
-        "id": "MASQUERAIN",
         "maxCP": 2135,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -32681,7 +32478,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MASQUERAIN"
     },
     {
         "dex": 285,
@@ -32701,7 +32499,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.5,
         "modelScale": 1.48,
-        "id": "SHROOMISH",
         "maxCP": 722,
         "cinematicMoves": [
             {
@@ -32778,7 +32575,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SHROOMISH"
     },
     {
         "dex": 286,
@@ -32798,7 +32596,6 @@
         "kmBuddyDistance": 3,
         "weight": 39.2,
         "modelScale": 1.1,
-        "id": "BRELOOM",
         "maxCP": 2407,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -32881,7 +32678,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BRELOOM"
     },
     {
         "dex": 287,
@@ -32901,7 +32699,6 @@
         "kmBuddyDistance": 5,
         "weight": 24,
         "modelScale": 1.1,
-        "id": "SLAKOTH",
         "maxCP": 942,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -32986,7 +32783,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SLAKOTH"
     },
     {
         "dex": 288,
@@ -33006,7 +32804,6 @@
         "kmBuddyDistance": 5,
         "weight": 46.5,
         "modelScale": 0.84,
-        "id": "VIGOROTH",
         "maxCP": 1896,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -33094,7 +32891,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VIGOROTH"
     },
     {
         "dex": 289,
@@ -33114,7 +32912,6 @@
         "kmBuddyDistance": 5,
         "weight": 130.5,
         "modelScale": 0.9,
-        "id": "SLAKING",
         "maxCP": 4548,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -33193,7 +32990,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "SLAKING"
     },
     {
         "dex": 290,
@@ -33213,7 +33011,6 @@
         "kmBuddyDistance": 5,
         "weight": 5.5,
         "modelScale": 1.5,
-        "id": "NINCADA",
         "maxCP": 674,
         "cinematicMoves": [
             {
@@ -33301,7 +33098,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NINCADA"
     },
     {
         "dex": 291,
@@ -33321,7 +33119,6 @@
         "kmBuddyDistance": 5,
         "weight": 12,
         "modelScale": 1.3,
-        "id": "NINJASK",
         "maxCP": 1751,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -33405,7 +33202,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "NINJASK"
     },
     {
         "dex": 292,
@@ -33425,7 +33223,6 @@
         "kmBuddyDistance": 5,
         "weight": 1.2,
         "modelScale": 1.25,
-        "id": "SHEDINJA",
         "maxCP": 421,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -33505,7 +33302,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SHEDINJA"
     },
     {
         "dex": 293,
@@ -33525,7 +33323,6 @@
         "kmBuddyDistance": 1,
         "weight": 16.3,
         "modelScale": 1.25,
-        "id": "WHISMUR",
         "maxCP": 603,
         "cinematicMoves": [
             {
@@ -33611,7 +33408,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WHISMUR"
     },
     {
         "dex": 294,
@@ -33631,7 +33429,6 @@
         "kmBuddyDistance": 1,
         "weight": 40.5,
         "modelScale": 1,
-        "id": "LOUDRED",
         "maxCP": 1233,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -33719,7 +33516,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LOUDRED"
     },
     {
         "dex": 295,
@@ -33739,7 +33537,6 @@
         "kmBuddyDistance": 1,
         "weight": 84,
         "modelScale": 0.84,
-        "id": "EXPLOUD",
         "maxCP": 2267,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -33825,7 +33622,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "EXPLOUD"
     },
     {
         "dex": 296,
@@ -33845,7 +33643,6 @@
         "kmBuddyDistance": 3,
         "weight": 86.4,
         "modelScale": 1,
-        "id": "MAKUHITA",
         "maxCP": 745,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -33926,7 +33723,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MAKUHITA"
     },
     {
         "dex": 297,
@@ -33946,7 +33744,6 @@
         "kmBuddyDistance": 3,
         "weight": 253.8,
         "modelScale": 0.7,
-        "id": "HARIYAMA",
         "maxCP": 2765,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -34025,7 +33822,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "HARIYAMA"
     },
     {
         "dex": 298,
@@ -34045,7 +33843,6 @@
         "kmBuddyDistance": 3,
         "weight": 2,
         "modelScale": 1.65,
-        "id": "AZURILL",
         "maxCP": 316,
         "cinematicMoves": [
             {
@@ -34135,7 +33932,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "AZURILL"
     },
     {
         "dex": 299,
@@ -34155,7 +33953,6 @@
         "kmBuddyDistance": 3,
         "weight": 97,
         "modelScale": 1,
-        "id": "NOSEPASS",
         "maxCP": 831,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -34226,7 +34023,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "NOSEPASS"
     },
     {
         "dex": 300,
@@ -34246,7 +34044,6 @@
         "kmBuddyDistance": 3,
         "weight": 11,
         "modelScale": 1.25,
-        "id": "SKITTY",
         "maxCP": 659,
         "cinematicMoves": [
             {
@@ -34323,7 +34120,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SKITTY"
     },
     {
         "dex": 301,
@@ -34343,7 +34141,6 @@
         "kmBuddyDistance": 3,
         "weight": 32.6,
         "modelScale": 1.1,
-        "id": "DELCATTY",
         "maxCP": 1385,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -34422,7 +34219,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DELCATTY"
     },
     {
         "dex": 302,
@@ -34442,7 +34240,6 @@
         "kmBuddyDistance": 5,
         "weight": 11,
         "modelScale": 1.35,
-        "id": "SABLEYE",
         "maxCP": 1305,
         "cinematicMoves": [
             {
@@ -34513,7 +34310,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SABLEYE"
     },
     {
         "dex": 303,
@@ -34533,7 +34331,6 @@
         "kmBuddyDistance": 5,
         "weight": 11.5,
         "modelScale": 1.23,
-        "id": "MAWILE",
         "maxCP": 1484,
         "cinematicMoves": [
             {
@@ -34604,7 +34401,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MAWILE"
     },
     {
         "dex": 304,
@@ -34624,7 +34422,6 @@
         "kmBuddyDistance": 1,
         "weight": 60,
         "modelScale": 1.48,
-        "id": "ARON",
         "maxCP": 1232,
         "cinematicMoves": [
             {
@@ -34714,7 +34511,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ARON"
     },
     {
         "dex": 305,
@@ -34734,7 +34532,6 @@
         "kmBuddyDistance": 1,
         "weight": 120,
         "modelScale": 1.05,
-        "id": "LAIRON",
         "maxCP": 2004,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -34826,7 +34623,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LAIRON"
     },
     {
         "dex": 306,
@@ -34846,7 +34644,6 @@
         "kmBuddyDistance": 1,
         "weight": 360,
         "modelScale": 0.71,
-        "id": "AGGRON",
         "maxCP": 3004,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -34936,7 +34733,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "AGGRON"
     },
     {
         "dex": 307,
@@ -34956,7 +34754,6 @@
         "kmBuddyDistance": 3,
         "weight": 11.2,
         "modelScale": 1.27,
-        "id": "MEDITITE",
         "maxCP": 555,
         "cinematicMoves": [
             {
@@ -35037,7 +34834,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "MEDITITE"
     },
     {
         "dex": 308,
@@ -35057,7 +34855,6 @@
         "kmBuddyDistance": 3,
         "weight": 31.5,
         "modelScale": 1,
-        "id": "MEDICHAM",
         "maxCP": 1275,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35140,7 +34937,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MEDICHAM"
     },
     {
         "dex": 309,
@@ -35160,7 +34958,6 @@
         "kmBuddyDistance": 3,
         "weight": 15.2,
         "modelScale": 0.99,
-        "id": "ELECTRIKE",
         "maxCP": 810,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35241,7 +35038,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ELECTRIKE"
     },
     {
         "dex": 310,
@@ -35261,7 +35059,6 @@
         "kmBuddyDistance": 3,
         "weight": 40.2,
         "modelScale": 1,
-        "id": "MANECTRIC",
         "maxCP": 2131,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35340,7 +35137,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "MANECTRIC"
     },
     {
         "dex": 311,
@@ -35360,7 +35158,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.2,
         "modelScale": 1.48,
-        "id": "PLUSLE",
         "maxCP": 1681,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -35431,7 +35228,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "PLUSLE"
     },
     {
         "dex": 312,
@@ -35451,7 +35249,6 @@
         "kmBuddyDistance": 3,
         "weight": 4.2,
         "modelScale": 1.48,
-        "id": "MINUN",
         "maxCP": 1585,
         "buddySize": {
             "id": "BUDDY_SHOULDER",
@@ -35522,7 +35319,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "MINUN"
     },
     {
         "dex": 313,
@@ -35542,7 +35340,6 @@
         "kmBuddyDistance": 3,
         "weight": 17.7,
         "modelScale": 1.17,
-        "id": "VOLBEAT",
         "maxCP": 1620,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35613,7 +35410,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "VOLBEAT"
     },
     {
         "dex": 314,
@@ -35633,7 +35431,6 @@
         "kmBuddyDistance": 3,
         "weight": 17.7,
         "modelScale": 1.25,
-        "id": "ILLUMISE",
         "maxCP": 1620,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35704,7 +35501,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ILLUMISE"
     },
     {
         "dex": 315,
@@ -35724,7 +35522,6 @@
         "kmBuddyDistance": 3,
         "weight": 2,
         "modelScale": 2,
-        "id": "ROSELIA",
         "maxCP": 1718,
         "cinematicMoves": [
             {
@@ -35795,7 +35592,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ROSELIA"
     },
     {
         "dex": 316,
@@ -35815,7 +35613,6 @@
         "kmBuddyDistance": 1,
         "weight": 10.3,
         "modelScale": 1.29,
-        "id": "GULPIN",
         "maxCP": 788,
         "cinematicMoves": [
             {
@@ -35892,7 +35689,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "GULPIN"
     },
     {
         "dex": 317,
@@ -35912,7 +35710,6 @@
         "kmBuddyDistance": 1,
         "weight": 80,
         "modelScale": 0.8,
-        "id": "SWALOT",
         "maxCP": 1872,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -35991,7 +35788,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SWALOT"
     },
     {
         "dex": 318,
@@ -36011,7 +35809,6 @@
         "kmBuddyDistance": 3,
         "weight": 20.8,
         "modelScale": 1.07,
-        "id": "CARVANHA",
         "maxCP": 874,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36097,7 +35894,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CARVANHA"
     },
     {
         "dex": 319,
@@ -36117,7 +35915,6 @@
         "kmBuddyDistance": 3,
         "weight": 88.8,
         "modelScale": 0.88,
-        "id": "SHARPEDO",
         "maxCP": 1986,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36201,7 +35998,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "SHARPEDO"
     },
     {
         "dex": 320,
@@ -36221,7 +36019,6 @@
         "kmBuddyDistance": 1,
         "weight": 130,
         "modelScale": 0.6,
-        "id": "WAILMER",
         "maxCP": 1424,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36303,7 +36100,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WAILMER"
     },
     {
         "dex": 321,
@@ -36323,7 +36121,6 @@
         "kmBuddyDistance": 1,
         "weight": 398,
         "modelScale": 0.18,
-        "id": "WAILORD",
         "maxCP": 2258,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36399,7 +36196,8 @@
             "costToEvolve": {
                 "candyCost": 400
             }
-        }
+        },
+        "id": "WAILORD"
     },
     {
         "dex": 322,
@@ -36419,7 +36217,6 @@
         "kmBuddyDistance": 3,
         "weight": 24,
         "modelScale": 1.17,
-        "id": "NUMEL",
         "maxCP": 957,
         "cinematicMoves": [
             {
@@ -36500,7 +36297,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "NUMEL"
     },
     {
         "dex": 323,
@@ -36520,7 +36318,6 @@
         "kmBuddyDistance": 3,
         "weight": 220,
         "modelScale": 0.8,
-        "id": "CAMERUPT",
         "maxCP": 2016,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36603,7 +36400,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CAMERUPT"
     },
     {
         "dex": 324,
@@ -36623,7 +36421,6 @@
         "kmBuddyDistance": 3,
         "weight": 80.4,
         "modelScale": 1.09,
-        "id": "TORKOAL",
         "maxCP": 2036,
         "cinematicMoves": [
             {
@@ -36687,7 +36484,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "TORKOAL"
     },
     {
         "dex": 325,
@@ -36707,7 +36505,6 @@
         "kmBuddyDistance": 1,
         "weight": 30.6,
         "modelScale": 1.6,
-        "id": "SPOINK",
         "maxCP": 1285,
         "cinematicMoves": [
             {
@@ -36784,7 +36581,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SPOINK"
     },
     {
         "dex": 326,
@@ -36804,7 +36602,6 @@
         "kmBuddyDistance": 1,
         "weight": 71.5,
         "modelScale": 1.4,
-        "id": "GRUMPIG",
         "maxCP": 2310,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36883,7 +36680,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "GRUMPIG"
     },
     {
         "dex": 327,
@@ -36903,7 +36701,6 @@
         "kmBuddyDistance": 3,
         "weight": 5,
         "modelScale": 0.98,
-        "id": "SPINDA",
         "maxCP": 1088,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -36974,7 +36771,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SPINDA"
     },
     {
         "dex": 328,
@@ -36994,7 +36792,6 @@
         "kmBuddyDistance": 5,
         "weight": 15,
         "modelScale": 1.2,
-        "id": "TRAPINCH",
         "maxCP": 1092,
         "cinematicMoves": [
             {
@@ -37080,7 +36877,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "TRAPINCH"
     },
     {
         "dex": 329,
@@ -37100,7 +36898,6 @@
         "kmBuddyDistance": 5,
         "weight": 15.3,
         "modelScale": 0.96,
-        "id": "VIBRAVA",
         "maxCP": 1065,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -37193,7 +36990,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "VIBRAVA"
     },
     {
         "dex": 330,
@@ -37213,7 +37011,6 @@
         "kmBuddyDistance": 5,
         "weight": 82,
         "modelScale": 0.6,
-        "id": "FLYGON",
         "maxCP": 2458,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -37304,7 +37101,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "FLYGON"
     },
     {
         "dex": 331,
@@ -37324,7 +37122,6 @@
         "kmBuddyDistance": 3,
         "weight": 51.3,
         "modelScale": 1.44,
-        "id": "CACNEA",
         "maxCP": 1080,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -37405,7 +37202,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CACNEA"
     },
     {
         "dex": 332,
@@ -37425,7 +37223,6 @@
         "kmBuddyDistance": 3,
         "weight": 77.4,
         "modelScale": 1,
-        "id": "CACTURNE",
         "maxCP": 2092,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -37508,7 +37305,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CACTURNE"
     },
     {
         "dex": 333,
@@ -37528,7 +37326,6 @@
         "kmBuddyDistance": 1,
         "weight": 1.2,
         "modelScale": 0.87,
-        "id": "SWABLU",
         "maxCP": 722,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -37613,7 +37410,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SWABLU"
     },
     {
         "dex": 334,
@@ -37633,7 +37431,6 @@
         "kmBuddyDistance": 1,
         "weight": 20.6,
         "modelScale": 0.72,
-        "id": "ALTARIA",
         "maxCP": 1868,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -37717,7 +37514,8 @@
             "costToEvolve": {
                 "candyCost": 400
             }
-        }
+        },
+        "id": "ALTARIA"
     },
     {
         "dex": 335,
@@ -37737,7 +37535,6 @@
         "kmBuddyDistance": 3,
         "weight": 40.3,
         "modelScale": 0.88,
-        "id": "ZANGOOSE",
         "maxCP": 2214,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -37808,7 +37605,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ZANGOOSE"
     },
     {
         "dex": 336,
@@ -37828,7 +37626,6 @@
         "kmBuddyDistance": 3,
         "weight": 52.5,
         "modelScale": 1.3,
-        "id": "SEVIPER",
         "maxCP": 1928,
         "cinematicMoves": [
             {
@@ -37895,7 +37692,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SEVIPER"
     },
     {
         "dex": 337,
@@ -37915,7 +37713,6 @@
         "kmBuddyDistance": 3,
         "weight": 168,
         "modelScale": 1,
-        "id": "LUNATONE",
         "maxCP": 2245,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -37987,7 +37784,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LUNATONE"
     },
     {
         "dex": 338,
@@ -38007,7 +37805,6 @@
         "kmBuddyDistance": 3,
         "weight": 154,
         "modelScale": 0.92,
-        "id": "SOLROCK",
         "maxCP": 2245,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -38079,7 +37876,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "SOLROCK"
     },
     {
         "dex": 339,
@@ -38099,7 +37897,6 @@
         "kmBuddyDistance": 1,
         "weight": 1.9,
         "modelScale": 1.8,
-        "id": "BARBOACH",
         "maxCP": 716,
         "cinematicMoves": [
             {
@@ -38181,7 +37978,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BARBOACH"
     },
     {
         "dex": 340,
@@ -38201,7 +37999,6 @@
         "kmBuddyDistance": 1,
         "weight": 23.6,
         "modelScale": 1.3,
-        "id": "WHISCASH",
         "maxCP": 1991,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38285,7 +38082,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "WHISCASH"
     },
     {
         "dex": 341,
@@ -38305,7 +38103,6 @@
         "kmBuddyDistance": 3,
         "weight": 11.5,
         "modelScale": 1.28,
-        "id": "CORPHISH",
         "maxCP": 1107,
         "cinematicMoves": [
             {
@@ -38382,7 +38179,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CORPHISH"
     },
     {
         "dex": 342,
@@ -38402,7 +38200,6 @@
         "kmBuddyDistance": 3,
         "weight": 32.8,
         "modelScale": 0.92,
-        "id": "CRAWDAUNT",
         "maxCP": 2317,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38485,7 +38282,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CRAWDAUNT"
     },
     {
         "dex": 343,
@@ -38505,7 +38303,6 @@
         "kmBuddyDistance": 3,
         "weight": 21.5,
         "modelScale": 1.35,
-        "id": "BALTOY",
         "maxCP": 676,
         "cinematicMoves": [
             {
@@ -38583,7 +38380,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BALTOY"
     },
     {
         "dex": 344,
@@ -38603,7 +38401,6 @@
         "kmBuddyDistance": 3,
         "weight": 108,
         "modelScale": 0.88,
-        "id": "CLAYDOL",
         "maxCP": 1782,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38683,7 +38480,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CLAYDOL"
     },
     {
         "dex": 345,
@@ -38703,7 +38501,6 @@
         "kmBuddyDistance": 3,
         "weight": 23.8,
         "modelScale": 1.04,
-        "id": "LILEEP",
         "maxCP": 1181,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38785,7 +38582,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "LILEEP"
     },
     {
         "dex": 346,
@@ -38805,7 +38603,6 @@
         "kmBuddyDistance": 3,
         "weight": 60.4,
         "modelScale": 0.85,
-        "id": "CRADILY",
         "maxCP": 2081,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38885,7 +38682,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "CRADILY"
     },
     {
         "dex": 347,
@@ -38905,7 +38703,6 @@
         "kmBuddyDistance": 3,
         "weight": 12.5,
         "modelScale": 1.17,
-        "id": "ANORITH",
         "maxCP": 1310,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -38990,7 +38787,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "ANORITH"
     },
     {
         "dex": 348,
@@ -39010,7 +38808,6 @@
         "kmBuddyDistance": 3,
         "weight": 68.2,
         "modelScale": 0.87,
-        "id": "ARMALDO",
         "maxCP": 2675,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -39093,7 +38890,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "ARMALDO"
     },
     {
         "dex": 349,
@@ -39113,7 +38911,6 @@
         "kmBuddyDistance": 5,
         "weight": 7.4,
         "modelScale": 1.25,
-        "id": "FEEBAS",
         "maxCP": 220,
         "cinematicMoves": [
             {
@@ -39184,7 +38981,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "FEEBAS"
     },
     {
         "dex": 350,
@@ -39204,7 +39002,6 @@
         "kmBuddyDistance": 5,
         "weight": 162,
         "modelScale": 0.7,
-        "id": "MILOTIC",
         "maxCP": 2967,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -39284,7 +39081,8 @@
                 "candyCost": 100,
                 "kmBuddyDistance": 20
             }
-        }
+        },
+        "id": "MILOTIC"
     },
     {
         "dex": 351,
@@ -39304,7 +39102,6 @@
         "kmBuddyDistance": 5,
         "weight": 0.8,
         "modelScale": 1.57,
-        "id": "CASTFORM",
         "maxCP": 1486,
         "cinematicMoves": [
             {
@@ -39368,11 +39165,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CASTFORM"
     },
     {
         "dex": 351,
-        "name": "Castform",
+        "name": "Castform Normal",
         "animationTime": [
             1.3333,
             0.6667,
@@ -39388,7 +39186,6 @@
         "kmBuddyDistance": 5,
         "weight": 0.8,
         "modelScale": 1.57,
-        "id": "CASTFORM",
         "maxCP": 1486,
         "cinematicMoves": [
             {
@@ -39452,11 +39249,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CASTFORM_NORMAL"
     },
     {
         "dex": 351,
-        "name": "Castform",
+        "name": "Castform Rainy",
         "animationTime": [
             1.3333,
             0.6667,
@@ -39472,7 +39270,6 @@
         "kmBuddyDistance": 5,
         "weight": 0.8,
         "modelScale": 1.57,
-        "id": "CASTFORM",
         "maxCP": 1486,
         "cinematicMoves": [
             {
@@ -39536,11 +39333,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CASTFORM_RAINY"
     },
     {
         "dex": 351,
-        "name": "Castform",
+        "name": "Castform Snowy",
         "animationTime": [
             1.3333,
             0.6667,
@@ -39556,7 +39354,6 @@
         "kmBuddyDistance": 5,
         "weight": 0.8,
         "modelScale": 1.57,
-        "id": "CASTFORM",
         "maxCP": 1486,
         "cinematicMoves": [
             {
@@ -39620,11 +39417,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CASTFORM_SNOWY"
     },
     {
         "dex": 351,
-        "name": "Castform",
+        "name": "Castform Sunny",
         "animationTime": [
             1.3333,
             0.6667,
@@ -39640,7 +39438,6 @@
         "kmBuddyDistance": 5,
         "weight": 0.8,
         "modelScale": 1.57,
-        "id": "CASTFORM",
         "maxCP": 1486,
         "cinematicMoves": [
             {
@@ -39704,7 +39501,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CASTFORM_SUNNY"
     },
     {
         "dex": 352,
@@ -39724,7 +39522,6 @@
         "kmBuddyDistance": 5,
         "weight": 22,
         "modelScale": 1.02,
-        "id": "KECLEON",
         "maxCP": 1924,
         "cinematicMoves": [
             {
@@ -39803,7 +39600,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "KECLEON"
     },
     {
         "dex": 353,
@@ -39823,7 +39621,6 @@
         "kmBuddyDistance": 3,
         "weight": 2.3,
         "modelScale": 1.21,
-        "id": "SHUPPET",
         "maxCP": 872,
         "cinematicMoves": [
             {
@@ -39901,7 +39698,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SHUPPET"
     },
     {
         "dex": 354,
@@ -39921,7 +39719,6 @@
         "kmBuddyDistance": 3,
         "weight": 12.5,
         "modelScale": 0.97,
-        "id": "BANETTE",
         "maxCP": 2073,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40000,7 +39797,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "BANETTE"
     },
     {
         "dex": 355,
@@ -40020,7 +39818,6 @@
         "kmBuddyDistance": 3,
         "weight": 15,
         "modelScale": 1.1,
-        "id": "DUSKULL",
         "maxCP": 523,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40101,7 +39898,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "DUSKULL"
     },
     {
         "dex": 356,
@@ -40121,7 +39919,6 @@
         "kmBuddyDistance": 3,
         "weight": 30.6,
         "modelScale": 0.83,
-        "id": "DUSCLOPS",
         "maxCP": 1335,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40200,7 +39997,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "DUSCLOPS"
     },
     {
         "dex": 357,
@@ -40220,7 +40018,6 @@
         "kmBuddyDistance": 5,
         "weight": 100,
         "modelScale": 0.62,
-        "id": "TROPIUS",
         "maxCP": 1846,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40296,7 +40093,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "TROPIUS"
     },
     {
         "dex": 358,
@@ -40316,7 +40114,6 @@
         "kmBuddyDistance": 5,
         "weight": 1,
         "modelScale": 1.26,
-        "id": "CHIMECHO",
         "maxCP": 2095,
         "cinematicMoves": [
             {
@@ -40384,7 +40181,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "CHIMECHO"
     },
     {
         "dex": 359,
@@ -40404,7 +40202,6 @@
         "kmBuddyDistance": 5,
         "weight": 47,
         "modelScale": 1,
-        "id": "ABSOL",
         "maxCP": 2280,
         "cinematicMoves": [
             {
@@ -40471,7 +40268,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "ABSOL"
     },
     {
         "dex": 360,
@@ -40491,7 +40289,6 @@
         "kmBuddyDistance": 3,
         "weight": 14,
         "modelScale": 1.1,
-        "id": "WYNAUT",
         "maxCP": 503,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40564,7 +40361,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "WYNAUT"
     },
     {
         "dex": 361,
@@ -40584,7 +40382,6 @@
         "kmBuddyDistance": 3,
         "weight": 16.8,
         "modelScale": 1.1,
-        "id": "SNORUNT",
         "maxCP": 772,
         "cinematicMoves": [
             {
@@ -40661,7 +40458,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SNORUNT"
     },
     {
         "dex": 362,
@@ -40681,7 +40479,6 @@
         "kmBuddyDistance": 3,
         "weight": 256.5,
         "modelScale": 0.84,
-        "id": "GLALIE",
         "maxCP": 1945,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40761,7 +40558,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "GLALIE"
     },
     {
         "dex": 363,
@@ -40781,7 +40579,6 @@
         "kmBuddyDistance": 3,
         "weight": 39.5,
         "modelScale": 1.1,
-        "id": "SPHEAL",
         "maxCP": 876,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40875,7 +40672,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SPHEAL"
     },
     {
         "dex": 364,
@@ -40895,7 +40693,6 @@
         "kmBuddyDistance": 3,
         "weight": 87.6,
         "modelScale": 0.9,
-        "id": "SEALEO",
         "maxCP": 1607,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -40987,7 +40784,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SEALEO"
     },
     {
         "dex": 365,
@@ -41007,7 +40805,6 @@
         "kmBuddyDistance": 3,
         "weight": 150.6,
         "modelScale": 0.95,
-        "id": "WALREIN",
         "maxCP": 2606,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41097,7 +40894,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "WALREIN"
     },
     {
         "dex": 366,
@@ -41117,7 +40915,6 @@
         "kmBuddyDistance": 3,
         "weight": 52.5,
         "modelScale": 1.48,
-        "id": "CLAMPERL",
         "maxCP": 1091,
         "cinematicMoves": [
             {
@@ -41193,7 +40990,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "CLAMPERL"
     },
     {
         "dex": 367,
@@ -41213,7 +41011,6 @@
         "kmBuddyDistance": 3,
         "weight": 27,
         "modelScale": 1.3,
-        "id": "HUNTAIL",
         "maxCP": 2140,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41292,7 +41089,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "HUNTAIL"
     },
     {
         "dex": 368,
@@ -41312,7 +41110,6 @@
         "kmBuddyDistance": 3,
         "weight": 22.6,
         "modelScale": 1.3,
-        "id": "GOREBYSS",
         "maxCP": 2281,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41391,7 +41188,8 @@
             "costToEvolve": {
                 "candyCost": 50
             }
-        }
+        },
+        "id": "GOREBYSS"
     },
     {
         "dex": 369,
@@ -41411,7 +41209,6 @@
         "kmBuddyDistance": 5,
         "weight": 23.4,
         "modelScale": 1.04,
-        "id": "RELICANTH",
         "maxCP": 2557,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41487,7 +41284,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "RELICANTH"
     },
     {
         "dex": 370,
@@ -41507,7 +41305,6 @@
         "kmBuddyDistance": 3,
         "weight": 8.7,
         "modelScale": 1.25,
-        "id": "LUVDISC",
         "maxCP": 735,
         "cinematicMoves": [
             {
@@ -41575,7 +41372,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LUVDISC"
     },
     {
         "dex": 371,
@@ -41595,7 +41393,6 @@
         "kmBuddyDistance": 5,
         "weight": 42.1,
         "modelScale": 1.2,
-        "id": "BAGON",
         "maxCP": 1053,
         "cinematicMoves": [
             {
@@ -41681,7 +41478,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BAGON"
     },
     {
         "dex": 372,
@@ -41701,7 +41499,6 @@
         "kmBuddyDistance": 5,
         "weight": 110.5,
         "modelScale": 0.96,
-        "id": "SHELGON",
         "maxCP": 1958,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41789,7 +41586,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "SHELGON"
     },
     {
         "dex": 373,
@@ -41809,7 +41607,6 @@
         "kmBuddyDistance": 5,
         "weight": 102.6,
         "modelScale": 0.82,
-        "id": "SALAMENCE",
         "maxCP": 3532,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -41900,7 +41697,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "SALAMENCE"
     },
     {
         "dex": 374,
@@ -41920,7 +41718,6 @@
         "kmBuddyDistance": 5,
         "weight": 95.2,
         "modelScale": 1.33,
-        "id": "BELDUM",
         "maxCP": 843,
         "cinematicMoves": [
             {
@@ -41995,7 +41792,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "BELDUM"
     },
     {
         "dex": 375,
@@ -42015,7 +41813,6 @@
         "kmBuddyDistance": 5,
         "weight": 202.5,
         "modelScale": 0.83,
-        "id": "METANG",
         "maxCP": 1570,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42104,7 +41901,8 @@
                     }
                 }
             ]
-        }
+        },
+        "id": "METANG"
     },
     {
         "dex": 376,
@@ -42124,7 +41922,6 @@
         "kmBuddyDistance": 5,
         "weight": 550,
         "modelScale": 0.66,
-        "id": "METAGROSS",
         "maxCP": 3637,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42210,7 +42007,8 @@
             "costToEvolve": {
                 "candyCost": 100
             }
-        }
+        },
+        "id": "METAGROSS"
     },
     {
         "dex": 377,
@@ -42230,7 +42028,6 @@
         "kmBuddyDistance": 20,
         "weight": 230,
         "modelScale": 0.8,
-        "id": "REGIROCK",
         "maxCP": 3087,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42301,7 +42098,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "REGIROCK"
     },
     {
         "dex": 378,
@@ -42321,7 +42119,6 @@
         "kmBuddyDistance": 20,
         "weight": 175,
         "modelScale": 0.78,
-        "id": "REGICE",
         "maxCP": 3087,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42392,7 +42189,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "REGICE"
     },
     {
         "dex": 379,
@@ -42412,7 +42210,6 @@
         "kmBuddyDistance": 20,
         "weight": 205,
         "modelScale": 0.6,
-        "id": "REGISTEEL",
         "maxCP": 2261,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42483,7 +42280,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "REGISTEEL"
     },
     {
         "dex": 380,
@@ -42503,7 +42301,6 @@
         "kmBuddyDistance": 20,
         "weight": 40,
         "modelScale": 1.2,
-        "id": "LATIAS",
         "maxCP": 3377,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -42583,7 +42380,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LATIAS"
     },
     {
         "dex": 381,
@@ -42603,7 +42401,6 @@
         "kmBuddyDistance": 20,
         "weight": 60,
         "modelScale": 0.76,
-        "id": "LATIOS",
         "maxCP": 3644,
         "buddySize": {
             "id": "BUDDY_FLYING",
@@ -42683,7 +42480,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "LATIOS"
     },
     {
         "dex": 382,
@@ -42703,7 +42501,6 @@
         "kmBuddyDistance": 20,
         "weight": 352,
         "modelScale": 0.56,
-        "id": "KYOGRE",
         "maxCP": 4074,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42771,7 +42568,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "KYOGRE"
     },
     {
         "dex": 383,
@@ -42791,7 +42589,6 @@
         "kmBuddyDistance": 20,
         "weight": 950,
         "modelScale": 0.56,
-        "id": "GROUDON",
         "maxCP": 4074,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42859,7 +42656,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "GROUDON"
     },
     {
         "dex": 384,
@@ -42879,7 +42677,6 @@
         "kmBuddyDistance": 20,
         "weight": 206.5,
         "modelScale": 0.57,
-        "id": "RAYQUAZA",
         "maxCP": 3645,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -42955,7 +42752,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "RAYQUAZA"
     },
     {
         "dex": 385,
@@ -42975,7 +42773,6 @@
         "kmBuddyDistance": 20,
         "weight": 1.1,
         "modelScale": 1.68,
-        "id": "JIRACHI",
         "maxCP": 3090,
         "cinematicMoves": [
             {
@@ -43047,7 +42844,8 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "JIRACHI"
     },
     {
         "dex": 386,
@@ -43067,7 +42865,6 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "id": "DEOXYS",
         "maxCP": 15,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -43138,11 +42935,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DEOXYS"
     },
     {
         "dex": 386,
-        "name": "Deoxys",
+        "name": "Deoxys Attack",
         "animationTime": [
             1.3333,
             0.6667,
@@ -43158,7 +42956,6 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "id": "DEOXYS",
         "maxCP": 15,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -43229,11 +43026,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DEOXYS_ATTACK"
     },
     {
         "dex": 386,
-        "name": "Deoxys",
+        "name": "Deoxys Defense",
         "animationTime": [
             1.3333,
             0.6667,
@@ -43249,7 +43047,6 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "id": "DEOXYS",
         "maxCP": 15,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -43320,11 +43117,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DEOXYS_DEFENSE"
     },
     {
         "dex": 386,
-        "name": "Deoxys",
+        "name": "Deoxys Normal",
         "animationTime": [
             1.3333,
             0.6667,
@@ -43340,7 +43138,6 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "id": "DEOXYS",
         "maxCP": 15,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -43411,11 +43208,12 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DEOXYS_NORMAL"
     },
     {
         "dex": 386,
-        "name": "Deoxys",
+        "name": "Deoxys Speed",
         "animationTime": [
             1.3333,
             0.6667,
@@ -43431,7 +43229,6 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "id": "DEOXYS",
         "maxCP": 15,
         "buddySize": {
             "id": "BUDDY_BIG",
@@ -43502,6 +43299,7 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {}
+        "evolution": {},
+        "id": "DEOXYS_SPEED"
     }
 ]

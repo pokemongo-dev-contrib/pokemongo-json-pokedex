@@ -11,7 +11,7 @@ export class Name implements IComponent {
    * Parses the english name of the Pokemon (eg: "BULBASAUR" => "Bulbasaur")
    */
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-    pokemon.name = Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.pokemonId);
+    pokemon.name = Util.SnakeCase2HumanReadable(rawPokemon.templateId.substring(14));
     return pokemon;
   }
 }

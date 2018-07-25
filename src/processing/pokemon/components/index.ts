@@ -14,3 +14,4 @@ import './encounter/genderPercentage';
 import './camera';
 import './evolution';
 import './explicit';
+import './id'

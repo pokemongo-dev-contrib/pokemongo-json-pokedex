@@ -6,11 +6,14 @@ import { ItemTemplate } from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
 import { Identifyable } from '@core';
+import { Id } from '../id';
+import { TemplateIdToId } from '../shared/templateIdToId';
 
 @Component({
     pipeline: 'pokemon',
     type: ComponentType.ADVANCED_MAP,
     dependencies: [
+        new Id(),
         new GenericPropertyMapper(),
         new PokemonEvolutionParser(),
     ]
@@ -64,7 +67,7 @@ export class FutureBranches implements IComponent {
      * @param pokemonId The pokemon id
      */
     private GetRawPokemonById(pokemonId): ItemTemplate {
-        return this.rawPokemons.find(pokemon => pokemon.pokemonSettings.pokemonId === pokemonId);
+        return this.rawPokemons.find(pokemon => TemplateIdToId(pokemon) === pokemonId);
     }
 
     /**
@@ -77,9 +80,9 @@ export class FutureBranches implements IComponent {
             return undefined;
         }
         return futurePokemons.map(futurePokemon => ({
-            ...Util.SnakeCase2Identifyable(futurePokemon.pokemonSettings.pokemonId),
+            ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
             futureBranches: this.GetFutureBranches(futurePokemon),
-            costToEvolve: this.GetEvolutionCost(futurePokemon.pokemonSettings.pokemonId, rawPokemon),
+            costToEvolve: this.GetEvolutionCost(TemplateIdToId(futurePokemon), rawPokemon),
         } as FutureEvolutionBranch))
     }
 

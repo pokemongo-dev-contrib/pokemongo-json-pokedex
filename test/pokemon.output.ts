@@ -1,6 +1,7 @@
 import { Move } from '@outcome/move';
 import { Pokemon } from '@outcome/pokemon';
 import { expect } from 'chai';
+import { uniqBy } from 'lodash';
 
 describe('Pokemon Output', () => {
     let input: Pokemon[];
@@ -13,6 +14,10 @@ describe('Pokemon Output', () => {
     it('should have pokemons', () => {
         expect(input.length).to.not.equal(0);
         expect(input.length).to.equal(430);
+    });
+
+    it('should have unique id', () => {
+        expect(uniqBy(input, 'id').length).to.equal(input.length)
     });
 
     it('should have values', () => {

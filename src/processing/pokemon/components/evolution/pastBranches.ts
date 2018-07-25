@@ -1,16 +1,19 @@
 import { Component, ComponentType, IComponent } from '@core/pipeline/component';
-import { EvolutionCostToEvolve, PastEvolutionBranch, Pokemon, PokemonEvolution } from '@outcome/pokemon';
+import { EvolutionCostToEvolve, PastEvolutionBranch, Pokemon, PokemonEvolution } from '@outcome/pokemon/index';
 
 import { GenericPropertyMapper } from '../genericPropertyMapper';
-import { ItemTemplate } from '@income';
+import { ItemTemplate } from '@income/index';
 import { PokemonEvolutionParser } from './pokemonEvolution';
-import { Util } from '@util';
-import { Identifyable } from '@core';
+import { Util } from '@util/index';
+import { Identifyable } from '@core/index';
+import { Id } from '../id';
+import { TemplateIdToId } from '../shared/templateIdToId';
 
 @Component({
     pipeline: 'pokemon',
     type: ComponentType.ADVANCED_MAP,
     dependencies: [
+        new Id(),
         new GenericPropertyMapper(),
         new PokemonEvolutionParser(),
     ]
@@ -26,7 +29,7 @@ export class PastBranches implements IComponent {
      * @param pokemonId The pokemon id
      */
     private GetRawPokemonById(pokemonId): ItemTemplate {
-        return this.rawPokemons.find(pokemon => pokemon.pokemonSettings.pokemonId === pokemonId);
+        return this.rawPokemons.find(pokemon => TemplateIdToId(pokemon) === pokemonId);
     }
 
     /**
@@ -47,7 +50,6 @@ export class PastBranches implements IComponent {
      */
     private GetEvolutionCost(pokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         if (!rawPokemon) return undefined;
-
         const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch.find(evolution => evolution.evolution === pokemonId);
 
         // Make evolutionItemRequirement to Identifyable
@@ -75,10 +77,15 @@ export class PastBranches implements IComponent {
         if (!pastPokemon) {
             return undefined;
         }
+
+        const rawPastPokemon = this.GetPreviousRawEvolution(TemplateIdToId(pastPokemon));
+
+        const costToEvolve = this.GetEvolutionCost(TemplateIdToId(pastPokemon), rawPastPokemon);
+        const pastBranch = this.GetPastBranch(TemplateIdToId(pastPokemon));
         return {
-            ...Util.SnakeCase2Identifyable(pastPokemon.pokemonSettings.pokemonId),
-            pastBranch: this.GetPastBranch(pastPokemon.pokemonSettings.pokemonId),
-            costToEvolve: this.GetEvolutionCost(pastPokemon.pokemonSettings.pokemonId, this.GetPreviousRawEvolution(pastPokemon.pokemonSettings.pokemonId)),
+            ...Util.SnakeCase2Identifyable(TemplateIdToId(pastPokemon)),
+            pastBranch,
+            costToEvolve
         };
     }
     Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[]): Pokemon[] {

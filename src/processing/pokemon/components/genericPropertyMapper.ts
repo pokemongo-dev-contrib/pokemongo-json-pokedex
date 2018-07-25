@@ -1,9 +1,13 @@
 import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
+import { Id } from '../../type/components/id';
 
 @Component({
-  pipeline: 'pokemon'
+  pipeline: 'pokemon',
+  dependencies: [
+    new Id()
+  ]
 })
 export class GenericPropertyMapper implements IComponent {
   /**
@@ -16,7 +20,6 @@ export class GenericPropertyMapper implements IComponent {
     pokemon.kmBuddyDistance = rawPokemon.pokemonSettings.kmBuddyDistance;
     pokemon.weight = rawPokemon.pokemonSettings.pokedexWeightKg;
     pokemon.modelScale = rawPokemon.pokemonSettings.modelScale;
-    pokemon.id = rawPokemon.pokemonSettings.pokemonId;
 
     return pokemon;
   }
