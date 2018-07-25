@@ -3,9 +3,13 @@ import { Component, IComponent } from '@core/pipeline/index';
 import { Item, ItemEffect } from '@outcome/item/index';
 import { ItemTemplate } from '@income/index';
 import { Util } from '@util/util';
+import { Food } from './food';
 
 @Component({
-  pipeline: 'item'
+  pipeline: 'item',
+  dependencies: [
+    new Food()
+  ]
 })
 export class Effect implements IComponent {
   /**
@@ -20,7 +24,7 @@ export class Effect implements IComponent {
     const effects = rawItem.itemSettings.food.itemEffect;
     const effectPercents = rawItem.itemSettings.food.itemEffectPercent;
 
-    item.effect = effects.map((effect: string, index: number): ItemEffect => {
+    item.food.effect = effects.map((effect: string, index: number): ItemEffect => {
       return {
         ...Util.SnakeCase2Identifyable(effect.replace('ITEM_EFFECT_', '')),
         effectPercent: effectPercents[index]

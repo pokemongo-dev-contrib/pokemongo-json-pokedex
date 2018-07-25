@@ -37,7 +37,7 @@ describe('Item Output', () => {
 
     it('items with effect should have a effectPercent', () => {
         input.forEach(item => {
-            (item.effect || []).forEach(effect => expect(effect.effectPercent).to.not.equal(undefined));
+            ((item.food || {}).effect || []).forEach(effect => expect(effect.effectPercent).to.not.equal(undefined));
         });
     });
 });

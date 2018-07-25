@@ -11,13 +11,16 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 100,
-        "effect": [
-            {
-                "name": "Cap No Movement",
-                "id": "CAP_NO_MOVEMENT",
-                "effectPercent": 1
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Cap No Movement",
+                    "id": "CAP_NO_MOVEMENT",
+                    "effectPercent": 1
+                }
+            ],
+            "growthPercent": 0.1
+        }
     },
     {
         "id": "DRAGON_SCALE",
@@ -70,18 +73,20 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 10,
-        "effect": [
-            {
-                "name": "Cap Chance Single Throw",
-                "id": "CAP_CHANCE_SINGLE_THROW",
-                "effectPercent": 2.5
-            },
-            {
-                "name": "Full Motivation",
-                "id": "FULL_MOTIVATION",
-                "effectPercent": 1
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Cap Chance Single Throw",
+                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "effectPercent": 2.5
+                },
+                {
+                    "name": "Full Motivation",
+                    "id": "FULL_MOTIVATION",
+                    "effectPercent": 1
+                }
+            ]
+        }
     },
     {
         "id": "GREAT_BALL",
@@ -303,13 +308,16 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 4,
-        "effect": [
-            {
-                "name": "Cap Target Slow",
-                "id": "CAP_TARGET_SLOW",
-                "effectPercent": 0.05
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Cap Target Slow",
+                    "id": "CAP_TARGET_SLOW",
+                    "effectPercent": 0.05
+                }
+            ],
+            "growthPercent": 0.1
+        }
     },
     {
         "id": "PAID_RAID_TICKET",
@@ -336,13 +344,16 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 18,
-        "effect": [
-            {
-                "name": "Candy Award",
-                "id": "CANDY_AWARD",
-                "effectPercent": 2
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Candy Award",
+                    "id": "CANDY_AWARD",
+                    "effectPercent": 2
+                }
+            ],
+            "growthPercent": 0.1
+        }
     },
     {
         "id": "POKEMON_STORAGE_UPGRADE",
@@ -421,13 +432,16 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 8,
-        "effect": [
-            {
-                "name": "Cap Chance Single Throw",
-                "id": "CAP_CHANCE_SINGLE_THROW",
-                "effectPercent": 1.5
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Cap Chance Single Throw",
+                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "effectPercent": 1.5
+                }
+            ],
+            "growthPercent": 0.1
+        }
     },
     {
         "id": "REVIVE",
@@ -545,13 +559,16 @@
             "id": "FOOD"
         },
         "dropTrainerLevel": 100,
-        "effect": [
-            {
-                "name": "Cap Target Max",
-                "id": "CAP_TARGET_MAX",
-                "effectPercent": 1
-            }
-        ]
+        "food": {
+            "effect": [
+                {
+                    "name": "Cap Target Max",
+                    "id": "CAP_TARGET_MAX",
+                    "effectPercent": 1
+                }
+            ],
+            "growthPercent": 0.1
+        }
     },
     {
         "id": "X_ATTACK",

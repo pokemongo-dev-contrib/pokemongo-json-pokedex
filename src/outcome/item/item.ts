@@ -1,4 +1,4 @@
-import { Identifyable } from '@core/identifyable';
+import { Identifyable } from '../../core/identifyable';
 
 export class ItemEffect implements Identifyable {
     /**
@@ -13,6 +13,17 @@ export class ItemEffect implements Identifyable {
      * The effectiveness of the effect in percent
      */
     public effectPercent: number;
+}
+
+export class ItemFood {
+    /**
+     * Effect of the item (e.g. Berry effect)
+     */
+    public effect: ItemEffect[];
+    /**
+     * The amount of growth in percent
+     */
+    public growthPercent: number;
 }
 
 export class Item {
@@ -39,7 +50,8 @@ export class Item {
      */
     public type: Identifyable;
     /**
-     * Effect of the item (e.g. Berry effect)
+     * Data of a food item
      */
-    public effect: ItemEffect[];
+    public food?: ItemFood;
+
 }
