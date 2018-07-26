@@ -1,0 +1,12 @@
+import './id';
+import './name';
+import './category';
+import './type';
+import './genericPropertyMapper';
+import './food';
+import './potion';
+import './incense';
+import './revive';
+import './eggIncubinator';
+import './inventoryUpgrade';
+import './xpBoost';

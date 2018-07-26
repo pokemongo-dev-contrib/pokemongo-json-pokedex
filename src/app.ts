@@ -1,12 +1,13 @@
 import * as fs from 'fs';
 
-import APP_SETTINGS from '@settings/app';
-import { AvatarCustomizationPipeline } from './processing/avatarCustomization';
-import { MovePipeline } from './processing/move';
-import { Pipeline } from '@core';
-import { PokemonPipeline } from './processing/pokemon';
-import { TypePipeline } from './processing/type';
+import APP_SETTINGS from './app.settings';
+import { AvatarCustomizationPipeline } from './processing/avatarCustomization/index';
+import { MovePipeline } from './processing/move/index';
+import { Pipeline } from './core/index';
+import { PokemonPipeline } from './processing/pokemon/index';
+import { TypePipeline } from './processing/type/index';
 import chalk from 'chalk';
+import { ItemPipeline } from './processing/item/index';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');
@@ -26,3 +27,4 @@ write('./output/pokemon.json', new PokemonPipeline(gameMaster), 'Pokemons');
 write('./output/type.json', new TypePipeline(gameMaster), 'Types');
 write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
 write('./output/move.json', new MovePipeline(gameMaster), 'Moves');
+write('./output/item.json', new ItemPipeline(gameMaster), 'Items');
