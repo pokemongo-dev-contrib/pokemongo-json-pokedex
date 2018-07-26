@@ -24,6 +24,10 @@ export class ItemFood {
      * The amount of growth in percent
      */
     public growthPercent: number;
+    /**
+     * Unknown
+     */
+    public berryMultiplier?: number;
 }
 
 export class ItemPotion {
@@ -68,4 +72,8 @@ export class Item {
      * Data of a potion item
      */
     public potion?: ItemPotion;
+    /**
+     * Data of a potion item
+     */
+    public revive?: ItemPotion;
 }
