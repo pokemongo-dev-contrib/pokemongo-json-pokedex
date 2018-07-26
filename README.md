@@ -33,6 +33,8 @@ wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-poke
 wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/type.json
 # Downloads the latest Avatar Customization data and saves it to the file avatar-customization.json
 wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/avatar-customization.json
+# Downloads the latest Items data and saves it to the file item.json
+wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/item.json
 
 ```
 
@@ -44,6 +46,7 @@ const pokemon = require('pokemongo-json-pokedex/output/pokemon.json');
 const move = require('pokemongo-json-pokedex/output/move.json');
 const type = require('pokemongo-json-pokedex/output/type.json');
 const avatarCustomization = require('pokemongo-json-pokedex/output/avatar-customization.json');
+const items = require('pokemongo-json-pokedex/output/item.json');
 
 ```
 
