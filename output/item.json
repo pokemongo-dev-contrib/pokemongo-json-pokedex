@@ -360,6 +360,7 @@
         "dropTrainerLevel": 4,
         "food": {
             "berryMultiplier": 1.25,
+            "remoteBerryMultiplier": 0.3125,
             "effect": [
                 {
                     "name": "Cap Target Slow",
@@ -397,6 +398,7 @@
         "dropTrainerLevel": 18,
         "food": {
             "berryMultiplier": 1,
+            "remoteBerryMultiplier": 0.25,
             "effect": [
                 {
                     "name": "Candy Award",
@@ -496,6 +498,7 @@
         "dropTrainerLevel": 8,
         "food": {
             "berryMultiplier": 1,
+            "remoteBerryMultiplier": 0.25,
             "effect": [
                 {
                     "name": "Cap Chance Single Throw",

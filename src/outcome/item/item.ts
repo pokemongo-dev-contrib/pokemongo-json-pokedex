@@ -29,6 +29,10 @@ export class ItemFood {
      * Unknown
      */
     public berryMultiplier?: number;
+    /**
+     * Unknown
+     */
+    public remoteBerryMultiplier?: number;
 }
 
 export class ItemPotion {

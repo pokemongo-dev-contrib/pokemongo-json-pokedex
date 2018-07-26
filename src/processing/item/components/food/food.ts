@@ -18,6 +18,7 @@ export class Food implements IComponent {
 
         item.food = item.food || {} as ItemFood;
         item.food.berryMultiplier = rawItem.itemSettings.food.berryMultiplier;
+        item.food.remoteBerryMultiplier = rawItem.itemSettings.food.remoteBerryMultiplier;
 
         return item;
     }
