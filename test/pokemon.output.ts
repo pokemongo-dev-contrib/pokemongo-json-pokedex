@@ -18,6 +18,16 @@ describe('Pokemon Output', () => {
 
     it('should have unique id', () => {
         expect(uniqBy(input, 'id').length).to.equal(input.length)
+
+    });
+
+    it('should have unique moves for each pokemon', () => {
+        input.forEach((pokemon) => {
+            expect(uniqBy(pokemon.cinematicMoves, 'id').length, `cinematicMoves[x].id of ${pokemon.id} is not unique`).to.equal(pokemon.cinematicMoves.length)
+        });
+        input.forEach((pokemon) => {
+            expect(uniqBy(pokemon.quickMoves, 'id').length, `quickMoves[x].id of ${pokemon.id} is not unique`).to.equal(pokemon.quickMoves.length)
+        });
     });
 
     it('should have values', () => {
