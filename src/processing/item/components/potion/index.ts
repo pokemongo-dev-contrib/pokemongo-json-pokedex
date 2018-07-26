@@ -1,2 +1,2 @@
 import './potion';
-import './staminaAmount';
+import './stamina';

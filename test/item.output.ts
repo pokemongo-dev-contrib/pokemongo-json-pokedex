@@ -48,4 +48,15 @@ describe('Item Output', () => {
             }
         });
     });
+
+    it('incense items should have all properties', () => {
+        input.forEach(item => {
+            if (item.incense) {
+                expect(item.incense.distanceRequiredForShorterIntervalMeters).to.not.equal(undefined);
+                expect(item.incense.incenseLifeTimeSceonds).to.not.equal(undefined);
+                expect(item.incense.movingTimeBetweenEncounterSeconds).to.not.equal(undefined);
+                expect(item.incense.standingTimeBetweenEncountersSeconds).to.not.equal(undefined);
+            }
+        });
+    });
 });

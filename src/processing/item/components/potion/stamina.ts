@@ -15,8 +15,8 @@ export class StaminaAmount implements IComponent {
      * Stamina amount
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        // Is a food
-        if (!rawItem.itemSettings.food) {
+        // Is a potion
+        if (!rawItem.itemSettings.potion) {
             return item;
         }
 

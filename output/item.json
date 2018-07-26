@@ -74,6 +74,7 @@
         },
         "dropTrainerLevel": 10,
         "food": {
+            "berryMultiplier": 1,
             "effect": [
                 {
                     "name": "Cap Chance Single Throw",
@@ -112,7 +113,10 @@
             "name": "Potion",
             "id": "POTION"
         },
-        "dropTrainerLevel": 15
+        "dropTrainerLevel": 15,
+        "potion": {
+            "staminaAmount": 200
+        }
     },
     {
         "id": "INCENSE_ORDINARY",
@@ -125,7 +129,13 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "incense": {
+            "distanceRequiredForShorterIntervalMeters": 200,
+            "incenseLifeTimeSceonds": 1800,
+            "movingTimeBetweenEncounterSeconds": 60,
+            "standingTimeBetweenEncountersSeconds": 300
+        }
     },
     {
         "id": "INCUBATOR_BASIC",
@@ -242,7 +252,10 @@
             "name": "Potion",
             "id": "POTION"
         },
-        "dropTrainerLevel": 25
+        "dropTrainerLevel": 25,
+        "potion": {
+            "staminaPercent": 1
+        }
     },
     {
         "id": "MAX_REVIVE",
@@ -309,6 +322,7 @@
         },
         "dropTrainerLevel": 4,
         "food": {
+            "berryMultiplier": 1.25,
             "effect": [
                 {
                     "name": "Cap Target Slow",
@@ -345,6 +359,7 @@
         },
         "dropTrainerLevel": 18,
         "food": {
+            "berryMultiplier": 1,
             "effect": [
                 {
                     "name": "Candy Award",
@@ -392,7 +407,10 @@
             "name": "Potion",
             "id": "POTION"
         },
-        "dropTrainerLevel": 5
+        "dropTrainerLevel": 5,
+        "potion": {
+            "staminaAmount": 20
+        }
     },
     {
         "id": "PREMIER_BALL",
@@ -433,6 +451,7 @@
         },
         "dropTrainerLevel": 8,
         "food": {
+            "berryMultiplier": 1,
             "effect": [
                 {
                     "name": "Cap Chance Single Throw",
@@ -506,7 +525,10 @@
             "name": "Potion",
             "id": "POTION"
         },
-        "dropTrainerLevel": 10
+        "dropTrainerLevel": 10,
+        "potion": {
+            "staminaAmount": 50
+        }
     },
     {
         "id": "TROY_DISK",

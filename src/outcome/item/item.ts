@@ -41,6 +41,25 @@ export class ItemPotion {
     staminaPercent: number;
 }
 
+export class ItemIncense {
+    /**
+     * The time the incense is active in seconds
+     */
+    incenseLifeTimeSceonds: number;
+    /**
+     * The standing time between encounters in seconds
+     */
+    standingTimeBetweenEncountersSeconds: number;
+    /**
+     * The moving time between encounters in seconds
+     */
+    movingTimeBetweenEncounterSeconds: number;
+    /**
+     * The distance required for shorter intervals in meters
+     */
+    distanceRequiredForShorterIntervalMeters: number;
+}
+
 export class Item {
     /**
      * The identifier of the item
@@ -76,4 +95,8 @@ export class Item {
      * Data of a potion item
      */
     public revive?: ItemPotion;
+    /**
+     * Data of an incense item
+     */
+    public incense: ItemIncense;
 }

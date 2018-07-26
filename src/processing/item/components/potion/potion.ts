@@ -11,8 +11,8 @@ export class Potion implements IComponent {
      * Sets the potion object
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        // Is a food
-        if (!rawItem.itemSettings.food) {
+        // Is a potion
+        if (!rawItem.itemSettings.potion) {
             return item;
         }
 
