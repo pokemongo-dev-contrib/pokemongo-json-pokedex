@@ -9,3 +9,4 @@ import './incense';
 import './revive';
 import './eggIncubinator';
 import './inventoryUpgrade';
+import './xpBoost';

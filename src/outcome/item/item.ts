@@ -1,4 +1,5 @@
 import { Identifyable } from '../../core/identifyable';
+import { XpBoost } from '../../income/index';
 
 export class ItemEffect implements Identifyable {
     /**
@@ -95,6 +96,18 @@ export class ItemInventoryUpgrade {
     type: Identifyable;
 }
 
+export class ItemXpBoost {
+    /**
+     * The xpBoost mulitplier during the duration in percent
+     */
+    xpMultiplier: number;
+
+    /**
+     * The duration of the boost in miliseconds
+     */
+    boostDurationMs: number;
+}
+
 export class Item {
     /**
      * The identifier of the item
@@ -138,5 +151,12 @@ export class Item {
      * Data of an egg incubinator
      */
     public eggIncubinator?: ItemEggIncubinator;
+    /**
+     * Data of an inventory upgrade
+     */
     public inventoryUpgrade?: ItemInventoryUpgrade;
+    /**
+     * Data of a xp boost
+     */
+    public xpBoost?: ItemXpBoost;
 }

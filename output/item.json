@@ -256,7 +256,11 @@
             "name": "Xp Boost",
             "id": "XP_BOOST"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "xpBoost": {
+            "boostDurationMs": 1800000,
+            "xpMultiplier": 2
+        }
     },
     {
         "id": "MASTER_BALL",

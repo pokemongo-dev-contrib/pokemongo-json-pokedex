@@ -75,4 +75,13 @@ describe('Item Output', () => {
             }
         });
     });
+
+    it('xpBoost items should have all properties', () => {
+        input.forEach(item => {
+            if (item.xpBoost) {
+                expect(item.xpBoost.boostDurationMs, `xpBoost.boostDurationMs ${item.id} `).to.not.equal(undefined);
+                expect(item.xpBoost.xpMultiplier, `xpBoost.xpMultiplier ${item.id} `).to.not.equal(undefined);
+            }
+        });
+    });
 });
