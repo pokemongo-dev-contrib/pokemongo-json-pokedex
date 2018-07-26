@@ -112,6 +112,17 @@ export class ItemXpBoost {
     boostDurationMs: number;
 }
 
+export class ItemStardustBoost {
+    /**
+     * The stardust multiplier during the boost duration in percent
+     */
+    stardustMultiplier: number;
+    /**
+     * The boost duration in miliseconds
+     */
+    boostDurationMs: number;
+}
+
 export class Item {
     /**
      * The identifier of the item
@@ -163,4 +174,8 @@ export class Item {
      * Data of a xp boost
      */
     public xpBoost?: ItemXpBoost;
+    /**
+     * Data of a stardust booster
+     */
+    public stardustBoost?: ItemStardustBoost;
 }

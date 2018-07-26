@@ -84,4 +84,13 @@ describe('Item Output', () => {
             }
         });
     });
+
+    it('stardustBoost items should have all properties', () => {
+        input.forEach(item => {
+            if (item.stardustBoost) {
+                expect(item.stardustBoost.boostDurationMs, `stardustBoost.boostDurationMs ${item.id} `).to.not.equal(undefined);
+                expect(item.stardustBoost.stardustMultiplier, `stardustBoost.stardustMultiplier ${item.id} `).to.not.equal(undefined);
+            }
+        });
+    });
 });
