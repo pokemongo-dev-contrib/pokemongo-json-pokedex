@@ -210,7 +210,14 @@
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "inventoryUpgrade": {
+            "additionalStorage": 50,
+            "type": {
+                "name": "Increase Item Storage",
+                "id": "INCREASE_ITEM_STORAGE"
+            }
+        }
     },
     {
         "id": "KINGS_ROCK",
@@ -407,7 +414,14 @@
             "name": "Inventory Upgrade",
             "id": "INVENTORY_UPGRADE"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "inventoryUpgrade": {
+            "additionalStorage": 50,
+            "type": {
+                "name": "Increase Pokemon Storage",
+                "id": "INCREASE_POKEMON_STORAGE"
+            }
+        }
     },
     {
         "id": "POKE_BALL",

@@ -8,3 +8,4 @@ import './potion';
 import './incense';
 import './revive';
 import './eggIncubinator';
+import './inventoryUpgrade';

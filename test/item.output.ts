@@ -56,4 +56,23 @@ describe('Item Output', () => {
             }
         });
     });
+
+    it('inventoryUpgrade items should have all properties', () => {
+        input.forEach(item => {
+            if (item.inventoryUpgrade) {
+                expect(item.inventoryUpgrade.additionalStorage).to.not.equal(undefined);
+                expect(item.inventoryUpgrade.type.name).to.not.equal(undefined);
+                expect(item.inventoryUpgrade.type.id).to.not.equal(undefined);
+            }
+        });
+    });
+
+    it('eggIncubinator items should have all properties', () => {
+        input.forEach(item => {
+            if (item.eggIncubinator) {
+                expect(item.eggIncubinator.type.name, `eggIncubinator.type.name ${item.id} `).to.not.equal(undefined);
+                expect(item.eggIncubinator.type.id, `eggIncubinator.type.id ${item.id} `).to.not.equal(undefined);
+            }
+        });
+    });
 });

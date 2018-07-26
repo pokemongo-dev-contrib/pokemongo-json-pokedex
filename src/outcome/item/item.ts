@@ -76,11 +76,23 @@ export class ItemEggIncubinator {
     /**
      * The amount of uses of the incubinator until its broken
      */
-    uses: number;
+    uses?: number;
     /**
      * The multiplier of the distance in percent
      */
     distanceMultiplier: number;
+}
+
+export class ItemInventoryUpgrade {
+    /**
+     * The amount of additional storage
+     */
+    additionalStorage: number;
+    /**
+     * The type of the upgrade
+     * e.g. Increase Pokemone Storage
+     */
+    type: Identifyable;
 }
 
 export class Item {
@@ -126,4 +138,5 @@ export class Item {
      * Data of an egg incubinator
      */
     public eggIncubinator?: ItemEggIncubinator;
+    public inventoryUpgrade?: ItemInventoryUpgrade;
 }
