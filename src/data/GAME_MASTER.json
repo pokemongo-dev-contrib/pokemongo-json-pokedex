@@ -45668,6 +45668,25 @@
             }
         },
         {
+            "templateId": "V0299_MOVE_HYDRO_CANNON",
+            "moveSettings": {
+                "movementId": "HYDRO_CANNON",
+                "animationId": 5,
+                "pokemonType": "POKEMON_TYPE_WATER",
+                "power": 90,
+                "accuracyChance": 1,
+                "criticalChance": 0.05,
+                "staminaLossScalar": 0.065,
+                "trainerLevelMin": 1,
+                "trainerLevelMax": 100,
+                "vfxName": "hydro_cannon",
+                "durationMs": 1900,
+                "damageWindowStartMs": 500,
+                "damageWindowEndMs": 1600,
+                "energyDelta": -50
+            }
+        },
+        {
             "templateId": "V0299_POKEMON_NOSEPASS",
             "pokemonSettings": {
                 "pokemonId": "NOSEPASS",
@@ -74601,6 +74620,20 @@
             }
         },
         {
+            "templateId": "sequence_hydro_cannon",
+            "moveSequenceSettings": {
+                "sequence": [
+                    "anim attacker atk-move",
+                    "wait 0.5",
+                    "vfx hydro_cannon",
+                    "sfx attacker 308-0_hydro_cannon",
+                    "wait 1.5",
+                    "sys ui-sync",
+                    "sys complete"
+                ]
+            }
+        },
+        {
             "templateId": "sequence_hydro_pump",
             "moveSequenceSettings": {
                 "sequence": [
@@ -76390,6 +76423,6 @@
             }
         }
     ],
-    "timestampMs": "1531334404553",
-    "version": "0.108.3\n"
+    "timestampMs": "1532333601371",
+    "version": "1532333601371\n"
 }

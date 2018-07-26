@@ -3988,5 +3988,26 @@
         },
         "name": "Blast Burn",
         "internalId": 298
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 90,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.065,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "hydro_cannon",
+        "durationMs": 1900,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50,
+        "id": "HYDRO_CANNON",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Hydro Cannon",
+        "internalId": 299
     }
 ]
