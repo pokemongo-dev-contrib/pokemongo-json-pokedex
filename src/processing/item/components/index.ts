@@ -6,3 +6,5 @@ import './genericPropertyMapper';
 import './food';
 import './potion';
 import './incense';
+import './revive';
+import './eggIncubinator';

@@ -148,7 +148,15 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "eggIncubinator": {
+            "uses": 3,
+            "distanceMultiplier": 1,
+            "type": {
+                "name": "Distance",
+                "id": "DISTANCE"
+            }
+        }
     },
     {
         "id": "INCUBATOR_BASIC_UNLIMITED",
@@ -161,7 +169,14 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "eggIncubinator": {
+            "distanceMultiplier": 1,
+            "type": {
+                "name": "Distance",
+                "id": "DISTANCE"
+            }
+        }
     },
     {
         "id": "INCUBATOR_SUPER",
@@ -174,7 +189,15 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 100,
+        "eggIncubinator": {
+            "uses": 3,
+            "distanceMultiplier": 0.6666667,
+            "type": {
+                "name": "Distance",
+                "id": "DISTANCE"
+            }
+        }
     },
     {
         "id": "ITEM_STORAGE_UPGRADE",
@@ -268,7 +291,10 @@
             "name": "Revive",
             "id": "REVIVE"
         },
-        "dropTrainerLevel": 30
+        "dropTrainerLevel": 30,
+        "revive": {
+            "staminaPercent": 1
+        }
     },
     {
         "id": "METAL_COAT",
@@ -473,7 +499,10 @@
             "name": "Revive",
             "id": "REVIVE"
         },
-        "dropTrainerLevel": 5
+        "dropTrainerLevel": 5,
+        "revive": {
+            "staminaPercent": 0.5
+        }
     },
     {
         "id": "SPECIAL_CAMERA",

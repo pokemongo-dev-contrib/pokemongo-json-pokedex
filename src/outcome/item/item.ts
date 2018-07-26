@@ -60,6 +60,29 @@ export class ItemIncense {
     distanceRequiredForShorterIntervalMeters: number;
 }
 
+export class ItemRevive {
+    /**
+     * The percent of stamina which gets recharged
+     */
+    staminaPercent: number;
+}
+
+export class ItemEggIncubinator {
+    /**
+     * The type of the incubinator
+     * e.g. distance
+     */
+    type: Identifyable;
+    /**
+     * The amount of uses of the incubinator until its broken
+     */
+    uses: number;
+    /**
+     * The multiplier of the distance in percent
+     */
+    distanceMultiplier: number;
+}
+
 export class Item {
     /**
      * The identifier of the item
@@ -92,11 +115,15 @@ export class Item {
      */
     public potion?: ItemPotion;
     /**
-     * Data of a potion item
-     */
-    public revive?: ItemPotion;
-    /**
      * Data of an incense item
      */
-    public incense: ItemIncense;
+    public incense?: ItemIncense;
+    /**
+     * Data of a revive item
+     */
+    public revive?: ItemRevive;
+    /**
+     * Data of an egg incubinator
+     */
+    public eggIncubinator?: ItemEggIncubinator;
 }
