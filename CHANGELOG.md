@@ -1,3 +1,16 @@
+# Version 3.1.1 (26.07.2018)
+
+## Features
+
+- **Add**: Items
+- **Fix**: Duplicate moves for mew issue#6
+- **Fix**: Not unique id for alolan forms issue#8
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
+
 # Version 3.0.2 (04.07.2018)
 
 ## Features
