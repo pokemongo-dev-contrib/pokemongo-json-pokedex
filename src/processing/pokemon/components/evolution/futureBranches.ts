@@ -2,12 +2,13 @@ import { Component, ComponentType, IComponent } from '@core/pipeline/component';
 import { EvolutionCostToEvolve, FutureEvolutionBranch, Pokemon, PokemonEvolution } from '@outcome/pokemon';
 
 import { GenericPropertyMapper } from '../genericPropertyMapper';
-import { ItemTemplate, EvolutionBranch } from '@income';
+import { ItemTemplate } from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
 import { Identifyable } from '@core';
 import { Id } from '../id';
 import { TemplateIdToId } from '../shared/templateIdToId';
+import { getPokemonIdByEvolutionBranch } from './shared/getPokemonIdByEvolutionBranch';
 
 @Component({
     pipeline: 'pokemon',
@@ -24,25 +25,13 @@ import { TemplateIdToId } from '../shared/templateIdToId';
  */
 export class FutureBranches implements IComponent {
     rawPokemons: ItemTemplate[];
-
-    private getPokemonIdByEvolutionBranch(branch: EvolutionBranch) {
-        const formId = branch.form;
-        let pokemonId: string;
-        // Check if form ends does not end with NORMAL (so e.g. ALOLAN)
-        if (formId && !formId.endsWith('_NORMAL')) {
-            pokemonId = formId;
-        } else {
-            pokemonId = branch.evolution;
-        }
-        return pokemonId;
-    }
     /**
      * Returns the future evolutions from the given GAME_MASTER data.
      * @param pokemonId The id of the pokemon
      */
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
         return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
-            const pokemonId = this.getPokemonIdByEvolutionBranch(branch);
+            const pokemonId = getPokemonIdByEvolutionBranch(branch);
             return this.GetRawPokemonById(pokemonId)
         });
     }
@@ -54,7 +43,7 @@ export class FutureBranches implements IComponent {
      */
     private GetEvolutionCost(futurePokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || [])
-            .find(branch => this.getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
+            .find(branch => getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
 
         // If no evolution is found, just return nothing
         if (!evolutionBranch) {

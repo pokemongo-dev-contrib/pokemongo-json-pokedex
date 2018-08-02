@@ -2158,7 +2158,15 @@
             "diskRadius": 0.7898,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Rattata Alola",
+                "id": "RATTATA_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            }
+        },
         "id": "RATICATE_ALOLA"
     },
     {
@@ -3160,7 +3168,15 @@
             "diskRadius": 0.6,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Sandshrew Alola",
+                "id": "SANDSHREW_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "SANDSLASH_ALOLA"
     },
     {
@@ -4302,7 +4318,15 @@
             "diskRadius": 1.296,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Vulpix Alola",
+                "id": "VULPIX_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "NINETALES_ALOLA"
     },
     {
@@ -5755,7 +5779,15 @@
             "diskRadius": 1.008,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Diglett Alola",
+                "id": "DIGLETT_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "DUGTRIO_ALOLA"
     },
     {
@@ -6099,7 +6131,15 @@
             "diskRadius": 0.7995,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Meowth Alola",
+                "id": "MEOWTH_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "PERSIAN_ALOLA"
     },
     {
@@ -8452,6 +8492,13 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {
+            "pastBranch": {
+                "name": "Geodude Alola",
+                "id": "GEODUDE_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
             "futureBranches": [
                 {
                     "name": "Golem Alola",
@@ -8650,7 +8697,22 @@
             "diskRadius": 0.945,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Graveler Alola",
+                "id": "GRAVELER_ALOLA",
+                "pastBranch": {
+                    "name": "Geodude Alola",
+                    "id": "GEODUDE_ALOLA"
+                },
+                "costToEvolve": {
+                    "candyCost": 25
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
         "id": "GOLEM_ALOLA"
     },
     {
@@ -10035,7 +10097,15 @@
             "diskRadius": 1.14,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Grimer Alola",
+                "id": "GRIMER_ALOLA"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "MUK_ALOLA"
     },
     {

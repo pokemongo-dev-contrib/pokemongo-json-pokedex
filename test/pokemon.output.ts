@@ -187,9 +187,14 @@ describe('Pokemon Output', () => {
                 item => expect(item.name, 'FARFETCHD should have the name Farfetch\'d').to.equal('Farfetch\'d'),
             ],
             'RATTATA_ALOLA': [
-                item => expect(item.evolution.futureBranches[0].id, 'Alolan Rattata first evolution Id should be RATICATE_ALOLA').to.equal('RATICATE_ALOLA'),
-                item => expect(item.evolution.futureBranches[0].name, 'Alolan Rattata first evolution Name should be Raticate Alola').to.equal('Raticate Alola'),
+                item => expect(item.evolution.futureBranches[0].id, 'Alolan Rattata past first evolution Id should be RATICATE_ALOLA').to.equal('RATICATE_ALOLA'),
+                item => expect(item.evolution.futureBranches[0].name, 'Alolan Rattata past first evolution Name should be Raticate Alola').to.equal('Raticate Alola'),
                 item => expect(item.evolution.futureBranches[0].costToEvolve.candyCost, 'Alolan Rattata should cost 25 candy to evolve').to.equal(25)
+            ],
+            'RATICATE_ALOLA': [
+                item => expect(item.evolution.pastBranch.id, 'Alolan Raticate first past evolution Id should be RATICATE_ALOLA').to.equal('RATTATA_ALOLA'),
+                item => expect(item.evolution.pastBranch.name, 'Alolan Raticate first past evolution Name should be Raticate Alola').to.equal('Rattata Alola'),
+                item => expect(item.evolution.costToEvolve.candyCost, 'Alolan Raticate should cost 25 candy to evolve').to.equal(25)
             ]
 
         };
