@@ -1981,8 +1981,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Raticate",
-                    "id": "RATICATE",
+                    "name": "Raticate Alola",
+                    "id": "RATICATE_ALOLA",
                     "costToEvolve": {
                         "candyCost": 25
                     }
@@ -2983,8 +2983,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Sandslash",
-                    "id": "SANDSLASH",
+                    "name": "Sandslash Alola",
+                    "id": "SANDSLASH_ALOLA",
                     "costToEvolve": {
                         "candyCost": 50
                     }
@@ -4117,8 +4117,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Ninetales",
-                    "id": "NINETALES",
+                    "name": "Ninetales Alola",
+                    "id": "NINETALES_ALOLA",
                     "costToEvolve": {
                         "candyCost": 50
                     }
@@ -5580,8 +5580,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Dugtrio",
-                    "id": "DUGTRIO",
+                    "name": "Dugtrio Alola",
+                    "id": "DUGTRIO_ALOLA",
                     "costToEvolve": {
                         "candyCost": 50
                     }
@@ -5926,8 +5926,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Persian",
-                    "id": "PERSIAN",
+                    "name": "Persian Alola",
+                    "id": "PERSIAN_ALOLA",
                     "costToEvolve": {
                         "candyCost": 50
                     }
@@ -8244,12 +8244,12 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Graveler",
-                    "id": "GRAVELER",
+                    "name": "Graveler Alola",
+                    "id": "GRAVELER_ALOLA",
                     "futureBranches": [
                         {
-                            "name": "Golem",
-                            "id": "GOLEM",
+                            "name": "Golem Alola",
+                            "id": "GOLEM_ALOLA",
                             "costToEvolve": {
                                 "candyCost": 100
                             }
@@ -8454,8 +8454,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Golem",
-                    "id": "GOLEM",
+                    "name": "Golem Alola",
+                    "id": "GOLEM_ALOLA",
                     "costToEvolve": {
                         "candyCost": 100
                     }
@@ -9850,8 +9850,8 @@
         "evolution": {
             "futureBranches": [
                 {
-                    "name": "Muk",
-                    "id": "MUK",
+                    "name": "Muk Alola",
+                    "id": "MUK_ALOLA",
                     "costToEvolve": {
                         "candyCost": 50
                     }
