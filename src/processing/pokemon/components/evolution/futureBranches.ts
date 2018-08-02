@@ -8,6 +8,7 @@ import { Util } from '@util';
 import { Identifyable } from '@core';
 import { Id } from '../id';
 import { TemplateIdToId } from '../shared/templateIdToId';
+import { getPokemonIdByEvolutionBranch } from './shared/getPokemonIdByEvolutionBranch';
 
 @Component({
     pipeline: 'pokemon',
@@ -29,7 +30,10 @@ export class FutureBranches implements IComponent {
      * @param pokemonId The id of the pokemon
      */
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
-        return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => this.GetRawPokemonById(branch.evolution));
+        return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
+            const pokemonId = getPokemonIdByEvolutionBranch(branch);
+            return this.GetRawPokemonById(pokemonId)
+        });
     }
 
     /**
@@ -38,7 +42,8 @@ export class FutureBranches implements IComponent {
      * @param rawPokemon The GAME_MASTER provided raw pokemon of the lower evolution branch
      */
     private GetEvolutionCost(futurePokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
-        const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || []).find(evolution => evolution.evolution === futurePokemonId);
+        const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || [])
+            .find(branch => getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
 
         // If no evolution is found, just return nothing
         if (!evolutionBranch) {

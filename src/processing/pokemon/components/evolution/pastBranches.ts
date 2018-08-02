@@ -8,6 +8,7 @@ import { Util } from '@util/index';
 import { Identifyable } from '@core/index';
 import { Id } from '../id';
 import { TemplateIdToId } from '../shared/templateIdToId';
+import { getPokemonIdByEvolutionBranch } from './shared/getPokemonIdByEvolutionBranch';
 
 @Component({
     pipeline: 'pokemon',
@@ -32,6 +33,7 @@ export class PastBranches implements IComponent {
         return this.rawPokemons.find(pokemon => TemplateIdToId(pokemon) === pokemonId);
     }
 
+
     /**
      * Returns the previous evolution from the given GAME_MASTER data.
      * @param pokemonId The id of the pokemon
@@ -39,7 +41,7 @@ export class PastBranches implements IComponent {
     private GetPreviousRawEvolution(pokemonId: string): ItemTemplate {
         return this.rawPokemons.find(item =>
             (item.pokemonSettings.evolutionBranch || [])
-                .some(evolution => evolution.evolution === pokemonId)
+                .some(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId)
         )
     }
 
@@ -50,7 +52,8 @@ export class PastBranches implements IComponent {
      */
     private GetEvolutionCost(pokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         if (!rawPokemon) return undefined;
-        const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch.find(evolution => evolution.evolution === pokemonId);
+        const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch
+            .find(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId);
 
         // Make evolutionItemRequirement to Identifyable
         let evolutionItem: Identifyable;
