@@ -1,6 +1,5 @@
 import * as fs from 'fs';
 
-import APP_SETTINGS from './app.settings';
 import { AvatarCustomizationPipeline } from './processing/avatarCustomization/index';
 import { MovePipeline } from './processing/move/index';
 import { Pipeline } from './core/index';
@@ -17,8 +16,16 @@ const done = (err, name) =>
         (console.log(`${chalk.red('✘')} Error while writing ${name}:`) || console.error(err)) :
         console.log(`${chalk.green('✔')} Successfully written ${name}`);
 
-const write = (file: string, pipeline: Pipeline, name: string) =>
-    fs.writeFile(file, JSON.stringify(pipeline.Run(), null, 4), err => done(err, name));
+const write = async (file: string, pipeline: Pipeline, name: string) => {
+    let data;
+    try {
+        data = await pipeline.Run();
+    }
+    catch (err) {
+        done(err, name);
+    }
+    fs.writeFile(file, JSON.stringify(data, null, 4), err => done(err, name));
+}
 
 console.log(`${chalk.blue('i')} ${packageJson.name} ${chalk.cyan(packageJson.version)} `);
 console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaster.version)}`);
