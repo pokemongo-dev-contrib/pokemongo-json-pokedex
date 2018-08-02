@@ -1,6 +1,6 @@
 # pokemongo-json-pokedex
 
-[![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-json-pokedex)
+[![Build Status](https://travis-ci.org/pokemongo-dev-contrib/pokemongo-json-pokedex.svg?branch=master)](https://travis-ci.org/pokemongo-dev-contrib/pokemongo-json-pokedex)
 [![Online Users in pokemongo-json-pokedex Discord Server](https://discordapp.com/api/guilds/295945059927588865/embed.png)](https://discord.gg/VgrtMeZ)
 
 This program transforms the data from the Pokemon GO master files
