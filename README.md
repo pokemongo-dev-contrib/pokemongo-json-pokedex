@@ -57,3 +57,4 @@ You can read about the output-data inside the [documentation](.github/model.md).
 - [The pokemongo-game-master repository](https://github.com/pokemongo-dev-contrib/pokemongo-game-master)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Latest Changelog](CHANGELOG.md)
+- [Donate @BrunnerLivio](https://github.com/BrunnerLivio/donate)
