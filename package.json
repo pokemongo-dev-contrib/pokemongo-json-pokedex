@@ -37,7 +37,8 @@
     "es6-shim": "^0.35.3",
     "lodash": "^4.17.4",
     "mocha": "^4.0.1",
-    "module-alias": "^2.1.0"
+    "module-alias": "^2.1.0",
+    "p-iteration": "^1.1.7"
   },
   "devDependencies": {
     "@types/chai": "^4.0.4",

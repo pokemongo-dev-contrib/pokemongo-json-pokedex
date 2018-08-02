@@ -9,7 +9,7 @@ export interface IComponent {
    * @param {any} output The object which will be the output. Must be returned
    * @param {any} input The raw data
    */
-  Process(output: any, input: any): any;
+  Process(output: any, input: any): any | Promise<any>
 }
 
 /**

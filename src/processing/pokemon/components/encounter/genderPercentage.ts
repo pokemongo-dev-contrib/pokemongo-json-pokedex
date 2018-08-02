@@ -2,10 +2,14 @@ import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon, PokemonGender } from '@outcome/pokemon';
 import { Util } from '@util';
+import { Encounter } from './enounter';
 const gameMaster = require('@data/GAME_MASTER.json');
 
 @Component({
-  pipeline: 'pokemon'
+  pipeline: 'pokemon',
+  dependencies: [
+    new Encounter()
+  ]
 })
 export class GenderPercentage implements IComponent {
   private isItemTemplateSpawn(item: ItemTemplate): boolean {
