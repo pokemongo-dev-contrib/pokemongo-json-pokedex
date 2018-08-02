@@ -13,10 +13,19 @@ export class PokemonPipeline extends Pipeline {
     super(input, 'pokemon');
   }
 
+  private isPokemon(templateId: string) {
+    return new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g').test(templateId);
+  }
+
+  private isNormalPokemon(templateId: string) {
+    return new RegExp('^(V[0-9]+_POKEMON_?.*_NORMAL)', 'g').test(templateId)
+  }
+
   /**
    * Checks if the given ItemTemplate is indeed a Pokemon
    */
   isItemTemplate(item: ItemTemplate): boolean {
-    return new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g').test(item.templateId);
+    const id = item.templateId;
+    return this.isPokemon(id) && !this.isNormalPokemon(id);
   }
 }

@@ -7,7 +7,7 @@ import { Pipeline } from './core/index';
 import { PokemonPipeline } from './processing/pokemon/index';
 import { TypePipeline } from './processing/type/index';
 import chalk from 'chalk';
-import { ItemPipeline } from './processing/item/index';
+import { ItemPipeline } from './processing/item';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');
