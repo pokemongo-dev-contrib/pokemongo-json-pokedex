@@ -1,3 +1,14 @@
+# Version 3.1.3 (02.08.2018)
+
+## Features
+
+- **Add(core)**: Asynchronous Component
+- **Fix(output)**: Alolan Pokemons have the correct evolution tree now (Issue #18)
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
 # Version 3.1.1 (26.07.2018)
 
 ## Features
