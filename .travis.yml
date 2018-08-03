@@ -1,6 +1,4 @@
 language: node_js
 node_js:
-  - "6"
-  - "6.1"
-  - "5.11"
-before_install: if [[ `npm -v` != 4* ]]; then npm i -g npm@4; fi
+  - "9"
+  - "8"
