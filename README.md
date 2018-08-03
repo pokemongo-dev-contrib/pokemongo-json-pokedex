@@ -55,5 +55,6 @@ You can read about the output-data inside the [documentation](.github/model.md).
 ## More Links
 
 - [The pokemongo-game-master repository](https://github.com/pokemongo-dev-contrib/pokemongo-game-master)
+- [The PogoAssets repository](https://github.com/ZeChrales/PogoAssets)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Latest Changelog](CHANGELOG.md)
