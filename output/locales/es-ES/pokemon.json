@@ -1,0 +1,2052 @@
+{
+    "BULBASAUR": {
+        "name": "Bulbasaur",
+        "description": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol.",
+        "category": "Pokémon Semilla"
+    },
+    "IVYSAUR": {
+        "name": "Ivysaur",
+        "description": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
+        "category": "Pokémon Semilla"
+    },
+    "VENUSAUR": {
+        "name": "Venusaur",
+        "description": "Venusaur tiene una flor enorme en el lomo que, según parece, adquiere unos colores muy vivos si está bien nutrido y le da mucho el sol. El aroma delicado de la flor tiene un efecto relajante en el ánimo de las personas.",
+        "category": "Pokémon Semilla"
+    },
+    "CHARMANDER": {
+        "name": "Charmander",
+        "description": "La llama que tiene en la punta de la cola arde según sus sentimientos. Llamea levemente cuando está alegre y arde vigorosamente cuando está enfadado.",
+        "category": "Pokémon Lagartija"
+    },
+    "CHARMELEON": {
+        "name": "Charmeleon",
+        "description": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "category": "Pokémon Llama"
+    },
+    "CHARIZARD": {
+        "name": "Charizard",
+        "description": "Charizard se dedica a volar por los cielos en busca de oponentes fuertes. Echa fuego por la boca y es capaz de derretir cualquier cosa. No obstante, si su rival es más débil que él, no usará este ataque.",
+        "category": "Pokémon Llama"
+    },
+    "SQUIRTLE": {
+        "name": "Squirtle",
+        "description": "El caparazón de Squirtle no le sirve de protección únicamente. Su forma redondeada y las hendiduras que tiene le ayudan a deslizarse en el agua y le permiten nadar a gran velocidad.",
+        "category": "Pokémon Tortuguita"
+    },
+    "WARTORTLE": {
+        "name": "Wartortle",
+        "description": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "category": "Pokémon Tortuga"
+    },
+    "BLASTOISE": {
+        "name": "Blastoise",
+        "description": "Blastoise lanza chorros de agua con gran precisión por los tubos que le salen del caparazón que tiene en la espalda. Puede disparar chorros de agua con tanta puntería que no fallaría al tirar contra una lata pequeña a 50 m.",
+        "category": "Pokémon Marisco"
+    },
+    "CATERPIE": {
+        "name": "Caterpie",
+        "description": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas que superen su tamaño en un abrir y cerrar de ojos. Atención a la antena que tiene: libera un hedor realmente fuerte.",
+        "category": "Pokémon Gusano"
+    },
+    "METAPOD": {
+        "name": "Metapod",
+        "description": "La capa que recubre el cuerpo de este Pokémon es tan dura como una plancha de hierro. Metapod apenas se mueve. Permanece inmóvil para que las vísceras evolucionen dentro de la coraza que le rodea.",
+        "category": "Pokémon Capullo"
+    },
+    "BUTTERFREE": {
+        "name": "Butterfree",
+        "description": "Butterfree tiene una habilidad especial para encontrar delicioso polen en las flores. Puede localizar, extraer y transportar polen de flores que estén floreciendo a 10 km de distancia de su nido.",
+        "category": "Pokémon Mariposa"
+    },
+    "WEEDLE": {
+        "name": "Weedle",
+        "description": "Weedle tiene un finísimo sentido del olfato. Es capaz de distinguir las hojas que le gustan de las que no le gustan olisqueando un poco con la gran nariz que tiene.",
+        "category": "Pokémon Oruga"
+    },
+    "KAKUNA": {
+        "name": "Kakuna",
+        "description": "Kakuna permanece prácticamente inmóvil al encaramarse a los árboles, aunque la actividad interna de su organismo tiene un ritmo frenético, pues se prepara para su evolución. Prueba de esto es la alta temperatura de su caparazón.",
+        "category": "Pokémon Capullo"
+    },
+    "BEEDRILL": {
+        "name": "Beedrill",
+        "description": "Los Beedrill defienden su territorio a toda costa. No es conveniente acercarse a su colmena, por seguridad. Si se les molesta, todo un enjambre atacará ferozmente.",
+        "category": "Pokémon Abeja Ven."
+    },
+    "PIDGEY": {
+        "name": "Pidgey",
+        "description": "Pidgey tiene un sentido de la orientación muy desarrollado. Es capaz de regresar a su nido, por lejos que se encuentre de las zonas que le resultan familiares.",
+        "category": "Pokémon Pajarito"
+    },
+    "PIDGEOTTO": {
+        "name": "Pidgeotto",
+        "description": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "category": "Pokémon Pájaro"
+    },
+    "PIDGEOT": {
+        "name": "Pidgeot",
+        "description": "El plumaje de este Pokémon es bonito e hipnótico. Muchos Entrenadores se quedan embobados ante la belleza impactante de las plumas que tiene en la cabeza; lo que les lleva a elegir a Pidgeot como su Pokémon.",
+        "category": "Pokémon Pájaro"
+    },
+    "RATTATA": {
+        "name": "Rattata",
+        "description": "Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todos los ruidos. No es nada delicado a la hora de elegir su hábitat. Cualquier sitio es bueno para cavar su madriguera.",
+        "category": "Pokémon Ratón"
+    },
+    "RATTATA_ALOLA": {
+        "name": "Rattata",
+        "description": "Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todos los ruidos. No es nada delicado a la hora de elegir su hábitat. Cualquier sitio es bueno para cavar su madriguera.",
+        "category": "Pokémon Ratón"
+    },
+    "RATICATE": {
+        "name": "Raticate",
+        "description": "A Raticate le crecen los incisivos firmes y fuertes. Para mantenerlos afilados roe troncos y rocas, e incluso las paredes de las casas.",
+        "category": "Pokémon Ratón"
+    },
+    "RATICATE_ALOLA": {
+        "name": "Raticate",
+        "description": "A Raticate le crecen los incisivos firmes y fuertes. Para mantenerlos afilados roe troncos y rocas, e incluso las paredes de las casas.",
+        "category": "Pokémon Ratón"
+    },
+    "SPEAROW": {
+        "name": "Spearow",
+        "description": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "category": "Pokémon Pajarito"
+    },
+    "FEAROW": {
+        "name": "Fearow",
+        "description": "A Fearow se le reconoce por tener un pescuezo y un pico largos que le permiten cazar en tierra y agua. Tiene una gran habilidad moviendo el fino pico para atrapar a sus presas.",
+        "category": "Pokémon Pico"
+    },
+    "EKANS": {
+        "name": "Ekans",
+        "description": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "category": "Pokémon Serpiente"
+    },
+    "ARBOK": {
+        "name": "Arbok",
+        "description": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
+        "category": "Pokémon Cobra"
+    },
+    "PIKACHU": {
+        "name": "Pikachu",
+        "description": "Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléctrica. Cuando se ve alguna baya chamuscada, es muy probable que sea obra de un Pikachu, ya que a veces no controlan la intensidad de la descarga.",
+        "category": "Pokémon Ratón"
+    },
+    "RAICHU": {
+        "name": "Raichu",
+        "description": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon.",
+        "category": "Pokémon Ratón"
+    },
+    "RAICHU_ALOLA": {
+        "name": "Raichu",
+        "description": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon.",
+        "category": "Pokémon Ratón"
+    },
+    "SANDSHREW": {
+        "name": "Sandshrew",
+        "description": "Sandshrew es capaz de absorber agua y no perder ni una gota, algo que le permite sobrevivir en el desierto. Este Pokémon se enrosca para defenderse de los enemigos.",
+        "category": "Pokémon Ratón"
+    },
+    "SANDSHREW_ALOLA": {
+        "name": "Sandshrew",
+        "description": "Sandshrew es capaz de absorber agua y no perder ni una gota, algo que le permite sobrevivir en el desierto. Este Pokémon se enrosca para defenderse de los enemigos.",
+        "category": "Pokémon Ratón"
+    },
+    "SANDSLASH": {
+        "name": "Sandslash",
+        "description": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
+        "category": "Pokémon Ratón"
+    },
+    "SANDSLASH_ALOLA": {
+        "name": "Sandslash",
+        "description": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
+        "category": "Pokémon Ratón"
+    },
+    "NIDORAN_FEMALE": {
+        "name": "Nidoran♀",
+        "description": "Nidoran♀ tiene púas que segregan un veneno muy potente. Se piensa que las desarrolló como protección del cuerpo tan pequeño que tiene. Cuando se enfada, libera una horrible sustancia tóxica por el cuerno.",
+        "category": "Pokémon Pin Veneno"
+    },
+    "NIDORINA": {
+        "name": "Nidorina",
+        "description": "Cuando están en familia o con sus amigos, esconden las púas para evitar accidentes. Según parece, se alteran bastante si se separan del grupo.",
+        "category": "Pokémon Pin Veneno"
+    },
+    "NIDOQUEEN": {
+        "name": "Nidoqueen",
+        "description": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas durísimas. Suele lanzar por los aires a sus rivales de los violentos golpes que les propina. Cuando se trata de defender a sus crías, alcanza su nivel máximo de fuerza.",
+        "category": "Pokémon Taladro"
+    },
+    "NIDORAN_MALE": {
+        "name": "Nidoran♂",
+        "description": "Nidoran♂ ha desarrollado músculos para mover las orejas y orientarlas en cualquier dirección. De este modo, es capaz de captar hasta el sonido más leve.",
+        "category": "Pokémon Pin Veneno"
+    },
+    "NIDORINO": {
+        "name": "Nidorino",
+        "description": "Nidorino tiene un cuerno de dureza superior a la del diamante. Si siente una presencia hostil, se le erizan las púas del lomo enseguida y carga contra el enemigo con todas sus fuerzas.",
+        "category": "Pokémon Pin Veneno"
+    },
+    "NIDOKING": {
+        "name": "Nidoking",
+        "description": "La gruesa cola de Nidoking encierra una fuerza realmente destructora. Con una vez que la agite, es capaz de tumbar una torre metálica de transmisión. Una vez que este Pokémon se desboca, no hay quien lo pare.",
+        "category": "Pokémon Taladro"
+    },
+    "CLEFAIRY": {
+        "name": "Clefairy",
+        "description": "Siempre que hay luna llena, salen en grupo para jugar. Al amanecer, los Clefairy, agotados, regresan a sus refugios de montaña para dormir acurrucados unos con otros.",
+        "category": "Pokémon Hada"
+    },
+    "CLEFABLE": {
+        "name": "Clefable",
+        "description": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
+        "category": "Pokémon Hada"
+    },
+    "VULPIX": {
+        "name": "Vulpix",
+        "description": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de forma majestuosa.",
+        "category": "Pokémon Zorro"
+    },
+    "VULPIX_ALOLA": {
+        "name": "Vulpix",
+        "description": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de forma majestuosa.",
+        "category": "Pokémon Zorro"
+    },
+    "NINETALES": {
+        "name": "Ninetales",
+        "description": "Ninetales emite una siniestra luz a través de los brillantes ojos rojos que tiene, para conseguir controlar del todo la mente de su rival. Dicen que este Pokémon llega a vivir mil años.",
+        "category": "Pokémon Zorro"
+    },
+    "NINETALES_ALOLA": {
+        "name": "Ninetales",
+        "description": "Ninetales emite una siniestra luz a través de los brillantes ojos rojos que tiene, para conseguir controlar del todo la mente de su rival. Dicen que este Pokémon llega a vivir mil años.",
+        "category": "Pokémon Zorro"
+    },
+    "JIGGLYPUFF": {
+        "name": "Jigglypuff",
+        "description": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema la longitud de onda de su voz. Este Pokémon usa la habilidad que tiene para cantar con la longitud de onda necesaria para adormecer a su rival.",
+        "category": "Pokémon Globo"
+    },
+    "WIGGLYTUFF": {
+        "name": "Wigglytuff",
+        "description": "Wigglytuff tiene unos ojos enormes con forma de platillo, que siempre están cubiertos de lágrimas. Si se le metiera algo en el ojo, enseguida se le saldría solo.",
+        "category": "Pokémon Globo"
+    },
+    "ZUBAT": {
+        "name": "Zubat",
+        "description": "Durante el día, Zubat permanece inmóvil y a oscuras. Si este Pokémon pasara mucho tiempo expuesto al sol, correría el peligro de sufrir quemaduras.",
+        "category": "Pokémon Murciélago"
+    },
+    "GOLBAT": {
+        "name": "Golbat",
+        "description": "A Golbat le encanta chuparles la sangre a los seres vivos. Este Pokémon es más activo en la oscuridad de la noche. Es al caer la noche cuando sale a revolotear y a buscar sangre fresca.",
+        "category": "Pokémon Murciélago"
+    },
+    "ODDISH": {
+        "name": "Oddish",
+        "description": "Durante el día, Oddish se entierra en el suelo para absorber nutrientes valiéndose de todo el cuerpo. Cuanto más fértil sea el suelo, mayor brillo tendrá en las hojas.",
+        "category": "Pokémon Hierbajo"
+    },
+    "GLOOM": {
+        "name": "Gloom",
+        "description": "Gloom libera un fétido olor por el pistilo de la flor. Cuando está en peligro, el hedor se intensifica. Si este Pokémon está tranquilo y no se siente amenazado, no libera el desagradable olor.",
+        "category": "Pokémon Hierbajo"
+    },
+    "VILEPLUME": {
+        "name": "Vileplume",
+        "description": "El polen que contienen las esporas tóxicas de Vileplume causa unos ataques de alergia muy agudos. Por eso, no es aconsejable acercarse a ninguna flor selvática, por muy bonita que sea.",
+        "category": "Pokémon Flor"
+    },
+    "PARAS": {
+        "name": "Paras",
+        "description": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo Bicho y Planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "category": "Pokémon Hongo"
+    },
+    "PARASECT": {
+        "name": "Parasect",
+        "description": "Parasect es conocido por destruir en plaga grandes árboles, absorbiendo los nutrientes que tienen en la parte baja del tronco y las raíces. Cuando un árbol azotado por la plaga muere, los Parasect van a por el siguiente al instante.",
+        "category": "Pokémon Hongo"
+    },
+    "VENONAT": {
+        "name": "Venonat",
+        "description": "Dicen que durante su evolución Venonat desarrolló una fina capa de espeso pelo alrededor de todo el cuerpo para protegerse. Tiene unos ojos tan grandes que no hay presa que le pase desapercibida.",
+        "category": "Pokémon Insecto"
+    },
+    "VENOMOTH": {
+        "name": "Venomoth",
+        "description": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
+        "category": "Pokémon Polilla Ven."
+    },
+    "DIGLETT": {
+        "name": "Diglett",
+        "description": "En la mayoría de las granjas se suelen criar Diglett por la sencilla razón de que, excaven donde excaven, dejan la tierra perfectamente labrada para sembrar. El terreno queda listo para plantar ricas verduras.",
+        "category": "Pokémon Topo"
+    },
+    "DIGLETT_ALOLA": {
+        "name": "Diglett",
+        "description": "En la mayoría de las granjas se suelen criar Diglett por la sencilla razón de que, excaven donde excaven, dejan la tierra perfectamente labrada para sembrar. El terreno queda listo para plantar ricas verduras.",
+        "category": "Pokémon Topo"
+    },
+    "DUGTRIO": {
+        "name": "Dugtrio",
+        "description": "Los Dugtrio son trillizos que se originaron a partir de un solo cuerpo, por eso piensan de la misma forma. A la hora de excavar, trabajan en equipo y sin descanso.",
+        "category": "Pokémon Topo"
+    },
+    "DUGTRIO_ALOLA": {
+        "name": "Dugtrio",
+        "description": "Los Dugtrio son trillizos que se originaron a partir de un solo cuerpo, por eso piensan de la misma forma. A la hora de excavar, trabajan en equipo y sin descanso.",
+        "category": "Pokémon Topo"
+    },
+    "MEOWTH": {
+        "name": "Meowth",
+        "description": "Meowth retrae las afiladas uñas de sus zarpas para caminar a hurtadillas, dando sigilosos pasos para pasar inadvertido. No se sabe muy bien por qué, pero este Pokémon adora las monedas brillantes que resplandecen con la luz.",
+        "category": "Pokémon Gato Araña"
+    },
+    "MEOWTH_ALOLA": {
+        "name": "Meowth",
+        "description": "Meowth retrae las afiladas uñas de sus zarpas para caminar a hurtadillas, dando sigilosos pasos para pasar inadvertido. No se sabe muy bien por qué, pero este Pokémon adora las monedas brillantes que resplandecen con la luz.",
+        "category": "Pokémon Gato Araña"
+    },
+    "PERSIAN": {
+        "name": "Persian",
+        "description": "Persian tiene seis llamativos bigotes que le dan un aspecto feroz. Además, le sirven para detectar el movimiento del aire, delator de la presencia cercana de algún Pokémon. Si se le agarra por los bigotes, se vuelve dócil.",
+        "category": "Pokémon Gato Fino"
+    },
+    "PERSIAN_ALOLA": {
+        "name": "Persian",
+        "description": "Persian tiene seis llamativos bigotes que le dan un aspecto feroz. Además, le sirven para detectar el movimiento del aire, delator de la presencia cercana de algún Pokémon. Si se le agarra por los bigotes, se vuelve dócil.",
+        "category": "Pokémon Gato Fino"
+    },
+    "PSYDUCK": {
+        "name": "Psyduck",
+        "description": "Psyduck tiene un extraño poder, que consiste en generar ondas cerebrales iguales a las que se generan cuando se está dormido. Este descubrimiento levantó una gran polémica entre eruditos.",
+        "category": "Pokémon Pato"
+    },
+    "GOLDUCK": {
+        "name": "Golduck",
+        "description": "Golduck alcanza una velocidad de vértigo gracias a las aletas palmípedas de las extremidades y a la forma aerodinámica de su cuerpo. Realmente, la velocidad de este Pokémon supera la de cualquier nadador.",
+        "category": "Pokémon Pato"
+    },
+    "MANKEY": {
+        "name": "Mankey",
+        "description": "Cuando Mankey empieza a temblar y a respirar con más intensidad, seguro que va a enfadarse. Aunque prever su enfado no sirve de nada porque alcanza un estado de rabia tan rápido que no hay escapatoria.",
+        "category": "Pokémon Mono Cerdo"
+    },
+    "PRIMEAPE": {
+        "name": "Primeape",
+        "description": "Cuando Primeape se enfada, se le acelera el ritmo cardíaco y se le fortalecen los músculos. Con todo, pierde en inteligencia.",
+        "category": "Pokémon Mono Cerdo"
+    },
+    "GROWLITHE": {
+        "name": "Growlithe",
+        "description": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "category": "Pokémon Perrito"
+    },
+    "ARCANINE": {
+        "name": "Arcanine",
+        "description": "Arcanine es conocido por lo veloz que es. Dicen que es capaz de correr 10 000 km en 24 horas. El fuego que arde con vigor en el interior de este Pokémon constituye su fuente de energía.",
+        "category": "Pokémon Legendario"
+    },
+    "POLIWAG": {
+        "name": "Poliwag",
+        "description": "Poliwag tiene una piel muy fina. Tanto que es posible entrever a través de la misma las vísceras en espiral que tiene. La piel, aunque fina, tiene la ventaja de ser flexible y hacer rebotar hasta los colmillos más afilados.",
+        "category": "Pokémon Renacuajo"
+    },
+    "POLIWHIRL": {
+        "name": "Poliwhirl",
+        "description": "La piel de Poliwhirl está siempre húmeda y lubricada con un fluido viscoso. Gracias a esta película resbaladiza, puede escapar de las garras del enemigo, resbalándosele de las zarpas en pleno combate.",
+        "category": "Pokémon Renacuajo"
+    },
+    "POLIWRATH": {
+        "name": "Poliwrath",
+        "description": "Poliwrath tiene unos músculos fornidos y muy desarrollados, por lo que nunca se agota. Es tan fuerte e incansable que cruzar el océano a nado no le supone ningún esfuerzo.",
+        "category": "Pokémon Renacuajo"
+    },
+    "ABRA": {
+        "name": "Abra",
+        "description": "Abra duerme 18 horas al día, pero puede detectar a cualquier enemigo que se le acerque mientras duerme. En una situación así, usa Teletransporte para protegerse.",
+        "category": "Pokémon Psi"
+    },
+    "KADABRA": {
+        "name": "Kadabra",
+        "description": "Kadabra emite unas ondas alfa muy particulares que provocan dolores de cabeza a los demás. Solo aquellos que tengan gran poder mental podrán optar a ser Entrenador de este Pokémon.",
+        "category": "Pokémon Psi"
+    },
+    "ALAKAZAM": {
+        "name": "Alakazam",
+        "description": "El cerebro de Alakazam nunca deja de crecer y por eso al cuello le cuesta sostener el peso de la cabeza. Este Pokémon usa sus poderes psicoquinéticos para mantener en alto la cabeza.",
+        "category": "Pokémon Psi"
+    },
+    "MACHOP": {
+        "name": "Machop",
+        "description": "Gracias a su portentosa musculatura, Machop no se agota por mucho esfuerzo que haga. Este Pokémon es tan fuerte que puede derrotar a cien personas adultas de una sola vez.",
+        "category": "Pokémon Superpoder"
+    },
+    "MACHOKE": {
+        "name": "Machoke",
+        "description": "Los entrenados músculos de Machoke son tan fuertes como el acero. Este Pokémon es tan fuerte que puede levantar con un solo dedo a un luchador de sumo.",
+        "category": "Pokémon Superpoder"
+    },
+    "MACHAMP": {
+        "name": "Machamp",
+        "description": "Machamp es tan fuerte que puede derribar lo que quiera. Sin embargo, cuando tiene que realizar una tarea que requiere delicadeza y destreza, se le enredan los brazos. Este Pokémon pasa a la acción sin pensar.",
+        "category": "Pokémon Superpoder"
+    },
+    "BELLSPROUT": {
+        "name": "Bellsprout",
+        "description": "Bellsprout tiene un cuerpo delgado y flexible que le permite inclinarse y balancearse para esquivar los ataques. Este Pokémon escupe por la boca un fluido corrosivo capaz de hacer que se derrita hasta el hierro.",
+        "category": "Pokémon Flor"
+    },
+    "WEEPINBELL": {
+        "name": "Weepinbell",
+        "description": "Weepinbell tiene un gancho a modo de extremidad superior trasera, que usa por la noche para colgarse de una rama y echarse a dormir. Si se mueve mientras duerme, puede acabar en el suelo.",
+        "category": "Pokémon Matamoscas"
+    },
+    "VICTREEBEL": {
+        "name": "Victreebel",
+        "description": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
+        "category": "Pokémon Matamoscas"
+    },
+    "TENTACOOL": {
+        "name": "Tentacool",
+        "description": "Tentacool está compuesto en su mayor parte por agua. Si se le saca del mar, se secará y se quedará acartonado. Si este Pokémon se deshidrata, hay que echarlo inmediatamente de vuelta al mar.",
+        "category": "Pokémon Medusa"
+    },
+    "TENTACRUEL": {
+        "name": "Tentacruel",
+        "description": "Tentacruel tiene unas enormes esferas rojas en la cabeza, que brillan antes de lanzar una descarga ultrasónica a lo que le rodea. Este estallido crea unas olas tremendas a su alrededor.",
+        "category": "Pokémon Medusa"
+    },
+    "GEODUDE": {
+        "name": "Geodude",
+        "description": "Cuanto más larga es la vida de Geodude, mayor es el desgaste y la erosión que sufre, y más redondeada la forma que va adquiriendo. Sin embargo, el corazón permanece siempre duro, rocoso y tosco.",
+        "category": "Pokémon Roca"
+    },
+    "GEODUDE_ALOLA": {
+        "name": "Geodude",
+        "description": "Cuanto más larga es la vida de Geodude, mayor es el desgaste y la erosión que sufre, y más redondeada la forma que va adquiriendo. Sin embargo, el corazón permanece siempre duro, rocoso y tosco.",
+        "category": "Pokémon Roca"
+    },
+    "GRAVELER": {
+        "name": "Graveler",
+        "description": "Graveler crece alimentándose a base de piedras. Y, según parece, las prefiere cubiertas de musgo. Cada día se abre camino comiéndose una tonelada de rocas.",
+        "category": "Pokémon Roca"
+    },
+    "GRAVELER_ALOLA": {
+        "name": "Graveler",
+        "description": "Graveler crece alimentándose a base de piedras. Y, según parece, las prefiere cubiertas de musgo. Cada día se abre camino comiéndose una tonelada de rocas.",
+        "category": "Pokémon Roca"
+    },
+    "GOLEM": {
+        "name": "Golem",
+        "description": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
+        "category": "Pokémon Megatón"
+    },
+    "GOLEM_ALOLA": {
+        "name": "Golem",
+        "description": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
+        "category": "Pokémon Megatón"
+    },
+    "PONYTA": {
+        "name": "Ponyta",
+        "description": "Al nacer, Ponyta es muy débil y apenas puede ponerse en pie. Con todo, se va haciendo más fuerte al tropezarse y caerse en su intento por seguir a sus progenitores.",
+        "category": "Pokémon Caballo F."
+    },
+    "RAPIDASH": {
+        "name": "Rapidash",
+        "description": "A Rapidash se le suele ver trotando sin rumbo fijo por los campos y llanos. Cuando tiene que ir a algún sitio en concreto, se le aviva el fuego de las melenas y emprende el galope llameante llegando a los 240 km/h.",
+        "category": "Pokémon Caballo F."
+    },
+    "SLOWPOKE": {
+        "name": "Slowpoke",
+        "description": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "category": "Pokémon Atontado"
+    },
+    "SLOWBRO": {
+        "name": "Slowbro",
+        "description": "Slowbro lleva en la cola un Shellder enganchado, sujeto por los dientes. Como Slowbro no puede usar la cola para pescar, se mete en el agua de mala gana en busca de sus presas.",
+        "category": "Pokémon Ermitaño"
+    },
+    "MAGNEMITE": {
+        "name": "Magnemite",
+        "description": "Magnemite se engancha a las líneas de tensión para nutrirse de electricidad. Cuando se producen apagones en las casas, es aconsejable revisar el automático y comprobar que no hay Pokémon de este tipo colgados de la caja de fusibles.",
+        "category": "Pokémon Imán"
+    },
+    "MAGNETON": {
+        "name": "Magneton",
+        "description": "Magneton emite una fuerte energía magnética que causa estragos en los instrumentos mecánicos. Por ello, en las ciudades se avisa con sirenas cuando hay concentraciones de estos Pokémon.",
+        "category": "Pokémon Imán"
+    },
+    "FARFETCHD": {
+        "name": "Farfetch'd",
+        "description": "Al parecer, entre los puerros que suelen llevar los Farfetch'd, los hay mejores y peores. A estos Pokémon se les ha visto luchar entre ellos por los mejores puerros.",
+        "category": "Pokémon Pato Salvaje"
+    },
+    "DODUO": {
+        "name": "Doduo",
+        "description": "Las dos cabezas de Doduo duermen de forma independiente, siempre por turnos. Mientras una duerme, la otra hace de centinela por si aparecen enemigos.",
+        "category": "Pokémon Ave Gemela"
+    },
+    "DODRIO": {
+        "name": "Dodrio",
+        "description": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
+        "category": "Pokémon Ave Triple"
+    },
+    "SEEL": {
+        "name": "Seel",
+        "description": "Seel busca a sus presas en aguas heladas, bajo las capas de hielo. Cuando necesita respirar, abre un agujerito en el hielo con la afilada protuberancia que tiene encima de la cabeza.",
+        "category": "Pokémon León Marino"
+    },
+    "DEWGONG": {
+        "name": "Dewgong",
+        "description": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "category": "Pokémon León Marino"
+    },
+    "GRIMER": {
+        "name": "Grimer",
+        "description": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
+        "category": "Pokémon Lodo"
+    },
+    "GRIMER_ALOLA": {
+        "name": "Grimer",
+        "description": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
+        "category": "Pokémon Lodo"
+    },
+    "MUK": {
+        "name": "Muk",
+        "description": "Muk emana por todo el cuerpo un fluido maloliente que obliga a taparse la nariz. Con solo una gota de la sustancia que exuda este Pokémon, se podría contaminar un estanque.",
+        "category": "Pokémon Lodo"
+    },
+    "MUK_ALOLA": {
+        "name": "Muk",
+        "description": "Muk emana por todo el cuerpo un fluido maloliente que obliga a taparse la nariz. Con solo una gota de la sustancia que exuda este Pokémon, se podría contaminar un estanque.",
+        "category": "Pokémon Lodo"
+    },
+    "SHELLDER": {
+        "name": "Shellder",
+        "description": "Por la noche, este Pokémon usa la ancha lengua que tiene para hacer un agujero en el fondo del mar y echarse a dormir. Mientras duerme, Shellder cierra la concha, pero deja la lengua por fuera.",
+        "category": "Pokémon Bivalvo"
+    },
+    "CLOYSTER": {
+        "name": "Cloyster",
+        "description": "Cloyster es capaz de nadar por el mar. Su técnica consiste en tragar agua y expulsarla por el conducto que tiene en la parte trasera. Este mismo sistema es el que usa para lanzar los pinchos que tiene alrededor de la concha.",
+        "category": "Pokémon Bivalvo"
+    },
+    "GASTLY": {
+        "name": "Gastly",
+        "description": "Gastly está compuesto en gran medida de materia gaseosa. Cuando hay viento, el aire arrastra parte de esta materia y el Pokémon mengua. Suelen agruparse bajo los aleros de las casas para resguardarse del viento.",
+        "category": "Pokémon Gas"
+    },
+    "HAUNTER": {
+        "name": "Haunter",
+        "description": "Haunter es un Pokémon peligroso. Si se ve alguno flotando en la oscuridad y haciendo señas, conviene no acercarse. Este Pokémon intentará robarle la energía a su presa a base de lametazos.",
+        "category": "Pokémon Gas"
+    },
+    "GENGAR": {
+        "name": "Gengar",
+        "description": "Si alguien ve que su sombra le adelanta de repente en una noche oscura, es muy probable que lo que esté viendo no sea su sombra, sino a un Gengar haciéndose pasar por la misma.",
+        "category": "Pokémon Sombra"
+    },
+    "ONIX": {
+        "name": "Onix",
+        "description": "Onix tiene un imán en el cerebro, que actúa como una brújula para no perder la orientación cuando está cavando túneles. A medida que crece, se le redondea y suaviza el cuerpo.",
+        "category": "Pokémon Serp. Roca"
+    },
+    "DROWZEE": {
+        "name": "Drowzee",
+        "description": "Si a alguien le pica la nariz mientras duerme, seguro que es porque tiene a uno de estos Pokémon cerca de la almohada intentando sacarle los sueños por la nariz para comérselos.",
+        "category": "Pokémon Hipnosis"
+    },
+    "HYPNO": {
+        "name": "Hypno",
+        "description": "Hypno lleva un péndulo en la mano. El balanceo y el brillo que tiene sumen al rival en un estado de hipnosis profundo. Mientras busca a su presa, saca brillo al péndulo.",
+        "category": "Pokémon Hipnosis"
+    },
+    "KRABBY": {
+        "name": "Krabby",
+        "description": "Krabby vive en la playa, enterrado en agujeros en la arena. Cuando en las playas de arena fina escasea la comida, es común ver a estos Pokémon echando un pulso panza contra panza en defensa de su territorio.",
+        "category": "Pokémon Cangrejo"
+    },
+    "KINGLER": {
+        "name": "Kingler",
+        "description": "Kingler tiene una pinza enorme y descomunal que usa agitándola en el aire para comunicarse con otros. Lo malo es que, al pesarle tanto, se cansa enseguida.",
+        "category": "Pokémon Tenaza"
+    },
+    "VOLTORB": {
+        "name": "Voltorb",
+        "description": "Voltorb fue visto por primera vez en una empresa encargada de comercializar Poké Balls. La conexión que existe entre aquella primera vez que se le vio y el hecho de que se parece mucho a una Poké Ball sigue siendo un misterio.",
+        "category": "Pokémon Bola"
+    },
+    "ELECTRODE": {
+        "name": "Electrode",
+        "description": "Los Electrode se alimentan de la electricidad de la atmósfera. En días de tormenta con rayos, es fácil verlos explotando por todos lados tras haber consumido demasiada electricidad.",
+        "category": "Pokémon Bola"
+    },
+    "EXEGGCUTE": {
+        "name": "Exeggcute",
+        "description": "Este Pokémon está compuesto de seis huevos que forman una tupida piña que va girando. Cuando se empiezan a resquebrajar las cáscaras, no hay duda de que Exeggcute está a punto de evolucionar.",
+        "category": "Pokémon Huevo"
+    },
+    "EXEGGUTOR": {
+        "name": "Exeggutor",
+        "description": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "category": "Pokémon Coco"
+    },
+    "EXEGGUTOR_ALOLA": {
+        "name": "Exeggutor",
+        "description": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "category": "Pokémon Coco"
+    },
+    "CUBONE": {
+        "name": "Cubone",
+        "description": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama.",
+        "category": "Pokémon Solitario"
+    },
+    "MAROWAK": {
+        "name": "Marowak",
+        "description": "Marowak es la forma evolucionada de Cubone. Es más fuerte porque ha superado la pena por la pérdida de su madre. El ánimo de este Pokémon, ya curtido y fortalecido, no es muy fácil de alterar.",
+        "category": "Pokémon Apilahueso"
+    },
+    "MAROWAK_ALOLA": {
+        "name": "Marowak",
+        "description": "Marowak es la forma evolucionada de Cubone. Es más fuerte porque ha superado la pena por la pérdida de su madre. El ánimo de este Pokémon, ya curtido y fortalecido, no es muy fácil de alterar.",
+        "category": "Pokémon Apilahueso"
+    },
+    "HITMONLEE": {
+        "name": "Hitmonlee",
+        "description": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
+        "category": "Pokémon Patada"
+    },
+    "HITMONCHAN": {
+        "name": "Hitmonchan",
+        "description": "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador entrenándose para un campeonato mundial. Este Pokémon tiene un espíritu indomable que nunca se doblega ante la adversidad.",
+        "category": "Pokémon Puñetazo"
+    },
+    "LICKITUNG": {
+        "name": "Lickitung",
+        "description": "Cada vez que Lickitung se encuentra con algo que no conoce, le da un lametazo. Es la forma que tiene de memorizar las cosas, por la textura y el sabor. No soporta los sabores ácidos.",
+        "category": "Pokémon Lametazo"
+    },
+    "KOFFING": {
+        "name": "Koffing",
+        "description": "Si Koffing se pone nervioso, aumenta el nivel de toxicidad de los gases que tiene y los expulsa por todo el cuerpo. También suele hincharse mucho hasta llegar a explotar.",
+        "category": "Pokémon Gas Venenoso"
+    },
+    "WEEZING": {
+        "name": "Weezing",
+        "description": "A Weezing le encantan los gases que emanan de los desperdicios que quedan en la cocina. Este Pokémon busca casas sucias y descuidadas para crear su hogar. De noche, cuando los habitantes de la casa duermen, va a por la basura.",
+        "category": "Pokémon Gas Venenoso"
+    },
+    "RHYHORN": {
+        "name": "Rhyhorn",
+        "description": "Rhyhorn corre en línea recta arrasando todo lo que encuentra en su camino. Aun estrellándose de cabeza contra un bloque de acero, no se vería afectado; a lo sumo, notaría algo de dolor al día siguiente.",
+        "category": "Pokémon Clavos"
+    },
+    "RHYDON": {
+        "name": "Rhydon",
+        "description": "Rhydon tiene un cuerno capaz de horadar hasta un diamante en bruto y con una sacudida de la cola puede derribar un edificio. La piel de este Pokémon es muy fuerte; ni los disparos de un cañón le arañarían.",
+        "category": "Pokémon Taladro"
+    },
+    "CHANSEY": {
+        "name": "Chansey",
+        "description": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "category": "Pokémon Huevo"
+    },
+    "TANGELA": {
+        "name": "Tangela",
+        "description": "A Tangela se le desprenden los tentáculos con facilidad en cuanto se los agarras. Y no solo no le duele, sino que le resulta muy útil para escapar rápido. Además, al día siguiente le crecen otros.",
+        "category": "Pokémon Enredadera"
+    },
+    "KANGASKHAN": {
+        "name": "Kangaskhan",
+        "description": "No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.",
+        "category": "Pokémon Padres"
+    },
+    "HORSEA": {
+        "name": "Horsea",
+        "description": "Horsea come insectos pequeños y el musgo de las rocas. Si las corrientes del océano cobran fuerza, este Pokémon se anclará con la cola a rocas o corales para evitar que las aguas lo arrastren.",
+        "category": "Pokémon Dragón"
+    },
+    "SEADRA": {
+        "name": "Seadra",
+        "description": "Seadra se echa a dormir tras abrirse un hueco entre las ramas de los corales. Los pescadores de coral suelen pincharse con las púas venenosas de estos Pokémon si no los ven.",
+        "category": "Pokémon Dragón"
+    },
+    "GOLDEEN": {
+        "name": "Goldeen",
+        "description": "Goldeen es un bello Pokémon que mueve con elegancia las aletas en el agua. Con todo, no hay que bajar la guardia, en cualquier momento puede embestir con el cuerno.",
+        "category": "Pokémon Pez Color"
+    },
+    "SEAKING": {
+        "name": "Seaking",
+        "description": "En otoño, se ven ejemplares de Seaking macho danzando en las riberas de los ríos para cortejar a las hembras. En esta época, la coloración de este Pokémon alcanza sus niveles máximos de belleza.",
+        "category": "Pokémon Pez Color"
+    },
+    "STARYU": {
+        "name": "Staryu",
+        "description": "Staryu posee un órgano central, conocido como su núcleo, que brilla con una luz roja. A finales de verano, pueden verse en la playa los núcleos de estos Pokémon brillando como las estrellas del cielo.",
+        "category": "Pokémon Estrellada"
+    },
+    "STARMIE": {
+        "name": "Starmie",
+        "description": "La parte central de Starmie, el núcleo brillante, resplandece con siete colores distintos. Debido a su naturaleza luminosa, a este Pokémon se le ha dado el apelativo de la Gema del Mar.",
+        "category": "Pokémon Misterioso"
+    },
+    "MR_MIME": {
+        "name": "Mr. Mime",
+        "description": "Mr. Mime es un experto en pantomima. Con sus gestos y movimientos es capaz de convencer a sus espectadores de que algo existe, cuando en realidad no es así. Pero, cuando el público se lo cree, las ilusiones se hacen realidad.",
+        "category": "Pokémon Barrera"
+    },
+    "SCYTHER": {
+        "name": "Scyther",
+        "description": "Es espectacular ver lo rápido que es Scyther. Su increíble velocidad refuerza el efecto del par de guadañas que tiene en los brazos, que ya son de por sí contundentes; rebanan gruesos troncos de un tajo.",
+        "category": "Pokémon Mantis"
+    },
+    "JYNX": {
+        "name": "Jynx",
+        "description": "Jynx camina con ritmo, balanceándose y moviendo las caderas como si estuviera bailando. Realiza unos movimientos tan vistosos y atractivos que no hay quien pueda resistirse a mover las caderas.",
+        "category": "Pokémon Forma Humana"
+    },
+    "ELECTABUZZ": {
+        "name": "Electabuzz",
+        "description": "Al desatarse una tormenta, bandadas de estos Pokémon se enfrentan entre sí para ver quién alcanza antes sitios altos en los que suelan caer rayos. Hay ciudades que usan Electabuzz en lugar de pararrayos.",
+        "category": "Pokémon Eléctrico"
+    },
+    "MAGMAR": {
+        "name": "Magmar",
+        "description": "Al luchar, Magmar expulsa violentas llamas por todo el cuerpo para intimidar a su rival. Estos estallidos de fuego crean ondas de calor que abrasan la hierba y los árboles que haya en las proximidades.",
+        "category": "Pokémon Escupefuego"
+    },
+    "PINSIR": {
+        "name": "Pinsir",
+        "description": "Pinsir es sorprendentemente fuerte. Puede agarrar con los cuernos a un rival que pese el doble que él y levantarlo por los aires. En zonas frías, los movimientos de este Pokémon se vuelven lentos.",
+        "category": "Pokémon Escarabajo"
+    },
+    "TAUROS": {
+        "name": "Tauros",
+        "description": "Este Pokémon no está contento a menos que esté continuamente de aquí para allá. Si no hay rival que luche contra Tauros, se estampa contra árboles grandes para calmarse y los embiste para echarlos abajo.",
+        "category": "Pokémon Toro Bravo"
+    },
+    "MAGIKARP": {
+        "name": "Magikarp",
+        "description": "Magikarp es el triste ejemplo de un Pokémon capaz únicamente de saltar y salpicar. Esta conducta llevó a científicos a estudiarlo en profundidad.",
+        "category": "Pokémon Pez"
+    },
+    "GYARADOS": {
+        "name": "Gyarados",
+        "description": "Cuando Magikarp evoluciona y se convierte en Gyarados, sufre un cambio estructural en las células del cerebro. Dicen que esa transformación es la causa de la naturaleza violenta y salvaje de este Pokémon.",
+        "category": "Pokémon Atrocidad"
+    },
+    "LAPRAS": {
+        "name": "Lapras",
+        "description": "Por culpa de la gente, Lapras está casi en extinción. Dicen que, al anochecer, se pone a cantar quejicoso mientras busca a los miembros de su especie que puedan quedar.",
+        "category": "Pokémon Transporte"
+    },
+    "DITTO": {
+        "name": "Ditto",
+        "description": "Ditto reorganiza la estructura de sus células para adoptar otras formas. Pero, como intente transformarse en algo guiándose por los datos que tenga almacenados en la memoria, habrá detalles que se le escapen.",
+        "category": "Pokémon Transform."
+    },
+    "EEVEE": {
+        "name": "Eevee",
+        "description": "La configuración genética de Eevee le permite mutar y adaptarse enseguida a cualquier medio en el que viva. La evolución de este Pokémon suele ser posible gracias a las radiaciones emitidas por varias piedras.",
+        "category": "Pokémon Evolución"
+    },
+    "VAPOREON": {
+        "name": "Vaporeon",
+        "description": "Vaporeon sufrió una mutación repentina y desarrolló aletas y branquias que le permiten vivir bajo el agua. Asimismo, este Pokémon tiene la habilidad de controlar las aguas.",
+        "category": "Pokémon Burbuja"
+    },
+    "JOLTEON": {
+        "name": "Jolteon",
+        "description": "Las células de Jolteon generan un nivel bajo de electricidad, cuya intensidad aumenta con la electricidad estática que acumula en un pelaje formado por agujas cargadas de electricidad. Esta característica le permite lanzar rayos.",
+        "category": "Pokémon Relámpago"
+    },
+    "FLAREON": {
+        "name": "Flareon",
+        "description": "La suavidad del pelaje de Flareon tiene una función clara: libera calor para que el Pokémon no se asfixie. La temperatura corporal de este Pokémon puede alcanzar los 900 °C.",
+        "category": "Pokémon Llama"
+    },
+    "PORYGON": {
+        "name": "Porygon",
+        "description": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
+        "category": "Pokémon Virtual"
+    },
+    "OMANYTE": {
+        "name": "Omanyte",
+        "description": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
+        "category": "Pokémon Espiral"
+    },
+    "OMASTAR": {
+        "name": "Omastar",
+        "description": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
+        "category": "Pokémon Espiral"
+    },
+    "KABUTO": {
+        "name": "Kabuto",
+        "description": "Kabuto es un Pokémon regenerado a partir de un fósil, aunque, en raras ocasiones, se han encontrado casos de ejemplares vivos en estado salvaje. En 300 millones de años, este Pokémon no ha cambiado en nada.",
+        "category": "Pokémon Marisco"
+    },
+    "KABUTOPS": {
+        "name": "Kabutops",
+        "description": "Hace mucho tiempo, Kabutops buceaba para atrapar a sus presas. Parece ser que en algún momento cambió de hábitat y se adaptó a vivir en tierra firme. La transformación que se aprecia en las patas y branquias así lo confirma.",
+        "category": "Pokémon Marisco"
+    },
+    "AERODACTYL": {
+        "name": "Aerodactyl",
+        "description": "Los orígenes de Aerodactyl datan de la era de los dinosaurios. Se regeneró a partir de material genético contenido en ámbar. Se supone que fue el amo de los cielos en épocas pasadas.",
+        "category": "Pokémon Fósil"
+    },
+    "SNORLAX": {
+        "name": "Snorlax",
+        "description": "Un día cualquiera en la vida de Snorlax consiste en comer y dormir. Es un Pokémon tan dócil que es fácil ver niños usando la gran panza que tiene como lugar de juegos.",
+        "category": "Pokémon Dormir"
+    },
+    "ARTICUNO": {
+        "name": "Articuno",
+        "description": "Articuno es un Pokémon pájaro legendario que puede controlar el hielo. El batir de sus alas congela el aire. Dicen que consigue hacer que nieve cuando vuela.",
+        "category": "Pokémon Congelar"
+    },
+    "ZAPDOS": {
+        "name": "Zapdos",
+        "description": "Zapdos es un Pokémon pájaro legendario que tiene la habilidad de controlar la electricidad. Suele vivir en nubarrones. Este Pokémon gana mucha fuerza si le alcanzan los rayos.",
+        "category": "Pokémon Eléctrico"
+    },
+    "MOLTRES": {
+        "name": "Moltres",
+        "description": "Moltres es un Pokémon pájaro legendario que tiene la habilidad de controlar el fuego. Dicen que, si resulta herido, se sumerge en el líquido magma de un volcán para arder y curarse.",
+        "category": "Pokémon Llama"
+    },
+    "DRATINI": {
+        "name": "Dratini",
+        "description": "Dratini muda y se despoja de la vieja piel continuamente. Es algo que necesita hacer porque la energía que tiene en su interior no para de alcanzar niveles incontrolables.",
+        "category": "Pokémon Dragón"
+    },
+    "DRAGONAIR": {
+        "name": "Dragonair",
+        "description": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "category": "Pokémon Dragón"
+    },
+    "DRAGONITE": {
+        "name": "Dragonite",
+        "description": "Dragonite es capaz de dar la vuelta al mundo en solo 16 horas. Es un Pokémon de buen corazón que guía hasta tierra a los barcos que se encuentran perdidos en plena tormenta y a punto de zozobrar.",
+        "category": "Pokémon Dragón"
+    },
+    "MEWTWO": {
+        "name": "Mewtwo",
+        "description": "Mewtwo fue creado por manipulación genética. Pero, a pesar de que el hombre creó su cuerpo, dotar a Mewtwo de un corazón compasivo quedó en el olvido.",
+        "category": "Pokémon Genético"
+    },
+    "MEW": {
+        "name": "Mew",
+        "description": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "category": "Pokémon N. Especie"
+    },
+    "CHIKORITA": {
+        "name": "Chikorita",
+        "description": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.",
+        "category": "Pokémon Hoja"
+    },
+    "BAYLEEF": {
+        "name": "Bayleef",
+        "description": "Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.",
+        "category": "Pokémon Hoja"
+    },
+    "MEGANIUM": {
+        "name": "Meganium",
+        "description": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+        "category": "Pokémon Hierba"
+    },
+    "CYNDAQUIL": {
+        "name": "Cyndaquil",
+        "description": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+        "category": "Pokémon Ratón Fuego"
+    },
+    "QUILAVA": {
+        "name": "Quilava",
+        "description": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo que producen. También aprovecha su espectacular agilidad para esquivar ataques a la vez que abrasa al rival con sus llamas.",
+        "category": "Pokémon Volcán"
+    },
+    "TYPHLOSION": {
+        "name": "Typhlosion",
+        "description": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+        "category": "Pokémon Volcán"
+    },
+    "TOTODILE": {
+        "name": "Totodile",
+        "description": "Totodile tiene cuerpo pequeño, pero fuertes mandíbulas. A veces, piensa que solo está dando un mordisquito y hace unas heridas bastante considerables.",
+        "category": "Pokémon Fauces"
+    },
+    "CROCONAW": {
+        "name": "Croconaw",
+        "description": "Una vez que Croconaw le ha clavado los colmillos a su presa, es imposible que escape porque los tiene hacia adentro como si fueran anzuelos. Cuando Croconaw hinca los dientes, no hay escapatoria.",
+        "category": "Pokémon Fauces"
+    },
+    "FERALIGATR": {
+        "name": "Feraligatr",
+        "description": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+        "category": "Pokémon Fauces"
+    },
+    "SENTRET": {
+        "name": "Sentret",
+        "description": "Sentret no duerme a menos que otro haga guardia. El que hace de centinela lo despertará al mínimo signo de peligro. Cuando este Pokémon se separa de su manada, es incapaz de echarse a dormir, presa del miedo.",
+        "category": "Pokémon Explorador"
+    },
+    "FURRET": {
+        "name": "Furret",
+        "description": "Furret es de constitución muy delgada. En combate le resulta útil porque puede escabullirse con habilidad por cualquier huequito y escapar. A pesar de que tiene patas cortas, es ágil y veloz.",
+        "category": "Pokémon Alargado"
+    },
+    "HOOTHOOT": {
+        "name": "Hoothoot",
+        "description": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
+        "category": "Pokémon Búho"
+    },
+    "NOCTOWL": {
+        "name": "Noctowl",
+        "description": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
+        "category": "Pokémon Búho"
+    },
+    "LEDYBA": {
+        "name": "Ledyba",
+        "description": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
+        "category": "Pokémon 5 Estrellas"
+    },
+    "LEDIAN": {
+        "name": "Ledian",
+        "description": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
+        "category": "Pokémon 5 Estrellas"
+    },
+    "SPINARAK": {
+        "name": "Spinarak",
+        "description": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con solo observar las leves vibraciones de los hilos de la tela.",
+        "category": "Pokémon Escupesoga"
+    },
+    "ARIADOS": {
+        "name": "Ariados",
+        "description": "Ariados tiene unas patas con forma de garfio que le permiten correr por techos y superficies verticales. Este Pokémon oprime al rival con una tela de araña fina y resistente.",
+        "category": "Pokémon Pata Larga"
+    },
+    "CROBAT": {
+        "name": "Crobat",
+        "description": "Cuando este Pokémon vuela batiendo solo las alas delanteras o traseras, es porque lleva volando bastante tiempo. Cuando se cansa, Crobat alterna las alas.",
+        "category": "Pokémon Murciélago"
+    },
+    "CHINCHOU": {
+        "name": "Chinchou",
+        "description": "Chinchou libera cargas eléctricas positivas y negativas a través de las dos antenas que tiene para que su rival pierda el conocimiento. Asimismo, usa los destellos de electricidad para comunicarse con otros.",
+        "category": "Pokémon Rape"
+    },
+    "LANTURN": {
+        "name": "Lanturn",
+        "description": "A Lanturn lo llaman la Estrella del Fondo del Mar por la antena iluminada que tiene. Este Pokémon produce luz creando una reacción química entre una bacteria y los fluidos corporales de la antena.",
+        "category": "Pokémon Luz"
+    },
+    "PICHU": {
+        "name": "Pichu",
+        "description": "A Pichu le resulta más fácil cargarse de electricidad en días de nubarrones o cuando sopla un aire muy seco. Es posible oír la electricidad estática que emana de este Pokémon.",
+        "category": "Pokémon Ratoncito"
+    },
+    "CLEFFA": {
+        "name": "Cleffa",
+        "description": "Cuando hay lluvia de estrellas, a los Cleffa se les puede ver danzando en círculos durante toda la noche. Solo paran cuando rompe el día; entonces, dejan de bailar y calman su sed con el rocío de la mañana.",
+        "category": "Pokémon Estrellada"
+    },
+    "IGGLYBUFF": {
+        "name": "Igglybuff",
+        "description": "Las cuerdas vocales de Igglybuff no están suficientemente desarrolladas. Si tuviera que cantar mucho, se haría daño en la garganta. Este Pokémon suele hacer gárgaras con agua pura de manantial.",
+        "category": "Pokémon Globo"
+    },
+    "TOGEPI": {
+        "name": "Togepi",
+        "description": "Togepi usa los sentimientos positivos de compasión y alegría que desprenden las personas y los Pokémon. Este Pokémon almacena sentimientos de felicidad en su interior y después los comparte con otros.",
+        "category": "Pokémon Bolaclavos"
+    },
+    "TOGETIC": {
+        "name": "Togetic",
+        "description": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
+        "category": "Pokémon Felicidad"
+    },
+    "NATU": {
+        "name": "Natu",
+        "description": "Natu no puede volar porque las alas no le han crecido lo suficiente. Si alguien cruza la mirada con él, se la devolverá fijamente, aunque, si hace el mínimo movimiento, huirá dando saltitos para ponerse a salvo.",
+        "category": "Pokémon Pajarito"
+    },
+    "XATU": {
+        "name": "Xatu",
+        "description": "Xatu permanece de pie inmóvil y tranquilo en el mismo sitio durante todo el día. Se cree que no se mueve por temor a lo que ha visto que ocurrirá en el futuro.",
+        "category": "Pokémon Místico"
+    },
+    "MAREEP": {
+        "name": "Mareep",
+        "description": "Mareep tiene un pelaje lanudo suave que produce carga estática por el roce. Cuanto más se carga de electricidad estática, más brilla la bombilla que tiene en el extremo de la cola.",
+        "category": "Pokémon Lana"
+    },
+    "FLAAFFY": {
+        "name": "Flaaffy",
+        "description": "La calidad de la lana de Flaaffy varía para poder generar mucha electricidad estática con muy poca cantidad de lana. Las zonas suaves de la piel en las que no tiene pelaje están protegidas contra la electricidad.",
+        "category": "Pokémon Lana"
+    },
+    "AMPHAROS": {
+        "name": "Ampharos",
+        "description": "Ampharos desprende tanta luz que es posible verle hasta desde el espacio. Antes, la gente usaba su luz como sistema de comunicación para enviarse señales.",
+        "category": "Pokémon Luz"
+    },
+    "BELLOSSOM": {
+        "name": "Bellossom",
+        "description": "Cuando Bellossom se expone a gran cantidad de luz solar, le empiezan a girar las hojas que le rodean. La danza de este Pokémon es famosa en las zonas del sur.",
+        "category": "Pokémon Flor"
+    },
+    "MARILL": {
+        "name": "Marill",
+        "description": "La cola de Marill contiene un aceite que hace las veces de chaleco salvavidas. Si ves una moviéndose en el agua, seguro que debajo hay un Marill medio sumergido buscando plantas acuáticas para comer.",
+        "category": "Pokémon Ratón Agua"
+    },
+    "AZUMARILL": {
+        "name": "Azumarill",
+        "description": "Azumarill puede hacer burbujas de aire si ve a algún Pokémon que esté a punto de ahogarse. Estas burbujas de aire son básicas para que los Pokémon puedan seguir respirando.",
+        "category": "Pokémon Conejo Agua"
+    },
+    "SUDOWOODO": {
+        "name": "Sudowoodo",
+        "description": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno, ya que las extremidades superiores tienen color verde y es fácil identificarle.",
+        "category": "Pokémon Imitación"
+    },
+    "POLITOED": {
+        "name": "Politoed",
+        "description": "El mechón rizado de Politoed confirma su condición de rey. Dicen que cuanto más le crece y más se le riza, mayor es el respeto que recibe de sus súbditos.",
+        "category": "Pokémon Rana"
+    },
+    "HOPPIP": {
+        "name": "Hoppip",
+        "description": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+        "category": "Pokémon Algadón"
+    },
+    "SKIPLOOM": {
+        "name": "Skiploom",
+        "description": "Skiploom florece cuando la temperatura llega a 18 °C. La apertura de los pétalos varía según la temperatura que haga. Por este motivo, la gente lo usa a veces a modo de termómetro.",
+        "category": "Pokémon Algadón"
+    },
+    "JUMPLUFF": {
+        "name": "Jumpluff",
+        "description": "Jumpluff se vale de los cálidos vientos del sur para volar a tierras lejanas. Si llega a zonas de aire frío en pleno vuelo, descenderá y tomará tierra.",
+        "category": "Pokémon Algadón"
+    },
+    "AIPOM": {
+        "name": "Aipom",
+        "description": "La cola de Aipom termina en una especie de mano a la que, con un poco de cabeza, se le puede dar muy buen uso. Pero hay un problema: como se ha acostumbrado a usarla mucho, las de verdad se le han vuelto algo torponas.",
+        "category": "Pokémon Cola Larga"
+    },
+    "SUNKERN": {
+        "name": "Sunkern",
+        "description": "Sunkern intenta moverse lo menos posible para conservar todos los nutrientes que ha guardado en su interior y poder evolucionar. Ni come siquiera; se alimenta solo del rocío de la mañana.",
+        "category": "Pokémon Semilla"
+    },
+    "SUNFLORA": {
+        "name": "Sunflora",
+        "description": "Sunflora transforma la energía solar en nutrientes. De día, cuando hace calor, está en continuo movimiento. Solo para cuando comienza a anochecer.",
+        "category": "Pokémon Sol"
+    },
+    "YANMA": {
+        "name": "Yanma",
+        "description": "Yanma tiene un ángulo de visión de 360° sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
+        "category": "Pokémon Ala Clara"
+    },
+    "WOOPER": {
+        "name": "Wooper",
+        "description": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
+        "category": "Pokémon Pez Agua"
+    },
+    "QUAGSIRE": {
+        "name": "Quagsire",
+        "description": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
+        "category": "Pokémon Pez Agua"
+    },
+    "ESPEON": {
+        "name": "Espeon",
+        "description": "Espeon es tremendamente leal al Entrenador al que considera digno de ello. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su Entrenador sufra daño alguno.",
+        "category": "Pokémon Sol"
+    },
+    "UMBREON": {
+        "name": "Umbreon",
+        "description": "Umbreon evolucionó tras haber estado expuesto a ondas lunares. Suele esconderse en la oscuridad en silencio y esperar a que su presa se mueva. Cuando se lanza al ataque, le brillan los anillos del cuerpo.",
+        "category": "Pokémon Luz Lunar"
+    },
+    "MURKROW": {
+        "name": "Murkrow",
+        "description": "Murkrow ha sido temido y repudiado por todos por ser supuestamente fuente de mala suerte. Este Pokémon siente debilidad por todo lo que brilla y resplandece. A las mujeres les roba los anillos.",
+        "category": "Pokémon Oscuridad"
+    },
+    "SLOWKING": {
+        "name": "Slowking",
+        "description": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los misterios del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido si se separa del Shellder que lleva en la cabeza.",
+        "category": "Pokémon Regio"
+    },
+    "MISDREAVUS": {
+        "name": "Misdreavus",
+        "description": "Misdreavus asusta a la gente con un chillido escalofriante y sollozante. Y, al parecer, usa las esferas rojas para absorber los sentimientos de miedo de los enemigos y usarlos como alimento.",
+        "category": "Pokémon Chirrido"
+    },
+    "UNOWN": {
+        "name": "Unown",
+        "description": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+        "category": "Pokémon Símbolo"
+    },
+    "WOBBUFFET": {
+        "name": "Wobbuffet",
+        "description": "Si dos o más Wobbuffet se encuentran, se volverán competitivos e intentarán superarse en resistencia. Pero también puede que intenten aguantar sin comer; algo que los Entrenadores deben tener muy en cuenta.",
+        "category": "Pokémon Paciente"
+    },
+    "GIRAFARIG": {
+        "name": "Girafarig",
+        "description": "Girafarig tiene un cerebro también en la cabeza de la cola que reacciona atacando ante olores y sonidos. Cuando alguien se acerca a este Pokémon por la espalda, puede provocar que la cabeza trasera se abalance y lo muerda.",
+        "category": "Pokémon Gran Cuello"
+    },
+    "PINECO": {
+        "name": "Pineco",
+        "description": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
+        "category": "Pokémon Larva"
+    },
+    "FORRETRESS": {
+        "name": "Forretress",
+        "description": "Forretress se esconde dentro de su concha de acero reforzada. Solo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo de ver su interior.",
+        "category": "Pokémon Larva"
+    },
+    "DUNSPARCE": {
+        "name": "Dunsparce",
+        "description": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
+        "category": "Pokémon Serptierra"
+    },
+    "GLIGAR": {
+        "name": "Gligar",
+        "description": "Gligar planea por el aire sin hacer ningún ruido, como si fuera patinando. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras y le inyecta veneno por el aguijón.",
+        "category": "Pokémon Escorpiala"
+    },
+    "STEELIX": {
+        "name": "Steelix",
+        "description": "Steelix vive a mayor profundidad aún que Onix. Se le conoce por su tendencia a excavar hacia el interior del planeta. Hay datos que muestran que este Pokémon ha llegado a alcanzar 1 km de profundidad.",
+        "category": "Pokémon Serpférrea"
+    },
+    "SNUBBULL": {
+        "name": "Snubbull",
+        "description": "Al tener los colmillos por fuera, Snubbull da miedo y espanta a los Pokémon pequeños, que huyen aterrados. Parece que a él le da un poco de pena que salgan huyendo.",
+        "category": "Pokémon Hada"
+    },
+    "GRANBULL": {
+        "name": "Granbull",
+        "description": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
+        "category": "Pokémon Hada"
+    },
+    "QWILFISH": {
+        "name": "Qwilfish",
+        "description": "Qwilfish bebe agua y se hincha, y a continuación usa la presión del agua que ha tragado para lanzar púas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
+        "category": "Pokémon Globo"
+    },
+    "SCIZOR": {
+        "name": "Scizor",
+        "description": "Scizor tiene un cuerpo duro como el acero que no es fácil de alterar con ningún ataque común. Este Pokémon bate las alas para regular la temperatura corporal.",
+        "category": "Pokémon Tenaza"
+    },
+    "SHUCKLE": {
+        "name": "Shuckle",
+        "description": "Shuckle permanece escondido bajo las rocas en silencio y, cuando se pone a comer las bayas que almacena, se encierra en el caparazón. Las bayas se mezclan con sus fluidos corporales y originan zumo.",
+        "category": "Pokémon Moho"
+    },
+    "HERACROSS": {
+        "name": "Heracross",
+        "description": "Heracross carga en línea recta contra el enemigo, se le queda encajado por debajo, lo agarra y lo lanza con ayuda del fuerte cuerno que tiene. Este Pokémon tiene fuerza hasta para echar abajo un árbol descomunal.",
+        "category": "Pokémon Unicornio"
+    },
+    "SNEASEL": {
+        "name": "Sneasel",
+        "description": "Sneasel trepa por los árboles agarrándose a la corteza con las garras curvas que tiene. Este Pokémon busca nidos desprovistos de vigilancia paterna para robar los huevos y comérselos.",
+        "category": "Pokémon Garra Filo"
+    },
+    "TEDDIURSA": {
+        "name": "Teddiursa",
+        "description": "A Teddiursa le encanta chuparse las palmas impregnadas de dulce miel. Este Pokémon fabrica su propia miel mezclando frutos y el polen que recoge Beedrill.",
+        "category": "Pokémon Osito"
+    },
+    "URSARING": {
+        "name": "Ursaring",
+        "description": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
+        "category": "Pokémon Hibernante"
+    },
+    "SLUGMA": {
+        "name": "Slugma",
+        "description": "Por el sistema circulatorio de Slugma corre magma líquido. Si este Pokémon se enfriara, el magma perdería el calor y se solidificaría, por lo que se resquebrajaría por completo, perdería algunos trozos y reduciría su tamaño.",
+        "category": "Pokémon Lava"
+    },
+    "MAGCARGO": {
+        "name": "Magcargo",
+        "description": "La coraza de Magcargo es en realidad su propia piel que quedó endurecida al enfriarse. Está muy resquebrajada y es muy frágil; se desharía solo con tocarla. Este Pokémon debe sumergirse en magma para recuperar su forma.",
+        "category": "Pokémon Lava"
+    },
+    "SWINUB": {
+        "name": "Swinub",
+        "description": "Swinub busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "category": "Pokémon Cerdo"
+    },
+    "PILOSWINE": {
+        "name": "Piloswine",
+        "description": "Piloswine está cubierto por un pelaje tupido y de largas cerdas que le permite soportar el frío polar. Este Pokémon usa los colmillos para desenterrar los alimentos que hayan podido quedar bajo el hielo.",
+        "category": "Pokémon Puerco"
+    },
+    "CORSOLA": {
+        "name": "Corsola",
+        "description": "Las ramas de Corsola brillan con belleza hasta en siete colores cuando les da el sol. Si se le rompe alguna, el Pokémon la regenera en tan solo una noche.",
+        "category": "Pokémon Coral"
+    },
+    "REMORAID": {
+        "name": "Remoraid",
+        "description": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
+        "category": "Pokémon Reactor"
+    },
+    "OCTILLERY": {
+        "name": "Octillery",
+        "description": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
+        "category": "Pokémon Reactor"
+    },
+    "DELIBIRD": {
+        "name": "Delibird",
+        "description": "Delibird usa la cola a modo de saco para llevar su alimento. En una ocasión, un famoso escalador consiguió alcanzar la cima más alta del mundo gracias a que uno de estos Pokémon compartió sus alimentos con él.",
+        "category": "Pokémon Reparto"
+    },
+    "MANTINE": {
+        "name": "Mantine",
+        "description": "En los días que hace sol, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan.",
+        "category": "Pokémon Milano"
+    },
+    "SKARMORY": {
+        "name": "Skarmory",
+        "description": "Skarmory está totalmente encerrado en el interior de una fuerte coraza protectora. En vuelo, puede llegar a alcanzar los 300 km/h y usa las afiladas alas que tiene para azotar al rival.",
+        "category": "Pokémon Coraza Ave"
+    },
+    "HOUNDOUR": {
+        "name": "Houndour",
+        "description": "Houndour sale a cazar con el resto de la manada con total coordinación. Estos Pokémon se comunican unos con otros usando una serie de aullidos para acorralar a su presa. El compañerismo que existe entre ellos es incomparable.",
+        "category": "Pokémon Siniestro"
+    },
+    "HOUNDOOM": {
+        "name": "Houndoom",
+        "description": "En la manada de Houndoom, el que tiene los cuernos más arqueados hacia atrás tiene un mayor papel de liderazgo. Estos Pokémon suelen elegir al jefe en duelo.",
+        "category": "Pokémon Siniestro"
+    },
+    "KINGDRA": {
+        "name": "Kingdra",
+        "description": "Kingdra vive en lo más profundo del océano, donde no habita ninguna otra especie. Siempre se ha pensado que su bostezo causaba las corrientes en remolino que se dan en el océano.",
+        "category": "Pokémon Dragón"
+    },
+    "PHANPY": {
+        "name": "Phanpy",
+        "description": "Phanpy cava un agujero profundo para hacer su nido en el suelo, en la ribera de los ríos, y marca con la trompa la zona para que el resto vea que ese terreno ya está ocupado.",
+        "category": "Pokémon Narizotas"
+    },
+    "DONPHAN": {
+        "name": "Donphan",
+        "description": "A Donphan le encanta enrollarse como una pelota y cargar contra el enemigo rodando a toda velocidad. Una vez que ha comenzado a rodar, no es fácil pararlo.",
+        "category": "Pokémon Coraza"
+    },
+    "PORYGON2": {
+        "name": "Porygon2",
+        "description": "Porygon2 fue creado por el hombre gracias a los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta.",
+        "category": "Pokémon Virtual"
+    },
+    "STANTLER": {
+        "name": "Stantler",
+        "description": "Hace tiempo, se comerciaba con la magnífica cornamenta de Stantler. Se vendía como obra de arte a alto precio. Los interesados en cornamentas de valor incalculable empezaron a cazarlos y casi provocan su extinción.",
+        "category": "Pokémon Gran Cuerno"
+    },
+    "SMEARGLE": {
+        "name": "Smeargle",
+        "description": "Smeargle marca los límites de su territorio liberando un fluido corporal por el extremo de la cola. En la actualidad se han encontrado más de 5000 tipos de marcas distintas dejadas por este Pokémon.",
+        "category": "Pokémon Pintor"
+    },
+    "TYROGUE": {
+        "name": "Tyrogue",
+        "description": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su Entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
+        "category": "Pokémon Peleón"
+    },
+    "HITMONTOP": {
+        "name": "Hitmontop",
+        "description": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
+        "category": "Pokémon Boca Abajo"
+    },
+    "SMOOCHUM": {
+        "name": "Smoochum",
+        "description": "Smoochum va corriendo por todos lados, pero se cae también con frecuencia. Y, en cuanto tiene ocasión, se mira en algún sitio para ver si se ha manchado la cara.",
+        "category": "Pokémon Beso"
+    },
+    "ELEKID": {
+        "name": "Elekid",
+        "description": "Elekid acumula electricidad. Si entra en contacto con algo de metal y descarga accidentalmente toda la electricidad almacenada, empieza a agitar los brazos en círculo para volver a cargarse.",
+        "category": "Pokémon Eléctrico"
+    },
+    "MAGBY": {
+        "name": "Magby",
+        "description": "El estado de salud de Magby se puede determinar observando el fuego que emana al respirar. Si las llamas que echa por la boca son amarillas, está bien. Pero, si además de las llamas sale humo negro, está cansado.",
+        "category": "Pokémon Ascuas"
+    },
+    "MILTANK": {
+        "name": "Miltank",
+        "description": "Miltank da al día 20 l de una leche dulce que es la delicia de pequeños y mayores. Aquellos que no pueden tomarla, se decantan por los yogures.",
+        "category": "Pokémon Lechera"
+    },
+    "BLISSEY": {
+        "name": "Blissey",
+        "description": "Blissey es capaz de sentir la tristeza a través del sedoso pelaje. Si detecta que alguien está apenado, irá hasta donde esté y compartirá un Huevo Suerte para devolverle la sonrisa.",
+        "category": "Pokémon Felicidad"
+    },
+    "RAIKOU": {
+        "name": "Raikou",
+        "description": "Raikou tiene la velocidad del rayo. Los rugidos de este Pokémon emiten ondas de choque que se esparcen vibrando por el aire y sacuden el suelo como si fueran auténticas descargas de rayo.",
+        "category": "Pokémon Trueno"
+    },
+    "ENTEI": {
+        "name": "Entei",
+        "description": "Entei contiene el fulgor del magma en su interior. Se cree que este Pokémon nació de la erupción de un volcán. Escupe numerosas ráfagas de fuego que devoran y reducen a cenizas todo lo que tocan.",
+        "category": "Pokémon Volcán"
+    },
+    "SUICUNE": {
+        "name": "Suicune",
+        "description": "Suicune emana la pureza de los manantiales. Suele corretear por el campo con gran elegancia. Este Pokémon tiene el poder de purificar el agua contaminada.",
+        "category": "Pokémon Aurora"
+    },
+    "LARVITAR": {
+        "name": "Larvitar",
+        "description": "Larvitar nace bajo tierra a gran profundidad. Para subir a la superficie, este Pokémon debe comer lo que encuentra en su camino para abrirse paso. Y, hasta que no está arriba, no puede verles la cara a sus padres.",
+        "category": "Pokémon Piel Roca"
+    },
+    "PUPITAR": {
+        "name": "Pupitar",
+        "description": "Pupitar crea un gas en su interior que comprime y expulsa violentamente a modo de autopropulsión. Tiene un cuerpo resistente que se mantiene inalterable hasta cuando se golpea contra duro acero.",
+        "category": "Pokémon Caparazón"
+    },
+    "TYRANITAR": {
+        "name": "Tyranitar",
+        "description": "Tyranitar tiene una fuerza imponente; es capaz de echar abajo una montaña para hacer su nido. Este Pokémon suele merodear por las zonas de montaña en busca de nuevos rivales contra los que luchar.",
+        "category": "Pokémon Coraza"
+    },
+    "LUGIA": {
+        "name": "Lugia",
+        "description": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
+        "category": "Pokémon Buceo"
+    },
+    "HO_OH": {
+        "name": "Ho-Oh",
+        "description": "El plumaje de Ho-Oh contiene siete colores que pueden apreciarse según el ángulo desde el que les dé la luz. Dicen que sus plumas dan felicidad a quienes las llevan y, también, que este Pokémon vive a los pies del arco iris.",
+        "category": "Pokémon Arcoíris"
+    },
+    "CELEBI": {
+        "name": "Celebi",
+        "description": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
+        "category": "Pokémon Viajetiempo"
+    },
+    "TREECKO": {
+        "name": "Treecko",
+        "description": "Treecko tiene unos ganchos pequeños en las plantas de los pies con los que puede escalar superficies verticales. Este Pokémon ataca dando un golpetazo con la cola.",
+        "category": "Pokémon Geco Bosque"
+    },
+    "GROVYLE": {
+        "name": "Grovyle",
+        "description": "Las hojas que Grovyle tiene por el cuerpo le resultan muy útiles para camuflarse en el bosque y esconderse de los enemigos. A este Pokémon no hay quien lo supere subiendo a los árboles del bosque.",
+        "category": "Pokémon Geco Bosque"
+    },
+    "SCEPTILE": {
+        "name": "Sceptile",
+        "description": "Las hojas que le salen a Sceptile del cuerpo tienen unos bordes muy afilados. Este Pokémon es muy ágil, va saltando de rama en rama y se lanza sobre el enemigo por la espalda.",
+        "category": "Pokémon Monte"
+    },
+    "TORCHIC": {
+        "name": "Torchic",
+        "description": "Torchic no se separa de su Entrenador. Siempre va tras él con sus pasitos inseguros. Este Pokémon escupe bolas de fuego que pueden alcanzar los 1000 °C y carbonizar al enemigo.",
+        "category": "Pokémon Polluelo"
+    },
+    "COMBUSKEN": {
+        "name": "Combusken",
+        "description": "Combusken fortalece las piernas corriendo por llanos y montañas. Este Pokémon tiene en las extremidades inferiores tanto fuerza como velocidad. Puede dar hasta diez patadas por segundo.",
+        "category": "Pokémon Ave Corral"
+    },
+    "BLAZIKEN": {
+        "name": "Blaziken",
+        "description": "En combate, Blaziken expulsa vivas llamas por las muñecas y ataca al enemigo con fiereza. Cuanto más fuerte sea el enemigo, más intensas serán las llamas.",
+        "category": "Pokémon Llameante"
+    },
+    "MUDKIP": {
+        "name": "Mudkip",
+        "description": "La aleta que tiene Mudkip en la cabeza actúa de radar y es muy sensible. Puede captar movimientos que se produzcan en el agua y en el aire, y todo lo que ocurra a su alrededor, sin necesidad de abrir los ojos.",
+        "category": "Pokémon Pez Lodo"
+    },
+    "MARSHTOMP": {
+        "name": "Marshtomp",
+        "description": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
+        "category": "Pokémon Pez Lodo"
+    },
+    "SWAMPERT": {
+        "name": "Swampert",
+        "description": "Swampert es muy fuerte. Puede arrastrar una roca que pese más de una tonelada sin ningún problema. Este Pokémon tiene el sentido de la vista muy desarrollado. Es capaz de ver hasta en aguas cenagosas.",
+        "category": "Pokémon Pez Lodo"
+    },
+    "POOCHYENA": {
+        "name": "Poochyena",
+        "description": "La primera reacción que Poochyena tiene al ver algo moverse es darle un mordisco. Este Pokémon persigue a su presa hasta que cae agotada. Aunque, a veces, sale huyendo si su presa le responde con un ataque.",
+        "category": "Pokémon Mordisco"
+    },
+    "MIGHTYENA": {
+        "name": "Mightyena",
+        "description": "Es muy fácil prever cuándo va a atacar Mightyena; se pone a gruñir con fuerza y se estira. Este Pokémon da unos mordiscos tremendos con los afilados colmillos que tiene.",
+        "category": "Pokémon Mordisco"
+    },
+    "ZIGZAGOON": {
+        "name": "Zigzagoon",
+        "description": "Zigzagoon está todo el día dando vueltas de aquí para allá. Es un Pokémon muy inquieto. Se interesa por todo lo que se encuentra en su camino.",
+        "category": "Pokémon Mapachito"
+    },
+    "LINOONE": {
+        "name": "Linoone",
+        "description": "Linoone siempre corre todo lo rápido que puede y solo en línea recta. Si encuentra un obstáculo en el camino, girará en ángulo recto para esquivarlo. Correr bien por caminos tortuosos es todo un reto para él.",
+        "category": "Pokémon Lanzado"
+    },
+    "WURMPLE": {
+        "name": "Wurmple",
+        "description": "Wurmple usa las púas del lomo para raspar los troncos de los árboles, quitarles la corteza y beber la savia que emanan. Este Pokémon tiene unas ventosas rematándole los pies, con las que se adhiere al cristal sin resbalarse.",
+        "category": "Pokémon Gusano"
+    },
+    "SILCOON": {
+        "name": "Silcoon",
+        "description": "Silcoon usa la seda que produce para aferrarse a la rama de un árbol y sujetarse bien. Se queda ahí colgado a la espera de su evolución, mientras lo observa todo a través de dos pequeños agujeros en su capullo de seda.",
+        "category": "Pokémon Capullo"
+    },
+    "BEAUTIFLY": {
+        "name": "Beautifly",
+        "description": "La comida favorita de Beautifly es el dulce polen de las flores. Si quieres ver a este Pokémon, deja una maceta con flores al lado de la ventana y verás cómo aparece un ejemplar de Beautifly en busca de polen.",
+        "category": "Pokémon Mariposa"
+    },
+    "CASCOON": {
+        "name": "Cascoon",
+        "description": "Cascoon forma el capullo que lo protege enrollándose por completo en la seda que libera por la boca. Cuando está totalmente recubierto, se prepara para evolucionar en el interior del capullo.",
+        "category": "Pokémon Capullo"
+    },
+    "DUSTOX": {
+        "name": "Dustox",
+        "description": "Los Dustox se acercan a la luz de forma instintiva. De hecho, se agrupan en enjambres alrededor de las luces de las ciudades y causan estragos en las hojas de los árboles que están a pie de calle para alimentarse.",
+        "category": "Pokémon Polilla Ven."
+    },
+    "LOTAD": {
+        "name": "Lotad",
+        "description": "Lotad vive en estanques y lagos, donde permanece flotando. Si se le marchita la ancha hoja que tiene en la cabeza, se debilitará. De vez en cuando, se desplaza en busca de agua limpia.",
+        "category": "Pokémon Alga"
+    },
+    "LOMBRE": {
+        "name": "Lombre",
+        "description": "Lombre es, además de travieso, nocturno; entra en acción de noche. Cuando ve a gente pescando, se pone a tirar del sedal por debajo del agua y se divierte viendo la cara de enfado que se les queda.",
+        "category": "Pokémon Alegre"
+    },
+    "LUDICOLO": {
+        "name": "Ludicolo",
+        "description": "Ludicolo empieza a bailar en cuanto oye música alegre y de fiesta. Dicen que este Pokémon aparece cuando oye cantar a los niños que van de excursión para hacer senderismo.",
+        "category": "Pokémon Optimista"
+    },
+    "SEEDOT": {
+        "name": "Seedot",
+        "description": "Seedot se queda enganchado a las ramas de los árboles por el extremo que tiene en la cabeza. Mientras está ahí colgado, aprovecha para tomar la humedad del árbol. Cuanta más agua bebe, más lustroso se le ve.",
+        "category": "Pokémon Bellota"
+    },
+    "NUZLEAF": {
+        "name": "Nuzleaf",
+        "description": "Nuzleaf habita bosques muy poblados y, en ocasiones, se atreve a salir para asustar a la gente. A este Pokémon no le gusta nada que le pellizquen la nariz.",
+        "category": "Pokémon Astuto"
+    },
+    "SHIFTRY": {
+        "name": "Shiftry",
+        "description": "Shiftry es un enigmático Pokémon que vive, dicen, en las copas de los árboles milenarios. Este Pokémon genera fuertes corrientes de aire con los abanicos que lleva en las manos.",
+        "category": "Pokémon Malvado"
+    },
+    "TAILLOW": {
+        "name": "Taillow",
+        "description": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
+        "category": "Pokémon Pequebuche"
+    },
+    "SWELLOW": {
+        "name": "Swellow",
+        "description": "Swellow vuela muy alto dibujando elegantes arcos en el cielo. Este Pokémon se sumerge en el agua con rapidez y eficacia en cuanto detecta una presa. Con las garras, atrapa a la desdichada víctima y no la deja huir.",
+        "category": "Pokémon Buche"
+    },
+    "WINGULL": {
+        "name": "Wingull",
+        "description": "Wingull tiene la costumbre de llevar a su presa y objetos de valor en el pico, y esconderlos en distintos sitios. Este Pokémon vuela dejándose llevar por las corrientes de aire como si fuera patinando por el cielo.",
+        "category": "Pokémon Gaviota"
+    },
+    "PELIPPER": {
+        "name": "Pelipper",
+        "description": "Pelipper vuela transportando pequeños huevos y Pokémon dentro del descomunal pico que tiene. Este Pokémon construye su nido en escarpados acantilados frente al mar.",
+        "category": "Pokémon Ave Agua"
+    },
+    "RALTS": {
+        "name": "Ralts",
+        "description": "Ralts percibe las sensaciones de la gente por los cuernos que tiene encima y detrás de la cabeza. No es común que este Pokémon aparezca en público, pero cuando lo hace, se acerca si ve buena disposición en la gente.",
+        "category": "Pokémon Sensible"
+    },
+    "KIRLIA": {
+        "name": "Kirlia",
+        "description": "Dicen que, al recibir los sentimientos positivos de su Entrenador, Kirlia crece con gran belleza. Este Pokémon controla poderes psicoquinéticos gracias al desarrollado cerebro que tiene.",
+        "category": "Pokémon Sensorio"
+    },
+    "GARDEVOIR": {
+        "name": "Gardevoir",
+        "description": "Gardevoir es capaz de leer el futuro. Si siente que su Entrenador está en peligro inminente, dicen que libera automáticamente toda su energía psicoquinética.",
+        "category": "Pokémon Envolvente"
+    },
+    "SURSKIT": {
+        "name": "Surskit",
+        "description": "Surskit segrega un aceite por la punta de las patas que le permite caminar sobre el agua como si fuera patinando. Este Pokémon se alimenta de microorganismos en charcas y lagos.",
+        "category": "Pokémon Zapatero"
+    },
+    "MASQUERAIN": {
+        "name": "Masquerain",
+        "description": "Masquerain intimida a sus enemigos con los ojos que tiene dibujados en las antenas. Este Pokémon bate las cuatro alas que tiene para volar libremente en cualquier dirección, hasta de lado y hacia atrás, como un helicóptero.",
+        "category": "Pokémon Globocular"
+    },
+    "SHROOMISH": {
+        "name": "Shroomish",
+        "description": "Los Shroomish viven en zonas húmedas en la profunda oscuridad del bosque. Suelen quedarse tranquilamente bajo las hojas caídas. Se alimentan del abono que estas generan al empezar a pudrirse.",
+        "category": "Pokémon Hongo"
+    },
+    "BRELOOM": {
+        "name": "Breloom",
+        "description": "Breloom se acerca al enemigo realizando un juego de piernas ágil y enérgico. Y, a continuación, le da unos puñetazos con los brazos elásticos que tiene. Las técnicas de lucha que usa dejan en ridículo al boxeador más profesional.",
+        "category": "Pokémon Hongo"
+    },
+    "SLAKOTH": {
+        "name": "Slakoth",
+        "description": "Slakoth se pasa más de veinte horas al día tumbado. Como se mueve tan poco, necesita muy poca comida. De hecho, la única toma que hace al día la componen tan solo tres hojas.",
+        "category": "Pokémon Gandul"
+    },
+    "VIGOROTH": {
+        "name": "Vigoroth",
+        "description": "Vigoroth está continuamente inquieto, rabiando por salir corriendo sin control. Estar quieto un solo minuto es superior a sus fuerzas. Si no puede estar en continuo movimiento, el nivel de estrés de este Pokémon se dispara.",
+        "category": "Pokémon Mono Feroz"
+    },
+    "SLAKING": {
+        "name": "Slaking",
+        "description": "Slaking se pasa todo el día tumbado vagueando. Se come la hierba que tiene a su alcance y, una vez que ha acabado con ella, se va de mala gana a otro sitio.",
+        "category": "Pokémon Holgazán"
+    },
+    "NINCADA": {
+        "name": "Nincada",
+        "description": "Nincada vive bajo tierra en la más absoluta oscuridad durante años. Este Pokémon absorbe nutrientes de las raíces de los árboles y permanece inmóvil a la espera de su evolución.",
+        "category": "Pokémon Aprendiz"
+    },
+    "NINJASK": {
+        "name": "Ninjask",
+        "description": "Ninjask se mueve de un lado a otro a tal velocidad que es imposible verlo. Sin embargo, como su zumbido no deja de oírse, se pensó durante mucho tiempo que este Pokémon era invisible.",
+        "category": "Pokémon Ninja"
+    },
+    "SHEDINJA": {
+        "name": "Shedinja",
+        "description": "Shedinja tiene un cuerpo robusto que no mueve en absoluto. De hecho, parece una especie de caparazón hueco. Se cree que, si alguien se atreviera a mirarle por la espalda lo que tiene en su interior, Shedinja le robaría el alma.",
+        "category": "Pokémon Muda"
+    },
+    "WHISMUR": {
+        "name": "Whismur",
+        "description": "Normalmente, Whismur tiene una voz tenue, casi inaudible, aunque se preste atención. No obstante, si este Pokémon siente que el peligro acecha, puede ponerse a chillar con un volumen ensordecedor.",
+        "category": "Pokémon Susurro"
+    },
+    "LOUDRED": {
+        "name": "Loudred",
+        "description": "Los bramidos de Loudred pueden echar abajo una casa reforzada con vigas de madera. Este Pokémon usa el vozarrón que tiene para castigar a sus rivales. Las orejas redondas le sirven de altavoces.",
+        "category": "Pokémon Chillón"
+    },
+    "EXPLOUD": {
+        "name": "Exploud",
+        "description": "Exploud provoca terremotos con el temblor que causa al levantar la voz. Cuando inhala aire por los tubos, hay que prestar atención, ya que está a punto de soltar un buen bramido.",
+        "category": "Pokémon Escandaloso"
+    },
+    "MAKUHITA": {
+        "name": "Makuhita",
+        "description": "Makuhita es tenaz. Da igual las veces que le venzan; volverá a ponerse en pie y a atacar. De hecho, cada vez que se recupera, acumula más energía para poder evolucionar.",
+        "category": "Pokémon Valiente"
+    },
+    "HARIYAMA": {
+        "name": "Hariyama",
+        "description": "Hariyama practica los empujones que da estirando los brazos allá por donde va. Este Pokémon puede partir por la mitad un poste de teléfono de un enérgico golpe con los brazos estirados y las manos abiertas.",
+        "category": "Pokémon Empuje"
+    },
+    "AZURILL": {
+        "name": "Azurill",
+        "description": "Azurill enrolla la cola como si fuera un lazo y la despliega a continuación todo lo que puede. De esta forma, un Azurill llegó a lanzarse a sí mismo hasta 10 m.",
+        "category": "Pokémon A Topos"
+    },
+    "NOSEPASS": {
+        "name": "Nosepass",
+        "description": "Nosepass siempre está con la nariz magnética que tiene orientada hacia el norte. Si se encuentra con otro ejemplar de su especie, no puede mirarle de frente porque sus polos magnéticos se repelen.",
+        "category": "Pokémon Brújula"
+    },
+    "SKITTY": {
+        "name": "Skitty",
+        "description": "A Skitty le encanta mover cosas e ir detrás de ellas. Es de todos sabido que se dedica a ir detrás de su propia cola y que, al final, acaba mareándose.",
+        "category": "Pokémon Gatito"
+    },
+    "DELCATTY": {
+        "name": "Delcatty",
+        "description": "Delcatty prefiere llevar una vida independiente y hacer lo que se le antoje. Como este Pokémon come y duerme según vea en cada momento, no se puede decir que tenga unos hábitos regulares en el día a día.",
+        "category": "Pokémon Cursi"
+    },
+    "SABLEYE": {
+        "name": "Sableye",
+        "description": "Los Sableye hacen una vida muy tranquila en cavernas, pero son muy temidos. Se dice que, cuando los ojos les brillan de manera siniestra, están robándole el alma a alguien.",
+        "category": "Pokémon Oscuridad"
+    },
+    "MAWILE": {
+        "name": "Mawile",
+        "description": "Las descomunales fauces de acero de Mawile son la evolución de unos cuernos que tuvo en su día. Con su expresión dócil puede engañar al enemigo y hacer que baje la guardia para sorprenderle con las fauces.",
+        "category": "Pokémon Tramposo"
+    },
+    "ARON": {
+        "name": "Aron",
+        "description": "Este Pokémon tiene el cuerpo de acero. Para mantenerlo, se alimenta del hierro que saca de las montañas. A veces, causa verdaderos problemas, pues se come puentes y vías de tren.",
+        "category": "Pokémon Cor. Férrea"
+    },
+    "LAIRON": {
+        "name": "Lairon",
+        "description": "Lairon templa su cuerpo de acero bebiendo agua mineral muy rica en nutrientes hasta que no puede más. Este Pokémon suele crear su nido cerca de manantiales de rica agua.",
+        "category": "Pokémon Cor. Férrea"
+    },
+    "AGGRON": {
+        "name": "Aggron",
+        "description": "Aggron marca una montaña entera como su territorio y acaba con todo lo que pueda ponerlo en peligro. Este Pokémon está continuamente patrullando la zona en defensa de su terreno.",
+        "category": "Pokémon Cor. Férrea"
+    },
+    "MEDITITE": {
+        "name": "Meditite",
+        "description": "Meditite lleva a cabo un entrenamiento mental exhaustivo en lo más profundo de las montañas. Aunque, cuando medita, pierde toda la concentración y se descentra. Por eso, no deja nunca de entrenarse.",
+        "category": "Pokémon Meditador"
+    },
+    "MEDICHAM": {
+        "name": "Medicham",
+        "description": "Dicen que, a través de la meditación, Medicham aumenta su energía interior y agudiza su sexto sentido. Este Pokémon suele pasar desapercibido mimetizándose con el campo y las montañas.",
+        "category": "Pokémon Meditador"
+    },
+    "ELECTRIKE": {
+        "name": "Electrike",
+        "description": "Electrike acumula electricidad en el largo pelaje que tiene. Este Pokémon estimula los músculos de las patas mediante descargas eléctricas. Estas explosiones de energía le permiten acelerar de forma increíble.",
+        "category": "Pokémon Calambre"
+    },
+    "MANECTRIC": {
+        "name": "Manectric",
+        "description": "Manectric está continuamente descargando electricidad por las melenas, y a veces causa incendios en el bosque con las chispas que suelta. Cuando entra en combate, este Pokémon crea nubarrones.",
+        "category": "Pokémon Descarga"
+    },
+    "PLUSLE": {
+        "name": "Plusle",
+        "description": "Plusle siempre anima a sus compañeros. Cuando algún miembro de su grupo hace un gran esfuerzo en combate, causa un cortocircuito en su interior para mostrar con el chisporroteo su alegría.",
+        "category": "Pokémon Ánimo"
+    },
+    "MINUN": {
+        "name": "Minun",
+        "description": "Minun se preocupa más por alentar a sus compañeros de equipo que por su propia seguridad. Para animar a los miembros de su grupo, crea un cortocircuito en su interior y libera un chisporroteo espectacular.",
+        "category": "Pokémon Ánimo"
+    },
+    "VOLBEAT": {
+        "name": "Volbeat",
+        "description": "Cuando llega la noche, Volbeat emite luz por la cola y regula la intensidad y el destello para comunicarse con el resto. A este Pokémon le atrae el dulce aroma de Illumise.",
+        "category": "Pokémon Luciérnaga"
+    },
+    "ILLUMISE": {
+        "name": "Illumise",
+        "description": "Illumise atrae mediante su dulce aroma a enjambres de Volbeat. Una vez que los ha agrupado, les guía en el vuelo para que dibujen formas geométricas en el lienzo del oscuro cielo.",
+        "category": "Pokémon Luciérnaga"
+    },
+    "ROSELIA": {
+        "name": "Roselia",
+        "description": "Roselia lanza finas espinas a todo el que se le acerca con intención de robarle las flores de los brazos. El aroma de este Pokémon resulta relajante a los seres vivos.",
+        "category": "Pokémon Espina"
+    },
+    "GULPIN": {
+        "name": "Gulpin",
+        "description": "Casi la totalidad del cuerpo de Gulpin está compuesto por el estómago. Por eso, puede tragarse todo lo que tenga su tamaño. En el interior del estómago tiene un fluido capaz de corroerlo todo.",
+        "category": "Pokémon Estómago"
+    },
+    "SWALOT": {
+        "name": "Swalot",
+        "description": "Cuando Swalot detecta una presa, echa por los poros, y a borbotones, un fluido tóxico espantoso con el que rocía a su víctima. Una vez que la debilita, se la traga entera gracias a la gigantesca boca que tiene.",
+        "category": "Pokémon Bolsa Veneno"
+    },
+    "CARVANHA": {
+        "name": "Carvanha",
+        "description": "Carvanha, gracias a las descomunales fauces de afilados colmillos que tiene, es capaz de hacer trizas un barco. Son muchas las naves que han sufrido el ataque de este Pokémon y han acabado naufragando.",
+        "category": "Pokémon Feroz"
+    },
+    "SHARPEDO": {
+        "name": "Sharpedo",
+        "description": "Conocido como el Terror de los Mares, Sharpedo es temido por todos. Si este Pokémon pierde los escalofriantes colmillos que tiene, los recupera en breve. Basta con un Sharpedo para destrozar un buque-cisterna.",
+        "category": "Pokémon Voraz"
+    },
+    "WAILMER": {
+        "name": "Wailmer",
+        "description": "Wailmer tiene los espiráculos encima de la cabeza. A este juguetón Pokémon le encanta asustar a la gente expulsando el agua que acumula a través de estos orificios.",
+        "category": "Pokémon Ballenabola"
+    },
+    "WAILORD": {
+        "name": "Wailord",
+        "description": "Wailord es el mayor Pokémon registrado hasta la fecha. Este coloso va nadando lánguidamente por el ancho mar con la boca abierta para que penetre la mayor cantidad posible de alimento.",
+        "category": "Pokémon Ballenaflot"
+    },
+    "NUMEL": {
+        "name": "Numel",
+        "description": "Numel tarda en percibir las cosas, no se entera ni cuando lo golpean, pero se da cuenta enseguida de si tiene hambre. El cuerpo de este Pokémon es un caldero de magma hirviendo.",
+        "category": "Pokémon Torpe"
+    },
+    "CAMERUPT": {
+        "name": "Camerupt",
+        "description": "Camerupt encierra un volcán en su interior y magma de 10 000 °C le recorre el cuerpo. A veces, las jorobas de la espalda entran en erupción y escupen el abrasivo magma.",
+        "category": "Pokémon Erupción"
+    },
+    "TORKOAL": {
+        "name": "Torkoal",
+        "description": "Torkoal va cavando por las montañas en busca de carbón. Cuando lo encuentra, rellena los huecos que tiene dentro del caparazón y lo quema. Si le atacan, este Pokémon echa un humo negro que le permite la retirada.",
+        "category": "Pokémon Carbón"
+    },
+    "SPOINK": {
+        "name": "Spoink",
+        "description": "Spoink se pasa todo el día saltando sobre la cola. Cada salto hace que le lata el corazón. Por eso, no puede permitirse dejar de saltar. Si lo hiciera, se le pararía.",
+        "category": "Pokémon Saltarín"
+    },
+    "GRUMPIG": {
+        "name": "Grumpig",
+        "description": "Grumpig usa las perlas negras que tiene para amplificar las ondas de su poder psíquico y controlar del todo al rival. Cuando usa su poder especial, le cuesta respirar y resopla con pesadez.",
+        "category": "Pokémon Manipulador"
+    },
+    "SPINDA": {
+        "name": "Spinda",
+        "description": "Dicen que no hay dos Spinda que tengan los mismos dibujos en el pelaje. Este Pokémon tiene una forma de andar inestable, va tambaleándose. Da la sensación de ir bailando.",
+        "category": "Pokémon Panda Topos"
+    },
+    "TRAPINCH": {
+        "name": "Trapinch",
+        "description": "El nido de Trapinch está situado bajo la arena, en una zona cóncava. Este Pokémon espera con paciencia a que su presa caiga en la misma. Con las fauces que tiene puede destruir hasta piedras.",
+        "category": "Pokémon Hormigaleón"
+    },
+    "VIBRAVA": {
+        "name": "Vibrava",
+        "description": "Para debilitar a su víctima, Vibrava genera ondas ultrasónicas haciendo vibrar con fuerza las alas. Las ondas que crea son tan fuertes que pueden dar dolor de cabeza a la gente.",
+        "category": "Pokémon Vibrante"
+    },
+    "FLYGON": {
+        "name": "Flygon",
+        "description": "A Flygon se le conoce como el Espíritu del Desierto. Al volar, como levanta una nube de arena al batir las alas, está siempre envuelto en una tormenta de arena.",
+        "category": "Pokémon Místico"
+    },
+    "CACNEA": {
+        "name": "Cacnea",
+        "description": "Cacnea habita en desiertos y otras zonas áridas. Para atraer a su presa, libera un fuerte aroma por la flor y, cuando se le acerca, le lanza pinchos por todo el cuerpo para reducirla.",
+        "category": "Pokémon Cactus"
+    },
+    "CACTURNE": {
+        "name": "Cacturne",
+        "description": "Durante el día, Cacturne permanece inmóvil para no perder nada de humedad bajo el sol de justicia del desierto. Este Pokémon entra en acción por la noche, cuando bajan las temperaturas.",
+        "category": "Pokémon Espantajo"
+    },
+    "SWABLU": {
+        "name": "Swablu",
+        "description": "Swablu tiene unas alas ligeras y esponjosas que parecen nubes de algodón. A este Pokémon no le asusta la gente. De hecho, puede llegar a posarse en la cabeza de alguien y servirle de gorro sedoso.",
+        "category": "Pokémon Ave Algodón"
+    },
+    "ALTARIA": {
+        "name": "Altaria",
+        "description": "Altaria baila y revolotea por el cielo entre ondeantes nubes que parecen de algodón. Al entonar melodías con su voz cristalina, este Pokémon deja a sus oyentes embobados y admirados.",
+        "category": "Pokémon Cantor"
+    },
+    "ZANGOOSE": {
+        "name": "Zangoose",
+        "description": "Los ecos del combate mantenido con su rival más feroz, Seviper, resuenan aún en cada célula de Zangoose. Este Pokémon esquiva los ataques con auténtica destreza.",
+        "category": "Pokémon Gato Hurón"
+    },
+    "SEVIPER": {
+        "name": "Seviper",
+        "description": "Seviper lleva años de gran enemistad con Zangoose. Las cicatrices que tiene por todo el cuerpo dan buena muestra de los encarnizados combates en los que se han enfrentado. Seviper ataca usando su cola con forma de espada.",
+        "category": "Pokémon Colmillos"
+    },
+    "LUNATONE": {
+        "name": "Lunatone",
+        "description": "Lunatone fue descubierto en el lugar de impacto de un meteorito. Por eso, hay quien especula con la idea de que procede del espacio. Con todo, hasta el día de hoy nadie ha podido probar esta teoría.",
+        "category": "Pokémon Meteorito"
+    },
+    "SOLROCK": {
+        "name": "Solrock",
+        "description": "Solrock pertenece a una nueva especie de Pokémon a la que se le atribuye una procedencia extraterrestre. Este Pokémon permanece flotando en el aire y se mueve muy despacio. Al luchar, desprende una luz viva e intensa.",
+        "category": "Pokémon Meteorito"
+    },
+    "BARBOACH": {
+        "name": "Barboach",
+        "description": "Barboach tiene unos bigotes sensibles que le sirven de infalible radar. Este Pokémon se sumerge en lodo y solo deja los bigotes por fuera de la superficie, al acecho, mientras espera a que llegue su presa.",
+        "category": "Pokémon Bigotudo"
+    },
+    "WHISCASH": {
+        "name": "Whiscash",
+        "description": "Whiscash defiende su territorio a toda costa. Es capaz de apoderarse de un estanque entero para sí solo. Si alguien se le acerca, se revolverá y provocará un terremoto devastador.",
+        "category": "Pokémon Bigotudo"
+    },
+    "CORPHISH": {
+        "name": "Corphish",
+        "description": "En un principio, se importaban Corphish como mascota. Pero, al final, se hicieron salvajes. Este Pokémon es muy resistente y ha aumentado su población de forma considerable.",
+        "category": "Pokémon Rufián"
+    },
+    "CRAWDAUNT": {
+        "name": "Crawdaunt",
+        "description": "Crawdaunt es de una naturaleza extremadamente violenta que le lleva a desafiar a otros seres vivos. Hay formas de vida que se niegan a vivir en los estanques donde habitan estos Pokémon, y los dejan medio vacíos.",
+        "category": "Pokémon Granuja"
+    },
+    "BALTOY": {
+        "name": "Baltoy",
+        "description": "Baltoy se mueve girando alrededor de sí mismo sobre la extremidad inferior que tiene. En unas ruinas antiguas, descubrieron pinturas rupestres en las que aparecía este Pokémon conviviendo con personas.",
+        "category": "Pokémon Muñeca Barro"
+    },
+    "CLAYDOL": {
+        "name": "Claydol",
+        "description": "Se cree que los Claydol son figuras de barro hechas por humanos primitivos y que un misterioso rayo les hizo cobrar vida. Este Pokémon se desplaza levitando.",
+        "category": "Pokémon Muñeca Barro"
+    },
+    "LILEEP": {
+        "name": "Lileep",
+        "description": "Los Lileep se extinguieron hace unos cien millones de años aproximadamente. Este Pokémon se ancla a una roca en el fondo del mar y atrapa a las presas que se le acercan con los tentáculos que tiene en forma de pétalos de flor.",
+        "category": "Pokémon Lila Mar"
+    },
+    "CRADILY": {
+        "name": "Cradily",
+        "description": "Cradily va por el fondo oceánico sin rumbo fijo en busca de comida. El cuello de este Pokémon se parece al tronco de un árbol. Cuando quiere atrapar a su presa desprevenida, lo estira y usa los ocho tentáculos que tiene.",
+        "category": "Pokémon Percebe"
+    },
+    "ANORITH": {
+        "name": "Anorith",
+        "description": "Anorith se regeneró a partir de un fósil prehistórico. Este Pokémon primitivo vivía en mares cálidos. Gracias a sus enormes pinzas puede agarrar a su presa con firmeza.",
+        "category": "Pokémon Camarón"
+    },
+    "ARMALDO": {
+        "name": "Armaldo",
+        "description": "Armaldo tiene una sólida armadura que repele cualquier ataque. Este Pokémon puede estirar o encoger todo lo que quiera las pinzas que tiene. Con ellas, puede atravesar una plancha de acero.",
+        "category": "Pokémon Armadura"
+    },
+    "FEEBAS": {
+        "name": "Feebas",
+        "description": "Feebas tiene las aletas melladas y rasgadas desde que nace. Debido a este aspecto poco imponente, son pocos los que lo tienen en cuenta. Este Pokémon puede vivir tanto en agua salada como dulce.",
+        "category": "Pokémon Pez"
+    },
+    "MILOTIC": {
+        "name": "Milotic",
+        "description": "De Milotic se dice que es el Pokémon más bello. Tiene la capacidad de calmar sentimientos tales como el miedo y la hostilidad, y apaciguar las relaciones de áspera enemistad.",
+        "category": "Pokémon Tierno"
+    },
+    "CASTFORM": {
+        "name": "Castform",
+        "description": "La forma de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "category": "Pokémon Clima"
+    },
+    "CASTFORM_RAINY": {
+        "name": "Castform",
+        "description": "La forma de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "category": "Pokémon Clima"
+    },
+    "CASTFORM_SNOWY": {
+        "name": "Castform",
+        "description": "La forma de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "category": "Pokémon Clima"
+    },
+    "CASTFORM_SUNNY": {
+        "name": "Castform",
+        "description": "La forma de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "category": "Pokémon Clima"
+    },
+    "KECLEON": {
+        "name": "Kecleon",
+        "description": "Kecleon puede alterar la pigmentación de la piel para mezclarse con su entorno. Lo único que no es capaz de cambiar es el trazado en zigzag que tiene en la panza.",
+        "category": "Pokémon Camaleónico"
+    },
+    "SHUPPET": {
+        "name": "Shuppet",
+        "description": "A Shuppet le atraen los sentimientos de celos y rencor. Si alguien desarrolla fuertes sentimientos de venganza, aparecerá una multitud de Shuppet que se quedará bajo los aleros de su casa.",
+        "category": "Pokémon Títere"
+    },
+    "BANETTE": {
+        "name": "Banette",
+        "description": "Banette genera energía para echar un infalible hechizo clavándose púas a sí mismo. Los orígenes de este Pokémon son algo tristes: era un muñeco de felpa al que tiraron a la basura.",
+        "category": "Pokémon Marioneta"
+    },
+    "DUSKULL": {
+        "name": "Duskull",
+        "description": "Duskull puede atravesar los muros, sea cual sea el grosor que tengan. Cuando este Pokémon elige su objetivo, lo persigue hábilmente hasta el amanecer.",
+        "category": "Pokémon Réquiem"
+    },
+    "DUSCLOPS": {
+        "name": "Dusclops",
+        "description": "Dusclops está completamente hueco por dentro. Dicen que su cuerpo es como un agujero negro. Este Pokémon es capaz de absorber cualquier cosa, pero cosa que absorba, cosa que no dejará salir nunca más.",
+        "category": "Pokémon Atrayente"
+    },
+    "TROPIUS": {
+        "name": "Tropius",
+        "description": "A los niños les encantan los racimos de fruta que Tropius tiene en el cuello. Este Pokémon siempre come fruta; le encanta. De hecho, ese parece ser el motivo por el que él mismo da fruta.",
+        "category": "Pokémon Fruto"
+    },
+    "CHIMECHO": {
+        "name": "Chimecho",
+        "description": "Chimecho hace que sus gritos resuenen con eco en su interior. Cuando se enfada, los chillidos se convierten en ondas ultrasónicas capaces de derribar a los enemigos voladores.",
+        "category": "Pokémon Sonido Aire"
+    },
+    "ABSOL": {
+        "name": "Absol",
+        "description": "Cada vez que Absol aparece ante la gente, ocurre una catástrofe natural como un terremoto o un maremoto. Por esta razón se le conoce como el Pokémon de las catástrofes.",
+        "category": "Pokémon Catástrofe"
+    },
+    "WYNAUT": {
+        "name": "Wynaut",
+        "description": "Wynaut está siempre con una gran sonrisa puesta. Para ver si está enfadado, basta con mirarle la cola. Cuando se le molesta, se pone a dar golpetazos en el suelo.",
+        "category": "Pokémon Radiante"
+    },
+    "SNORUNT": {
+        "name": "Snorunt",
+        "description": "Snorunt vive en zonas de grandes nevadas. En primavera y verano, cuando no nieva, se retira a las cavernas para vivir tranquilamente entre estalactitas y estalagmitas.",
+        "category": "Pokémon Gorro Nieve"
+    },
+    "GLALIE": {
+        "name": "Glalie",
+        "description": "Glalie endurece el cuerpo rocoso que tiene con una coraza de hielo. Este Pokémon tiene la habilidad de congelar la humedad del ambiente y formar la figura que se le antoje.",
+        "category": "Pokémon Cara"
+    },
+    "SPHEAL": {
+        "name": "Spheal",
+        "description": "Spheal se desplaza por el suelo más rápido rodando que caminando. Cuando come con otros de su especie, todos se ponen a aplaudir para expresar su alegría. Por eso, a veces son algo escandalosos.",
+        "category": "Pokémon Aplauso"
+    },
+    "SEALEO": {
+        "name": "Sealeo",
+        "description": "Cada vez que Sealeo ve algo nuevo, se lo pone en el morro y empieza a darle vueltas. A veces, para entretenerse, hace lo mismo con un Spheal.",
+        "category": "Pokémon Rodabola"
+    },
+    "WALREIN": {
+        "name": "Walrein",
+        "description": "Walrein tiene unos exagerados colmillos con los que puede hacer añicos bloques de hielo de hasta 10 toneladas de una sola dentellada. La gruesa capa de grasa que lo recubre le protege de temperaturas inferiores a 0 °C.",
+        "category": "Pokémon Rompehielo"
+    },
+    "CLAMPERL": {
+        "name": "Clamperl",
+        "description": "La sólida concha que rodea a Clamperl no solo le sirve para protegerse, sino también de cepo para atrapar a su presa. Cuando la concha alcanza su mayor tamaño, presenta muescas y rasguños por todas partes.",
+        "category": "Pokémon Bivalvo"
+    },
+    "HUNTAIL": {
+        "name": "Huntail",
+        "description": "Huntail ha pasado desapercibido durante mucho tiempo por vivir en las profundidades del mar. El sentido de la vista de este Pokémon le permite ver en las oscuras y turbias aguas submarinas.",
+        "category": "Pokémon Abisal"
+    },
+    "GOREBYSS": {
+        "name": "Gorebyss",
+        "description": "Gorebyss vive en los mares del sur, en lo más profundo; de ahí que tenga el cuerpo preparado para soportar la presión tan grande que hay en el fondo marino, y que no le hagan daño los ataques comunes.",
+        "category": "Pokémon Mar Del Sur"
+    },
+    "RELICANTH": {
+        "name": "Relicanth",
+        "description": "Relicanth pertenece a una especie de Pokémon que lleva millones de años sin cambiar de forma. Este ancestral Pokémon se alimenta de microorganismos por la boca desdentada que tiene.",
+        "category": "Pokémon Longevo"
+    },
+    "LUVDISC": {
+        "name": "Luvdisc",
+        "description": "Luvdisc vive en aguas tropicales poco profundas. Este Pokémon con forma de corazón se ha ganado la reputación que tiene por ir nadando detrás de las parejas de enamorados que veía entre las olas del océano.",
+        "category": "Pokémon Cita"
+    },
+    "BAGON": {
+        "name": "Bagon",
+        "description": "Bagon sueña con poder pasar un día volando por el cielo. En vanos intentos por volar, ha llegado a tirarse desde riscos. Como resultado de estas caídas en picado, se le ha puesto la cabeza dura como las piedras.",
+        "category": "Pokémon Cabeza Roca"
+    },
+    "SHELGON": {
+        "name": "Shelgon",
+        "description": "Dentro de la capa acorazada de Shelgon, las células están en pleno proceso de creación de un cuerpo nuevo. El peso de la coraza le hace tener unos movimientos lentos.",
+        "category": "Pokémon Resistencia"
+    },
+    "SALAMENCE": {
+        "name": "Salamence",
+        "description": "Salamence surgió del profundo deseo de tener alas. Dicen que este fuerte deseo fue lo que causó la repentina mutación de las células y el crecimiento de las alas.",
+        "category": "Pokémon Dragón"
+    },
+    "BELDUM": {
+        "name": "Beldum",
+        "description": "En lugar de sangre, Beldum tiene una poderosa fuerza magnética corriéndole por las venas. Este Pokémon se comunica enviando controlados impulsos magnéticos.",
+        "category": "Pokémon Bola Hierro"
+    },
+    "METANG": {
+        "name": "Metang",
+        "description": "Cuando dos Beldum se fusionan, forman un Metang. Los cerebros de los Beldum se unen mediante un sistema nervioso magnético y generan potente energía psicoquinética.",
+        "category": "Pokémon Garrahierro"
+    },
+    "METAGROSS": {
+        "name": "Metagross",
+        "description": "Metagross tiene cuatro cerebros en total que, combinados, son capaces de resolver cálculos complicados más rápido que el mejor ordenador que haya. Metagross puede flotar en el aire si mete las patas hacia adentro.",
+        "category": "Pokémon Pata Hierro"
+    },
+    "REGIROCK": {
+        "name": "Regirock",
+        "description": "A Regirock lo mantuvieron encerrado y aislado hace tiempo. Dicen que, si resulta dañado en combate, se pone él mismo a buscar piedras parecidas a las suyas y se las pone para recomponerse.",
+        "category": "Pokémon Pico Roca"
+    },
+    "REGICE": {
+        "name": "Regice",
+        "description": "Regice surgió durante la edad de hielo. El cuerpo de este Pokémon está totalmente congelado, ni siquiera el fuego puede derretirlo. Regice libera y regula un aire gélido de -200 °C.",
+        "category": "Pokémon Iceberg"
+    },
+    "REGISTEEL": {
+        "name": "Registeel",
+        "description": "No hay metal que supere en dureza el cuerpo de Registeel, que tiene aspecto de estar hueco. Nadie sabe de qué se alimenta este Pokémon.",
+        "category": "Pokémon Hierro"
+    },
+    "LATIAS": {
+        "name": "Latias",
+        "description": "Latias es muy sensible a los sentimientos de la gente. Si detecta algún ápice de hostilidad, desplegará las plumas que tiene por todo el cuerpo y se pondrá a chillar para intimidar al enemigo.",
+        "category": "Pokémon Eón"
+    },
+    "LATIOS": {
+        "name": "Latios",
+        "description": "Latios tiene la habilidad de hacer que los demás vean algo que él ha visto o imaginado. Este Pokémon es muy inteligente. Es capaz de entender el lenguaje humano.",
+        "category": "Pokémon Eón"
+    },
+    "KYOGRE": {
+        "name": "Kyogre",
+        "description": "Kyogre se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede desencadenar tempestades para expandir los océanos.",
+        "category": "Pokémon Cuenca Mar"
+    },
+    "GROUDON": {
+        "name": "Groudon",
+        "description": "A Groudon siempre se le ha descrito como el Pokémon que expandió los continentes. Varias leyendas cuentan que libró combates contra Kyogre en repetidas ocasiones para tener el control de la energía de la naturaleza.",
+        "category": "Pokémon Continente"
+    },
+    "RAYQUAZA": {
+        "name": "Rayquaza",
+        "description": "Dicen que Rayquaza ha vivido durante millones de años. Las leyendas cuentan que puso fin al continuo enfrentamiento entre Groudon y Kyogre.",
+        "category": "Pokémon Cielo"
+    },
+    "JIRACHI": {
+        "name": "Jirachi",
+        "description": "Cuenta la leyenda que Jirachi hará realidad cualquier deseo que se le escriba en las notas que lleva en la cabeza cuando las lea tras salir de su letargo. Si este Pokémon siente peligro, luchará sin haber llegado a despertarse.",
+        "category": "Pokémon Deseo"
+    },
+    "DEOXYS": {
+        "name": "Deoxys",
+        "description": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece, el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "category": "Pokémon ADN"
+    },
+    "DEOXYS_ATTACK": {
+        "name": "Deoxys",
+        "description": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece, el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "category": "Pokémon ADN"
+    },
+    "DEOXYS_DEFENSE": {
+        "name": "Deoxys",
+        "description": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece, el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "category": "Pokémon ADN"
+    },
+    "DEOXYS_SPEED": {
+        "name": "Deoxys",
+        "description": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece, el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "category": "Pokémon ADN"
+    }
+}

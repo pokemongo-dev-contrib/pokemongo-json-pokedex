@@ -2,10 +2,14 @@ import { ComponentRegister, ComponentRegistry, ComponentType } from '@core/pipel
 import { ItemTemplate, RootObject } from '../../income';
 import { mapSeries, forEachSeries } from 'p-iteration';
 
+export interface IPipeline {
+  Run(): Promise<any>;
+}
+
 /**
  * Represents a Pipeline which runs multiple components
  */
-export abstract class Pipeline {
+export abstract class Pipeline implements IPipeline {
   protected name: string;
   protected input: RootObject;
   protected _components: ComponentRegister[];
