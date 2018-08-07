@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Baccamora",
+        "description": "UNDEFINED"
+    },
+    "DRAGON_SCALE": {
+        "name": "Squama Drago",
+        "description": "Squama che fa evolvere determinate specie di Pokémon. È molto spessa e dura."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Mega Ball",
+        "description": "Poké Ball dalle ottime prestazioni: fornisce maggiori probabilità di cattura rispetto alla normale Poké Ball."
+    },
+    "HYPER_POTION": {
+        "name": "Iperpozione",
+        "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Aroma",
+        "description": "Un intenso profumo che attrae i Pokémon selvatici per 30 minuti."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Incubatrice Uova",
+        "description": "Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare tre volte."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Incubatrice Uova ∞",
+        "description": "Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare un numero infinito di volte."
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "Roccia di Re",
+        "description": "Roccia che fa evolvere determinate specie di Pokémon. Ha l’aspetto di una corona."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Fortunuovo",
+        "description": "Uovo pieno di felicità. Fa guadagnare al giocatore il doppio dei PE per 30 minuti. "
+    },
+    "MASTER_BALL": {
+        "name": "Master Ball",
+        "description": "La Poké Ball dalle prestazioni migliori: cattura qualsiasi Pokémon selvatico senza mai fallire."
+    },
+    "MAX_POTION": {
+        "name": "Pozione Max",
+        "description": "Rimedio spray per le ferite. Restituisce tutti i PS a un Pokémon."
+    },
+    "MAX_REVIVE": {
+        "name": "Revitalizzante Max",
+        "description": "Rimedio che rianima un Pokémon esausto restituendogli tutti i PS."
+    },
+    "METAL_COAT": {
+        "name": "Metalcoperta",
+        "description": "Rivestimento che fa evolvere determinate specie di Pokémon. Si tratta di una speciale pellicola metallica."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Baccabana",
+        "description": "Fai mangiare questa bacca a un Pokémon per calmarlo e renderlo meno imprevedibile."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Baccananas",
+        "description": "Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Poké Ball",
+        "description": "Strumento dotato di capsula usato per catturare Pokémon selvatici. Si lancia contro il bersaglio come una palla."
+    },
+    "POTION": {
+        "name": "Pozione",
+        "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Baccalampon",
+        "description": "Dalla a un Pokémon e sarà più facile catturarlo."
+    },
+    "REVIVE": {
+        "name": "Revitalizzante",
+        "description": "Rimedio che rianima un Pokémon esausto e gli restituisce metà dei suoi PS."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Fotocamera",
+        "description": "Quando incontri un Pokémon selvatico, puoi usare la tua fotocamera per scattargli una foto."
+    },
+    "STAR_PIECE": {
+        "name": "Pezzo Stella",
+        "description": "Piccolo frammento di una bellissima gemma che fa ottenere il 50% di polvere di stelle in più per 30 minuti."
+    },
+    "SUN_STONE": {
+        "name": "Pietrasolare",
+        "description": "Pietra particolare che fa evolvere determinate specie di Pokémon. È rossa come il sole al tramonto."
+    },
+    "SUPER_POTION": {
+        "name": "Superpozione",
+        "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."
+    },
+    "TROY_DISK": {
+        "name": "Modulo esca",
+        "description": "Attira i Pokémon per 30 minuti verso un Pokéstop. Ha effetto anche su tutti i giocatori nei dintorni."
+    },
+    "ULTRA_BALL": {
+        "name": "Ultra Ball",
+        "description": "Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball."
+    },
+    "UP_GRADE": {
+        "name": "Upgrade",
+        "description": "Apparecchio trasparente che fa evolvere determinate specie di Pokémon. È un prodotto della Silph SpA."
+    },
+    "WEPAR_BERRY": {
+        "name": "Baccapera",
+        "description": "UNDEFINED"
+    },
+    "X_ATTACK": {
+        "name": "Attacco X",
+        "description": "UNDEFINED"
+    },
+    "X_DEFENSE": {
+        "name": "Difesa X",
+        "description": "UNDEFINED"
+    },
+    "X_MIRACLE": {
+        "name": "UNDEFINED",
+        "description": "UNDEFINED"
+    }
+}

@@ -16,11 +16,13 @@ import { PokemonLocalTranslations } from './outcome/pokemon/index';
 import { pathExists, mkdir } from 'fs-promise';
 import { MoveLocalesPipeline } from './processing/move/locales/moveLocalesPipeline';
 import { LocalesPipeline } from './core/pipeline/localePipeline';
+import { ItemLocalesPipeline } from './processing/item/locales/itemLocalesPipeline';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');
 const POKEMON_TRANSLATIONS = require('./data/POKEMON_TRANSLATIONS.json');
 const MOVES_TRANSLATIONS = require('./data/MOVES_TRANSLATIONS.json');
+const ITEMS_TRANSLATIONS = require('./data/ITEMS_TRANSLATIONS.json');
 
 const LOCALES = ['de-DE', 'en-US', 'zh-TW', 'fr-FR', 'es-ES', 'ja-JP', 'it-IT', 'ko-KR', 'pt-BR'];
 
@@ -76,9 +78,14 @@ const writeMoves = async () => {
     writeTranslations('move.json', new MoveLocalesPipeline(MOVES_TRANSLATIONS, moves, LOCALES), 'Moves Translations');
 }
 
+const writeItems = async () => {
+    const items = await write('./output/item.json', new ItemPipeline(gameMaster), 'Items');
+    writeTranslations('item.json', new ItemLocalesPipeline(ITEMS_TRANSLATIONS, items, LOCALES), 'Items Translations');
+}
+
 writePokemon();
 writeMoves();
+writeItems();
 
 write('./output/type.json', new TypePipeline(gameMaster), 'Types');
 write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
-write('./output/item.json', new ItemPipeline(gameMaster), 'Items');

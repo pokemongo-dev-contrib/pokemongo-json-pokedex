@@ -45,7 +45,14 @@ export abstract class LocalesPipeline<E, T> implements IPipeline {
 
     protected generateLocaleByKey(key: string, localeName: string) {
         const translation = this.getTranslationByKey(key);
-        return this.mapLocales(translation, localeName);
+        let locales;
+        try {
+            locales = this.mapLocales(translation, localeName);
+        }
+        catch (err) {
+            throw new Error(err.message + ' Key: ' + key);
+        }
+        return locales;
     }
 
     abstract async mapData(translation: T, entity: E, localeName: string);

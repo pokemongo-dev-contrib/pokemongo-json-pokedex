@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "블리열매",
+        "description": "UNDEFINED"
+    },
+    "DRAGON_SCALE": {
+        "name": "용의비늘",
+        "description": "어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "수퍼볼",
+        "description": "몬스터볼보다도 더욱 포켓몬을 잡기 쉬워진 약간 성능이 좋은 볼."
+    },
+    "HYPER_POTION": {
+        "name": "고급상처약",
+        "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "향로",
+        "description": "이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "부화장치",
+        "description": "알을 넣고 걸으면 포켓몬이 부화합니다. 3번 사용하면 부서집니다."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "무한 부화장치",
+        "description": "알을 넣고 걸으면 포켓몬이 부화합니다."
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "왕의징표석",
+        "description": "어느 특정 포켓몬을 진화시키는 이상한 돌. 왕관 모양이다."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "행복의알",
+        "description": "행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다."
+    },
+    "MASTER_BALL": {
+        "name": "마스터볼",
+        "description": "야생 포켓몬을 반드시 잡을 수 있는 최고 성능의 볼."
+    },
+    "MAX_POTION": {
+        "name": "풀회복약",
+        "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 모두 회복한다."
+    },
+    "MAX_REVIVE": {
+        "name": "기력의덩어리",
+        "description": "기절해 버린 포켓몬 1마리의 HP를 모두 회복한다."
+    },
+    "METAL_COAT": {
+        "name": "금속코트",
+        "description": "어느 특정 포켓몬을 진화시키는 장막. 특수한 금속으로 만들어져 있다."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "나나열매",
+        "description": "포켓몬에게 주면 포켓몬이 얌전해지는 나무열매"
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "파인열매",
+        "description": "포켓몬에게 주면 잡은 뒤 사탕이 많게 손에 넣을수 있는 나무열매."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "몬스터볼",
+        "description": "야생 포켓몬에게 던져서 잡기 위한 볼. 캡슐식으로 되어 있다."
+    },
+    "POTION": {
+        "name": "상처약",
+        "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "라즈열매",
+        "description": "포켓몬에게 주면 잡기 쉬워지는 나무열매."
+    },
+    "REVIVE": {
+        "name": "기력의조각",
+        "description": "기절해 버린 포켓몬 1마리의 HP를 절반 회복한다."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "카메라",
+        "description": "야생 포켓몬의 모습을 촬영할 수 있는 카메라."
+    },
+    "STAR_PIECE": {
+        "name": "별의조각",
+        "description": "받을 수 있는 별의모래가 30분 동안 1.5배가 되는 아름다운 보석의 조각."
+    },
+    "SUN_STONE": {
+        "name": "태양의돌",
+        "description": "어느 특정 포켓몬을 진화시키는 이상한 돌. 노을처럼 붉게 빛난다."
+    },
+    "SUPER_POTION": {
+        "name": "좋은상처약",
+        "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
+    },
+    "TROY_DISK": {
+        "name": "루어모듈",
+        "description": "포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다."
+    },
+    "ULTRA_BALL": {
+        "name": "하이퍼볼",
+        "description": "수퍼볼보다도 더욱 포켓몬을 잡기 쉬워진 매우 성능이 좋은 볼."
+    },
+    "UP_GRADE": {
+        "name": "업그레이드",
+        "description": "어느 특정 포켓몬을 진화시키는 투명한 기계다. 실프주식회사 제품."
+    },
+    "WEPAR_BERRY": {
+        "name": "서배열매",
+        "description": "UNDEFINED"
+    },
+    "X_ATTACK": {
+        "name": "플러스파워",
+        "description": "UNDEFINED"
+    },
+    "X_DEFENSE": {
+        "name": "디펜드업",
+        "description": "UNDEFINED"
+    },
+    "X_MIRACLE": {
+        "name": "UNDEFINED",
+        "description": "UNDEFINED"
+    }
+}

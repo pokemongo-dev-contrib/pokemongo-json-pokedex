@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Morbbeere",
+        "description": "Nicht definiert"
+    },
+    "DRAGON_SCALE": {
+        "name": "Drachenhaut",
+        "description": "Diese Haut löst bei bestimmten Pokémon-Arten die Entwicklung aus. Sie ist sehr dick und stark."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Superball",
+        "description": "Ein Ball mit guter Erfolgsquote. Dem Pokéball in allen Punkten überlegen."
+    },
+    "HYPER_POTION": {
+        "name": "Hypertrank",
+        "description": "Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Rauch",
+        "description": "Ein wohlriechender Rauch, der 30 Minuten lang wilde Pokémon zu dir lockt."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Ei-Brutmaschine",
+        "description": "Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Nach 3 Einsätzen geht sie kaputt."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Ei-Brutmaschine ∞",
+        "description": "Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Unbegrenzt einsetzbar!"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "King-Stein",
+        "description": "Dieser Stein löst bei bestimmten Pokémon die Entwicklung aus. Er sieht wie eine Krone aus."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Glücks-Ei",
+        "description": "Ein Ei, das mit Glück gefüllt ist. Der Spieler erhält 30 Minuten lang doppelt so viele EP."
+    },
+    "MASTER_BALL": {
+        "name": "Meisterball",
+        "description": "Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon."
+    },
+    "MAX_POTION": {
+        "name": "Top-Trank",
+        "description": "Hilft bei Wunden. Füllt die KP eines Pokémon wieder vollständig auf."
+    },
+    "MAX_REVIVE": {
+        "name": "Top-Beleber",
+        "description": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die KP werden vollständig wiederhergestellt."
+    },
+    "METAL_COAT": {
+        "name": "Metallmantel",
+        "description": "Diese Beschichtung löst bei bestimmten Pokémon-Arten die Entwicklung aus. Es handelt sich um einen besonderen metallenen Belag."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Nanabbeere",
+        "description": "Wenn du sie einem Pokémon zum Essen gibst, wird es ruhiger und ist nicht so zappelig."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Sananabeere",
+        "description": "Wenn du sie einem Pokémon zum Essen gibst, bekommst du mehr Bonbons, wenn du es fängst."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Pokéball",
+        "description": "Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel."
+    },
+    "POTION": {
+        "name": "Trank",
+        "description": "Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Himmihbeere",
+        "description": "Wenn du sie einem Pokémon zum Essen gibst, lässt es sich leichter fangen."
+    },
+    "REVIVE": {
+        "name": "Beleber",
+        "description": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die Hälfte der maximalen KP wird wiederhergestellt. "
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Kamera",
+        "description": "Wenn du einem wilden Pokémon begegnest, kannst du es mit deiner Kamera fotografieren."
+    },
+    "STAR_PIECE": {
+        "name": "Sternenstück",
+        "description": "Teil eines hübschen Edelsteins. Der Spieler erhält 30 Minuten lang 50 % mehr Sternenstaub."
+    },
+    "SUN_STONE": {
+        "name": "Sonnenstein",
+        "description": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Abendsonne."
+    },
+    "SUPER_POTION": {
+        "name": "Supertrank",
+        "description": "Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf."
+    },
+    "TROY_DISK": {
+        "name": "Lockmodul",
+        "description": "Es lockt 30 Minuten lang Pokémon zu einem PokéStop. Spieler in der Nähe profitieren auch."
+    },
+    "ULTRA_BALL": {
+        "name": "Hyperball",
+        "description": "Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen."
+    },
+    "UP_GRADE": {
+        "name": "Up-Grade",
+        "description": "Dieses durchsichtige Gerät löst bei bestimmten Pokémon die Entwicklung aus. Hergestellt von Silph Co."
+    },
+    "WEPAR_BERRY": {
+        "name": "Nirbebeere",
+        "description": "Nicht definiert"
+    },
+    "X_ATTACK": {
+        "name": "X-Angriff",
+        "description": "Nicht definiert"
+    },
+    "X_DEFENSE": {
+        "name": "X-Abwehr",
+        "description": "Nicht definiert"
+    },
+    "X_MIRACLE": {
+        "name": "Nicht definiert",
+        "description": "Nicht definiert"
+    }
+}
