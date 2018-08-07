@@ -11,16 +11,8 @@ const FILES = [{
     rootObjectName: 'RootObject'
 }, {
     input: 'src/data/ITEMS_TRANSLATIONS.json',
-    output: 'src/income/itemTranslation.ts',
-    rootObjectName: 'ItemTranslation'
-}, {
-    input: 'src/data/MOVES_TRANSLATIONS.json',
-    output: 'src/income/moveTranslation.ts',
-    rootObjectName: 'MoveTranslation'
-}, {
-    input: 'src/data/POKEMON_TRANSLATIONS.json',
-    output: 'src/income/pokemonTranslation.ts',
-    rootObjectName: 'PokemonTranslation'
+    output: 'src/income/translation.ts',
+    rootObjectName: 'Translation'
 }];
 
 

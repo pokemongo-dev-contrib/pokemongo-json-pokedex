@@ -1,4 +1,4 @@
-export interface ItemTranslation {
+export interface Translation {
   Key: string;
   English: string;
   Japanese: string;
