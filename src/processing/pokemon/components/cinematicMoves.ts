@@ -9,12 +9,7 @@ import * as _ from 'lodash';
 })
 export class CinematicMoves implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-    const cinematicMoves = _
-      .chain(rawPokemon.pokemonSettings.cinematicMoves)
-      .uniqBy('id')
-      .map(Util.SnakeCase2Identifyable)
-      .value();
-    pokemon.cinematicMoves = cinematicMoves;
+    pokemon.cinematicMoves = rawPokemon.pokemonSettings.cinematicMoves.map(Util.SnakeCase2Identifyable);
     return pokemon;
   }
 }
