@@ -1,0 +1,587 @@
+{
+    "WRAP": {
+        "name": "緊束"
+    },
+    "HYPER_BEAM": {
+        "name": "破壞光線"
+    },
+    "DARK_PULSE": {
+        "name": "惡之波動"
+    },
+    "SLUDGE": {
+        "name": "污泥攻擊"
+    },
+    "VICE_GRIP": {
+        "name": "夾住"
+    },
+    "FLAME_WHEEL": {
+        "name": "火焰輪"
+    },
+    "MEGAHORN": {
+        "name": "超級角擊"
+    },
+    "FLAMETHROWER": {
+        "name": "噴射火焰"
+    },
+    "DIG": {
+        "name": "挖洞"
+    },
+    "CROSS_CHOP": {
+        "name": "十字劈"
+    },
+    "PSYBEAM": {
+        "name": "幻象光線"
+    },
+    "EARTHQUAKE": {
+        "name": "地震"
+    },
+    "STONE_EDGE": {
+        "name": "尖石攻擊"
+    },
+    "ICE_PUNCH": {
+        "name": "冰凍拳"
+    },
+    "HEART_STAMP": {
+        "name": "愛心印章"
+    },
+    "DISCHARGE": {
+        "name": "放電"
+    },
+    "FLASH_CANNON": {
+        "name": "加農光炮"
+    },
+    "DRILL_PECK": {
+        "name": "啄鑽"
+    },
+    "ICE_BEAM": {
+        "name": "冰凍光束"
+    },
+    "BLIZZARD": {
+        "name": "暴風雪"
+    },
+    "HEAT_WAVE": {
+        "name": "熱風"
+    },
+    "AERIAL_ACE": {
+        "name": "燕返"
+    },
+    "DRILL_RUN": {
+        "name": "直衝鑽"
+    },
+    "PETAL_BLIZZARD": {
+        "name": "落英繽紛"
+    },
+    "MEGA_DRAIN": {
+        "name": "超級吸取"
+    },
+    "BUG_BUZZ": {
+        "name": "蟲鳴"
+    },
+    "POISON_FANG": {
+        "name": "劇毒牙"
+    },
+    "NIGHT_SLASH": {
+        "name": "暗襲要害"
+    },
+    "BUBBLE_BEAM": {
+        "name": "泡沫光線"
+    },
+    "SUBMISSION": {
+        "name": "地獄翻滾"
+    },
+    "LOW_SWEEP": {
+        "name": "下盤踢"
+    },
+    "AQUA_JET": {
+        "name": "水流噴射"
+    },
+    "AQUA_TAIL": {
+        "name": "水流尾"
+    },
+    "SEED_BOMB": {
+        "name": "種子炸彈"
+    },
+    "PSYSHOCK": {
+        "name": "精神衝擊"
+    },
+    "ANCIENT_POWER": {
+        "name": "原始之力"
+    },
+    "ROCK_TOMB": {
+        "name": "岩石封鎖"
+    },
+    "ROCK_SLIDE": {
+        "name": "岩崩"
+    },
+    "POWER_GEM": {
+        "name": "力量寶石"
+    },
+    "SHADOW_SNEAK": {
+        "name": "影子偷襲"
+    },
+    "SHADOW_PUNCH": {
+        "name": "暗影拳"
+    },
+    "OMINOUS_WIND": {
+        "name": "奇異之風"
+    },
+    "SHADOW_BALL": {
+        "name": "暗影球"
+    },
+    "MAGNET_BOMB": {
+        "name": "磁鐵炸彈"
+    },
+    "IRON_HEAD": {
+        "name": "鐵頭"
+    },
+    "PARABOLIC_CHARGE": {
+        "name": "拋物面充電"
+    },
+    "THUNDER_PUNCH": {
+        "name": "雷電拳"
+    },
+    "THUNDER": {
+        "name": "打雷"
+    },
+    "THUNDERBOLT": {
+        "name": "十萬伏特"
+    },
+    "TWISTER": {
+        "name": "龍捲風"
+    },
+    "DRAGON_PULSE": {
+        "name": "龍之波動"
+    },
+    "DRAGON_CLAW": {
+        "name": "龍爪"
+    },
+    "DISARMING_VOICE": {
+        "name": "魅惑之聲"
+    },
+    "DRAINING_KISS": {
+        "name": "吸取之吻"
+    },
+    "DAZZLING_GLEAM": {
+        "name": "魔法閃耀"
+    },
+    "MOONBLAST": {
+        "name": "月亮之力"
+    },
+    "PLAY_ROUGH": {
+        "name": "嬉鬧"
+    },
+    "CROSS_POISON": {
+        "name": "十字毒刃"
+    },
+    "SLUDGE_BOMB": {
+        "name": "污泥炸彈"
+    },
+    "SLUDGE_WAVE": {
+        "name": "污泥波"
+    },
+    "GUNK_SHOT": {
+        "name": "垃圾射擊"
+    },
+    "BONE_CLUB": {
+        "name": "骨棒"
+    },
+    "BULLDOZE": {
+        "name": "重踏"
+    },
+    "MUD_BOMB": {
+        "name": "泥巴炸彈"
+    },
+    "SIGNAL_BEAM": {
+        "name": "信號光束"
+    },
+    "X_SCISSOR": {
+        "name": "十字剪"
+    },
+    "FLAME_CHARGE": {
+        "name": "蓄能焰襲"
+    },
+    "FLAME_BURST": {
+        "name": "烈焰濺射"
+    },
+    "FIRE_BLAST": {
+        "name": "大字爆炎"
+    },
+    "BRINE": {
+        "name": "鹽水"
+    },
+    "WATER_PULSE": {
+        "name": "水之波動"
+    },
+    "SCALD": {
+        "name": "熱水"
+    },
+    "HYDRO_PUMP": {
+        "name": "水炮"
+    },
+    "PSYCHIC": {
+        "name": "精神強念"
+    },
+    "PSYSTRIKE": {
+        "name": "精神擊破"
+    },
+    "ICY_WIND": {
+        "name": "冰凍之風"
+    },
+    "GIGA_DRAIN": {
+        "name": "終極吸取"
+    },
+    "FIRE_PUNCH": {
+        "name": "火焰拳"
+    },
+    "SOLAR_BEAM": {
+        "name": "日光束"
+    },
+    "LEAF_BLADE": {
+        "name": "葉刃"
+    },
+    "POWER_WHIP": {
+        "name": "強力鞭打"
+    },
+    "AIR_CUTTER": {
+        "name": "空氣利刃"
+    },
+    "HURRICANE": {
+        "name": "暴風"
+    },
+    "BRICK_BREAK": {
+        "name": "劈瓦"
+    },
+    "SWIFT": {
+        "name": "高速星星"
+    },
+    "HORN_ATTACK": {
+        "name": "角撞"
+    },
+    "STOMP": {
+        "name": "踩踏"
+    },
+    "HYPER_FANG": {
+        "name": "必殺門牙"
+    },
+    "BODY_SLAM": {
+        "name": "泰山壓頂"
+    },
+    "REST": {
+        "name": "睡覺"
+    },
+    "STRUGGLE": {
+        "name": "掙扎"
+    },
+    "SCALD_BLASTOISE": {
+        "name": "熱水"
+    },
+    "HYDRO_PUMP_BLASTOISE": {
+        "name": "水炮"
+    },
+    "WRAP_GREEN": {
+        "name": "緊束"
+    },
+    "WRAP_PINK": {
+        "name": "緊束"
+    },
+    "FURY_CUTTER_FAST": {
+        "name": "連斬"
+    },
+    "BUG_BITE_FAST": {
+        "name": "蟲咬"
+    },
+    "BITE_FAST": {
+        "name": "咬住"
+    },
+    "SUCKER_PUNCH_FAST": {
+        "name": "突襲"
+    },
+    "DRAGON_BREATH_FAST": {
+        "name": "龍息"
+    },
+    "THUNDER_SHOCK_FAST": {
+        "name": "電擊"
+    },
+    "SPARK_FAST": {
+        "name": "電光"
+    },
+    "LOW_KICK_FAST": {
+        "name": "踢倒"
+    },
+    "KARATE_CHOP_FAST": {
+        "name": "空手劈"
+    },
+    "EMBER_FAST": {
+        "name": "火花"
+    },
+    "WING_ATTACK_FAST": {
+        "name": "翅膀攻擊"
+    },
+    "PECK_FAST": {
+        "name": "啄"
+    },
+    "LICK_FAST": {
+        "name": "舌舔"
+    },
+    "SHADOW_CLAW_FAST": {
+        "name": "暗影爪"
+    },
+    "VINE_WHIP_FAST": {
+        "name": "藤鞭"
+    },
+    "RAZOR_LEAF_FAST": {
+        "name": "飛葉快刀"
+    },
+    "MUD_SHOT_FAST": {
+        "name": "泥巴射擊"
+    },
+    "ICE_SHARD_FAST": {
+        "name": "冰礫"
+    },
+    "FROST_BREATH_FAST": {
+        "name": "冰息"
+    },
+    "QUICK_ATTACK_FAST": {
+        "name": "電光一閃"
+    },
+    "SCRATCH_FAST": {
+        "name": "抓"
+    },
+    "TACKLE_FAST": {
+        "name": "撞擊"
+    },
+    "POUND_FAST": {
+        "name": "拍擊"
+    },
+    "CUT_FAST": {
+        "name": "居合斬"
+    },
+    "POISON_JAB_FAST": {
+        "name": "毒擊"
+    },
+    "ACID_FAST": {
+        "name": "溶解液"
+    },
+    "PSYCHO_CUT_FAST": {
+        "name": "精神利刃"
+    },
+    "ROCK_THROW_FAST": {
+        "name": "落石"
+    },
+    "METAL_CLAW_FAST": {
+        "name": "金屬爪"
+    },
+    "BULLET_PUNCH_FAST": {
+        "name": "子彈拳"
+    },
+    "WATER_GUN_FAST": {
+        "name": "水槍"
+    },
+    "SPLASH_FAST": {
+        "name": "躍起"
+    },
+    "WATER_GUN_FAST_BLASTOISE": {
+        "name": "水槍"
+    },
+    "MUD_SLAP_FAST": {
+        "name": "擲泥"
+    },
+    "ZEN_HEADBUTT_FAST": {
+        "name": "意念頭錘"
+    },
+    "CONFUSION_FAST": {
+        "name": "念力"
+    },
+    "POISON_STING_FAST": {
+        "name": "毒針"
+    },
+    "BUBBLE_FAST": {
+        "name": "泡沫"
+    },
+    "FEINT_ATTACK_FAST": {
+        "name": "出奇一擊"
+    },
+    "STEEL_WING_FAST": {
+        "name": "鋼翼"
+    },
+    "FIRE_FANG_FAST": {
+        "name": "火焰牙"
+    },
+    "ROCK_SMASH_FAST": {
+        "name": "碎岩"
+    },
+    "TRANSFORM_FAST": {
+        "name": "變身"
+    },
+    "COUNTER_FAST": {
+        "name": "雙倍奉還"
+    },
+    "POWDER_SNOW_FAST": {
+        "name": "細雪"
+    },
+    "CLOSE_COMBAT": {
+        "name": "近身戰"
+    },
+    "DYNAMIC_PUNCH": {
+        "name": "爆裂拳"
+    },
+    "FOCUS_BLAST": {
+        "name": "真氣彈"
+    },
+    "AURORA_BEAM": {
+        "name": "極光束"
+    },
+    "CHARGE_BEAM_FAST": {
+        "name": "充電光束"
+    },
+    "VOLT_SWITCH_FAST": {
+        "name": "伏特替換"
+    },
+    "WILD_CHARGE": {
+        "name": "瘋狂伏特"
+    },
+    "ZAP_CANNON": {
+        "name": "電磁炮"
+    },
+    "DRAGON_TAIL_FAST": {
+        "name": "龍尾"
+    },
+    "AVALANCHE": {
+        "name": "雪崩"
+    },
+    "AIR_SLASH_FAST": {
+        "name": "空氣斬"
+    },
+    "BRAVE_BIRD": {
+        "name": "勇鳥猛攻"
+    },
+    "SKY_ATTACK": {
+        "name": "神鳥猛擊"
+    },
+    "SAND_TOMB": {
+        "name": "流沙地獄"
+    },
+    "ROCK_BLAST": {
+        "name": "岩石爆擊"
+    },
+    "INFESTATION_FAST": {
+        "name": "死纏爛打"
+    },
+    "STRUGGLE_BUG_FAST": {
+        "name": "蟲之抵抗"
+    },
+    "SILVER_WIND": {
+        "name": "銀色旋風"
+    },
+    "ASTONISH_FAST": {
+        "name": "驚嚇"
+    },
+    "HEX_FAST": {
+        "name": "禍不單行"
+    },
+    "NIGHT_SHADE": {
+        "name": "黑夜魔影"
+    },
+    "IRON_TAIL_FAST": {
+        "name": "鐵尾"
+    },
+    "GYRO_BALL": {
+        "name": "陀螺球"
+    },
+    "HEAVY_SLAM": {
+        "name": "重磅衝撞"
+    },
+    "FIRE_SPIN_FAST": {
+        "name": "火焰旋渦"
+    },
+    "OVERHEAT": {
+        "name": "過熱"
+    },
+    "BULLET_SEED_FAST": {
+        "name": "種子機關槍"
+    },
+    "GRASS_KNOT": {
+        "name": "打草結"
+    },
+    "ENERGY_BALL": {
+        "name": "能量球"
+    },
+    "EXTRASENSORY_FAST": {
+        "name": "神通力"
+    },
+    "FUTURESIGHT": {
+        "name": "預知未來"
+    },
+    "MIRROR_COAT": {
+        "name": "鏡面反射"
+    },
+    "OUTRAGE": {
+        "name": "逆麟"
+    },
+    "SNARL_FAST": {
+        "name": "大聲咆哮"
+    },
+    "CRUNCH": {
+        "name": "咬碎"
+    },
+    "FOUL_PLAY": {
+        "name": "欺詐"
+    },
+    "HIDDEN_POWER_FAST": {
+        "name": "覺醒力量"
+    },
+    "TAKE_DOWN_FAST": {
+        "name": "猛撞"
+    },
+    "WATERFALL_FAST": {
+        "name": "攀瀑"
+    },
+    "SURF": {
+        "name": "衝浪"
+    },
+    "DRACO_METEOR": {
+        "name": "流星群"
+    },
+    "DOOM_DESIRE": {
+        "name": "破滅之願"
+    },
+    "YAWN_FAST": {
+        "name": "哈欠"
+    },
+    "PSYCHO_BOOST": {
+        "name": "精神突進"
+    },
+    "ORIGIN_PULSE": {
+        "name": "根源波動"
+    },
+    "PRECIPICE_BLADES": {
+        "name": "斷崖之劍"
+    },
+    "PRESENT_FAST": {
+        "name": "禮物"
+    },
+    "WEATHER_BALL_FIRE": {
+        "name": "氣象球"
+    },
+    "WEATHER_BALL_ICE": {
+        "name": "氣象球"
+    },
+    "WEATHER_BALL_ROCK": {
+        "name": "氣象球"
+    },
+    "WEATHER_BALL_WATER": {
+        "name": "氣象球"
+    },
+    "FRENZY_PLANT": {
+        "name": "瘋狂植物"
+    },
+    "SMACK_DOWN_FAST": {
+        "name": "擊落"
+    },
+    "BLAST_BURN": {
+        "name": "爆炸烈焰"
+    },
+    "HYDRO_CANNON": {
+        "name": "加農水砲"
+    }
+}

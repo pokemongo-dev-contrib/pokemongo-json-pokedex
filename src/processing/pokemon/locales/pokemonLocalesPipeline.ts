@@ -1,7 +1,5 @@
-import { IPipeline } from '@core';
-import { Pokemon, PokemonLocal, PokemonLocalTranslations } from '@outcome/pokemon';
+import { Pokemon, PokemonLocalTranslations } from '@outcome/pokemon';
 import { Translation } from '@income/index';
-import { Locale } from '@outcome/locales/locale.interface';
 import * as leftPad from 'left-pad';
 import { LocalesPipeline } from '@core/pipeline/localePipeline';
 
