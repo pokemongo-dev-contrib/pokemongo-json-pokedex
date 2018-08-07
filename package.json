@@ -1,12 +1,12 @@
 {
   "name": "pokemongo-json-pokedex",
-  "version": "3.1.3",
+  "version": "4.0.0",
   "description": "This program transforms the data from the Pokemon GO master files to a better readable & processable JSON file.",
   "main": "lib/index.js",
   "scripts": {
     "start": "ts-node -r tsconfig-paths/register src/app.ts",
     "prestart:build": "npm run build",
-    "prepublish": "npm run build",
+    "prepublish": "npm run update && npm run build",
     "start:build": "node -r tsconfig-paths/register src/app.js",
     "poststart:build": "npm run clean",
     "clean": "rimraf {src,test}/**/*.{map,js} lib/*",
