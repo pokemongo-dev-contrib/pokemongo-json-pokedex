@@ -19,7 +19,7 @@
     "update": "npm run fetch-game-master && npm run fetch-assets && npm run generate-interfaces",
     "prepare": "npm run update",
     "pretest": "npm run lint",
-    "test": "node_modules/.bin/mocha --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts"
+    "test": "mocha --recursive --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts test/**/*.ts"
   },
   "repository": {
     "type": "git",
