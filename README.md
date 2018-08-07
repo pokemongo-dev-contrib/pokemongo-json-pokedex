@@ -25,16 +25,12 @@ Make sure you have `wget` installed
 
 ```bash
 
-# Downloads the latest Pokemon data and saves it to the file pokemon.json
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/pokemon.json
-# Downloads the latest Move data and saves it to the file move.json
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/move.json
-# Downloads the latest Type data and saves it to the file type.json
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/type.json
-# Downloads the latest Avatar Customization data and saves it to the file avatar-customization.json
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/avatar-customization.json
-# Downloads the latest Items data and saves it to the file item.json
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-json-pokedex/master/output/item.json
+git clone https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex.git
+
+# Go to the assets
+cd pokemongo-json-pokedex/output
+ls
+# ➜ avatar-customization.json  item.json  locales  move.json  pokemon.json  type.json
 
 ```
 
@@ -52,8 +48,14 @@ const items = require('pokemongo-json-pokedex/output/item.json');
 
 You can read about the output-data inside the [documentation](.github/model.md).
 
+## Translations
+
+The translation files follow the [i18next Guidelines](https://www.i18next.com/). The translation files can be found in the [output/locales folder](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex/tree/master/output/locales). You can find an example with NodeJS and the i18next client library
+in the [samples folder](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex/tree/master/samples/01_simple_translations)
+
 ## More Links
 
+- [Samples](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex/tree/master/samples)
 - [The pokemongo-game-master repository](https://github.com/pokemongo-dev-contrib/pokemongo-game-master)
 - [The PogoAssets repository](https://github.com/ZeChrales/PogoAssets)
 - [Contributing Guidelines](CONTRIBUTING.md)
