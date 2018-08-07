@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Fruta Roama",
+        "description": "INDEFINIDO"
+    },
+    "DRAGON_SCALE": {
+        "name": "Escama de Dragão",
+        "description": "Escama que faz com que certas espécies de Pokémon evoluam. É robusta e resistente."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Grande Bola",
+        "description": "Poké Bola de alto rendimento. Tem um índice de êxito superior ao da Poké Bola padrão."
+    },
+    "HYPER_POTION": {
+        "name": "Hiperpoção",
+        "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Incenso",
+        "description": "Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Incubadora de Ovo",
+        "description": "Dispositivo de incubação que ajuda a chocar um Ovo conforme você anda. Pode ser usado 3 vezes."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Incubadora de Ovo ∞",
+        "description": "Dispositivo de incubação que choca um Ovo após uma certa distância caminhada. Uso ilimitado!"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "Pedra do Rei",
+        "description": "Pedra que faz com que certas espécies de Pokémon evoluam. Lembra uma coroa."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Ovo da Sorte",
+        "description": "Um ovo cheio de felicidade e que faz você ganhar o dobro de PE por 30 minutos."
+    },
+    "MASTER_BALL": {
+        "name": "Bola Mestra",
+        "description": "A Poké Bola com melhor desempenho. Pega qualquer Pokémon selvagem sem falha."
+    },
+    "MAX_POTION": {
+        "name": "Poção Máxima",
+        "description": "Remédio em spray que cura machucados e que restaura todos os PS de um Pokémon."
+    },
+    "MAX_REVIVE": {
+        "name": "Máximo Reviver",
+        "description": "Remédio para reanimar Pokémon desmaiados e que também restaura todos os seus PS."
+    },
+    "METAL_COAT": {
+        "name": "Revestimento Metálico",
+        "description": "Revestimento que faz com que certas espécies de Pokémon evoluam. É uma película de metal especial."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Fruta Anaba",
+        "description": "Dê esta fruta a um Pokémon para acalmá-lo e torná-lo menos imprevisível."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Fruta Caxí",
+        "description": "Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Poké Bola",
+        "description": "Um dispositivo para pegar Pokémon selvagens, que é jogado como uma bola os encapsulando."
+    },
+    "POTION": {
+        "name": "Poção",
+        "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Fruta Frambo",
+        "description": "Dê esta Fruta a um Pokémon para pegá-lo com mais facilidade."
+    },
+    "REVIVE": {
+        "name": "Reviver",
+        "description": "Remédio para reanimar Pokémon desmaiados e que também restaura metade de seus PS."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Câmera",
+        "description": "Você poderá usar a sua câmera para fotografar Pokémon selvagens quando os encontrar."
+    },
+    "STAR_PIECE": {
+        "name": "Pedaço de Estrela",
+        "description": "Um pequeno caco de uma linda joia que faz você ganhar 50% a mais de Poeira Estelar por 30 minutos."
+    },
+    "SUN_STONE": {
+        "name": "Pedra Solar",
+        "description": "Pedra peculiar que faz com que certas espécies de Pokémon evoluam. É vermelha como o sol ao entardecer."
+    },
+    "SUPER_POTION": {
+        "name": "Superpoção",
+        "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
+    },
+    "TROY_DISK": {
+        "name": "Módulo Atrair",
+        "description": "Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto."
+    },
+    "ULTRA_BALL": {
+        "name": "Ultra Bola",
+        "description": "Poké Bola com desempenho superior. Tem um índice de êxito superior ao da Grande Bola."
+    },
+    "UP_GRADE": {
+        "name": "Melhora",
+        "description": "Dispositivo transparente que faz com que certas espécies de Pokémon evoluam. Produzido pela Silph Co."
+    },
+    "WEPAR_BERRY": {
+        "name": "Fruta Ocipêra",
+        "description": "INDEFINIDO"
+    },
+    "X_ATTACK": {
+        "name": "Ataque X",
+        "description": "INDEFINIDO"
+    },
+    "X_DEFENSE": {
+        "name": "Defesa X",
+        "description": "INDEFINIDO"
+    },
+    "X_MIRACLE": {
+        "name": "INDEFINIDO",
+        "description": "INDEFINIDO"
+    }
+}

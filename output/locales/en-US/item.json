@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Bluk Berry",
+        "description": "UNDEFINED"
+    },
+    "DRAGON_SCALE": {
+        "name": "Dragon Scale",
+        "description": "A scale that can make certain species of Pokémon evolve. It is very tough and inflexible."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Great Ball",
+        "description": "A high-performance ball with a higher catch rate than a standard Poké Ball."
+    },
+    "HYPER_POTION": {
+        "name": "Hyper Potion",
+        "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Incense",
+        "description": "Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Egg Incubator",
+        "description": "A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Egg Incubator ∞",
+        "description": "A device that incubates an Egg as you walk until it's ready to hatch. Unlimited use!"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "King's Rock",
+        "description": "A rock that can make certain species of Pokémon evolve. It looks like a crown."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Lucky Egg",
+        "description": "A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes."
+    },
+    "MASTER_BALL": {
+        "name": "Master Ball",
+        "description": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
+    },
+    "MAX_POTION": {
+        "name": "Max Potion",
+        "description": "A spray-type medicine that completely restores all HP of a single Pokémon."
+    },
+    "MAX_REVIVE": {
+        "name": "Max Revive",
+        "description": "A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon's maximum HP."
+    },
+    "METAL_COAT": {
+        "name": "Metal Coat",
+        "description": "A coating that can make certain species of Pokémon evolve. It is a special metallic film."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Nanab Berry",
+        "description": "Feed this to a Pokémon to calm it down, making it less erratic."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Pinap Berry",
+        "description": "Feed this to a Pokémon to receive more Candy when you catch it."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Poké Ball",
+        "description": "A device for catching wild Pokémon. It's thrown like a ball, comfortably encapsulating its target."
+    },
+    "POTION": {
+        "name": "Potion",
+        "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Razz Berry",
+        "description": "Feed this to a Pokémon to make it easier to catch."
+    },
+    "REVIVE": {
+        "name": "Revive",
+        "description": "A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Camera",
+        "description": "When you encounter Pokémon in the wild, you can use your camera to photograph them."
+    },
+    "STAR_PIECE": {
+        "name": "Star Piece",
+        "description": "A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes."
+    },
+    "SUN_STONE": {
+        "name": "Sun Stone",
+        "description": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
+    },
+    "SUPER_POTION": {
+        "name": "Super Potion",
+        "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
+    },
+    "TROY_DISK": {
+        "name": "Lure Module",
+        "description": "A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby."
+    },
+    "ULTRA_BALL": {
+        "name": "Ultra Ball",
+        "description": "An ultra-performance ball with a higher catch rate than a Great Ball."
+    },
+    "UP_GRADE": {
+        "name": "Up-Grade",
+        "description": "A transparent device that can make certain species of Pokémon evolve. It was produced by Silph Co."
+    },
+    "WEPAR_BERRY": {
+        "name": "Wepear Berry",
+        "description": "UNDEFINED"
+    },
+    "X_ATTACK": {
+        "name": "X Attack",
+        "description": "UNDEFINED"
+    },
+    "X_DEFENSE": {
+        "name": "X Defense",
+        "description": "UNDEFINED"
+    },
+    "X_MIRACLE": {
+        "name": "UNDEFINED",
+        "description": "UNDEFINED"
+    }
+}

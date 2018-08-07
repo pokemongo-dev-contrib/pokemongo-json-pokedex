@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Baie Remu",
+        "description": "UNDEFINED"
+    },
+    "DRAGON_SCALE": {
+        "name": "Écaille Draco",
+        "description": "Une écaille qui fait évoluer certaines espèces de Pokémon. C’est une écaille épaisse et dure."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Super Ball",
+        "description": "Une balle dont le taux de réussite est supérieur à celui de la Poké Ball."
+    },
+    "HYPER_POTION": {
+        "name": "Hyper Potion",
+        "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Encens",
+        "description": "Une senteur qui attire les Pokémon vers toi pendant 30 minutes."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Incubateur",
+        "description": "Ceci incube un œuf quand tu marches, jusqu’à ce qu’il soit prêt à éclore. Il se casse après 3 utilisations."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Incubateur ∞",
+        "description": "Ceci incube un œuf quand tu marches, jusqu’à ce qu’il soit prêt à éclore. Usage illimité."
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "Roche Royale",
+        "description": "Une pierre qui fait évoluer certaines espèces de Pokémon. Elle ressemble à une couronne."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Œuf Chance",
+        "description": "Un œuf rempli de bonheur. Gagne 2 fois plus de PX pendant 30 minutes."
+    },
+    "MASTER_BALL": {
+        "name": "Master Ball",
+        "description": "La balle la plus performante. Elle permet de capturer à coup sûr un Pokémon sauvage."
+    },
+    "MAX_POTION": {
+        "name": "Potion Max",
+        "description": "Un spray qui soigne les blessures. Restaure tous les PV d’un seul Pokémon."
+    },
+    "MAX_REVIVE": {
+        "name": "Rappel Max",
+        "description": "Un médicament qui ranime un Pokémon KO. Restaure également tous ses PV."
+    },
+    "METAL_COAT": {
+        "name": "Peau Métal",
+        "description": "Une pellicule qui fait évoluer certaines espèces de Pokémon. C’est une pellicule métallique spéciale."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Baie Nanab",
+        "description": "Si tu en donnes à manger à un Pokémon, il se calmera et sera moins imprévisible."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Baie Nanana",
+        "description": "Si tu en donnes à manger à un Pokémon, il donne plus de Bonbons quand tu l’attrapes."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Poké Ball",
+        "description": "Un objet semblable à une capsule, qui capture les Pokémon sauvages. Se jette comme une balle."
+    },
+    "POTION": {
+        "name": "Potion",
+        "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Baie Framby",
+        "description": "Si tu en donnes à manger à un Pokémon, il sera plus facile à attraper."
+    },
+    "REVIVE": {
+        "name": "Rappel",
+        "description": "Un médicament qui ranime un Pokémon KO. Restaure également la moitié de ses PV."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Appareil photo",
+        "description": "Permet de prendre des photos des Pokémon que tu rencontres."
+    },
+    "STAR_PIECE": {
+        "name": "Morceau d’Étoile",
+        "description": "Un fragment de gemme qui te donne 50% de Poussière Étoile en plus pendant 30 minutes."
+    },
+    "SUN_STONE": {
+        "name": "Pierre Soleil",
+        "description": "Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est rouge comme le soleil couchant."
+    },
+    "SUPER_POTION": {
+        "name": "Super Potion",
+        "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
+    },
+    "TROY_DISK": {
+        "name": "Module Leurre",
+        "description": "Attire les Pokémon dans un PokéStop pendant 30 minutes. D’autres joueurs peuvent en profiter."
+    },
+    "ULTRA_BALL": {
+        "name": "Hyper Ball",
+        "description": "Une balle ultra-performante dont le taux de réussite est supérieur à celui de la Super Ball."
+    },
+    "UP_GRADE": {
+        "name": "Améliorator",
+        "description": "Un dispositif transparent qui fait évoluer certaines espèces de Pokémon. Fabriqué par la Sylphe SARL."
+    },
+    "WEPAR_BERRY": {
+        "name": "Baie Repoi",
+        "description": "UNDEFINED"
+    },
+    "X_ATTACK": {
+        "name": "Attaque +",
+        "description": "UNDEFINED"
+    },
+    "X_DEFENSE": {
+        "name": "Défense +",
+        "description": "UNDEFINED"
+    },
+    "X_MIRACLE": {
+        "name": "UNDEFINED",
+        "description": "UNDEFINED"
+    }
+}

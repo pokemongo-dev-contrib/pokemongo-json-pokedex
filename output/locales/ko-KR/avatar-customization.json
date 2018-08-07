@@ -1,0 +1,894 @@
+{
+    "f_backpack_cute_0": {
+        "name": "리본백"
+    },
+    "f_backpack_default_0": {
+        "name": "어번팩"
+    },
+    "f_backpack_default_1": {
+        "name": "어번팩"
+    },
+    "f_backpack_default_2": {
+        "name": "어번팩"
+    },
+    "f_backpack_default_3": {
+        "name": "어번팩"
+    },
+    "f_backpack_empty": {
+        "name": "백 없음"
+    },
+    "f_backpack_frlg_0": {
+        "name": "리프백"
+    },
+    "f_backpack_ultra": {},
+    "f_belt_default_0": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_1": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_2": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_3": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_4": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_5": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_6": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_7": {
+        "name": "둥근버클"
+    },
+    "f_belt_default_8": {
+        "name": "둥근버클"
+    },
+    "f_belt_empty": {
+        "name": "벨트 없음"
+    },
+    "f_belt_simple_0": {
+        "name": "플랫버클"
+    },
+    "f_belt_simple_1": {
+        "name": "플랫버클"
+    },
+    "f_belt_simple_2": {
+        "name": "플랫버클"
+    },
+    "f_belt_simple_3": {
+        "name": "플랫버클"
+    },
+    "f_belt_teamrocket_0": {
+        "name": "로켓단벨트"
+    },
+    "f_belt_teamrocket_1": {
+        "name": "R로켓단벨트"
+    },
+    "f_eyes_0": {},
+    "f_eyes_1": {},
+    "f_eyes_2": {},
+    "f_eyes_3": {},
+    "f_eyes_4": {},
+    "f_glasses_3d": {
+        "name": "3D안경"
+    },
+    "f_glasses_empty": {
+        "name": "안경 없음"
+    },
+    "f_glasses_mask_0": {
+        "name": "미스터리 마스크"
+    },
+    "f_glasses_mask_1": {
+        "name": "미스터리 마스크"
+    },
+    "f_glasses_thick_0": {
+        "name": "둥근테안경"
+    },
+    "f_glasses_thick_1": {
+        "name": "둥근테안경"
+    },
+    "f_glasses_thick_2": {
+        "name": "둥근테안경"
+    },
+    "f_glasses_thick_3": {
+        "name": "둥근테안경"
+    },
+    "f_glasses_thick_4": {
+        "name": "둥근테안경"
+    },
+    "f_gloves_battlegirl_0": {
+        "name": "배틀걸글로브"
+    },
+    "f_gloves_default_0": {
+        "name": "손가락없는 장갑"
+    },
+    "f_gloves_default_1": {
+        "name": "손가락없는 장갑"
+    },
+    "f_gloves_default_2": {
+        "name": "손가락없는 장갑"
+    },
+    "f_gloves_default_3": {
+        "name": "손가락없는 장갑"
+    },
+    "f_gloves_empty": {
+        "name": "장갑 없음"
+    },
+    "f_gloves_frlg_0": {
+        "name": "리프리스트밴드"
+    },
+    "f_gloves_gymleader_0": {
+        "name": "체육관 리더 장갑"
+    },
+    "f_gloves_teamrocket_0": {
+        "name": "로켓단장갑"
+    },
+    "f_hair_default_0": {},
+    "f_hair_default_1": {},
+    "f_hair_default_2": {},
+    "f_hair_default_3": {},
+    "f_hair_default_4": {},
+    "f_hair_default_5": {},
+    "f_hat_adventure_0": {
+        "name": "탐험가모자"
+    },
+    "f_hat_casket_0": {
+        "name": "뉴스보이 캡"
+    },
+    "f_hat_default_A_0": {},
+    "f_hat_default_A_1": {},
+    "f_hat_default_A_2": {},
+    "f_hat_default_A_3": {},
+    "f_hat_default_A_4": {},
+    "f_hat_default_A_5": {},
+    "f_hat_default_B_0": {},
+    "f_hat_default_B_1": {},
+    "f_hat_empty": {
+        "name": "모자 없음"
+    },
+    "f_hat_fedora_0": {
+        "name": "펠트페도라"
+    },
+    "f_hat_fedora_1": {
+        "name": "펠트페도라"
+    },
+    "f_hat_frlg_0": {
+        "name": "리프해트"
+    },
+    "f_hat_knitted_0": {
+        "name": "니트캡"
+    },
+    "f_hat_knitted_1": {
+        "name": "니트캡"
+    },
+    "f_hat_magikarp": {
+        "name": "잉어킹모자"
+    },
+    "f_hat_mimikyu_0": {},
+    "f_hat_teamrocket_0": {
+        "name": "로켓단모자"
+    },
+    "f_hat_tophat_0": {
+        "name": "톱 해트"
+    },
+    "f_hat_ultra_0": {},
+    "f_necklace_default_0": {
+        "name": "리본초커"
+    },
+    "f_necklace_default_1": {
+        "name": "리본초커"
+    },
+    "f_necklace_empty": {
+        "name": "목걸이 없음"
+    },
+    "f_necklace_heart_0": {
+        "name": "하트초커"
+    },
+    "f_necklace_star_0": {
+        "name": "스타초커"
+    },
+    "f_pants_battlegirl_0": {
+        "name": "배틀걸쇼츠"
+    },
+    "f_pants_default_0": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_default_1": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_default_2": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_default_3": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_default_4": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_default_5": {
+        "name": "스프링 수트 "
+    },
+    "f_pants_frlg_0": {
+        "name": "리프스커트"
+    },
+    "f_pants_gymleader_0": {
+        "name": "체육관 리더 스커트"
+    },
+    "f_pants_gymleader_1": {
+        "name": "체육관 리더 스커트"
+    },
+    "f_pants_gymleader_2": {
+        "name": "체육관 리더 스커트"
+    },
+    "f_pants_miniskirt_0": {
+        "name": "스트라이프 스커트"
+    },
+    "f_pants_miniskirt_1": {
+        "name": "스트라이프 스커트"
+    },
+    "f_pants_miniskirt_2": {
+        "name": "스트라이프 스커트"
+    },
+    "f_pants_miniskirt_3": {
+        "name": "스트라이프 스커트"
+    },
+    "f_pants_miniskirt_wave_0": {
+        "name": "웨이브 스커트"
+    },
+    "f_pants_miniskirt_wave_1": {
+        "name": "웨이브 스커트"
+    },
+    "f_pants_miniskirt_wave_2": {
+        "name": "웨이브 스커트"
+    },
+    "f_pants_neon_solid_0": {
+        "name": "리퀴드 레깅스"
+    },
+    "f_pants_neon_solid_1": {
+        "name": "리퀴드 레깅스"
+    },
+    "f_pants_neon_solid_2": {
+        "name": "리퀴드 레깅스"
+    },
+    "f_pants_neon_stripes_0": {
+        "name": "리퀴드 레깅스"
+    },
+    "f_pants_neon_stripes_1": {
+        "name": "리퀴드 레깅스"
+    },
+    "f_pants_shorts_0": {
+        "name": "트랙 쇼츠"
+    },
+    "f_pants_shorts_1": {
+        "name": "트랙 쇼츠"
+    },
+    "f_pants_shorts_2": {
+        "name": "트랙 쇼츠"
+    },
+    "f_pants_shorts_3": {
+        "name": "트랙 쇼츠"
+    },
+    "f_pants_skinnyjeans_0": {
+        "name": "스키니진"
+    },
+    "f_pants_teamrocket_0": {
+        "name": "로켓단스커트"
+    },
+    "f_pants_miniskirt_turbine_0": {
+        "name": "터빈 스커트"
+    },
+    "f_pants_miniskirt_turbine_1": {
+        "name": "터빈 스커트"
+    },
+    "f_pants_miniskirt_turbine_2": {
+        "name": "터빈 스커트"
+    },
+    "f_pants_ultra_0": {},
+    "f_shirt_battlegirl_0": {
+        "name": "배틀걸셔츠"
+    },
+    "f_shirt_buttondown_0": {
+        "name": "피티드 셔츠"
+    },
+    "f_shirt_default_0": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_1": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_2": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_3": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_4": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_5": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_6": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_7": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_default_8": {
+        "name": "클래식 롱슬리브"
+    },
+    "f_shirt_earthday_2018": {
+        "name": "파도타기 블루티셔츠"
+    },
+    "f_shirt_frlg_0": {
+        "name": "리프상의"
+    },
+    "f_shirt_gymleader_0": {
+        "name": "체육관 리더 상의"
+    },
+    "f_shirt_gymleader_1": {
+        "name": "체육관 리더 상의"
+    },
+    "f_shirt_gymleader_2": {
+        "name": "체육관 리더 상의"
+    },
+    "f_shirt_latias_latios_0": {
+        "name": "라티아스&라티오스 티셔츠"
+    },
+    "f_shirt_mew_0": {
+        "name": "뮤티셔츠"
+    },
+    "f_shirt_sweater_30_0": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_30_1": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_30_2": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_instinct": {
+        "name": "팀 인스팅트 터틀넥"
+    },
+    "f_shirt_sweater_mystic": {
+        "name": "팀 미스틱 터틀넥"
+    },
+    "f_shirt_sweater_valor": {
+        "name": "팀 발로 터틀넥"
+    },
+    "f_shirt_tanktop_0": {
+        "name": "트레이너 탱크톱"
+    },
+    "f_shirt_tanktop_1": {
+        "name": "트레이너 탱크톱"
+    },
+    "f_shirt_tanktop_2": {
+        "name": "트레이너 탱크톱"
+    },
+    "f_shirt_tanktop_charizard_0": {
+        "name": "리자몽 탱크톱"
+    },
+    "f_shirt_tanktop_charizard_1": {
+        "name": "리자몽 탱크톱"
+    },
+    "f_shirt_tanktop_charizard_2": {
+        "name": "리자몽 탱크톱"
+    },
+    "f_shirt_tanktop_pikachu_0": {
+        "name": "피카츄 탱크톱"
+    },
+    "f_shirt_tanktop_pikachu_1": {
+        "name": "피카츄 탱크톱"
+    },
+    "f_shirt_tanktop_pikachu_2": {
+        "name": "피카츄 탱크톱"
+    },
+    "f_shirt_teamrocket_0": {
+        "name": "포켓단상의"
+    },
+    "f_shirt_teamrocket_1": {
+        "name": "R로켓단상의"
+    },
+    "f_shirt_tshirt_cycling_0": {
+        "name": "액티브티"
+    },
+    "f_shirt_tshirt_cycling_1": {
+        "name": "액티브티"
+    },
+    "f_shirt_tshirt_cycling_2": {
+        "name": "액티브티"
+    },
+    "f_shirt_tshirt_cycling_3": {
+        "name": "액티브티"
+    },
+    "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_global_goals_2017": {},
+    "f_shirt_tshirt_pikachu_0": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_1": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_2": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_3": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_4": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_5": {
+        "name": "피카츄티"
+    },
+    "f_shirt_tshirt_pikachu_6": {
+        "name": "피카츄티"
+    },
+    "f_shirt_ultra_0": {},
+    "f_shoes_battlegirl_0": {
+        "name": "배틀걸슈즈"
+    },
+    "f_shoes_default_0": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_1": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_2": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_3": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_4": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_5": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_default_6": {
+        "name": "런닝슈즈"
+    },
+    "f_shoes_empty": {
+        "name": "신발 없음"
+    },
+    "f_shoes_frlg_0": {
+        "name": "리프슈즈"
+    },
+    "f_shoes_gymleader_0": {
+        "name": "체육관 리더 슈즈"
+    },
+    "f_shoes_gymleader_1": {
+        "name": "체육관 리더 슈즈"
+    },
+    "f_shoes_gymleader_2": {
+        "name": "체육관 리더 슈즈"
+    },
+    "f_shoes_teamrocket_0": {
+        "name": "로켓단부츠"
+    },
+    "f_shoes_teamrocket_1": {
+        "name": "R로켓단부츠"
+    },
+    "f_shoes_ultra_0": {},
+    "f_socks_default_0": {
+        "name": "롱레그워머"
+    },
+    "f_socks_default_1": {
+        "name": "롱레그워머"
+    },
+    "f_socks_default_2": {
+        "name": "롱레그워머"
+    },
+    "f_socks_empty": {
+        "name": "양말 없음"
+    },
+    "f_socks_thighhighs_0": {
+        "name": "울레그워머"
+    },
+    "m_backpack_default_0": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_default_1": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_default_2": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_default_3": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_default_4": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_default_5": {
+        "name": "트레이너 백팩"
+    },
+    "m_backpack_empty": {
+        "name": "백팩 없음"
+    },
+    "m_backpack_frlg_0": {
+        "name": "파이어백팩"
+    },
+    "m_backpack_ultra": {},
+    "m_eyes_0": {},
+    "m_eyes_1": {},
+    "m_eyes_2": {},
+    "m_eyes_3": {},
+    "m_eyes_4": {},
+    "m_glasses_3d": {
+        "name": "3D안경"
+    },
+    "m_glasses_empty": {
+        "name": "안경 없음"
+    },
+    "m_glasses_jogger_0": {
+        "name": "조깅글라스"
+    },
+    "m_glasses_mask_0": {
+        "name": "미스테리 마스크"
+    },
+    "m_glasses_mask_1": {
+        "name": "미스테리 마스크"
+    },
+    "m_glasses_thick_0": {
+        "name": "둥근테안경"
+    },
+    "m_glasses_thick_1": {
+        "name": "둥근테안경"
+    },
+    "m_glasses_thick_2": {
+        "name": "둥근테안경"
+    },
+    "m_glasses_thick_3": {
+        "name": "둥근테안경"
+    },
+    "m_glasses_thick_4": {
+        "name": "둥근테안경"
+    },
+    "m_gloves_default_0": {
+        "name": "손가락없는 장갑"
+    },
+    "m_gloves_default_1": {
+        "name": "손가락없는 장갑"
+    },
+    "m_gloves_default_2": {
+        "name": "손가락없는 장갑"
+    },
+    "m_gloves_default_3": {
+        "name": "손가락없는 장갑"
+    },
+    "m_gloves_empty": {
+        "name": "장갑 없음"
+    },
+    "m_gloves_frlg_0": {
+        "name": "파이어리스트밴드"
+    },
+    "m_gloves_gymleader_0": {
+        "name": "체육관 리더 장갑"
+    },
+    "m_gloves_jogger": {
+        "name": "조깅워치"
+    },
+    "m_gloves_teamrocket_0": {
+        "name": "로켓단장갑"
+    },
+    "m_hair_default_0": {},
+    "m_hair_default_1": {},
+    "m_hair_default_2": {},
+    "m_hair_default_3": {},
+    "m_hair_default_4": {},
+    "m_hair_default_5": {},
+    "m_hat_adventure_0": {
+        "name": "탐험가모자"
+    },
+    "m_hat_casket_0": {
+        "name": "뉴스보이 캡"
+    },
+    "m_hat_default_0": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_default_1": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_default_2": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_default_3": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_default_4": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_default_5": {
+        "name": "트레이너바이저"
+    },
+    "m_hat_empty": {
+        "name": "모자 없음"
+    },
+    "m_hat_fedora_0": {
+        "name": "펠트페도라"
+    },
+    "m_hat_fedora_1": {
+        "name": "펠트페도라"
+    },
+    "m_hat_fisher_0": {
+        "name": "낚시꾼캡"
+    },
+    "m_hat_frlg_0": {
+        "name": "파이어캡"
+    },
+    "m_hat_jogger_0": {
+        "name": "조깅바이저"
+    },
+    "m_hat_magikarp": {
+        "name": "잉어킹모자"
+    },
+    "m_hat_mimikyu_0": {},
+    "m_hat_teamrocket_0": {
+        "name": "로켓단모자"
+    },
+    "m_hat_tophat_0": {
+        "name": "톱 해트"
+    },
+    "m_hat_ultra_0": {},
+    "m_pants_default_0": {
+        "name": "트레이너 반바지"
+    },
+    "m_pants_fisher_0": {
+        "name": "낚시꾼팬츠"
+    },
+    "m_pants_frlg_0": {
+        "name": "파이어팬츠"
+    },
+    "m_pants_gymleader_0": {
+        "name": "체육관 리더 팬츠"
+    },
+    "m_pants_gymleader_1": {
+        "name": "체육관 리더 팬츠"
+    },
+    "m_pants_gymleader_2": {
+        "name": "체육관 리더 팬츠"
+    },
+    "m_pants_jogger_0": {
+        "name": "조깅팬츠"
+    },
+    "m_pants_skinnyjeans_0": {
+        "name": "스키니진"
+    },
+    "m_pants_skinnyjeans_1": {
+        "name": "스키니진"
+    },
+    "m_pants_skinnyjeans_2": {
+        "name": "스키니진"
+    },
+    "m_pants_sweats_0": {
+        "name": "액티브 스웨트팬츠"
+    },
+    "m_pants_sweats_1": {
+        "name": "액티브 스웨트팬츠"
+    },
+    "m_pants_sweats_2": {
+        "name": "액티브 스웨트팬츠"
+    },
+    "m_pants_sweats_3": {
+        "name": "액티브 스웨트팬츠"
+    },
+    "m_pants_sweats_4": {
+        "name": "액티브 스웨트팬츠"
+    },
+    "m_pants_teamrocket_0": {
+        "name": "로켓단하의"
+    },
+    "m_pants_ultra_0": {},
+    "m_shirt_blazer_0": {
+        "name": "비지니스 블레이저"
+    },
+    "m_shirt_default_0": {
+        "name": "어깨라인 후드티"
+    },
+    "m_shirt_default_1": {
+        "name": "칼럼 후드티"
+    },
+    "m_shirt_default_2": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_default_2B": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_default_3": {
+        "name": "포인트 후드티"
+    },
+    "m_shirt_default_4": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_default_5": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_default_6": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_default_7": {
+        "name": "클래식 후드티"
+    },
+    "m_shirt_earthday_2018": {
+        "name": "파도타기 블루티셔츠"
+    },
+    "m_shirt_fisher_0": {
+        "name": "낚시꾼베스트"
+    },
+    "m_shirt_frlg_0": {
+        "name": "파이어상의"
+    },
+    "m_shirt_gymleader_0": {
+        "name": "체육관 리더 상의"
+    },
+    "m_shirt_gymleader_1": {
+        "name": "체육관 리더 상의"
+    },
+    "m_shirt_gymleader_2": {
+        "name": "체육관 리더 상의"
+    },
+    "m_shirt_jogger_0": {
+        "name": "조깅셔츠"
+    },
+    "m_shirt_latias_latios_0": {
+        "name": "라티아스&라티오스 티셔츠"
+    },
+    "m_shirt_longsleeves_charizard_0": {
+        "name": "리자몽 풀오버"
+    },
+    "m_shirt_longsleeves_charizard_1": {
+        "name": "리자몽 풀오버"
+    },
+    "m_shirt_longsleeves_charizard_2": {
+        "name": "리자몽 풀오버"
+    },
+    "m_shirt_longsleeves_pikachu_0": {
+        "name": "피카츄 풀오버"
+    },
+    "m_shirt_longsleeves_pikachu_1": {
+        "name": "피카츄 풀오버"
+    },
+    "m_shirt_longsleeves_pikachu_2": {
+        "name": "피카츄 풀오버"
+    },
+    "m_shirt_mew_0": {
+        "name": "뮤티셔츠"
+    },
+    "m_shirt_sweatshirt_sporty_0": {
+        "name": "스포츠 후드티"
+    },
+    "m_shirt_sweatshirt_sporty_1": {
+        "name": "스포츠 후드티"
+    },
+    "m_shirt_sweatshirt_sporty_2": {
+        "name": "스포츠 후드티"
+    },
+    "m_shirt_sweatshirt_sporty_3": {
+        "name": "스포츠 후드티"
+    },
+    "m_shirt_sweatshirt_streak_0": {
+        "name": "스트릭 후드티"
+    },
+    "m_shirt_sweatshirt_streak_1": {
+        "name": "스트릭 후드티"
+    },
+    "m_shirt_sweatshirt_streak_2": {
+        "name": "스트릭 후드티"
+    },
+    "m_shirt_sweatshirt_streak_3": {
+        "name": "스트릭 후드티"
+    },
+    "m_shirt_sweatshirt_streak_4": {
+        "name": "스트릭 후드티"
+    },
+    "m_shirt_teamrocket_0": {
+        "name": "포켓단상의"
+    },
+    "m_shirt_teamrocket_1": {
+        "name": "R로켓단상의"
+    },
+    "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_geometric_0": {
+        "name": "패턴티셔츠"
+    },
+    "m_shirt_tshirt_geometric_1": {
+        "name": "패턴티셔츠"
+    },
+    "m_shirt_tshirt_geometric_2": {
+        "name": "패턴티셔츠"
+    },
+    "m_shirt_tshirt_global_goals_2017": {},
+    "m_shirt_tshirt_instinct": {
+        "name": "팀 인스팅트티"
+    },
+    "m_shirt_tshirt_mystic": {
+        "name": "팀 미스틱티"
+    },
+    "m_shirt_tshirt_valor": {
+        "name": "팀 발로 티"
+    },
+    "m_shirt_turtleneck_30_0": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_1": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_2": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_3": {
+        "name": "The Thirty"
+    },
+    "m_shirt_ultra_0": {},
+    "m_shoes_default_0": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_1": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_2": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_3": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_4": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_5": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_default_6": {
+        "name": "런닝슈즈"
+    },
+    "m_shoes_empty": {
+        "name": "신발 없음"
+    },
+    "m_shoes_fisher_0": {
+        "name": "낚시꾼부츠"
+    },
+    "m_shoes_frlg_0": {
+        "name": "파이어슈즈"
+    },
+    "m_shoes_gymleader_0": {
+        "name": "체육관 리더 슈즈"
+    },
+    "m_shoes_gymleader_1": {
+        "name": "체육관 리더 슈즈"
+    },
+    "m_shoes_gymleader_2": {
+        "name": "체육관 리더 슈즈"
+    },
+    "m_shoes_jogger_0": {
+        "name": "조깅슈즈"
+    },
+    "m_shoes_teamrocket_0": {
+        "name": "로켓단부츠"
+    },
+    "m_shoes_teamrocket_1": {
+        "name": "R로켓단부츠"
+    },
+    "m_shoes_ultra_0": {},
+    "m_socks_default_0": {
+        "name": "레깅스"
+    },
+    "m_socks_default_1": {
+        "name": "레깅스"
+    },
+    "m_socks_default_2": {
+        "name": "레깅스"
+    },
+    "m_socks_default_3": {
+        "name": "레깅스"
+    },
+    "m_socks_empty": {
+        "name": "양말 없음"
+    }
+}

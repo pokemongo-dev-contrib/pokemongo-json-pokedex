@@ -1,0 +1,894 @@
+{
+    "f_backpack_cute_0": {
+        "name": "Bow-Tie Bag"
+    },
+    "f_backpack_default_0": {
+        "name": "Urban Pack"
+    },
+    "f_backpack_default_1": {
+        "name": "Urban Pack"
+    },
+    "f_backpack_default_2": {
+        "name": "Urban Pack"
+    },
+    "f_backpack_default_3": {
+        "name": "Urban Pack"
+    },
+    "f_backpack_empty": {
+        "name": "No Bag"
+    },
+    "f_backpack_frlg_0": {
+        "name": "LeafGreen Bag"
+    },
+    "f_backpack_ultra": {},
+    "f_belt_default_0": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_1": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_2": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_3": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_4": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_5": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_6": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_7": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_default_8": {
+        "name": "Ball Buckle"
+    },
+    "f_belt_empty": {
+        "name": "No Belt"
+    },
+    "f_belt_simple_0": {
+        "name": "Flat Buckle"
+    },
+    "f_belt_simple_1": {
+        "name": "Flat Buckle"
+    },
+    "f_belt_simple_2": {
+        "name": "Flat Buckle"
+    },
+    "f_belt_simple_3": {
+        "name": "Flat Buckle"
+    },
+    "f_belt_teamrocket_0": {
+        "name": "Team Rocket Belt"
+    },
+    "f_belt_teamrocket_1": {
+        "name": "Team Rainbow Rocket Belt"
+    },
+    "f_eyes_0": {},
+    "f_eyes_1": {},
+    "f_eyes_2": {},
+    "f_eyes_3": {},
+    "f_eyes_4": {},
+    "f_glasses_3d": {
+        "name": "Future Specs"
+    },
+    "f_glasses_empty": {
+        "name": "No Glasses"
+    },
+    "f_glasses_mask_0": {
+        "name": "Mystery Mask"
+    },
+    "f_glasses_mask_1": {
+        "name": "Mystery Mask"
+    },
+    "f_glasses_thick_0": {
+        "name": "Focus Frames"
+    },
+    "f_glasses_thick_1": {
+        "name": "Focus Frames"
+    },
+    "f_glasses_thick_2": {
+        "name": "Focus Frames"
+    },
+    "f_glasses_thick_3": {
+        "name": "Focus Frames"
+    },
+    "f_glasses_thick_4": {
+        "name": "Focus Frames"
+    },
+    "f_gloves_battlegirl_0": {
+        "name": "Battle Girl Gloves"
+    },
+    "f_gloves_default_0": {
+        "name": "Fingerless Gloves"
+    },
+    "f_gloves_default_1": {
+        "name": "Fingerless Gloves"
+    },
+    "f_gloves_default_2": {
+        "name": "Fingerless Gloves"
+    },
+    "f_gloves_default_3": {
+        "name": "Fingerless Gloves"
+    },
+    "f_gloves_empty": {
+        "name": "No Gloves"
+    },
+    "f_gloves_frlg_0": {
+        "name": "LeafGreen Wristbands"
+    },
+    "f_gloves_gymleader_0": {
+        "name": "Gym Leader Gloves"
+    },
+    "f_gloves_teamrocket_0": {
+        "name": "Team Rocket Gloves"
+    },
+    "f_hair_default_0": {},
+    "f_hair_default_1": {},
+    "f_hair_default_2": {},
+    "f_hair_default_3": {},
+    "f_hair_default_4": {},
+    "f_hair_default_5": {},
+    "f_hat_adventure_0": {
+        "name": "Expedition Hat"
+    },
+    "f_hat_casket_0": {
+        "name": "Newsy Cap"
+    },
+    "f_hat_default_A_0": {},
+    "f_hat_default_A_1": {},
+    "f_hat_default_A_2": {},
+    "f_hat_default_A_3": {},
+    "f_hat_default_A_4": {},
+    "f_hat_default_A_5": {},
+    "f_hat_default_B_0": {},
+    "f_hat_default_B_1": {},
+    "f_hat_empty": {
+        "name": "No Hat"
+    },
+    "f_hat_fedora_0": {
+        "name": "Felt Fedora"
+    },
+    "f_hat_fedora_1": {
+        "name": "Felt Fedora"
+    },
+    "f_hat_frlg_0": {
+        "name": "LeafGreen Hat"
+    },
+    "f_hat_knitted_0": {
+        "name": "Power-Up Knit Cap"
+    },
+    "f_hat_knitted_1": {
+        "name": "Power-Up Knit Cap"
+    },
+    "f_hat_magikarp": {
+        "name": "Magikarp Hat"
+    },
+    "f_hat_mimikyu_0": {},
+    "f_hat_teamrocket_0": {
+        "name": "Team Rocket Hat"
+    },
+    "f_hat_tophat_0": {
+        "name": "Top Hat"
+    },
+    "f_hat_ultra_0": {},
+    "f_necklace_default_0": {
+        "name": "Ribbon Choker"
+    },
+    "f_necklace_default_1": {
+        "name": "Ribbon Choker"
+    },
+    "f_necklace_empty": {
+        "name": "No Necklace"
+    },
+    "f_necklace_heart_0": {
+        "name": "Love Choker"
+    },
+    "f_necklace_star_0": {
+        "name": "Super Choker"
+    },
+    "f_pants_battlegirl_0": {
+        "name": "Battle Girl Shorts"
+    },
+    "f_pants_default_0": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_default_1": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_default_2": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_default_3": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_default_4": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_default_5": {
+        "name": "Sprint Suit"
+    },
+    "f_pants_frlg_0": {
+        "name": "LeafGreen Skirt"
+    },
+    "f_pants_gymleader_0": {
+        "name": "Gym Leader Skirt"
+    },
+    "f_pants_gymleader_1": {
+        "name": "Gym Leader Skirt"
+    },
+    "f_pants_gymleader_2": {
+        "name": "Gym Leader Skirt"
+    },
+    "f_pants_miniskirt_0": {
+        "name": "Striped Skirt"
+    },
+    "f_pants_miniskirt_1": {
+        "name": "Striped Skirt"
+    },
+    "f_pants_miniskirt_2": {
+        "name": "Striped Skirt"
+    },
+    "f_pants_miniskirt_3": {
+        "name": "Striped Skirt"
+    },
+    "f_pants_miniskirt_wave_0": {
+        "name": "Wave Skirt"
+    },
+    "f_pants_miniskirt_wave_1": {
+        "name": "Wave Skirt"
+    },
+    "f_pants_miniskirt_wave_2": {
+        "name": "Wave Skirt"
+    },
+    "f_pants_neon_solid_0": {
+        "name": "Liquid Leggings"
+    },
+    "f_pants_neon_solid_1": {
+        "name": "Liquid Leggings"
+    },
+    "f_pants_neon_solid_2": {
+        "name": "Liquid Leggings"
+    },
+    "f_pants_neon_stripes_0": {
+        "name": "Liquid Leggings"
+    },
+    "f_pants_neon_stripes_1": {
+        "name": "Liquid Leggings"
+    },
+    "f_pants_shorts_0": {
+        "name": "Track Shorts"
+    },
+    "f_pants_shorts_1": {
+        "name": "Track Shorts"
+    },
+    "f_pants_shorts_2": {
+        "name": "Track Shorts"
+    },
+    "f_pants_shorts_3": {
+        "name": "Track Shorts"
+    },
+    "f_pants_skinnyjeans_0": {
+        "name": "Skinny Jeans"
+    },
+    "f_pants_teamrocket_0": {
+        "name": "Team Rocket Skirt"
+    },
+    "f_pants_miniskirt_turbine_0": {
+        "name": "Turbine Skirt"
+    },
+    "f_pants_miniskirt_turbine_1": {
+        "name": "Turbine Skirt"
+    },
+    "f_pants_miniskirt_turbine_2": {
+        "name": "Turbine Skirt"
+    },
+    "f_pants_ultra_0": {},
+    "f_shirt_battlegirl_0": {
+        "name": "Battle Girl Tank Top"
+    },
+    "f_shirt_buttondown_0": {
+        "name": "Fitted Shirt"
+    },
+    "f_shirt_default_0": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_1": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_2": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_3": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_4": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_5": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_6": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_7": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_default_8": {
+        "name": "Classic Longsleeve"
+    },
+    "f_shirt_earthday_2018": {
+        "name": "Surf Blue Shirt"
+    },
+    "f_shirt_frlg_0": {
+        "name": "LeafGreen Top"
+    },
+    "f_shirt_gymleader_0": {
+        "name": "Gym Leader Top"
+    },
+    "f_shirt_gymleader_1": {
+        "name": "Gym Leader Top"
+    },
+    "f_shirt_gymleader_2": {
+        "name": "Gym Leader Top"
+    },
+    "f_shirt_latias_latios_0": {
+        "name": "Latias & Latios Shirt"
+    },
+    "f_shirt_mew_0": {
+        "name": "Mew Shirt"
+    },
+    "f_shirt_sweater_30_0": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_30_1": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_30_2": {
+        "name": "The Thirty"
+    },
+    "f_shirt_sweater_instinct": {
+        "name": "Team Instinct Turtleneck"
+    },
+    "f_shirt_sweater_mystic": {
+        "name": "Team Mystic Turtleneck"
+    },
+    "f_shirt_sweater_valor": {
+        "name": "Team Valor Turtleneck"
+    },
+    "f_shirt_tanktop_0": {
+        "name": "Trainer Tank"
+    },
+    "f_shirt_tanktop_1": {
+        "name": "Trainer Tank"
+    },
+    "f_shirt_tanktop_2": {
+        "name": "Trainer Tank"
+    },
+    "f_shirt_tanktop_charizard_0": {
+        "name": "Charizard Tank"
+    },
+    "f_shirt_tanktop_charizard_1": {
+        "name": "Charizard Tank"
+    },
+    "f_shirt_tanktop_charizard_2": {
+        "name": "Charizard Tank"
+    },
+    "f_shirt_tanktop_pikachu_0": {
+        "name": "Pikachu Tank"
+    },
+    "f_shirt_tanktop_pikachu_1": {
+        "name": "Pikachu Tank"
+    },
+    "f_shirt_tanktop_pikachu_2": {
+        "name": "Pikachu Tank"
+    },
+    "f_shirt_teamrocket_0": {
+        "name": "Team Rocket Top"
+    },
+    "f_shirt_teamrocket_1": {
+        "name": "Team Rainbow Rocket Top"
+    },
+    "f_shirt_tshirt_cycling_0": {
+        "name": "Active Tee"
+    },
+    "f_shirt_tshirt_cycling_1": {
+        "name": "Active Tee"
+    },
+    "f_shirt_tshirt_cycling_2": {
+        "name": "Active Tee"
+    },
+    "f_shirt_tshirt_cycling_3": {
+        "name": "Active Tee"
+    },
+    "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_global_goals_2017": {},
+    "f_shirt_tshirt_pikachu_0": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_1": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_2": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_3": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_4": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_5": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_tshirt_pikachu_6": {
+        "name": "Pikachu Tee"
+    },
+    "f_shirt_ultra_0": {},
+    "f_shoes_battlegirl_0": {
+        "name": "Battle Girl Shoes"
+    },
+    "f_shoes_default_0": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_1": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_2": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_3": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_4": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_5": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_default_6": {
+        "name": "Running Shoes"
+    },
+    "f_shoes_empty": {
+        "name": "No Footwear"
+    },
+    "f_shoes_frlg_0": {
+        "name": "LeafGreen Shoes"
+    },
+    "f_shoes_gymleader_0": {
+        "name": "Gym Leader Shoes"
+    },
+    "f_shoes_gymleader_1": {
+        "name": "Gym Leader Shoes"
+    },
+    "f_shoes_gymleader_2": {
+        "name": "Gym Leader Shoes"
+    },
+    "f_shoes_teamrocket_0": {
+        "name": "Team Rocket Boots"
+    },
+    "f_shoes_teamrocket_1": {
+        "name": "Team Rainbow Rocket Boots"
+    },
+    "f_shoes_ultra_0": {},
+    "f_socks_default_0": {
+        "name": "Long Leg Warmers"
+    },
+    "f_socks_default_1": {
+        "name": "Long Leg Warmers"
+    },
+    "f_socks_default_2": {
+        "name": "Long Leg Warmers"
+    },
+    "f_socks_empty": {
+        "name": "No Socks"
+    },
+    "f_socks_thighhighs_0": {
+        "name": "Wool Leg Warmers"
+    },
+    "m_backpack_default_0": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_default_1": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_default_2": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_default_3": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_default_4": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_default_5": {
+        "name": "Trainer Backpack"
+    },
+    "m_backpack_empty": {
+        "name": "No Bag"
+    },
+    "m_backpack_frlg_0": {
+        "name": "FireRed Backpack"
+    },
+    "m_backpack_ultra": {},
+    "m_eyes_0": {},
+    "m_eyes_1": {},
+    "m_eyes_2": {},
+    "m_eyes_3": {},
+    "m_eyes_4": {},
+    "m_glasses_3d": {
+        "name": "Future Specs"
+    },
+    "m_glasses_empty": {
+        "name": "No Glasses"
+    },
+    "m_glasses_jogger_0": {
+        "name": "Jogger Sunglasses"
+    },
+    "m_glasses_mask_0": {
+        "name": "Mystery Mask"
+    },
+    "m_glasses_mask_1": {
+        "name": "Mystery Mask"
+    },
+    "m_glasses_thick_0": {
+        "name": "Focus Frames"
+    },
+    "m_glasses_thick_1": {
+        "name": "Focus Frames"
+    },
+    "m_glasses_thick_2": {
+        "name": "Focus Frames"
+    },
+    "m_glasses_thick_3": {
+        "name": "Focus Frames"
+    },
+    "m_glasses_thick_4": {
+        "name": "Focus Frames"
+    },
+    "m_gloves_default_0": {
+        "name": "Fingerless Gloves"
+    },
+    "m_gloves_default_1": {
+        "name": "Fingerless Gloves"
+    },
+    "m_gloves_default_2": {
+        "name": "Fingerless Gloves"
+    },
+    "m_gloves_default_3": {
+        "name": "Fingerless Gloves"
+    },
+    "m_gloves_empty": {
+        "name": "No Gloves"
+    },
+    "m_gloves_frlg_0": {
+        "name": "FireRed Wristbands"
+    },
+    "m_gloves_gymleader_0": {
+        "name": "Gym Leader Gloves"
+    },
+    "m_gloves_jogger": {
+        "name": "Jogger Watch"
+    },
+    "m_gloves_teamrocket_0": {
+        "name": "Team Rocket Gloves"
+    },
+    "m_hair_default_0": {},
+    "m_hair_default_1": {},
+    "m_hair_default_2": {},
+    "m_hair_default_3": {},
+    "m_hair_default_4": {},
+    "m_hair_default_5": {},
+    "m_hat_adventure_0": {
+        "name": "Expedition Hat"
+    },
+    "m_hat_casket_0": {
+        "name": "Newsy Cap"
+    },
+    "m_hat_default_0": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_default_1": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_default_2": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_default_3": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_default_4": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_default_5": {
+        "name": "Trainer Visor"
+    },
+    "m_hat_empty": {
+        "name": "No Hat"
+    },
+    "m_hat_fedora_0": {
+        "name": "Felt Fedora"
+    },
+    "m_hat_fedora_1": {
+        "name": "Felt Fedora"
+    },
+    "m_hat_fisher_0": {
+        "name": "Fisherman Cap"
+    },
+    "m_hat_frlg_0": {
+        "name": "FireRed Cap"
+    },
+    "m_hat_jogger_0": {
+        "name": "Jogger Visor"
+    },
+    "m_hat_magikarp": {
+        "name": "Magikarp Hat"
+    },
+    "m_hat_mimikyu_0": {},
+    "m_hat_teamrocket_0": {
+        "name": "Team Rocket Hat"
+    },
+    "m_hat_tophat_0": {
+        "name": "Top Hat"
+    },
+    "m_hat_ultra_0": {},
+    "m_pants_default_0": {
+        "name": "Trainer Shorts"
+    },
+    "m_pants_fisher_0": {
+        "name": "Fisherman Pants"
+    },
+    "m_pants_frlg_0": {
+        "name": "FireRed Pants"
+    },
+    "m_pants_gymleader_0": {
+        "name": "Gym Leader Shorts"
+    },
+    "m_pants_gymleader_1": {
+        "name": "Gym Leader Shorts"
+    },
+    "m_pants_gymleader_2": {
+        "name": "Gym Leader Shorts"
+    },
+    "m_pants_jogger_0": {
+        "name": "Jogger Shorts"
+    },
+    "m_pants_skinnyjeans_0": {
+        "name": "Skinny Jeans"
+    },
+    "m_pants_skinnyjeans_1": {
+        "name": "Skinny Jeans"
+    },
+    "m_pants_skinnyjeans_2": {
+        "name": "Skinny Jeans"
+    },
+    "m_pants_sweats_0": {
+        "name": "Active Sweatpants"
+    },
+    "m_pants_sweats_1": {
+        "name": "Active Sweatpants"
+    },
+    "m_pants_sweats_2": {
+        "name": "Active Sweatpants"
+    },
+    "m_pants_sweats_3": {
+        "name": "Active Sweatpants"
+    },
+    "m_pants_sweats_4": {
+        "name": "Active Sweatpants"
+    },
+    "m_pants_teamrocket_0": {
+        "name": "Team Rocket Pants"
+    },
+    "m_pants_ultra_0": {},
+    "m_shirt_blazer_0": {
+        "name": "Business Blazer"
+    },
+    "m_shirt_default_0": {
+        "name": "Sash Hoodie"
+    },
+    "m_shirt_default_1": {
+        "name": "Column Hoodie"
+    },
+    "m_shirt_default_2": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_default_2B": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_default_3": {
+        "name": "Point Hoodie"
+    },
+    "m_shirt_default_4": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_default_5": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_default_6": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_default_7": {
+        "name": "Classic Hoodie"
+    },
+    "m_shirt_earthday_2018": {
+        "name": "Surf Blue Shirt"
+    },
+    "m_shirt_fisher_0": {
+        "name": "Fisherman Vest"
+    },
+    "m_shirt_frlg_0": {
+        "name": "FireRed Top"
+    },
+    "m_shirt_gymleader_0": {
+        "name": "Gym Leader Top"
+    },
+    "m_shirt_gymleader_1": {
+        "name": "Gym Leader Top"
+    },
+    "m_shirt_gymleader_2": {
+        "name": "Gym Leader Top"
+    },
+    "m_shirt_jogger_0": {
+        "name": "Jogger Tank Top"
+    },
+    "m_shirt_latias_latios_0": {
+        "name": "Latias & Latios Shirt"
+    },
+    "m_shirt_longsleeves_charizard_0": {
+        "name": "Charizard Pullover"
+    },
+    "m_shirt_longsleeves_charizard_1": {
+        "name": "Charizard Pullover"
+    },
+    "m_shirt_longsleeves_charizard_2": {
+        "name": "Charizard Pullover"
+    },
+    "m_shirt_longsleeves_pikachu_0": {
+        "name": "Pikachu Pullover"
+    },
+    "m_shirt_longsleeves_pikachu_1": {
+        "name": "Pikachu Pullover"
+    },
+    "m_shirt_longsleeves_pikachu_2": {
+        "name": "Pikachu Pullover"
+    },
+    "m_shirt_mew_0": {
+        "name": "Mew Shirt"
+    },
+    "m_shirt_sweatshirt_sporty_0": {
+        "name": "Sports Hoodie"
+    },
+    "m_shirt_sweatshirt_sporty_1": {
+        "name": "Sports Hoodie"
+    },
+    "m_shirt_sweatshirt_sporty_2": {
+        "name": "Sports Hoodie"
+    },
+    "m_shirt_sweatshirt_sporty_3": {
+        "name": "Sports Hoodie"
+    },
+    "m_shirt_sweatshirt_streak_0": {
+        "name": "Streak Hoodie"
+    },
+    "m_shirt_sweatshirt_streak_1": {
+        "name": "Streak Hoodie"
+    },
+    "m_shirt_sweatshirt_streak_2": {
+        "name": "Streak Hoodie"
+    },
+    "m_shirt_sweatshirt_streak_3": {
+        "name": "Streak Hoodie"
+    },
+    "m_shirt_sweatshirt_streak_4": {
+        "name": "Streak Hoodie"
+    },
+    "m_shirt_teamrocket_0": {
+        "name": "Team Rocket Top"
+    },
+    "m_shirt_teamrocket_1": {
+        "name": "Team Rainbow Rocket Top"
+    },
+    "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_geometric_0": {
+        "name": "Diagonal Tee"
+    },
+    "m_shirt_tshirt_geometric_1": {
+        "name": "Diagonal Tee"
+    },
+    "m_shirt_tshirt_geometric_2": {
+        "name": "Diagonal Tee"
+    },
+    "m_shirt_tshirt_global_goals_2017": {},
+    "m_shirt_tshirt_instinct": {
+        "name": "Team Instinct Tee"
+    },
+    "m_shirt_tshirt_mystic": {
+        "name": "Team Mystic Tee"
+    },
+    "m_shirt_tshirt_valor": {
+        "name": "Team Valor Tee"
+    },
+    "m_shirt_turtleneck_30_0": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_1": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_2": {
+        "name": "The Thirty"
+    },
+    "m_shirt_turtleneck_30_3": {
+        "name": "The Thirty"
+    },
+    "m_shirt_ultra_0": {},
+    "m_shoes_default_0": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_1": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_2": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_3": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_4": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_5": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_default_6": {
+        "name": "Running Shoes"
+    },
+    "m_shoes_empty": {
+        "name": "No Footwear"
+    },
+    "m_shoes_fisher_0": {
+        "name": "Fisherman Boots"
+    },
+    "m_shoes_frlg_0": {
+        "name": "FireRed Shoes"
+    },
+    "m_shoes_gymleader_0": {
+        "name": "Gym Leader Shoes"
+    },
+    "m_shoes_gymleader_1": {
+        "name": "Gym Leader Shoes"
+    },
+    "m_shoes_gymleader_2": {
+        "name": "Gym Leader Shoes"
+    },
+    "m_shoes_jogger_0": {
+        "name": "Jogger Shoes"
+    },
+    "m_shoes_teamrocket_0": {
+        "name": "Team Rocket Boots"
+    },
+    "m_shoes_teamrocket_1": {
+        "name": "Team Rainbow Rocket Boots"
+    },
+    "m_shoes_ultra_0": {},
+    "m_socks_default_0": {
+        "name": "Leggings"
+    },
+    "m_socks_default_1": {
+        "name": "Leggings"
+    },
+    "m_socks_default_2": {
+        "name": "Leggings"
+    },
+    "m_socks_default_3": {
+        "name": "Leggings"
+    },
+    "m_socks_empty": {
+        "name": "No Socks"
+    }
+}

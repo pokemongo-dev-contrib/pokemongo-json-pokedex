@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "墨莓果",
+        "description": "未定"
+    },
+    "DRAGON_SCALE": {
+        "name": "龍之麟片",
+        "description": "又硬又堅固的鱗片，可讓特定寶可夢進化。"
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "超級球",
+        "description": "高性能的優良精靈球，捉到寶可夢的機率比精靈球高。"
+    },
+    "HYPER_POTION": {
+        "name": "厲害傷藥",
+        "description": "噴霧式傷藥。能讓1隻寶可夢的HP回復{1}。"
+    },
+    "INCENSE_ORDINARY": {
+        "name": "薰香",
+        "description": "擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。"
+    },
+    "INCUBATOR_BASIC": {
+        "name": "孵化器",
+        "description": "孵化器會在你走路時孵蛋。使用3次後就會壞掉。"
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "無限孵化器",
+        "description": "孵化器會在你走路時孵蛋。要用幾次都沒問題！"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "王者之證",
+        "description": "看起來像王冠的石頭，可讓特定寶可夢進化。"
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "幸運蛋",
+        "description": "裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。"
+    },
+    "MASTER_BALL": {
+        "name": "大師球",
+        "description": "性能最優良的頂級精靈球。一定能捉到寶可夢，絕不失手。"
+    },
+    "MAX_POTION": {
+        "name": "全滿藥",
+        "description": "噴霧式傷藥。能讓1隻寶可夢的HP完全回復。"
+    },
+    "MAX_REVIVE": {
+        "name": "活力塊",
+        "description": "讓瀕死的寶可夢重獲生機，並回復所有HP。"
+    },
+    "METAL_COAT": {
+        "name": "金屬膜",
+        "description": "特殊的金屬膜，可讓特定寶可夢進化。"
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "蕉香果",
+        "description": "寶可夢吃下這種樹果後，會冷靜下來。"
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "凰梨果",
+        "description": "寶可夢吃下這種樹果後，會掉更多糖果。"
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "精靈球",
+        "description": "捕捉野生寶可夢的道具。朝寶可夢投擲精靈球，精靈球就會像膠囊一樣打開，捕捉寶可夢。"
+    },
+    "POTION": {
+        "name": "傷藥",
+        "description": "噴霧式傷藥。能讓1隻寶可夢的HP回復{1}。"
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "蔓莓果",
+        "description": "寶可夢吃下這種樹果後，會變得比較容易捕捉。"
+    },
+    "REVIVE": {
+        "name": "活力碎片",
+        "description": "讓瀕死的寶可夢重獲生機，並回復一半HP。"
+    },
+    "SPECIAL_CAMERA": {
+        "name": "照相機",
+        "description": "可用照相機拍攝野生寶可夢。"
+    },
+    "STAR_PIECE": {
+        "name": "星星碎片",
+        "description": "美麗寶石的碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。"
+    },
+    "SUN_STONE": {
+        "name": "日之石",
+        "description": "散發出夕陽般紅色光輝的奇妙石頭，可讓特定寶可夢進化。"
+    },
+    "SUPER_POTION": {
+        "name": "好傷藥",
+        "description": "噴霧式傷藥。能讓1隻寶可夢回復 {1} HP。"
+    },
+    "TROY_DISK": {
+        "name": "誘餌模組",
+        "description": "誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。"
+    },
+    "ULTRA_BALL": {
+        "name": "高級球",
+        "description": "超高性能的優良精靈球，捉到寶可夢的機率比超級球高。"
+    },
+    "UP_GRADE": {
+        "name": "升級資料",
+        "description": "西爾佛公司製造的透明機器，可讓特定寶可夢進化。"
+    },
+    "WEPAR_BERRY": {
+        "name": "西梨果",
+        "description": "未定"
+    },
+    "X_ATTACK": {
+        "name": "力量強化",
+        "description": "未定"
+    },
+    "X_DEFENSE": {
+        "name": "防禦強化",
+        "description": "未定"
+    },
+    "X_MIRACLE": {
+        "name": "未定",
+        "description": "未定"
+    }
+}

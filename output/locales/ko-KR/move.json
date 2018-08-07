@@ -1,0 +1,587 @@
+{
+    "WRAP": {
+        "name": "김밥말이"
+    },
+    "HYPER_BEAM": {
+        "name": "파괴광선"
+    },
+    "DARK_PULSE": {
+        "name": "악의파동"
+    },
+    "SLUDGE": {
+        "name": "오물공격"
+    },
+    "VICE_GRIP": {
+        "name": "찝기"
+    },
+    "FLAME_WHEEL": {
+        "name": "화염자동차"
+    },
+    "MEGAHORN": {
+        "name": "메가폰"
+    },
+    "FLAMETHROWER": {
+        "name": "화염방사"
+    },
+    "DIG": {
+        "name": "구멍파기"
+    },
+    "CROSS_CHOP": {
+        "name": "크로스촙"
+    },
+    "PSYBEAM": {
+        "name": "환상빔"
+    },
+    "EARTHQUAKE": {
+        "name": "지진"
+    },
+    "STONE_EDGE": {
+        "name": "스톤에지"
+    },
+    "ICE_PUNCH": {
+        "name": "냉동펀치"
+    },
+    "HEART_STAMP": {
+        "name": "하트스탬프"
+    },
+    "DISCHARGE": {
+        "name": "방전"
+    },
+    "FLASH_CANNON": {
+        "name": "러스터캐논"
+    },
+    "DRILL_PECK": {
+        "name": "회전부리"
+    },
+    "ICE_BEAM": {
+        "name": "냉동빔"
+    },
+    "BLIZZARD": {
+        "name": "눈보라"
+    },
+    "HEAT_WAVE": {
+        "name": "열풍"
+    },
+    "AERIAL_ACE": {
+        "name": "제비반환"
+    },
+    "DRILL_RUN": {
+        "name": "드릴라이너"
+    },
+    "PETAL_BLIZZARD": {
+        "name": "꽃보라"
+    },
+    "MEGA_DRAIN": {
+        "name": "메가드레인"
+    },
+    "BUG_BUZZ": {
+        "name": "벌레의야단법석"
+    },
+    "POISON_FANG": {
+        "name": "독엄니"
+    },
+    "NIGHT_SLASH": {
+        "name": "깜짝베기"
+    },
+    "BUBBLE_BEAM": {
+        "name": "거품광선"
+    },
+    "SUBMISSION": {
+        "name": "지옥의바퀴"
+    },
+    "LOW_SWEEP": {
+        "name": "로킥"
+    },
+    "AQUA_JET": {
+        "name": "아쿠아제트"
+    },
+    "AQUA_TAIL": {
+        "name": "아쿠아테일"
+    },
+    "SEED_BOMB": {
+        "name": "씨폭탄"
+    },
+    "PSYSHOCK": {
+        "name": "사이코쇼크"
+    },
+    "ANCIENT_POWER": {
+        "name": "원시의힘"
+    },
+    "ROCK_TOMB": {
+        "name": "암석봉인"
+    },
+    "ROCK_SLIDE": {
+        "name": "스톤샤워"
+    },
+    "POWER_GEM": {
+        "name": "파워젬"
+    },
+    "SHADOW_SNEAK": {
+        "name": "야습"
+    },
+    "SHADOW_PUNCH": {
+        "name": "섀도펀치"
+    },
+    "OMINOUS_WIND": {
+        "name": "괴상한바람"
+    },
+    "SHADOW_BALL": {
+        "name": "섀도볼"
+    },
+    "MAGNET_BOMB": {
+        "name": "마그넷봄"
+    },
+    "IRON_HEAD": {
+        "name": "아이언헤드"
+    },
+    "PARABOLIC_CHARGE": {
+        "name": "파라볼라차지"
+    },
+    "THUNDER_PUNCH": {
+        "name": "번개펀치"
+    },
+    "THUNDER": {
+        "name": "번개"
+    },
+    "THUNDERBOLT": {
+        "name": "10만볼트"
+    },
+    "TWISTER": {
+        "name": "회오리"
+    },
+    "DRAGON_PULSE": {
+        "name": "용의파동"
+    },
+    "DRAGON_CLAW": {
+        "name": "드래곤크루"
+    },
+    "DISARMING_VOICE": {
+        "name": "차밍보이스"
+    },
+    "DRAINING_KISS": {
+        "name": "드레인키스"
+    },
+    "DAZZLING_GLEAM": {
+        "name": "매지컬샤인"
+    },
+    "MOONBLAST": {
+        "name": "문포스"
+    },
+    "PLAY_ROUGH": {
+        "name": "치근거리기"
+    },
+    "CROSS_POISON": {
+        "name": "크로스포이즌"
+    },
+    "SLUDGE_BOMB": {
+        "name": "오물폭탄"
+    },
+    "SLUDGE_WAVE": {
+        "name": "오물웨이브"
+    },
+    "GUNK_SHOT": {
+        "name": "더스트슈트"
+    },
+    "BONE_CLUB": {
+        "name": "뼈다귀치기"
+    },
+    "BULLDOZE": {
+        "name": "땅고르기"
+    },
+    "MUD_BOMB": {
+        "name": "진흙폭탄"
+    },
+    "SIGNAL_BEAM": {
+        "name": "시그널빔"
+    },
+    "X_SCISSOR": {
+        "name": "시저크로스"
+    },
+    "FLAME_CHARGE": {
+        "name": "니트로차지"
+    },
+    "FLAME_BURST": {
+        "name": "불꽃튀기기"
+    },
+    "FIRE_BLAST": {
+        "name": "불대문자"
+    },
+    "BRINE": {
+        "name": "소금물"
+    },
+    "WATER_PULSE": {
+        "name": "물의파동"
+    },
+    "SCALD": {
+        "name": "열탕"
+    },
+    "HYDRO_PUMP": {
+        "name": "하이드로펌프"
+    },
+    "PSYCHIC": {
+        "name": "사이코키네시스"
+    },
+    "PSYSTRIKE": {
+        "name": "사이코브레이크"
+    },
+    "ICY_WIND": {
+        "name": "얼다바람"
+    },
+    "GIGA_DRAIN": {
+        "name": "기가드레인"
+    },
+    "FIRE_PUNCH": {
+        "name": "불꽃펀치"
+    },
+    "SOLAR_BEAM": {
+        "name": "솔라빔"
+    },
+    "LEAF_BLADE": {
+        "name": "리프블레이드"
+    },
+    "POWER_WHIP": {
+        "name": "파워휩"
+    },
+    "AIR_CUTTER": {
+        "name": "에어컷터"
+    },
+    "HURRICANE": {
+        "name": "폭풍"
+    },
+    "BRICK_BREAK": {
+        "name": "깨트리다"
+    },
+    "SWIFT": {
+        "name": "스피드스타"
+    },
+    "HORN_ATTACK": {
+        "name": "뿔찌르기"
+    },
+    "STOMP": {
+        "name": "짓밟기"
+    },
+    "HYPER_FANG": {
+        "name": "필살앞니"
+    },
+    "BODY_SLAM": {
+        "name": "누르기"
+    },
+    "REST": {
+        "name": "잠자기"
+    },
+    "STRUGGLE": {
+        "name": "발버둥"
+    },
+    "SCALD_BLASTOISE": {
+        "name": "열탕"
+    },
+    "HYDRO_PUMP_BLASTOISE": {
+        "name": "하이드로펌프"
+    },
+    "WRAP_GREEN": {
+        "name": "김밥말이"
+    },
+    "WRAP_PINK": {
+        "name": "김밥말이"
+    },
+    "FURY_CUTTER_FAST": {
+        "name": "연속자르기"
+    },
+    "BUG_BITE_FAST": {
+        "name": "벌레먹음"
+    },
+    "BITE_FAST": {
+        "name": "물기"
+    },
+    "SUCKER_PUNCH_FAST": {
+        "name": "기습"
+    },
+    "DRAGON_BREATH_FAST": {
+        "name": "용의숨결"
+    },
+    "THUNDER_SHOCK_FAST": {
+        "name": "전기쇼크"
+    },
+    "SPARK_FAST": {
+        "name": "스파크"
+    },
+    "LOW_KICK_FAST": {
+        "name": "안다리걸기"
+    },
+    "KARATE_CHOP_FAST": {
+        "name": "태권당수"
+    },
+    "EMBER_FAST": {
+        "name": "불꽃세례"
+    },
+    "WING_ATTACK_FAST": {
+        "name": "날개치기"
+    },
+    "PECK_FAST": {
+        "name": "쪼기"
+    },
+    "LICK_FAST": {
+        "name": "핥기"
+    },
+    "SHADOW_CLAW_FAST": {
+        "name": "섀도크루"
+    },
+    "VINE_WHIP_FAST": {
+        "name": "덩굴채찍"
+    },
+    "RAZOR_LEAF_FAST": {
+        "name": "잎날가르기"
+    },
+    "MUD_SHOT_FAST": {
+        "name": "머드숏"
+    },
+    "ICE_SHARD_FAST": {
+        "name": "얼음뭉치"
+    },
+    "FROST_BREATH_FAST": {
+        "name": "얼음숨결"
+    },
+    "QUICK_ATTACK_FAST": {
+        "name": "전광석화"
+    },
+    "SCRATCH_FAST": {
+        "name": "할퀴기"
+    },
+    "TACKLE_FAST": {
+        "name": "몸통박치기"
+    },
+    "POUND_FAST": {
+        "name": "막치기"
+    },
+    "CUT_FAST": {
+        "name": "풀베기"
+    },
+    "POISON_JAB_FAST": {
+        "name": "독찌르기"
+    },
+    "ACID_FAST": {
+        "name": "용해액"
+    },
+    "PSYCHO_CUT_FAST": {
+        "name": "사이코커터"
+    },
+    "ROCK_THROW_FAST": {
+        "name": "돌떨구기"
+    },
+    "METAL_CLAW_FAST": {
+        "name": "메탈크로우"
+    },
+    "BULLET_PUNCH_FAST": {
+        "name": "불릿펀치"
+    },
+    "WATER_GUN_FAST": {
+        "name": "물대포"
+    },
+    "SPLASH_FAST": {
+        "name": "튀어오르기"
+    },
+    "WATER_GUN_FAST_BLASTOISE": {
+        "name": "물대포"
+    },
+    "MUD_SLAP_FAST": {
+        "name": "진흙뿌리기"
+    },
+    "ZEN_HEADBUTT_FAST": {
+        "name": "사념의박치기"
+    },
+    "CONFUSION_FAST": {
+        "name": "염동력"
+    },
+    "POISON_STING_FAST": {
+        "name": "독침"
+    },
+    "BUBBLE_FAST": {
+        "name": "거품"
+    },
+    "FEINT_ATTACK_FAST": {
+        "name": "속여때리기"
+    },
+    "STEEL_WING_FAST": {
+        "name": "강철날개"
+    },
+    "FIRE_FANG_FAST": {
+        "name": "불꽃엄니"
+    },
+    "ROCK_SMASH_FAST": {
+        "name": "바위깨기"
+    },
+    "TRANSFORM_FAST": {
+        "name": "변신"
+    },
+    "COUNTER_FAST": {
+        "name": "카운터"
+    },
+    "POWDER_SNOW_FAST": {
+        "name": "눈싸라기"
+    },
+    "CLOSE_COMBAT": {
+        "name": "인파이트"
+    },
+    "DYNAMIC_PUNCH": {
+        "name": "폭발펀치"
+    },
+    "FOCUS_BLAST": {
+        "name": "기합구슬"
+    },
+    "AURORA_BEAM": {
+        "name": "오로라빔"
+    },
+    "CHARGE_BEAM_FAST": {
+        "name": "차지빔"
+    },
+    "VOLT_SWITCH_FAST": {
+        "name": "볼트체인지"
+    },
+    "WILD_CHARGE": {
+        "name": "와일드볼트"
+    },
+    "ZAP_CANNON": {
+        "name": "전자포"
+    },
+    "DRAGON_TAIL_FAST": {
+        "name": "드래곤테일"
+    },
+    "AVALANCHE": {
+        "name": "눈사태"
+    },
+    "AIR_SLASH_FAST": {
+        "name": "에어슬래시"
+    },
+    "BRAVE_BIRD": {
+        "name": "브레이브버드"
+    },
+    "SKY_ATTACK": {
+        "name": "불새"
+    },
+    "SAND_TOMB": {
+        "name": "모래지옥"
+    },
+    "ROCK_BLAST": {
+        "name": "락블레스트"
+    },
+    "INFESTATION_FAST": {
+        "name": "엉겨붙기"
+    },
+    "STRUGGLE_BUG_FAST": {
+        "name": "벌레의저항"
+    },
+    "SILVER_WIND": {
+        "name": "은빛바람"
+    },
+    "ASTONISH_FAST": {
+        "name": "놀래키기"
+    },
+    "HEX_FAST": {
+        "name": "병상첨병"
+    },
+    "NIGHT_SHADE": {
+        "name": "나이트헤드"
+    },
+    "IRON_TAIL_FAST": {
+        "name": "아이언테일"
+    },
+    "GYRO_BALL": {
+        "name": "자이로볼"
+    },
+    "HEAVY_SLAM": {
+        "name": "헤비봄버"
+    },
+    "FIRE_SPIN_FAST": {
+        "name": "회오리불꽃"
+    },
+    "OVERHEAT": {
+        "name": "오버히트"
+    },
+    "BULLET_SEED_FAST": {
+        "name": "기관총"
+    },
+    "GRASS_KNOT": {
+        "name": "풀묶기"
+    },
+    "ENERGY_BALL": {
+        "name": "에너지볼"
+    },
+    "EXTRASENSORY_FAST": {
+        "name": "신통력"
+    },
+    "FUTURESIGHT": {
+        "name": "미래예지"
+    },
+    "MIRROR_COAT": {
+        "name": "미러코트"
+    },
+    "OUTRAGE": {
+        "name": "역린"
+    },
+    "SNARL_FAST": {
+        "name": "바크아웃"
+    },
+    "CRUNCH": {
+        "name": "깨물어부수기"
+    },
+    "FOUL_PLAY": {
+        "name": "속임수"
+    },
+    "HIDDEN_POWER_FAST": {
+        "name": "잠재파워"
+    },
+    "TAKE_DOWN_FAST": {
+        "name": "돌진"
+    },
+    "WATERFALL_FAST": {
+        "name": "폭포오르기"
+    },
+    "SURF": {
+        "name": "파도타기"
+    },
+    "DRACO_METEOR": {
+        "name": "용성군"
+    },
+    "DOOM_DESIRE": {
+        "name": "파멸의소원"
+    },
+    "YAWN_FAST": {
+        "name": "하품"
+    },
+    "PSYCHO_BOOST": {
+        "name": "사이코부스트"
+    },
+    "ORIGIN_PULSE": {
+        "name": "근원의파동"
+    },
+    "PRECIPICE_BLADES": {
+        "name": "단애의칼"
+    },
+    "PRESENT_FAST": {
+        "name": "프레젠트"
+    },
+    "WEATHER_BALL_FIRE": {
+        "name": "웨더볼"
+    },
+    "WEATHER_BALL_ICE": {
+        "name": "웨더볼"
+    },
+    "WEATHER_BALL_ROCK": {
+        "name": "웨더볼"
+    },
+    "WEATHER_BALL_WATER": {
+        "name": "웨더볼"
+    },
+    "FRENZY_PLANT": {
+        "name": "하드플랜트"
+    },
+    "SMACK_DOWN_FAST": {
+        "name": "떨어뜨리기"
+    },
+    "BLAST_BURN": {
+        "name": "블러스트번"
+    },
+    "HYDRO_CANNON": {
+        "name": "하이드로캐논"
+    }
+}

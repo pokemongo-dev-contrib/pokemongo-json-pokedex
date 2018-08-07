@@ -1,0 +1,587 @@
+{
+    "WRAP": {
+        "name": "まきつく"
+    },
+    "HYPER_BEAM": {
+        "name": "はかいこうせん"
+    },
+    "DARK_PULSE": {
+        "name": "あくのはどう"
+    },
+    "SLUDGE": {
+        "name": "ヘドロこうげき"
+    },
+    "VICE_GRIP": {
+        "name": "はさむ"
+    },
+    "FLAME_WHEEL": {
+        "name": "かえんぐるま"
+    },
+    "MEGAHORN": {
+        "name": "メガホーン"
+    },
+    "FLAMETHROWER": {
+        "name": "かえんほうしゃ"
+    },
+    "DIG": {
+        "name": "あなをほる"
+    },
+    "CROSS_CHOP": {
+        "name": "クロスチョップ"
+    },
+    "PSYBEAM": {
+        "name": "サイケこうせん"
+    },
+    "EARTHQUAKE": {
+        "name": "じしん"
+    },
+    "STONE_EDGE": {
+        "name": "ストーンエッジ"
+    },
+    "ICE_PUNCH": {
+        "name": "れいとうパンチ"
+    },
+    "HEART_STAMP": {
+        "name": "ハートスタンプ"
+    },
+    "DISCHARGE": {
+        "name": "ほうでん"
+    },
+    "FLASH_CANNON": {
+        "name": "ラスターカノン"
+    },
+    "DRILL_PECK": {
+        "name": "ドリルくちばし"
+    },
+    "ICE_BEAM": {
+        "name": "れいとうビーム"
+    },
+    "BLIZZARD": {
+        "name": "ふぶき"
+    },
+    "HEAT_WAVE": {
+        "name": "ねっぷう"
+    },
+    "AERIAL_ACE": {
+        "name": "つばめがえし"
+    },
+    "DRILL_RUN": {
+        "name": "ドリルライナー"
+    },
+    "PETAL_BLIZZARD": {
+        "name": "はなふぶき"
+    },
+    "MEGA_DRAIN": {
+        "name": "メガドレイン"
+    },
+    "BUG_BUZZ": {
+        "name": "むしのさざめき"
+    },
+    "POISON_FANG": {
+        "name": "どくどくのキバ"
+    },
+    "NIGHT_SLASH": {
+        "name": "つじぎり"
+    },
+    "BUBBLE_BEAM": {
+        "name": "バブルこうせん"
+    },
+    "SUBMISSION": {
+        "name": "じごくぐるま"
+    },
+    "LOW_SWEEP": {
+        "name": "ローキック"
+    },
+    "AQUA_JET": {
+        "name": "アクアジェット"
+    },
+    "AQUA_TAIL": {
+        "name": "アクアテール"
+    },
+    "SEED_BOMB": {
+        "name": "タネばくだん"
+    },
+    "PSYSHOCK": {
+        "name": "サイコショック"
+    },
+    "ANCIENT_POWER": {
+        "name": "げんしのちから"
+    },
+    "ROCK_TOMB": {
+        "name": "がんせきふうじ"
+    },
+    "ROCK_SLIDE": {
+        "name": "いわなだれ"
+    },
+    "POWER_GEM": {
+        "name": "パワージェム"
+    },
+    "SHADOW_SNEAK": {
+        "name": "かげうち"
+    },
+    "SHADOW_PUNCH": {
+        "name": "シャドーパンチ"
+    },
+    "OMINOUS_WIND": {
+        "name": "あやしいかぜ"
+    },
+    "SHADOW_BALL": {
+        "name": "シャドーボール"
+    },
+    "MAGNET_BOMB": {
+        "name": "マグネットボム"
+    },
+    "IRON_HEAD": {
+        "name": "アイアンヘッド"
+    },
+    "PARABOLIC_CHARGE": {
+        "name": "パラボラチャージ"
+    },
+    "THUNDER_PUNCH": {
+        "name": "かみなりパンチ"
+    },
+    "THUNDER": {
+        "name": "かみなり"
+    },
+    "THUNDERBOLT": {
+        "name": "１０まんボルト"
+    },
+    "TWISTER": {
+        "name": "たつまき"
+    },
+    "DRAGON_PULSE": {
+        "name": "りゅうのはどう"
+    },
+    "DRAGON_CLAW": {
+        "name": "ドラゴンクロー"
+    },
+    "DISARMING_VOICE": {
+        "name": "チャームボイス"
+    },
+    "DRAINING_KISS": {
+        "name": "ドレインキッス"
+    },
+    "DAZZLING_GLEAM": {
+        "name": "マジカルシャイン"
+    },
+    "MOONBLAST": {
+        "name": "ムーンフォース"
+    },
+    "PLAY_ROUGH": {
+        "name": "じゃれつく"
+    },
+    "CROSS_POISON": {
+        "name": "クロスポイズン"
+    },
+    "SLUDGE_BOMB": {
+        "name": "ヘドロばくだん"
+    },
+    "SLUDGE_WAVE": {
+        "name": "ヘドロウェーブ"
+    },
+    "GUNK_SHOT": {
+        "name": "ダストシュート"
+    },
+    "BONE_CLUB": {
+        "name": "ホネこんぼう"
+    },
+    "BULLDOZE": {
+        "name": "じならし"
+    },
+    "MUD_BOMB": {
+        "name": "どろばくだん"
+    },
+    "SIGNAL_BEAM": {
+        "name": "シグナルビーム"
+    },
+    "X_SCISSOR": {
+        "name": "シザークロス"
+    },
+    "FLAME_CHARGE": {
+        "name": "ニトロチャージ"
+    },
+    "FLAME_BURST": {
+        "name": "はじけるほのお"
+    },
+    "FIRE_BLAST": {
+        "name": "だいもんじ"
+    },
+    "BRINE": {
+        "name": "しおみず"
+    },
+    "WATER_PULSE": {
+        "name": "みずのはどう"
+    },
+    "SCALD": {
+        "name": "ねっとう"
+    },
+    "HYDRO_PUMP": {
+        "name": "ハイドロポンプ"
+    },
+    "PSYCHIC": {
+        "name": "サイコキネシス"
+    },
+    "PSYSTRIKE": {
+        "name": "サイコブレイク"
+    },
+    "ICY_WIND": {
+        "name": "こごえるかぜ"
+    },
+    "GIGA_DRAIN": {
+        "name": "ギガドレイン"
+    },
+    "FIRE_PUNCH": {
+        "name": "ほのおのパンチ"
+    },
+    "SOLAR_BEAM": {
+        "name": "ソーラービーム"
+    },
+    "LEAF_BLADE": {
+        "name": "リーフブレード"
+    },
+    "POWER_WHIP": {
+        "name": "パワーウィップ"
+    },
+    "AIR_CUTTER": {
+        "name": "エアカッター"
+    },
+    "HURRICANE": {
+        "name": "ぼうふう"
+    },
+    "BRICK_BREAK": {
+        "name": "かわらわり"
+    },
+    "SWIFT": {
+        "name": "スピードスター"
+    },
+    "HORN_ATTACK": {
+        "name": "つのでつく"
+    },
+    "STOMP": {
+        "name": "ふみつけ"
+    },
+    "HYPER_FANG": {
+        "name": "ひっさつまえば"
+    },
+    "BODY_SLAM": {
+        "name": "のしかかり"
+    },
+    "REST": {
+        "name": "ねむる"
+    },
+    "STRUGGLE": {
+        "name": "わるあがき"
+    },
+    "SCALD_BLASTOISE": {
+        "name": "ねっとう"
+    },
+    "HYDRO_PUMP_BLASTOISE": {
+        "name": "ハイドロポンプ"
+    },
+    "WRAP_GREEN": {
+        "name": "まきつく"
+    },
+    "WRAP_PINK": {
+        "name": "まきつく"
+    },
+    "FURY_CUTTER_FAST": {
+        "name": "れんぞくぎり"
+    },
+    "BUG_BITE_FAST": {
+        "name": "むしくい"
+    },
+    "BITE_FAST": {
+        "name": "かみつく"
+    },
+    "SUCKER_PUNCH_FAST": {
+        "name": "ふいうち"
+    },
+    "DRAGON_BREATH_FAST": {
+        "name": "りゅうのいぶき"
+    },
+    "THUNDER_SHOCK_FAST": {
+        "name": "でんきショック"
+    },
+    "SPARK_FAST": {
+        "name": "スパーク"
+    },
+    "LOW_KICK_FAST": {
+        "name": "けたぐり"
+    },
+    "KARATE_CHOP_FAST": {
+        "name": "からてチョップ"
+    },
+    "EMBER_FAST": {
+        "name": "ひのこ"
+    },
+    "WING_ATTACK_FAST": {
+        "name": "つばさでうつ"
+    },
+    "PECK_FAST": {
+        "name": "つつく"
+    },
+    "LICK_FAST": {
+        "name": "したでなめる"
+    },
+    "SHADOW_CLAW_FAST": {
+        "name": "シャドークロー"
+    },
+    "VINE_WHIP_FAST": {
+        "name": "つるのムチ"
+    },
+    "RAZOR_LEAF_FAST": {
+        "name": "はっぱカッター"
+    },
+    "MUD_SHOT_FAST": {
+        "name": "マッドショット"
+    },
+    "ICE_SHARD_FAST": {
+        "name": "こおりのつぶて"
+    },
+    "FROST_BREATH_FAST": {
+        "name": "こおりのいぶき"
+    },
+    "QUICK_ATTACK_FAST": {
+        "name": "でんこうせっか"
+    },
+    "SCRATCH_FAST": {
+        "name": "ひっかく"
+    },
+    "TACKLE_FAST": {
+        "name": "たいあたり"
+    },
+    "POUND_FAST": {
+        "name": "はたく"
+    },
+    "CUT_FAST": {
+        "name": "いあいぎり"
+    },
+    "POISON_JAB_FAST": {
+        "name": "どくづき"
+    },
+    "ACID_FAST": {
+        "name": "ようかいえき"
+    },
+    "PSYCHO_CUT_FAST": {
+        "name": "サイコカッター"
+    },
+    "ROCK_THROW_FAST": {
+        "name": "いわおとし"
+    },
+    "METAL_CLAW_FAST": {
+        "name": "メタルクロー"
+    },
+    "BULLET_PUNCH_FAST": {
+        "name": "バレットパンチ"
+    },
+    "WATER_GUN_FAST": {
+        "name": "みずでっぽう"
+    },
+    "SPLASH_FAST": {
+        "name": "はねる"
+    },
+    "WATER_GUN_FAST_BLASTOISE": {
+        "name": "みずでっぽう"
+    },
+    "MUD_SLAP_FAST": {
+        "name": "どろかけ"
+    },
+    "ZEN_HEADBUTT_FAST": {
+        "name": "しねんのずつき"
+    },
+    "CONFUSION_FAST": {
+        "name": "ねんりき"
+    },
+    "POISON_STING_FAST": {
+        "name": "どくばり"
+    },
+    "BUBBLE_FAST": {
+        "name": "あわ"
+    },
+    "FEINT_ATTACK_FAST": {
+        "name": "だましうち"
+    },
+    "STEEL_WING_FAST": {
+        "name": "はがねのつばさ"
+    },
+    "FIRE_FANG_FAST": {
+        "name": "ほのおのキバ"
+    },
+    "ROCK_SMASH_FAST": {
+        "name": "いわくだき"
+    },
+    "TRANSFORM_FAST": {
+        "name": "へんしん"
+    },
+    "COUNTER_FAST": {
+        "name": "カウンター"
+    },
+    "POWDER_SNOW_FAST": {
+        "name": "こなゆき"
+    },
+    "CLOSE_COMBAT": {
+        "name": "インファイト"
+    },
+    "DYNAMIC_PUNCH": {
+        "name": "ばくれつパンチ"
+    },
+    "FOCUS_BLAST": {
+        "name": "きあいだま"
+    },
+    "AURORA_BEAM": {
+        "name": "オーロラビーム"
+    },
+    "CHARGE_BEAM_FAST": {
+        "name": "チャージビーム"
+    },
+    "VOLT_SWITCH_FAST": {
+        "name": "ボルトチェンジ"
+    },
+    "WILD_CHARGE": {
+        "name": "ワイルドボルト"
+    },
+    "ZAP_CANNON": {
+        "name": "でんじほう"
+    },
+    "DRAGON_TAIL_FAST": {
+        "name": "ドラゴンテール"
+    },
+    "AVALANCHE": {
+        "name": "ゆきなだれ"
+    },
+    "AIR_SLASH_FAST": {
+        "name": "エアスラッシュ"
+    },
+    "BRAVE_BIRD": {
+        "name": "ブレイブバード"
+    },
+    "SKY_ATTACK": {
+        "name": "ゴッドバード"
+    },
+    "SAND_TOMB": {
+        "name": "すなじごく"
+    },
+    "ROCK_BLAST": {
+        "name": "ロックブラスト"
+    },
+    "INFESTATION_FAST": {
+        "name": "まとわりつく"
+    },
+    "STRUGGLE_BUG_FAST": {
+        "name": "むしのていこう"
+    },
+    "SILVER_WIND": {
+        "name": "ぎんいろのかぜ"
+    },
+    "ASTONISH_FAST": {
+        "name": "おどろかす"
+    },
+    "HEX_FAST": {
+        "name": "たたりめ"
+    },
+    "NIGHT_SHADE": {
+        "name": "ナイトヘッド"
+    },
+    "IRON_TAIL_FAST": {
+        "name": "アイアンテール"
+    },
+    "GYRO_BALL": {
+        "name": "ジャイロボール"
+    },
+    "HEAVY_SLAM": {
+        "name": "ヘビーボンバー"
+    },
+    "FIRE_SPIN_FAST": {
+        "name": "ほのおのうず"
+    },
+    "OVERHEAT": {
+        "name": "オーバーヒート"
+    },
+    "BULLET_SEED_FAST": {
+        "name": "タネマシンガン"
+    },
+    "GRASS_KNOT": {
+        "name": "くさむすび"
+    },
+    "ENERGY_BALL": {
+        "name": "エナジーボール"
+    },
+    "EXTRASENSORY_FAST": {
+        "name": "じんつうりき"
+    },
+    "FUTURESIGHT": {
+        "name": "みらいよち"
+    },
+    "MIRROR_COAT": {
+        "name": "ミラーコート"
+    },
+    "OUTRAGE": {
+        "name": "げきりん"
+    },
+    "SNARL_FAST": {
+        "name": "バークアウト"
+    },
+    "CRUNCH": {
+        "name": "かみくだく"
+    },
+    "FOUL_PLAY": {
+        "name": "イカサマ"
+    },
+    "HIDDEN_POWER_FAST": {
+        "name": "めざめるパワー"
+    },
+    "TAKE_DOWN_FAST": {
+        "name": "とっしん"
+    },
+    "WATERFALL_FAST": {
+        "name": "たきのぼり"
+    },
+    "SURF": {
+        "name": "なみのり"
+    },
+    "DRACO_METEOR": {
+        "name": "りゅうせいぐん"
+    },
+    "DOOM_DESIRE": {
+        "name": "はめつのねがい"
+    },
+    "YAWN_FAST": {
+        "name": "あくび"
+    },
+    "PSYCHO_BOOST": {
+        "name": "サイコブースト"
+    },
+    "ORIGIN_PULSE": {
+        "name": "こんげんのはどう"
+    },
+    "PRECIPICE_BLADES": {
+        "name": "だんがいのつるぎ"
+    },
+    "PRESENT_FAST": {
+        "name": "プレゼント"
+    },
+    "WEATHER_BALL_FIRE": {
+        "name": "ウェザーボール"
+    },
+    "WEATHER_BALL_ICE": {
+        "name": "ウェザーボール"
+    },
+    "WEATHER_BALL_ROCK": {
+        "name": "ウェザーボール"
+    },
+    "WEATHER_BALL_WATER": {
+        "name": "ウェザーボール"
+    },
+    "FRENZY_PLANT": {
+        "name": "ハードプラント"
+    },
+    "SMACK_DOWN_FAST": {
+        "name": "うちおとす"
+    },
+    "BLAST_BURN": {
+        "name": "ブラストバーン"
+    },
+    "HYDRO_CANNON": {
+        "name": "ハイドロカノン"
+    }
+}

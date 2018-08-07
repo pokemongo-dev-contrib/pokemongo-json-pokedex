@@ -1,21 +1,25 @@
 {
   "name": "pokemongo-json-pokedex",
-  "version": "3.1.3",
+  "version": "4.0.0",
   "description": "This program transforms the data from the Pokemon GO master files to a better readable & processable JSON file.",
   "main": "lib/index.js",
   "scripts": {
     "start": "ts-node -r tsconfig-paths/register src/app.ts",
     "prestart:build": "npm run build",
-    "prepublish": "npm run build",
+    "prepublish": "npm run update && npm run build",
     "start:build": "node -r tsconfig-paths/register src/app.js",
     "poststart:build": "npm run clean",
     "clean": "rimraf {src,test}/**/*.{map,js} lib/*",
     "build": "npm run clean && tsc",
     "docs": "node_modules/.bin/typedoc --out docs src",
     "lint": "tslint src/**/*.ts test/**/*.ts",
-    "fetch-game-master": "node bin/get-latest-game-master.js && node bin/generate-game-masterts.js",
+    "generate-interfaces": "node bin/generate-interfaces.js",
+    "fetch-game-master": "node bin/get-latest-game-master.js",
+    "fetch-assets": "node bin/get-latest-assets",
+    "update": "npm run fetch-game-master && npm run fetch-assets && npm run generate-interfaces",
+    "prepare": "npm run update",
     "pretest": "npm run lint",
-    "test": "node_modules/.bin/mocha --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts"
+    "test": "mocha --recursive --compilers ts:ts-node/register,ts:tsconfig-paths/register test/*.ts test/**/*.ts"
   },
   "repository": {
     "type": "git",
@@ -34,11 +38,16 @@
   "dependencies": {
     "chai": "^4.1.2",
     "chalk": "^2.3.0",
+    "csvtojson": "^2.0.7",
     "es6-shim": "^0.35.3",
+    "fs-promise": "^2.0.3",
+    "left-pad": "^1.3.0",
     "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
     "mocha": "^4.0.1",
     "module-alias": "^2.1.0",
-    "p-iteration": "^1.1.7"
+    "p-iteration": "^1.1.7",
+    "request": "^2.87.0"
   },
   "devDependencies": {
     "@types/chai": "^4.0.4",

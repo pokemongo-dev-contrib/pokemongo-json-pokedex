@@ -1,0 +1,587 @@
+{
+    "WRAP": {
+        "name": "Constricción"
+    },
+    "HYPER_BEAM": {
+        "name": "Hiperrayo"
+    },
+    "DARK_PULSE": {
+        "name": "Pulso Umbrío"
+    },
+    "SLUDGE": {
+        "name": "Residuos"
+    },
+    "VICE_GRIP": {
+        "name": "Agarre"
+    },
+    "FLAME_WHEEL": {
+        "name": "Rueda Fuego"
+    },
+    "MEGAHORN": {
+        "name": "Megacuerno"
+    },
+    "FLAMETHROWER": {
+        "name": "Lanzallamas"
+    },
+    "DIG": {
+        "name": "Excavar"
+    },
+    "CROSS_CHOP": {
+        "name": "Tajo Cruzado"
+    },
+    "PSYBEAM": {
+        "name": "Psicorrayo"
+    },
+    "EARTHQUAKE": {
+        "name": "Terremoto"
+    },
+    "STONE_EDGE": {
+        "name": "Roca Afilada"
+    },
+    "ICE_PUNCH": {
+        "name": "Puño Hielo"
+    },
+    "HEART_STAMP": {
+        "name": "Arrumaco"
+    },
+    "DISCHARGE": {
+        "name": "Chispazo"
+    },
+    "FLASH_CANNON": {
+        "name": "Foco Resplandor"
+    },
+    "DRILL_PECK": {
+        "name": "Pico Taladro"
+    },
+    "ICE_BEAM": {
+        "name": "Rayo Hielo"
+    },
+    "BLIZZARD": {
+        "name": "Ventisca"
+    },
+    "HEAT_WAVE": {
+        "name": "Onda Ígnea"
+    },
+    "AERIAL_ACE": {
+        "name": "Golpe Aéreo"
+    },
+    "DRILL_RUN": {
+        "name": "Taladradora"
+    },
+    "PETAL_BLIZZARD": {
+        "name": "Tormenta Floral"
+    },
+    "MEGA_DRAIN": {
+        "name": "Megaagotar"
+    },
+    "BUG_BUZZ": {
+        "name": "Zumbido"
+    },
+    "POISON_FANG": {
+        "name": "Colmillo Veneno"
+    },
+    "NIGHT_SLASH": {
+        "name": "Tajo Umbrío"
+    },
+    "BUBBLE_BEAM": {
+        "name": "Rayo Burbuja"
+    },
+    "SUBMISSION": {
+        "name": "Sumisión"
+    },
+    "LOW_SWEEP": {
+        "name": "Puntapié"
+    },
+    "AQUA_JET": {
+        "name": "Acua Jet"
+    },
+    "AQUA_TAIL": {
+        "name": "Acua Cola"
+    },
+    "SEED_BOMB": {
+        "name": "Bomba Germen"
+    },
+    "PSYSHOCK": {
+        "name": "Psicocarga"
+    },
+    "ANCIENT_POWER": {
+        "name": "Poder Pasado"
+    },
+    "ROCK_TOMB": {
+        "name": "Tumba Rocas"
+    },
+    "ROCK_SLIDE": {
+        "name": "Avalancha"
+    },
+    "POWER_GEM": {
+        "name": "Joya de Luz"
+    },
+    "SHADOW_SNEAK": {
+        "name": "Sombra Vil"
+    },
+    "SHADOW_PUNCH": {
+        "name": "Puño Sombra"
+    },
+    "OMINOUS_WIND": {
+        "name": "Viento Aciago"
+    },
+    "SHADOW_BALL": {
+        "name": "Bola Sombra"
+    },
+    "MAGNET_BOMB": {
+        "name": "Bomba Imán"
+    },
+    "IRON_HEAD": {
+        "name": "Cabeza de Hierro"
+    },
+    "PARABOLIC_CHARGE": {
+        "name": "Carga Parábola"
+    },
+    "THUNDER_PUNCH": {
+        "name": "Puño Trueno"
+    },
+    "THUNDER": {
+        "name": "Trueno"
+    },
+    "THUNDERBOLT": {
+        "name": "Rayo"
+    },
+    "TWISTER": {
+        "name": "Ciclón"
+    },
+    "DRAGON_PULSE": {
+        "name": "Pulso Dragón"
+    },
+    "DRAGON_CLAW": {
+        "name": "Garra Dragón"
+    },
+    "DISARMING_VOICE": {
+        "name": "Voz Cautivadora"
+    },
+    "DRAINING_KISS": {
+        "name": "Beso Drenaje"
+    },
+    "DAZZLING_GLEAM": {
+        "name": "Brillo Mágico"
+    },
+    "MOONBLAST": {
+        "name": "Anillo Ígneo"
+    },
+    "PLAY_ROUGH": {
+        "name": "Carantoña"
+    },
+    "CROSS_POISON": {
+        "name": "Veneno X"
+    },
+    "SLUDGE_BOMB": {
+        "name": "Bomba Lodo"
+    },
+    "SLUDGE_WAVE": {
+        "name": "Onda Tóxica"
+    },
+    "GUNK_SHOT": {
+        "name": "Lanza Mugre"
+    },
+    "BONE_CLUB": {
+        "name": "Hueso Palo"
+    },
+    "BULLDOZE": {
+        "name": "Terratemblor"
+    },
+    "MUD_BOMB": {
+        "name": "Bomba Fango"
+    },
+    "SIGNAL_BEAM": {
+        "name": "Doble Rayo"
+    },
+    "X_SCISSOR": {
+        "name": "Tijera X"
+    },
+    "FLAME_CHARGE": {
+        "name": "Nitrocarga"
+    },
+    "FLAME_BURST": {
+        "name": "Pirotecnia"
+    },
+    "FIRE_BLAST": {
+        "name": "Llamarada"
+    },
+    "BRINE": {
+        "name": "Salmuera"
+    },
+    "WATER_PULSE": {
+        "name": "Hidropulso"
+    },
+    "SCALD": {
+        "name": "Escaldar"
+    },
+    "HYDRO_PUMP": {
+        "name": "Hidrobomba"
+    },
+    "PSYCHIC": {
+        "name": "Psíquico"
+    },
+    "PSYSTRIKE": {
+        "name": "Onda Mental"
+    },
+    "ICY_WIND": {
+        "name": "Viento Hielo"
+    },
+    "GIGA_DRAIN": {
+        "name": "Gigadrenado"
+    },
+    "FIRE_PUNCH": {
+        "name": "Puño Fuego"
+    },
+    "SOLAR_BEAM": {
+        "name": "Rayo Solar"
+    },
+    "LEAF_BLADE": {
+        "name": "Hoja Aguda"
+    },
+    "POWER_WHIP": {
+        "name": "Latigazo"
+    },
+    "AIR_CUTTER": {
+        "name": "Aire Afilado"
+    },
+    "HURRICANE": {
+        "name": "Vendaval"
+    },
+    "BRICK_BREAK": {
+        "name": "Demolición"
+    },
+    "SWIFT": {
+        "name": "Rapidez"
+    },
+    "HORN_ATTACK": {
+        "name": "Cornada"
+    },
+    "STOMP": {
+        "name": "Pisotón"
+    },
+    "HYPER_FANG": {
+        "name": "Hipercolmillo"
+    },
+    "BODY_SLAM": {
+        "name": "Golpe Cuerpo"
+    },
+    "REST": {
+        "name": "Descanso"
+    },
+    "STRUGGLE": {
+        "name": "Combate"
+    },
+    "SCALD_BLASTOISE": {
+        "name": "Escaldar"
+    },
+    "HYDRO_PUMP_BLASTOISE": {
+        "name": "Hidrobomba"
+    },
+    "WRAP_GREEN": {
+        "name": "Constricción"
+    },
+    "WRAP_PINK": {
+        "name": "Constricción"
+    },
+    "FURY_CUTTER_FAST": {
+        "name": "Corte Furia"
+    },
+    "BUG_BITE_FAST": {
+        "name": "Picadura"
+    },
+    "BITE_FAST": {
+        "name": "Mordisco"
+    },
+    "SUCKER_PUNCH_FAST": {
+        "name": "Golpe Bajo"
+    },
+    "DRAGON_BREATH_FAST": {
+        "name": "Dragoaliento"
+    },
+    "THUNDER_SHOCK_FAST": {
+        "name": "Impactrueno"
+    },
+    "SPARK_FAST": {
+        "name": "Chispa"
+    },
+    "LOW_KICK_FAST": {
+        "name": "Patada Baja"
+    },
+    "KARATE_CHOP_FAST": {
+        "name": "Golpe Kárate"
+    },
+    "EMBER_FAST": {
+        "name": "Ascuas"
+    },
+    "WING_ATTACK_FAST": {
+        "name": "Ataque Ala"
+    },
+    "PECK_FAST": {
+        "name": "Picotazo"
+    },
+    "LICK_FAST": {
+        "name": "Lengüetazo"
+    },
+    "SHADOW_CLAW_FAST": {
+        "name": "Garra Umbría"
+    },
+    "VINE_WHIP_FAST": {
+        "name": "Látigo Cepa"
+    },
+    "RAZOR_LEAF_FAST": {
+        "name": "Hoja Afilada"
+    },
+    "MUD_SHOT_FAST": {
+        "name": "Disparo Lodo"
+    },
+    "ICE_SHARD_FAST": {
+        "name": "Canto Helado"
+    },
+    "FROST_BREATH_FAST": {
+        "name": "Vaho Gélido"
+    },
+    "QUICK_ATTACK_FAST": {
+        "name": "Ataque Rápido"
+    },
+    "SCRATCH_FAST": {
+        "name": "Arañazo"
+    },
+    "TACKLE_FAST": {
+        "name": "Placaje"
+    },
+    "POUND_FAST": {
+        "name": "Destructor"
+    },
+    "CUT_FAST": {
+        "name": "Corte"
+    },
+    "POISON_JAB_FAST": {
+        "name": "Puya Nociva"
+    },
+    "ACID_FAST": {
+        "name": "Ácido"
+    },
+    "PSYCHO_CUT_FAST": {
+        "name": "Psicocorte"
+    },
+    "ROCK_THROW_FAST": {
+        "name": "Lanzarrocas"
+    },
+    "METAL_CLAW_FAST": {
+        "name": "Garra Metal"
+    },
+    "BULLET_PUNCH_FAST": {
+        "name": "Puño Bala"
+    },
+    "WATER_GUN_FAST": {
+        "name": "Pistola Agua"
+    },
+    "SPLASH_FAST": {
+        "name": "Salpicadura"
+    },
+    "WATER_GUN_FAST_BLASTOISE": {
+        "name": "Pistola Agua"
+    },
+    "MUD_SLAP_FAST": {
+        "name": "Bofetón Lodo"
+    },
+    "ZEN_HEADBUTT_FAST": {
+        "name": "Cabezazo Zen"
+    },
+    "CONFUSION_FAST": {
+        "name": "Confusión"
+    },
+    "POISON_STING_FAST": {
+        "name": "Picotazo Veneno"
+    },
+    "BUBBLE_FAST": {
+        "name": "Burbuja"
+    },
+    "FEINT_ATTACK_FAST": {
+        "name": "Finta"
+    },
+    "STEEL_WING_FAST": {
+        "name": "Ala de Acero"
+    },
+    "FIRE_FANG_FAST": {
+        "name": "Colmillo Ígneo"
+    },
+    "ROCK_SMASH_FAST": {
+        "name": "Golpe Roca"
+    },
+    "TRANSFORM_FAST": {
+        "name": "Transformación"
+    },
+    "COUNTER_FAST": {
+        "name": "Contraataque"
+    },
+    "POWDER_SNOW_FAST": {
+        "name": "Nieve Polvo"
+    },
+    "CLOSE_COMBAT": {
+        "name": "A Bocajarro"
+    },
+    "DYNAMIC_PUNCH": {
+        "name": "Puño Dinámico"
+    },
+    "FOCUS_BLAST": {
+        "name": "Onda Certera"
+    },
+    "AURORA_BEAM": {
+        "name": "Rayo Aurora"
+    },
+    "CHARGE_BEAM_FAST": {
+        "name": "Rayo Carga"
+    },
+    "VOLT_SWITCH_FAST": {
+        "name": "Voltiocambio"
+    },
+    "WILD_CHARGE": {
+        "name": "Voltio Cruel"
+    },
+    "ZAP_CANNON": {
+        "name": "Electrocañón"
+    },
+    "DRAGON_TAIL_FAST": {
+        "name": "Cola Dragón"
+    },
+    "AVALANCHE": {
+        "name": "Alud"
+    },
+    "AIR_SLASH_FAST": {
+        "name": "Tajo Aéreo"
+    },
+    "BRAVE_BIRD": {
+        "name": "Pájaro Osado"
+    },
+    "SKY_ATTACK": {
+        "name": "Ataque Aéreo"
+    },
+    "SAND_TOMB": {
+        "name": "Bucle Arena"
+    },
+    "ROCK_BLAST": {
+        "name": "Pedrada"
+    },
+    "INFESTATION_FAST": {
+        "name": "Acoso"
+    },
+    "STRUGGLE_BUG_FAST": {
+        "name": "Estoicismo"
+    },
+    "SILVER_WIND": {
+        "name": "Viento Plata"
+    },
+    "ASTONISH_FAST": {
+        "name": "Impresionar"
+    },
+    "HEX_FAST": {
+        "name": "Infortunio"
+    },
+    "NIGHT_SHADE": {
+        "name": "Tinieblas"
+    },
+    "IRON_TAIL_FAST": {
+        "name": "Cola Férrea"
+    },
+    "GYRO_BALL": {
+        "name": "Giro Bola"
+    },
+    "HEAVY_SLAM": {
+        "name": "Cuerpo Pesado"
+    },
+    "FIRE_SPIN_FAST": {
+        "name": "Giro Fuego"
+    },
+    "OVERHEAT": {
+        "name": "Sofoco"
+    },
+    "BULLET_SEED_FAST": {
+        "name": "Recurrente"
+    },
+    "GRASS_KNOT": {
+        "name": "Hierba Lazo"
+    },
+    "ENERGY_BALL": {
+        "name": "Energibola"
+    },
+    "EXTRASENSORY_FAST": {
+        "name": "Paranormal"
+    },
+    "FUTURESIGHT": {
+        "name": "Premonición"
+    },
+    "MIRROR_COAT": {
+        "name": "Manto Espejo"
+    },
+    "OUTRAGE": {
+        "name": "Enfado"
+    },
+    "SNARL_FAST": {
+        "name": "Alarido"
+    },
+    "CRUNCH": {
+        "name": "Triturar"
+    },
+    "FOUL_PLAY": {
+        "name": "Juego Sucio"
+    },
+    "HIDDEN_POWER_FAST": {
+        "name": "Poder Oculto"
+    },
+    "TAKE_DOWN_FAST": {
+        "name": "Derribo"
+    },
+    "WATERFALL_FAST": {
+        "name": "Cascada"
+    },
+    "SURF": {
+        "name": "Surf"
+    },
+    "DRACO_METEOR": {
+        "name": "Cometa Draco"
+    },
+    "DOOM_DESIRE": {
+        "name": "Deseo Oculto"
+    },
+    "YAWN_FAST": {
+        "name": "Bostezo"
+    },
+    "PSYCHO_BOOST": {
+        "name": "Psicoataque"
+    },
+    "ORIGIN_PULSE": {
+        "name": "Pulso Primigenio"
+    },
+    "PRECIPICE_BLADES": {
+        "name": "Filo del Abismo"
+    },
+    "PRESENT_FAST": {
+        "name": "Presente"
+    },
+    "WEATHER_BALL_FIRE": {
+        "name": "Meteorobola"
+    },
+    "WEATHER_BALL_ICE": {
+        "name": "Meteorobola"
+    },
+    "WEATHER_BALL_ROCK": {
+        "name": "Meteorobola"
+    },
+    "WEATHER_BALL_WATER": {
+        "name": "Meteorobola"
+    },
+    "FRENZY_PLANT": {
+        "name": "Planta Feroz"
+    },
+    "SMACK_DOWN_FAST": {
+        "name": "Antiaéreo"
+    },
+    "BLAST_BURN": {
+        "name": "Anillo Ígneo"
+    },
+    "HYDRO_CANNON": {
+        "name": "Hidrocañón"
+    }
+}

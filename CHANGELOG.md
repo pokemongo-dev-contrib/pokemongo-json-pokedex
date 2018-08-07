@@ -1,3 +1,9 @@
+# Version 3.1.3 (07.08.2018)
+
+## Features
+
+- **Add(output)**: Translation files for Pokemons, Avatar Customizations, Items and Moves
+
 # Version 3.1.3 (02.08.2018)
 
 ## Features

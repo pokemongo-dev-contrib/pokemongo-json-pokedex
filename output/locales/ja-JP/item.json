@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "ブリーのみ",
+        "description": "不明"
+    },
+    "DRAGON_SCALE": {
+        "name": "りゅうのウロコ",
+        "description": "ある特定のポケモンを進化させるウロコ。固くて丈夫。"
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "スーパーボール",
+        "description": "モンスターボールよりもさらにポケモンを捕まえやすくなった少し性能のいいボール。"
+    },
+    "HYPER_POTION": {
+        "name": "すごいキズぐすり",
+        "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
+    },
+    "INCENSE_ORDINARY": {
+        "name": "おこう",
+        "description": "不思議な香りのおこう。30分香りを出し野生のポケモンを呼び寄せる。"
+    },
+    "INCUBATOR_BASIC": {
+        "name": "ふかそうち",
+        "description": "タマゴを入れて歩くと、ポケモンがかえる。3回使うと壊れる。"
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "ムゲンふかそうち",
+        "description": "タマゴを入れて歩くと、ポケモンがかえる。"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "おうじゃのしるし",
+        "description": "ある特定のポケモンを進化させる不思議ないし。王冠の形。"
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "しあわせタマゴ",
+        "description": "しあわせがつまったタマゴ。使うと、30分間もらえるXPが2倍になる。"
+    },
+    "MASTER_BALL": {
+        "name": "マスターボール",
+        "description": "野生のポケモンを必ず捕まえることができる最高性能のボール。"
+    },
+    "MAX_POTION": {
+        "name": "まんたんのくすり",
+        "description": "スプレー式のキズぐすり。ポケモン1匹のHPをすべて回復する。"
+    },
+    "MAX_REVIVE": {
+        "name": "げんきのかたまり",
+        "description": "ひんしになってしまったポケモン1匹のHPをすべて回復する。"
+    },
+    "METAL_COAT": {
+        "name": "メタルコート",
+        "description": "ある特定のポケモンを進化させる膜。特殊な金属でできている。"
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "ナナのみ",
+        "description": "ポケモンに与えるとポケモンが落ち着くきのみ。"
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "パイルのみ",
+        "description": "ポケモンに与えると捕まえたときにアメが多めに手に入るきのみ。"
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "モンスターボール",
+        "description": "野生のポケモンに投げて捕まえるためのボール。カプセル式になっている。"
+    },
+    "POTION": {
+        "name": "キズぐすり",
+        "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "ズリのみ",
+        "description": "ポケモンに与えると捕まえやすくなるきのみ。"
+    },
+    "REVIVE": {
+        "name": "げんきのかけら",
+        "description": "ひんしになってしまったポケモン1匹のHPを半分回復する。"
+    },
+    "SPECIAL_CAMERA": {
+        "name": "カメラ",
+        "description": "野生のポケモンの姿を撮影できるカメラ。"
+    },
+    "STAR_PIECE": {
+        "name": "ほしのかけら",
+        "description": "もらえるほしのすなが30分間1.5倍になる宝石のかけら。"
+    },
+    "SUN_STONE": {
+        "name": "たいようのいし",
+        "description": "ある特定のポケモンを進化させる不思議ないし。夕陽のように赤く輝く。"
+    },
+    "SUPER_POTION": {
+        "name": "いいキズぐすり",
+        "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
+    },
+    "TROY_DISK": {
+        "name": "ルアーモジュール",
+        "description": "ポケストップへ使うと、30分間ポケモンを引き寄せる。周りの人たちも効果を受けられる。"
+    },
+    "ULTRA_BALL": {
+        "name": "ハイパーボール",
+        "description": "スーパーボールよりもさらにポケモンを捕まえやすくなったすごく性能のいいボール。"
+    },
+    "UP_GRADE": {
+        "name": "アップグレード",
+        "description": "ある特定のポケモンを進化させる透明な機械。シルフカンパニー製。"
+    },
+    "WEPAR_BERRY": {
+        "name": "セシナのみ",
+        "description": "不明"
+    },
+    "X_ATTACK": {
+        "name": "プラスパワー",
+        "description": "未定義"
+    },
+    "X_DEFENSE": {
+        "name": "ディフェンダー",
+        "description": "不明"
+    },
+    "X_MIRACLE": {
+        "name": "不明",
+        "description": "不明"
+    }
+}

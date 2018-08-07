@@ -1,0 +1,894 @@
+{
+    "f_backpack_cute_0": {
+        "name": "蝴蝶結背包"
+    },
+    "f_backpack_default_0": {
+        "name": "都會風背包"
+    },
+    "f_backpack_default_1": {
+        "name": "都會風背包"
+    },
+    "f_backpack_default_2": {
+        "name": "都會風背包"
+    },
+    "f_backpack_default_3": {
+        "name": "都會風背包"
+    },
+    "f_backpack_empty": {
+        "name": "不背包包"
+    },
+    "f_backpack_frlg_0": {
+        "name": "葉子包包"
+    },
+    "f_backpack_ultra": {},
+    "f_belt_default_0": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_1": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_2": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_3": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_4": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_5": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_6": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_7": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_default_8": {
+        "name": "圓形皮帶扣"
+    },
+    "f_belt_empty": {
+        "name": "不繫皮帶"
+    },
+    "f_belt_simple_0": {
+        "name": "方形皮帶扣"
+    },
+    "f_belt_simple_1": {
+        "name": "方形皮帶扣"
+    },
+    "f_belt_simple_2": {
+        "name": "方形皮帶扣"
+    },
+    "f_belt_simple_3": {
+        "name": "方形皮帶扣"
+    },
+    "f_belt_teamrocket_0": {
+        "name": "火箭隊皮帶"
+    },
+    "f_belt_teamrocket_1": {
+        "name": "彩虹火箭隊皮帶"
+    },
+    "f_eyes_0": {},
+    "f_eyes_1": {},
+    "f_eyes_2": {},
+    "f_eyes_3": {},
+    "f_eyes_4": {},
+    "f_glasses_3d": {
+        "name": "3D眼鏡"
+    },
+    "f_glasses_empty": {
+        "name": "不戴眼鏡"
+    },
+    "f_glasses_mask_0": {
+        "name": "神祕面具"
+    },
+    "f_glasses_mask_1": {
+        "name": "神祕面具"
+    },
+    "f_glasses_thick_0": {
+        "name": "黑粗框眼鏡"
+    },
+    "f_glasses_thick_1": {
+        "name": "黑粗框眼鏡"
+    },
+    "f_glasses_thick_2": {
+        "name": "黑粗框眼鏡"
+    },
+    "f_glasses_thick_3": {
+        "name": "黑粗框眼鏡"
+    },
+    "f_glasses_thick_4": {
+        "name": "黑粗框眼鏡"
+    },
+    "f_gloves_battlegirl_0": {
+        "name": "對戰少女半指手套"
+    },
+    "f_gloves_default_0": {
+        "name": "半指手套"
+    },
+    "f_gloves_default_1": {
+        "name": "半指手套"
+    },
+    "f_gloves_default_2": {
+        "name": "半指手套"
+    },
+    "f_gloves_default_3": {
+        "name": "半指手套"
+    },
+    "f_gloves_empty": {
+        "name": "不戴手套"
+    },
+    "f_gloves_frlg_0": {
+        "name": "葉子手環"
+    },
+    "f_gloves_gymleader_0": {
+        "name": "道館館主手套"
+    },
+    "f_gloves_teamrocket_0": {
+        "name": "火箭隊手套"
+    },
+    "f_hair_default_0": {},
+    "f_hair_default_1": {},
+    "f_hair_default_2": {},
+    "f_hair_default_3": {},
+    "f_hair_default_4": {},
+    "f_hair_default_5": {},
+    "f_hat_adventure_0": {
+        "name": "探險家的帽子"
+    },
+    "f_hat_casket_0": {
+        "name": "鴨舌帽"
+    },
+    "f_hat_default_A_0": {},
+    "f_hat_default_A_1": {},
+    "f_hat_default_A_2": {},
+    "f_hat_default_A_3": {},
+    "f_hat_default_A_4": {},
+    "f_hat_default_A_5": {},
+    "f_hat_default_B_0": {},
+    "f_hat_default_B_1": {},
+    "f_hat_empty": {
+        "name": "不戴帽子"
+    },
+    "f_hat_fedora_0": {
+        "name": "氈帽"
+    },
+    "f_hat_fedora_1": {
+        "name": "氈帽"
+    },
+    "f_hat_frlg_0": {
+        "name": "葉子帽"
+    },
+    "f_hat_knitted_0": {
+        "name": "針織帽"
+    },
+    "f_hat_knitted_1": {
+        "name": "針織帽"
+    },
+    "f_hat_magikarp": {
+        "name": "鯉魚王帽"
+    },
+    "f_hat_mimikyu_0": {},
+    "f_hat_teamrocket_0": {
+        "name": "火箭隊帽"
+    },
+    "f_hat_tophat_0": {
+        "name": "禮帽"
+    },
+    "f_hat_ultra_0": {},
+    "f_necklace_default_0": {
+        "name": "蝴蝶結短項鍊"
+    },
+    "f_necklace_default_1": {
+        "name": "蝴蝶結短項鍊"
+    },
+    "f_necklace_empty": {
+        "name": "不戴項鍊"
+    },
+    "f_necklace_heart_0": {
+        "name": "心型短項鍊"
+    },
+    "f_necklace_star_0": {
+        "name": "星型短項鍊"
+    },
+    "f_pants_battlegirl_0": {
+        "name": "對戰少女短褲"
+    },
+    "f_pants_default_0": {
+        "name": "連身褲"
+    },
+    "f_pants_default_1": {
+        "name": "連身褲"
+    },
+    "f_pants_default_2": {
+        "name": "連身褲"
+    },
+    "f_pants_default_3": {
+        "name": "連身褲"
+    },
+    "f_pants_default_4": {
+        "name": "連身褲"
+    },
+    "f_pants_default_5": {
+        "name": "連身褲"
+    },
+    "f_pants_frlg_0": {
+        "name": "葉子短裙"
+    },
+    "f_pants_gymleader_0": {
+        "name": "道館館主短裙"
+    },
+    "f_pants_gymleader_1": {
+        "name": "道館館主短裙"
+    },
+    "f_pants_gymleader_2": {
+        "name": "道館館主短裙"
+    },
+    "f_pants_miniskirt_0": {
+        "name": "條紋短裙"
+    },
+    "f_pants_miniskirt_1": {
+        "name": "條紋短裙"
+    },
+    "f_pants_miniskirt_2": {
+        "name": "條紋短裙"
+    },
+    "f_pants_miniskirt_3": {
+        "name": "條紋短裙"
+    },
+    "f_pants_miniskirt_wave_0": {
+        "name": "雙色短裙"
+    },
+    "f_pants_miniskirt_wave_1": {
+        "name": "雙色短裙"
+    },
+    "f_pants_miniskirt_wave_2": {
+        "name": "雙色短裙"
+    },
+    "f_pants_neon_solid_0": {
+        "name": "螢光內搭褲"
+    },
+    "f_pants_neon_solid_1": {
+        "name": "螢光內搭褲"
+    },
+    "f_pants_neon_solid_2": {
+        "name": "螢光內搭褲"
+    },
+    "f_pants_neon_stripes_0": {
+        "name": "螢光內搭褲"
+    },
+    "f_pants_neon_stripes_1": {
+        "name": "螢光內搭褲"
+    },
+    "f_pants_shorts_0": {
+        "name": "跑步短褲"
+    },
+    "f_pants_shorts_1": {
+        "name": "跑步短褲"
+    },
+    "f_pants_shorts_2": {
+        "name": "跑步短褲"
+    },
+    "f_pants_shorts_3": {
+        "name": "跑步短褲"
+    },
+    "f_pants_skinnyjeans_0": {
+        "name": "窄管牛仔褲"
+    },
+    "f_pants_teamrocket_0": {
+        "name": "火箭隊短裙"
+    },
+    "f_pants_miniskirt_turbine_0": {
+        "name": "多片短裙"
+    },
+    "f_pants_miniskirt_turbine_1": {
+        "name": "多片短裙"
+    },
+    "f_pants_miniskirt_turbine_2": {
+        "name": "多片短裙"
+    },
+    "f_pants_ultra_0": {},
+    "f_shirt_battlegirl_0": {
+        "name": "對戰少女運動背心"
+    },
+    "f_shirt_buttondown_0": {
+        "name": "貼身上衣"
+    },
+    "f_shirt_default_0": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_1": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_2": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_3": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_4": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_5": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_6": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_7": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_default_8": {
+        "name": "經典長袖上衣"
+    },
+    "f_shirt_earthday_2018": {
+        "name": "藍海衝浪T"
+    },
+    "f_shirt_frlg_0": {
+        "name": "葉子背心"
+    },
+    "f_shirt_gymleader_0": {
+        "name": "道館館主上衣"
+    },
+    "f_shirt_gymleader_1": {
+        "name": "道館館主上衣"
+    },
+    "f_shirt_gymleader_2": {
+        "name": "道館館主上衣"
+    },
+    "f_shirt_latias_latios_0": {
+        "name": "拉帝亞斯＆拉帝歐斯T恤"
+    },
+    "f_shirt_mew_0": {
+        "name": "夢幻T恤"
+    },
+    "f_shirt_sweater_30_0": {
+        "name": "30紀念款"
+    },
+    "f_shirt_sweater_30_1": {
+        "name": "30紀念款"
+    },
+    "f_shirt_sweater_30_2": {
+        "name": "30紀念款"
+    },
+    "f_shirt_sweater_instinct": {
+        "name": "靈犀隊高領上衣"
+    },
+    "f_shirt_sweater_mystic": {
+        "name": "叡智隊高領上衣"
+    },
+    "f_shirt_sweater_valor": {
+        "name": "武勇隊高領上衣"
+    },
+    "f_shirt_tanktop_0": {
+        "name": "訓練家坦克背心"
+    },
+    "f_shirt_tanktop_1": {
+        "name": "訓練家坦克背心"
+    },
+    "f_shirt_tanktop_2": {
+        "name": "訓練家坦克背心"
+    },
+    "f_shirt_tanktop_charizard_0": {
+        "name": "噴火龍坦克背心"
+    },
+    "f_shirt_tanktop_charizard_1": {
+        "name": "噴火龍坦克背心"
+    },
+    "f_shirt_tanktop_charizard_2": {
+        "name": "噴火龍坦克背心"
+    },
+    "f_shirt_tanktop_pikachu_0": {
+        "name": "皮卡丘坦克背心"
+    },
+    "f_shirt_tanktop_pikachu_1": {
+        "name": "皮卡丘坦克背心"
+    },
+    "f_shirt_tanktop_pikachu_2": {
+        "name": "皮卡丘坦克背心"
+    },
+    "f_shirt_teamrocket_0": {
+        "name": "火箭隊上衣"
+    },
+    "f_shirt_teamrocket_1": {
+        "name": "彩虹火箭隊上衣"
+    },
+    "f_shirt_tshirt_cycling_0": {
+        "name": "休閒短袖T恤"
+    },
+    "f_shirt_tshirt_cycling_1": {
+        "name": "休閒短袖T恤"
+    },
+    "f_shirt_tshirt_cycling_2": {
+        "name": "休閒短袖T恤"
+    },
+    "f_shirt_tshirt_cycling_3": {
+        "name": "休閒短袖T恤"
+    },
+    "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_global_goals_2017": {},
+    "f_shirt_tshirt_pikachu_0": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_1": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_2": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_3": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_4": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_5": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_tshirt_pikachu_6": {
+        "name": "皮卡丘短袖T恤"
+    },
+    "f_shirt_ultra_0": {},
+    "f_shoes_battlegirl_0": {
+        "name": "對戰少女鞋"
+    },
+    "f_shoes_default_0": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_1": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_2": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_3": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_4": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_5": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_default_6": {
+        "name": "慢跑鞋"
+    },
+    "f_shoes_empty": {
+        "name": "不穿鞋子"
+    },
+    "f_shoes_frlg_0": {
+        "name": "葉子鞋"
+    },
+    "f_shoes_gymleader_0": {
+        "name": "道館館主運動鞋"
+    },
+    "f_shoes_gymleader_1": {
+        "name": "道館館主運動鞋"
+    },
+    "f_shoes_gymleader_2": {
+        "name": "道館館主運動鞋"
+    },
+    "f_shoes_teamrocket_0": {
+        "name": "火箭隊長靴"
+    },
+    "f_shoes_teamrocket_1": {
+        "name": "彩虹火箭隊長靴"
+    },
+    "f_shoes_ultra_0": {},
+    "f_socks_default_0": {
+        "name": "內搭褲"
+    },
+    "f_socks_default_1": {
+        "name": "內搭褲"
+    },
+    "f_socks_default_2": {
+        "name": "內搭褲"
+    },
+    "f_socks_empty": {
+        "name": "不穿襪子"
+    },
+    "f_socks_thighhighs_0": {
+        "name": "膝上襪"
+    },
+    "m_backpack_default_0": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_default_1": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_default_2": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_default_3": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_default_4": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_default_5": {
+        "name": "訓練家背包"
+    },
+    "m_backpack_empty": {
+        "name": "不背包包"
+    },
+    "m_backpack_frlg_0": {
+        "name": "火焰背包"
+    },
+    "m_backpack_ultra": {},
+    "m_eyes_0": {},
+    "m_eyes_1": {},
+    "m_eyes_2": {},
+    "m_eyes_3": {},
+    "m_eyes_4": {},
+    "m_glasses_3d": {
+        "name": "3D眼鏡"
+    },
+    "m_glasses_empty": {
+        "name": "不戴眼鏡"
+    },
+    "m_glasses_jogger_0": {
+        "name": "慢跑者墨鏡"
+    },
+    "m_glasses_mask_0": {
+        "name": "神祕面具"
+    },
+    "m_glasses_mask_1": {
+        "name": "神祕面具"
+    },
+    "m_glasses_thick_0": {
+        "name": "黑粗框眼鏡"
+    },
+    "m_glasses_thick_1": {
+        "name": "黑粗框眼鏡"
+    },
+    "m_glasses_thick_2": {
+        "name": "黑粗框眼鏡"
+    },
+    "m_glasses_thick_3": {
+        "name": "黑粗框眼鏡"
+    },
+    "m_glasses_thick_4": {
+        "name": "黑粗框眼鏡"
+    },
+    "m_gloves_default_0": {
+        "name": "半指手套"
+    },
+    "m_gloves_default_1": {
+        "name": "半指手套"
+    },
+    "m_gloves_default_2": {
+        "name": "半指手套"
+    },
+    "m_gloves_default_3": {
+        "name": "半指手套"
+    },
+    "m_gloves_empty": {
+        "name": "不戴手套"
+    },
+    "m_gloves_frlg_0": {
+        "name": "火焰手環"
+    },
+    "m_gloves_gymleader_0": {
+        "name": "道館館主手套"
+    },
+    "m_gloves_jogger": {
+        "name": "慢跑者手錶"
+    },
+    "m_gloves_teamrocket_0": {
+        "name": "火箭隊手套"
+    },
+    "m_hair_default_0": {},
+    "m_hair_default_1": {},
+    "m_hair_default_2": {},
+    "m_hair_default_3": {},
+    "m_hair_default_4": {},
+    "m_hair_default_5": {},
+    "m_hat_adventure_0": {
+        "name": "探險家的帽子"
+    },
+    "m_hat_casket_0": {
+        "name": "鴨舌帽"
+    },
+    "m_hat_default_0": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_default_1": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_default_2": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_default_3": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_default_4": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_default_5": {
+        "name": "訓練家遮陽帽"
+    },
+    "m_hat_empty": {
+        "name": "不戴帽子"
+    },
+    "m_hat_fedora_0": {
+        "name": "氈帽"
+    },
+    "m_hat_fedora_1": {
+        "name": "氈帽"
+    },
+    "m_hat_fisher_0": {
+        "name": "釣魚者帽"
+    },
+    "m_hat_frlg_0": {
+        "name": "火焰帽"
+    },
+    "m_hat_jogger_0": {
+        "name": "慢跑者遮陽帽"
+    },
+    "m_hat_magikarp": {
+        "name": "鯉魚王帽"
+    },
+    "m_hat_mimikyu_0": {},
+    "m_hat_teamrocket_0": {
+        "name": "火箭隊帽"
+    },
+    "m_hat_tophat_0": {
+        "name": "禮帽"
+    },
+    "m_hat_ultra_0": {},
+    "m_pants_default_0": {
+        "name": "訓練家短褲"
+    },
+    "m_pants_fisher_0": {
+        "name": "釣魚者長褲"
+    },
+    "m_pants_frlg_0": {
+        "name": "火焰長褲"
+    },
+    "m_pants_gymleader_0": {
+        "name": "道館館主短褲"
+    },
+    "m_pants_gymleader_1": {
+        "name": "道館館主短褲"
+    },
+    "m_pants_gymleader_2": {
+        "name": "道館館主短褲"
+    },
+    "m_pants_jogger_0": {
+        "name": "慢跑者短褲"
+    },
+    "m_pants_skinnyjeans_0": {
+        "name": "窄管牛仔褲"
+    },
+    "m_pants_skinnyjeans_1": {
+        "name": "窄管牛仔褲"
+    },
+    "m_pants_skinnyjeans_2": {
+        "name": "窄管牛仔褲"
+    },
+    "m_pants_sweats_0": {
+        "name": "休閒運動褲"
+    },
+    "m_pants_sweats_1": {
+        "name": "休閒運動褲"
+    },
+    "m_pants_sweats_2": {
+        "name": "休閒運動褲"
+    },
+    "m_pants_sweats_3": {
+        "name": "休閒運動褲"
+    },
+    "m_pants_sweats_4": {
+        "name": "休閒運動褲"
+    },
+    "m_pants_teamrocket_0": {
+        "name": "火箭隊長褲"
+    },
+    "m_pants_ultra_0": {},
+    "m_shirt_blazer_0": {
+        "name": "黑西裝外套"
+    },
+    "m_shirt_default_0": {
+        "name": "紅白連帽上衣"
+    },
+    "m_shirt_default_1": {
+        "name": "黃白連帽上衣"
+    },
+    "m_shirt_default_2": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_default_2B": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_default_3": {
+        "name": "藍白連帽上衣"
+    },
+    "m_shirt_default_4": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_default_5": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_default_6": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_default_7": {
+        "name": "經典連帽上衣"
+    },
+    "m_shirt_earthday_2018": {
+        "name": "藍海衝浪T"
+    },
+    "m_shirt_fisher_0": {
+        "name": "釣魚者背心"
+    },
+    "m_shirt_frlg_0": {
+        "name": "火焰上衣"
+    },
+    "m_shirt_gymleader_0": {
+        "name": "道館館主上衣"
+    },
+    "m_shirt_gymleader_1": {
+        "name": "道館館主上衣"
+    },
+    "m_shirt_gymleader_2": {
+        "name": "道館館主上衣"
+    },
+    "m_shirt_jogger_0": {
+        "name": "慢跑者背心"
+    },
+    "m_shirt_latias_latios_0": {
+        "name": "拉帝亞斯＆拉帝歐斯T恤"
+    },
+    "m_shirt_longsleeves_charizard_0": {
+        "name": "噴火龍長袖上衣"
+    },
+    "m_shirt_longsleeves_charizard_1": {
+        "name": "噴火龍長袖上衣"
+    },
+    "m_shirt_longsleeves_charizard_2": {
+        "name": "噴火龍長袖上衣"
+    },
+    "m_shirt_longsleeves_pikachu_0": {
+        "name": "皮卡丘長袖上衣"
+    },
+    "m_shirt_longsleeves_pikachu_1": {
+        "name": "皮卡丘長袖上衣"
+    },
+    "m_shirt_longsleeves_pikachu_2": {
+        "name": "皮卡丘長袖上衣"
+    },
+    "m_shirt_mew_0": {
+        "name": "夢幻T恤"
+    },
+    "m_shirt_sweatshirt_sporty_0": {
+        "name": "運動連帽上衣"
+    },
+    "m_shirt_sweatshirt_sporty_1": {
+        "name": "運動連帽上衣"
+    },
+    "m_shirt_sweatshirt_sporty_2": {
+        "name": "運動連帽上衣"
+    },
+    "m_shirt_sweatshirt_sporty_3": {
+        "name": "運動連帽上衣"
+    },
+    "m_shirt_sweatshirt_streak_0": {
+        "name": "閃電連帽上衣"
+    },
+    "m_shirt_sweatshirt_streak_1": {
+        "name": "閃電連帽上衣"
+    },
+    "m_shirt_sweatshirt_streak_2": {
+        "name": "閃電連帽上衣"
+    },
+    "m_shirt_sweatshirt_streak_3": {
+        "name": "閃電連帽上衣"
+    },
+    "m_shirt_sweatshirt_streak_4": {
+        "name": "閃電連帽上衣"
+    },
+    "m_shirt_teamrocket_0": {
+        "name": "火箭隊上衣"
+    },
+    "m_shirt_teamrocket_1": {
+        "name": "彩虹火箭隊上衣"
+    },
+    "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_geometric_0": {
+        "name": "幾何花紋短袖T恤"
+    },
+    "m_shirt_tshirt_geometric_1": {
+        "name": "幾何花紋短袖T恤"
+    },
+    "m_shirt_tshirt_geometric_2": {
+        "name": "幾何花紋短袖T恤"
+    },
+    "m_shirt_tshirt_global_goals_2017": {},
+    "m_shirt_tshirt_instinct": {
+        "name": "靈犀隊短袖T恤"
+    },
+    "m_shirt_tshirt_mystic": {
+        "name": "叡智隊短袖T恤"
+    },
+    "m_shirt_tshirt_valor": {
+        "name": "武勇隊短袖T恤"
+    },
+    "m_shirt_turtleneck_30_0": {
+        "name": "30紀念款"
+    },
+    "m_shirt_turtleneck_30_1": {
+        "name": "30紀念款"
+    },
+    "m_shirt_turtleneck_30_2": {
+        "name": "30紀念款"
+    },
+    "m_shirt_turtleneck_30_3": {
+        "name": "30紀念款"
+    },
+    "m_shirt_ultra_0": {},
+    "m_shoes_default_0": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_1": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_2": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_3": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_4": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_5": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_default_6": {
+        "name": "慢跑鞋"
+    },
+    "m_shoes_empty": {
+        "name": "不穿鞋子"
+    },
+    "m_shoes_fisher_0": {
+        "name": "釣魚者長靴"
+    },
+    "m_shoes_frlg_0": {
+        "name": "火焰鞋"
+    },
+    "m_shoes_gymleader_0": {
+        "name": "道館館主運動鞋"
+    },
+    "m_shoes_gymleader_1": {
+        "name": "道館館主運動鞋"
+    },
+    "m_shoes_gymleader_2": {
+        "name": "道館館主運動鞋"
+    },
+    "m_shoes_jogger_0": {
+        "name": "慢跑者鞋"
+    },
+    "m_shoes_teamrocket_0": {
+        "name": "火箭隊長靴"
+    },
+    "m_shoes_teamrocket_1": {
+        "name": "彩虹火箭隊長靴"
+    },
+    "m_shoes_ultra_0": {},
+    "m_socks_default_0": {
+        "name": "內搭褲"
+    },
+    "m_socks_default_1": {
+        "name": "內搭褲"
+    },
+    "m_socks_default_2": {
+        "name": "內搭褲"
+    },
+    "m_socks_default_3": {
+        "name": "內搭褲"
+    },
+    "m_socks_empty": {
+        "name": "不穿襪子"
+    }
+}

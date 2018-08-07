@@ -3,7 +3,6 @@ export interface RootObject {
   timestampMs: string;
   version: string;
 }
-
 export interface ItemTemplate {
   templateId: string;
   avatarCustomization?: AvatarCustomization;
@@ -31,11 +30,9 @@ export interface ItemTemplate {
   camera?: Camera2;
   moveSequenceSettings?: MoveSequenceSettings;
 }
-
 export interface MoveSequenceSettings {
   sequence: string[];
 }
-
 export interface Camera2 {
   interpolation: string[];
   targetType: string[];
@@ -54,7 +51,6 @@ export interface Camera2 {
   vertCtrRatio: number[];
   nextCamera?: string;
 }
-
 export interface IapItemDisplay {
   sku: string;
   category: string;
@@ -62,7 +58,6 @@ export interface IapItemDisplay {
   sale: boolean;
   hidden?: boolean;
 }
-
 export interface WeatherBonusSettings {
   cpBaseLevelBonus: number;
   guaranteedIndividualValues: number;
@@ -71,12 +66,10 @@ export interface WeatherBonusSettings {
   raidEncounterCpBaseLevelBonus: number;
   raidEncounterGuaranteedIndividualValues: number;
 }
-
 export interface WeatherAffinities {
   weatherCondition: string;
   pokemonType: string[];
 }
-
 export interface MoveSettings {
   movementId: string;
   animationId: number;
@@ -94,7 +87,6 @@ export interface MoveSettings {
   energyDelta?: number;
   healScalar?: number;
 }
-
 export interface PokemonSettings {
   pokemonId: string;
   modelScale: number;
@@ -126,7 +118,6 @@ export interface PokemonSettings {
   form?: string;
   rarity?: string;
 }
-
 export interface EvolutionBranch {
   evolution: string;
   candyCost: number;
@@ -134,13 +125,11 @@ export interface EvolutionBranch {
   evolutionItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
 }
-
 export interface Stats {
   baseStamina: number;
   baseAttack: number;
   baseDefense: number;
 }
-
 export interface Encounter {
   baseCaptureRate?: number;
   baseFleeRate?: number;
@@ -161,7 +150,6 @@ export interface Encounter {
   bonusCandyCaptureReward?: number;
   bonusStardustCaptureReward?: number;
 }
-
 export interface Camera {
   diskRadiusM: number;
   cylinderRadiusM: number;
@@ -169,48 +157,40 @@ export interface Camera {
   shoulderModeScale?: number;
   cylinderGroundM?: number;
 }
-
 export interface GenderSettings {
   pokemon: string;
   gender: Gender;
 }
-
 export interface Gender {
   malePercent?: number;
   femalePercent?: number;
   genderlessPercent?: number;
 }
-
 export interface QuestSettings {
   questType: string;
   dailyQuest: DailyQuest;
 }
-
 export interface DailyQuest {
   bucketsPerDay: number;
   streakLength: number;
   bonusMultiplier?: number;
   streakBonusMultiplier?: number;
 }
-
 export interface PokemonUpgrades {
   upgradesPerLevel: number;
   allowedLevelsAbovePlayer: number;
   candyCost: number[];
   stardustCost: number[];
 }
-
 export interface TypeEffective {
   attackScalar: number[];
   attackType: string;
 }
-
 export interface PokemonScaleSettings {
   pokemonScaleMode?: string;
   minHeight: number;
   maxHeight: number;
 }
-
 export interface PlayerLevel {
   rankNum: number[];
   requiredExperience: number[];
@@ -219,7 +199,6 @@ export interface PlayerLevel {
   maxEncounterPlayerLevel: number;
   maxQuestEncounterPlayerLevel: number;
 }
-
 export interface ItemSettings {
   itemId: string;
   itemType: string;
@@ -234,44 +213,36 @@ export interface ItemSettings {
   revive?: Revive;
   stardustBoost?: StardustBoost;
 }
-
 export interface StardustBoost {
   stardustMultiplier: number;
   boostDurationMs: number;
 }
-
 export interface Revive {
   staPercent: number;
 }
-
 export interface XpBoost {
   xpMultiplier: number;
   boostDurationMs: number;
 }
-
 export interface InventoryUpgrade {
   additionalStorage: number;
   upgradeType: string;
 }
-
 export interface EggIncubator {
   incubatorType: string;
   uses?: number;
   distanceMultiplier: number;
 }
-
 export interface Incense {
   incenseLifetimeSeconds: number;
   standingTimeBetweenEncountersSeconds: number;
   movingTimeBetweenEncounterSeconds: number;
   distanceRequiredForShorterIntervalMeters: number;
 }
-
 export interface Potion {
   staAmount?: number;
   staPercent?: number;
 }
-
 export interface Food {
   itemEffect: string[];
   itemEffectPercent: number[];
@@ -279,27 +250,23 @@ export interface Food {
   berryMultiplier?: number;
   remoteBerryMultiplier?: number;
 }
-
 export interface IapSettings {
   dailyDefenderBonusPerPokemon: number[];
   dailyDefenderBonusMaxDefenders: number;
   dailyDefenderBonusCurrency: string[];
   minTimeBetweenClaimsMs: string;
 }
-
 export interface IapCategoryDisplay {
   category: string;
   sortOrder: number;
   bannerEnabled?: boolean;
   bannerTitle?: string;
 }
-
 export interface GymLevel {
   requiredExperience: number[];
   leaderSlots: number[];
   trainerSlots: number[];
 }
-
 export interface GymBadgeSettings {
   target: number[];
   battleWinningScorePerDefenderCp: number;
@@ -309,7 +276,6 @@ export interface GymBadgeSettings {
   raidBattleWinningScore: number;
   loseAllBattlesScore: number;
 }
-
 export interface FriendshipMilestoneSettings {
   milestoneXpReward: number;
   attackBonusPercentage: number;
@@ -318,17 +284,14 @@ export interface FriendshipMilestoneSettings {
   raidBallBonus?: number;
   tradingDiscount?: number;
 }
-
 export interface FormSettings {
   pokemon: string;
   forms?: Form[];
 }
-
 export interface Form {
   form: string;
   assetBundleValue?: number;
 }
-
 export interface EncounterSettings {
   spinBonusThreshold: number;
   excellentThrowThreshold: number;
@@ -339,7 +302,6 @@ export interface EncounterSettings {
   arCloseProximityThreshold: number;
   arLowAwarenessThreshold: number;
 }
-
 export interface BattleSettings {
   retargetSeconds: number;
   enemyAttackInterval: number;
@@ -356,14 +318,12 @@ export interface BattleSettings {
   dodgeDamageReductionPercent: number;
   minimumRaidPlayerLevel: number;
 }
-
 export interface BadgeSettings {
   badgeType: string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;
 }
-
 export interface AvatarCustomization {
   enabled?: boolean;
   avatarType?: string;
@@ -379,4 +339,3 @@ export interface AvatarCustomization {
   unlockBadgeLevel?: number;
   unlockPlayerLevel?: number;
 }
-

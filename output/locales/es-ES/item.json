@@ -1,0 +1,134 @@
+{
+    "BLUK_BERRY": {
+        "name": "Baya Oram",
+        "description": "SIN DEFINIR"
+    },
+    "DRAGON_SCALE": {
+        "name": "Escama Dragón",
+        "description": "Escama que hace evolucionar a determinadas especies de Pokémon. Es gruesa y resistente."
+    },
+    "FREE_RAID_TICKET": {},
+    "FRIEND_GIFT_BOX": {},
+    "GOLDEN_RAZZ_BERRY": {},
+    "GREAT_BALL": {
+        "name": "Super Ball",
+        "description": "Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball."
+    },
+    "HYPER_POTION": {
+        "name": "Hiperpoción",
+        "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
+    },
+    "INCENSE_ORDINARY": {
+        "name": "Incienso",
+        "description": "Incienso con una fragancia misteriosa que atrae a los Pokémon salvajes hacia donde estás durante 30 minutos."
+    },
+    "INCUBATOR_BASIC": {
+        "name": "Incubadora",
+        "description": "Un aparato en el que se incuba un Huevo que eclosionará después de una cierta distancia. Se puede usar 3 veces."
+    },
+    "INCUBATOR_BASIC_UNLIMITED": {
+        "name": "Incubadora ∞",
+        "description": "Un aparato en el que se incuba un Huevo que eclosionará cuando recorras una cierta distancia. ¡Uso ilimitado!"
+    },
+    "INCUBATOR_SUPER": {},
+    "ITEM_STORAGE_UPGRADE": {},
+    "KINGS_ROCK": {
+        "name": "Roca del Rey",
+        "description": "Roca que hace evolucionar a determinadas especies de Pokémon. Parece una corona."
+    },
+    "LEGENDARY_RAID_TICKET": {},
+    "LUCKY_EGG": {
+        "name": "Huevo Suerte",
+        "description": "Es un huevo lleno de felicidad que te hace ganar el doble de PX durante 30 minutos."
+    },
+    "MASTER_BALL": {
+        "name": "Master Ball",
+        "description": "La Poké Ball definitiva. Atrapa cualquier Pokémon salvaje y no falla nunca."
+    },
+    "MAX_POTION": {
+        "name": "Poción Máxima",
+        "description": "Medicina en espray que cura heridas y restaura todos los PS de un Pokémon."
+    },
+    "MAX_REVIVE": {
+        "name": "Revivir Máximo",
+        "description": "Medicina que revive a un Pokémon debilitado y le devuelve todos sus PS."
+    },
+    "METAL_COAT": {
+        "name": "Revestimiento Metálico",
+        "description": "Revestimiento que hace evolucionar a determinadas especies de Pokémon. Es una película metálica especial."
+    },
+    "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "NANAB_BERRY": {
+        "name": "Baya Latano",
+        "description": "Al usarla con un Pokémon, este se calma, haciéndose menos errático."
+    },
+    "PAID_RAID_TICKET": {},
+    "PINAP_BERRY": {
+        "name": "Baya Pinia",
+        "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas."
+    },
+    "POKEMON_STORAGE_UPGRADE": {},
+    "POKE_BALL": {
+        "name": "Poké Ball",
+        "description": "Dispositivo con diseño capsular que captura Pokémon salvajes. Se lanza como una bola contra el blanco."
+    },
+    "POTION": {
+        "name": "Poción",
+        "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
+    },
+    "PREMIER_BALL": {},
+    "RARE_CANDY": {},
+    "RAZZ_BERRY": {
+        "name": "Baya Frambu",
+        "description": "Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento."
+    },
+    "REVIVE": {
+        "name": "Revivir",
+        "description": "Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS."
+    },
+    "SPECIAL_CAMERA": {
+        "name": "Cámara",
+        "description": "Cuando te encuentras con Pokémon salvajes, puedes usar tu cámara para sacarles fotos."
+    },
+    "STAR_PIECE": {
+        "name": "Trozo Estrella",
+        "description": "Fragmento de una bonita gema que te hace ganar 50 % más de Polvos Estelares durante 30 minutos."
+    },
+    "SUN_STONE": {
+        "name": "Piedra Solar",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
+    },
+    "SUPER_POTION": {
+        "name": "Superpoción",
+        "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
+    },
+    "TROY_DISK": {
+        "name": "Módulo Cebo",
+        "description": "Atrae Pokémon a una Poképarada durante 30 min. Otra gente que esté cerca puede beneficiarse."
+    },
+    "ULTRA_BALL": {
+        "name": "Ultra Ball",
+        "description": "Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball."
+    },
+    "UP_GRADE": {
+        "name": "Mejora",
+        "description": "Peculiar dispositivo que hace evolucionar a determinadas especies de Pokémon. Fabricado en Silph S. A."
+    },
+    "WEPAR_BERRY": {
+        "name": "Baya Peragu",
+        "description": "SIN DEFINIR"
+    },
+    "X_ATTACK": {
+        "name": "Ataque X",
+        "description": "SIN DEFINIR"
+    },
+    "X_DEFENSE": {
+        "name": "Defensa X",
+        "description": "SIN DEFINIR"
+    },
+    "X_MIRACLE": {
+        "name": "SIN DEFINIR",
+        "description": "SIN DEFINIR"
+    }
+}
