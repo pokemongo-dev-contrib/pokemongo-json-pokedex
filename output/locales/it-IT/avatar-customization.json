@@ -1,0 +1,894 @@
+{
+    "f_backpack_cute_0": {
+        "name": "Zainetto con fiocco"
+    },
+    "f_backpack_default_0": {
+        "name": "Zainetto da città"
+    },
+    "f_backpack_default_1": {
+        "name": "Zainetto da città"
+    },
+    "f_backpack_default_2": {
+        "name": "Zainetto da città"
+    },
+    "f_backpack_default_3": {
+        "name": "Zainetto da città"
+    },
+    "f_backpack_empty": {
+        "name": "Senza borsa"
+    },
+    "f_backpack_frlg_0": {
+        "name": "Borsa Verde Foglia"
+    },
+    "f_backpack_ultra": {},
+    "f_belt_default_0": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_1": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_2": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_3": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_4": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_5": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_6": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_7": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_default_8": {
+        "name": "Fibbia Poké Ball"
+    },
+    "f_belt_empty": {
+        "name": "Senza cintura"
+    },
+    "f_belt_simple_0": {
+        "name": "Fibbia piatta"
+    },
+    "f_belt_simple_1": {
+        "name": "Fibbia piatta"
+    },
+    "f_belt_simple_2": {
+        "name": "Fibbia piatta"
+    },
+    "f_belt_simple_3": {
+        "name": "Fibbia piatta"
+    },
+    "f_belt_teamrocket_0": {
+        "name": "Cintura Team Rocket"
+    },
+    "f_belt_teamrocket_1": {
+        "name": "Cintura Team Rainbow Rocket"
+    },
+    "f_eyes_0": {},
+    "f_eyes_1": {},
+    "f_eyes_2": {},
+    "f_eyes_3": {},
+    "f_eyes_4": {},
+    "f_glasses_3d": {
+        "name": "Occhiali avveniristici"
+    },
+    "f_glasses_empty": {
+        "name": "Senza occhiali"
+    },
+    "f_glasses_mask_0": {
+        "name": "Maschera misteriosa"
+    },
+    "f_glasses_mask_1": {
+        "name": "Maschera misteriosa"
+    },
+    "f_glasses_thick_0": {
+        "name": "Occhiali da lettura"
+    },
+    "f_glasses_thick_1": {
+        "name": "Occhiali da lettura"
+    },
+    "f_glasses_thick_2": {
+        "name": "Occhiali da lettura"
+    },
+    "f_glasses_thick_3": {
+        "name": "Occhiali da lettura"
+    },
+    "f_glasses_thick_4": {
+        "name": "Occhiali da lettura"
+    },
+    "f_gloves_battlegirl_0": {
+        "name": "Guanti Combat Girl"
+    },
+    "f_gloves_default_0": {
+        "name": "Guanti senza dita"
+    },
+    "f_gloves_default_1": {
+        "name": "Guanti senza dita"
+    },
+    "f_gloves_default_2": {
+        "name": "Guanti senza dita"
+    },
+    "f_gloves_default_3": {
+        "name": "Guanti senza dita"
+    },
+    "f_gloves_empty": {
+        "name": "Senza guanti"
+    },
+    "f_gloves_frlg_0": {
+        "name": "Polsini Verde Foglia"
+    },
+    "f_gloves_gymleader_0": {
+        "name": "Guanti Capopalestra"
+    },
+    "f_gloves_teamrocket_0": {
+        "name": "Guanti Team Rocket"
+    },
+    "f_hair_default_0": {},
+    "f_hair_default_1": {},
+    "f_hair_default_2": {},
+    "f_hair_default_3": {},
+    "f_hair_default_4": {},
+    "f_hair_default_5": {},
+    "f_hat_adventure_0": {
+        "name": "Cappello da spedizione"
+    },
+    "f_hat_casket_0": {
+        "name": "Berretto"
+    },
+    "f_hat_default_A_0": {},
+    "f_hat_default_A_1": {},
+    "f_hat_default_A_2": {},
+    "f_hat_default_A_3": {},
+    "f_hat_default_A_4": {},
+    "f_hat_default_A_5": {},
+    "f_hat_default_B_0": {},
+    "f_hat_default_B_1": {},
+    "f_hat_empty": {
+        "name": "Senza cappello"
+    },
+    "f_hat_fedora_0": {
+        "name": "Fedora"
+    },
+    "f_hat_fedora_1": {
+        "name": "Fedora"
+    },
+    "f_hat_frlg_0": {
+        "name": "Cappello Verde Foglia"
+    },
+    "f_hat_knitted_0": {
+        "name": "Cappello peruviano"
+    },
+    "f_hat_knitted_1": {
+        "name": "Cappello peruviano"
+    },
+    "f_hat_magikarp": {
+        "name": "Cappello Magikarp"
+    },
+    "f_hat_mimikyu_0": {},
+    "f_hat_teamrocket_0": {
+        "name": "Berretto Team Rocket"
+    },
+    "f_hat_tophat_0": {
+        "name": "Cilindro"
+    },
+    "f_hat_ultra_0": {},
+    "f_necklace_default_0": {
+        "name": "Collare base"
+    },
+    "f_necklace_default_1": {
+        "name": "Collare base"
+    },
+    "f_necklace_empty": {
+        "name": "Senza collare"
+    },
+    "f_necklace_heart_0": {
+        "name": "Collare con cuore"
+    },
+    "f_necklace_star_0": {
+        "name": "Collare con stella"
+    },
+    "f_pants_battlegirl_0": {
+        "name": "Pantaloncini Combat Girl"
+    },
+    "f_pants_default_0": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_default_1": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_default_2": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_default_3": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_default_4": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_default_5": {
+        "name": "Tutina sportiva"
+    },
+    "f_pants_frlg_0": {
+        "name": "Gonna Verde Foglia"
+    },
+    "f_pants_gymleader_0": {
+        "name": "Gonna Capopalestra"
+    },
+    "f_pants_gymleader_1": {
+        "name": "Gonna Capopalestra"
+    },
+    "f_pants_gymleader_2": {
+        "name": "Gonna Capopalestra"
+    },
+    "f_pants_miniskirt_0": {
+        "name": "Minigonna con riga"
+    },
+    "f_pants_miniskirt_1": {
+        "name": "Minigonna con riga"
+    },
+    "f_pants_miniskirt_2": {
+        "name": "Minigonna con riga"
+    },
+    "f_pants_miniskirt_3": {
+        "name": "Minigonna con riga"
+    },
+    "f_pants_miniskirt_wave_0": {
+        "name": "Minigonna con onde"
+    },
+    "f_pants_miniskirt_wave_1": {
+        "name": "Minigonna con onde"
+    },
+    "f_pants_miniskirt_wave_2": {
+        "name": "Minigonna con onde"
+    },
+    "f_pants_neon_solid_0": {
+        "name": "Pantacollant vivaci"
+    },
+    "f_pants_neon_solid_1": {
+        "name": "Pantacollant vivaci"
+    },
+    "f_pants_neon_solid_2": {
+        "name": "Pantacollant vivaci"
+    },
+    "f_pants_neon_stripes_0": {
+        "name": "Pantacollant vivaci"
+    },
+    "f_pants_neon_stripes_1": {
+        "name": "Pantacollant vivaci"
+    },
+    "f_pants_shorts_0": {
+        "name": "Pantaloncini sportivi"
+    },
+    "f_pants_shorts_1": {
+        "name": "Pantaloncini sportivi"
+    },
+    "f_pants_shorts_2": {
+        "name": "Pantaloncini sportivi"
+    },
+    "f_pants_shorts_3": {
+        "name": "Pantaloncini sportivi"
+    },
+    "f_pants_skinnyjeans_0": {
+        "name": "Jeans aderenti"
+    },
+    "f_pants_teamrocket_0": {
+        "name": "Gonna Team Rocket"
+    },
+    "f_pants_miniskirt_turbine_0": {
+        "name": "Minigonna turbina"
+    },
+    "f_pants_miniskirt_turbine_1": {
+        "name": "Minigonna turbina"
+    },
+    "f_pants_miniskirt_turbine_2": {
+        "name": "Minigonna turbina"
+    },
+    "f_pants_ultra_0": {},
+    "f_shirt_battlegirl_0": {
+        "name": "Top Combat Girl"
+    },
+    "f_shirt_buttondown_0": {
+        "name": "Maglia attillata"
+    },
+    "f_shirt_default_0": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_1": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_2": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_3": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_4": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_5": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_6": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_7": {
+        "name": "Bolero"
+    },
+    "f_shirt_default_8": {
+        "name": "Bolero"
+    },
+    "f_shirt_earthday_2018": {
+        "name": "T-shirt Surf Blue"
+    },
+    "f_shirt_frlg_0": {
+        "name": "Top Verde Foglia"
+    },
+    "f_shirt_gymleader_0": {
+        "name": "Maglia Capopalestra"
+    },
+    "f_shirt_gymleader_1": {
+        "name": "Maglia Capopalestra"
+    },
+    "f_shirt_gymleader_2": {
+        "name": "Maglia Capopalestra"
+    },
+    "f_shirt_latias_latios_0": {
+        "name": "T-shirt Latias e Latios"
+    },
+    "f_shirt_mew_0": {
+        "name": "T-shirt Mew"
+    },
+    "f_shirt_sweater_30_0": {
+        "name": "Maglia 30"
+    },
+    "f_shirt_sweater_30_1": {
+        "name": "Maglia 30"
+    },
+    "f_shirt_sweater_30_2": {
+        "name": "Maglia 30"
+    },
+    "f_shirt_sweater_instinct": {
+        "name": "Maglia Squadra Istinto"
+    },
+    "f_shirt_sweater_mystic": {
+        "name": "Maglia Squadra Saggezza"
+    },
+    "f_shirt_sweater_valor": {
+        "name": "Maglia Squadra Coraggio"
+    },
+    "f_shirt_tanktop_0": {
+        "name": "Top Allenatrice"
+    },
+    "f_shirt_tanktop_1": {
+        "name": "Top Allenatrice"
+    },
+    "f_shirt_tanktop_2": {
+        "name": "Top Allenatrice"
+    },
+    "f_shirt_tanktop_charizard_0": {
+        "name": "Top Charizard"
+    },
+    "f_shirt_tanktop_charizard_1": {
+        "name": "Top Charizard"
+    },
+    "f_shirt_tanktop_charizard_2": {
+        "name": "Top Charizard"
+    },
+    "f_shirt_tanktop_pikachu_0": {
+        "name": "Top Pikachu"
+    },
+    "f_shirt_tanktop_pikachu_1": {
+        "name": "Top Pikachu"
+    },
+    "f_shirt_tanktop_pikachu_2": {
+        "name": "Top Pikachu"
+    },
+    "f_shirt_teamrocket_0": {
+        "name": "Maglia Team Rocket"
+    },
+    "f_shirt_teamrocket_1": {
+        "name": "Maglia Team Rainbow Rocket"
+    },
+    "f_shirt_tshirt_cycling_0": {
+        "name": "T-shirt sportiva"
+    },
+    "f_shirt_tshirt_cycling_1": {
+        "name": "T-shirt sportiva"
+    },
+    "f_shirt_tshirt_cycling_2": {
+        "name": "T-shirt sportiva"
+    },
+    "f_shirt_tshirt_cycling_3": {
+        "name": "T-shirt sportiva"
+    },
+    "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_global_goals_2017": {},
+    "f_shirt_tshirt_pikachu_0": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_1": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_2": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_3": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_4": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_5": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_tshirt_pikachu_6": {
+        "name": "T-shirt Pikachu"
+    },
+    "f_shirt_ultra_0": {},
+    "f_shoes_battlegirl_0": {
+        "name": "Scarpe Combat Girl"
+    },
+    "f_shoes_default_0": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_1": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_2": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_3": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_4": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_5": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_default_6": {
+        "name": "Scarpe sportive"
+    },
+    "f_shoes_empty": {
+        "name": "Senza scarpe"
+    },
+    "f_shoes_frlg_0": {
+        "name": "Scarpe Verde Foglia"
+    },
+    "f_shoes_gymleader_0": {
+        "name": "Scarpe Capopalestra"
+    },
+    "f_shoes_gymleader_1": {
+        "name": "Scarpe Capopalestra"
+    },
+    "f_shoes_gymleader_2": {
+        "name": "Scarpe Capopalestra"
+    },
+    "f_shoes_teamrocket_0": {
+        "name": "Stivali Team Rocket"
+    },
+    "f_shoes_teamrocket_1": {
+        "name": "Stivali Team Rainbow Rocket"
+    },
+    "f_shoes_ultra_0": {},
+    "f_socks_default_0": {
+        "name": "Pantaloni aderenti"
+    },
+    "f_socks_default_1": {
+        "name": "Pantaloni aderenti"
+    },
+    "f_socks_default_2": {
+        "name": "Pantaloni aderenti"
+    },
+    "f_socks_empty": {
+        "name": "Senza calze"
+    },
+    "f_socks_thighhighs_0": {
+        "name": "Calzamaglia lana"
+    },
+    "m_backpack_default_0": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_default_1": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_default_2": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_default_3": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_default_4": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_default_5": {
+        "name": "Zainetto Allenatore"
+    },
+    "m_backpack_empty": {
+        "name": "Senza borsa"
+    },
+    "m_backpack_frlg_0": {
+        "name": "Zaino Rosso Fuoco"
+    },
+    "m_backpack_ultra": {},
+    "m_eyes_0": {},
+    "m_eyes_1": {},
+    "m_eyes_2": {},
+    "m_eyes_3": {},
+    "m_eyes_4": {},
+    "m_glasses_3d": {
+        "name": "Occhiali avveniristici"
+    },
+    "m_glasses_empty": {
+        "name": "Senza occhiali"
+    },
+    "m_glasses_jogger_0": {
+        "name": "Occhiali da sole Podista"
+    },
+    "m_glasses_mask_0": {
+        "name": "Maschera misteriosa"
+    },
+    "m_glasses_mask_1": {
+        "name": "Maschera misteriosa"
+    },
+    "m_glasses_thick_0": {
+        "name": "Occhiali da lettura"
+    },
+    "m_glasses_thick_1": {
+        "name": "Occhiali da lettura"
+    },
+    "m_glasses_thick_2": {
+        "name": "Occhiali da lettura"
+    },
+    "m_glasses_thick_3": {
+        "name": "Occhiali da lettura"
+    },
+    "m_glasses_thick_4": {
+        "name": "Occhiali da lettura"
+    },
+    "m_gloves_default_0": {
+        "name": "Guanti senza dita"
+    },
+    "m_gloves_default_1": {
+        "name": "Guanti senza dita"
+    },
+    "m_gloves_default_2": {
+        "name": "Guanti senza dita"
+    },
+    "m_gloves_default_3": {
+        "name": "Guanti senza dita"
+    },
+    "m_gloves_empty": {
+        "name": "Senza guanti"
+    },
+    "m_gloves_frlg_0": {
+        "name": "Polsini Rosso Fuoco"
+    },
+    "m_gloves_gymleader_0": {
+        "name": "Guanti Capopalestra"
+    },
+    "m_gloves_jogger": {
+        "name": "Orologio Podista"
+    },
+    "m_gloves_teamrocket_0": {
+        "name": "Guanti Team Rocket"
+    },
+    "m_hair_default_0": {},
+    "m_hair_default_1": {},
+    "m_hair_default_2": {},
+    "m_hair_default_3": {},
+    "m_hair_default_4": {},
+    "m_hair_default_5": {},
+    "m_hat_adventure_0": {
+        "name": "Cappello da spedizione"
+    },
+    "m_hat_casket_0": {
+        "name": "Berretto"
+    },
+    "m_hat_default_0": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_default_1": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_default_2": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_default_3": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_default_4": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_default_5": {
+        "name": "Visiera Allenatore"
+    },
+    "m_hat_empty": {
+        "name": "Senza cappello"
+    },
+    "m_hat_fedora_0": {
+        "name": "Fedora"
+    },
+    "m_hat_fedora_1": {
+        "name": "Fedora"
+    },
+    "m_hat_fisher_0": {
+        "name": "Berretto Pescatore"
+    },
+    "m_hat_frlg_0": {
+        "name": "Berretto Rosso Fuoco"
+    },
+    "m_hat_jogger_0": {
+        "name": "Visiera Podista"
+    },
+    "m_hat_magikarp": {
+        "name": "Cappello Magikarp"
+    },
+    "m_hat_mimikyu_0": {},
+    "m_hat_teamrocket_0": {
+        "name": "Berretto Team Rocket"
+    },
+    "m_hat_tophat_0": {
+        "name": "Cilindro"
+    },
+    "m_hat_ultra_0": {},
+    "m_pants_default_0": {
+        "name": "Pantaloni a 3/4"
+    },
+    "m_pants_fisher_0": {
+        "name": "Pantaloni Pescatore"
+    },
+    "m_pants_frlg_0": {
+        "name": "Pantaloni Rosso Fuoco"
+    },
+    "m_pants_gymleader_0": {
+        "name": "Pantaloncini Capopalestra"
+    },
+    "m_pants_gymleader_1": {
+        "name": "Pantaloncini Capopalestra"
+    },
+    "m_pants_gymleader_2": {
+        "name": "Pantaloncini Capopalestra"
+    },
+    "m_pants_jogger_0": {
+        "name": "Pantaloncini Podista"
+    },
+    "m_pants_skinnyjeans_0": {
+        "name": "Jeans aderenti"
+    },
+    "m_pants_skinnyjeans_1": {
+        "name": "Jeans aderenti"
+    },
+    "m_pants_skinnyjeans_2": {
+        "name": "Jeans aderenti"
+    },
+    "m_pants_sweats_0": {
+        "name": "Pantaloni tuta"
+    },
+    "m_pants_sweats_1": {
+        "name": "Pantaloni tuta"
+    },
+    "m_pants_sweats_2": {
+        "name": "Pantaloni tuta"
+    },
+    "m_pants_sweats_3": {
+        "name": "Pantaloni tuta"
+    },
+    "m_pants_sweats_4": {
+        "name": "Pantaloni tuta"
+    },
+    "m_pants_teamrocket_0": {
+        "name": "Pantaloni Team Rocket"
+    },
+    "m_pants_ultra_0": {},
+    "m_shirt_blazer_0": {
+        "name": "Giacca"
+    },
+    "m_shirt_default_0": {
+        "name": "Felpa rossa e bianca"
+    },
+    "m_shirt_default_1": {
+        "name": "Felpa arancione e bianca"
+    },
+    "m_shirt_default_2": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_default_2B": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_default_3": {
+        "name": "Felpa blu e bianca"
+    },
+    "m_shirt_default_4": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_default_5": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_default_6": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_default_7": {
+        "name": "Felpa classica"
+    },
+    "m_shirt_earthday_2018": {
+        "name": "T-shirt Surf Blue"
+    },
+    "m_shirt_fisher_0": {
+        "name": "Gilet Pescatore"
+    },
+    "m_shirt_frlg_0": {
+        "name": "Maglia Rosso Fuoco"
+    },
+    "m_shirt_gymleader_0": {
+        "name": "Maglia Capopalestra"
+    },
+    "m_shirt_gymleader_1": {
+        "name": "Maglia Capopalestra"
+    },
+    "m_shirt_gymleader_2": {
+        "name": "Maglia Capopalestra"
+    },
+    "m_shirt_jogger_0": {
+        "name": "Top Podista"
+    },
+    "m_shirt_latias_latios_0": {
+        "name": "T-shirt Latias e Latios"
+    },
+    "m_shirt_longsleeves_charizard_0": {
+        "name": "Maglia Charizard"
+    },
+    "m_shirt_longsleeves_charizard_1": {
+        "name": "Maglia Charizard"
+    },
+    "m_shirt_longsleeves_charizard_2": {
+        "name": "Maglia Charizard"
+    },
+    "m_shirt_longsleeves_pikachu_0": {
+        "name": "Maglia Pikachu"
+    },
+    "m_shirt_longsleeves_pikachu_1": {
+        "name": "Maglia Pikachu"
+    },
+    "m_shirt_longsleeves_pikachu_2": {
+        "name": "Maglia Pikachu"
+    },
+    "m_shirt_mew_0": {
+        "name": "T-shirt Mew"
+    },
+    "m_shirt_sweatshirt_sporty_0": {
+        "name": "Felpa sportiva"
+    },
+    "m_shirt_sweatshirt_sporty_1": {
+        "name": "Felpa sportiva"
+    },
+    "m_shirt_sweatshirt_sporty_2": {
+        "name": "Felpa sportiva"
+    },
+    "m_shirt_sweatshirt_sporty_3": {
+        "name": "Felpa sportiva"
+    },
+    "m_shirt_sweatshirt_streak_0": {
+        "name": "Felpa con saetta"
+    },
+    "m_shirt_sweatshirt_streak_1": {
+        "name": "Felpa con saetta"
+    },
+    "m_shirt_sweatshirt_streak_2": {
+        "name": "Felpa con saetta"
+    },
+    "m_shirt_sweatshirt_streak_3": {
+        "name": "Felpa con saetta"
+    },
+    "m_shirt_sweatshirt_streak_4": {
+        "name": "Felpa con saetta"
+    },
+    "m_shirt_teamrocket_0": {
+        "name": "Maglia Team Rocket"
+    },
+    "m_shirt_teamrocket_1": {
+        "name": "Maglia Team Rainbow Rocket"
+    },
+    "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_geometric_0": {
+        "name": "T-shirt diagonale"
+    },
+    "m_shirt_tshirt_geometric_1": {
+        "name": "T-shirt diagonale"
+    },
+    "m_shirt_tshirt_geometric_2": {
+        "name": "T-shirt diagonale"
+    },
+    "m_shirt_tshirt_global_goals_2017": {},
+    "m_shirt_tshirt_instinct": {
+        "name": "T-shirt Squadra Istinto"
+    },
+    "m_shirt_tshirt_mystic": {
+        "name": "T-shirt Squadra Saggezza"
+    },
+    "m_shirt_tshirt_valor": {
+        "name": "T-shirt Squadra Coraggio"
+    },
+    "m_shirt_turtleneck_30_0": {
+        "name": "Maglia 30"
+    },
+    "m_shirt_turtleneck_30_1": {
+        "name": "Maglia 30"
+    },
+    "m_shirt_turtleneck_30_2": {
+        "name": "Maglia 30"
+    },
+    "m_shirt_turtleneck_30_3": {
+        "name": "Maglia 30"
+    },
+    "m_shirt_ultra_0": {},
+    "m_shoes_default_0": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_1": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_2": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_3": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_4": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_5": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_default_6": {
+        "name": "Scarpe sportive"
+    },
+    "m_shoes_empty": {
+        "name": "Senza scarpe"
+    },
+    "m_shoes_fisher_0": {
+        "name": "Stivali Pescatore"
+    },
+    "m_shoes_frlg_0": {
+        "name": "Scarpe Rosso Fuoco"
+    },
+    "m_shoes_gymleader_0": {
+        "name": "Scarpe Capopalestra"
+    },
+    "m_shoes_gymleader_1": {
+        "name": "Scarpe Capopalestra"
+    },
+    "m_shoes_gymleader_2": {
+        "name": "Scarpe Capopalestra"
+    },
+    "m_shoes_jogger_0": {
+        "name": "Scarpe Podista"
+    },
+    "m_shoes_teamrocket_0": {
+        "name": "Stivali Team Rocket"
+    },
+    "m_shoes_teamrocket_1": {
+        "name": "Stivali Team Rainbow Rocket"
+    },
+    "m_shoes_ultra_0": {},
+    "m_socks_default_0": {
+        "name": "Scaldamuscoli"
+    },
+    "m_socks_default_1": {
+        "name": "Scaldamuscoli"
+    },
+    "m_socks_default_2": {
+        "name": "Scaldamuscoli"
+    },
+    "m_socks_default_3": {
+        "name": "Scaldamuscoli"
+    },
+    "m_socks_empty": {
+        "name": "Senza calze"
+    }
+}

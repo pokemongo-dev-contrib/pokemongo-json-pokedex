@@ -1,22 +1,22 @@
 import * as fs from 'fs-promise';
 import * as path from 'path';
 import * as mkdirp from 'mkdirp';
-import { forEachSeries, forEach } from 'p-iteration';
+import { forEachSeries } from 'p-iteration';
 
 import { AvatarCustomizationPipeline } from './processing/avatarCustomization/index';
 import { MovePipeline } from './processing/move/index';
-import { Pipeline, IPipeline } from './core/index';
+import { Pipeline } from './core/index';
 import { PokemonPipeline } from './processing/pokemon/index';
 import { TypePipeline } from './processing/type/index';
 import chalk from 'chalk';
-import { ItemPipeline } from './processing/item';
+import { ItemPipeline } from './processing/item/index';
 import { PokemonLocalesPipeline } from './processing/pokemon/locales/pokemonLocalesPipeline';
 import { Locale } from './outcome/locales/locale.interface';
 import { PokemonLocalTranslations } from './outcome/pokemon/index';
-import { pathExists, mkdir } from 'fs-promise';
 import { MoveLocalesPipeline } from './processing/move/locales/moveLocalesPipeline';
 import { LocalesPipeline } from './core/pipeline/localePipeline';
 import { ItemLocalesPipeline } from './processing/item/locales/itemLocalesPipeline';
+import { AvatarCustomizationLocalesPipeline } from './processing/avatarCustomization/locales/index';
 
 const gameMaster = require('./data/GAME_MASTER.json');
 const packageJson = require('../package.json');
@@ -83,9 +83,14 @@ const writeItems = async () => {
     writeTranslations('item.json', new ItemLocalesPipeline(ITEMS_TRANSLATIONS, items, LOCALES), 'Items Translations');
 }
 
+const writeAvatarCusomization = async () => {
+    const avatarCustomization = await write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
+    writeTranslations('avatar-customization.json', new AvatarCustomizationLocalesPipeline(ITEMS_TRANSLATIONS, avatarCustomization, LOCALES), 'Avatar Customizations Translations');
+};
+
 writePokemon();
 writeMoves();
 writeItems();
+writeAvatarCusomization();
 
 write('./output/type.json', new TypePipeline(gameMaster), 'Types');
-write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
