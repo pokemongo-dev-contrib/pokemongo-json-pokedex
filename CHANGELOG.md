@@ -1,8 +1,23 @@
+# Version 3.2.1 (13.08.2018)
+
+## Features
+
+- **Fix(output)**: Pokemon only having one cinemativ move
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+- [imiguelacuna](https://github.com/imiguelacuna)
+
 # Version 3.2.0 (07.08.2018)
 
 ## Features
 
 - **Add(output)**: Translation files for Pokemons, Avatar Customizations, Items and Moves
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
 
 # Version 3.1.3 (02.08.2018)
 
