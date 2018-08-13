@@ -195,6 +195,9 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.pastBranch.id, 'Alolan Raticate first past evolution Id should be RATICATE_ALOLA').to.equal('RATTATA_ALOLA'),
                 item => expect(item.evolution.pastBranch.name, 'Alolan Raticate first past evolution Name should be Raticate Alola').to.equal('Rattata Alola'),
                 item => expect(item.evolution.costToEvolve.candyCost, 'Alolan Raticate should cost 25 candy to evolve').to.equal(25)
+            ],
+            'HO_OH': [
+                item => expect(item.name, 'HO_OH should have the name Ho-Oh').to.equal('Ho-Oh')
             ]
 
         };
