@@ -1,3 +1,13 @@
+# Version 3.2.2 (13.08.2018)
+
+## Features
+
+- **Fix(output)**: HO_OH name to Ho-Oh
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
 # Version 3.2.1 (13.08.2018)
 
 ## Features
