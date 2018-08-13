@@ -28,7 +28,7 @@ npm start -- "de-DE" "item"
 # Prints all avatar-customization in Spanish
 npm start -- "es-ES" "avatar-customization"
 
-# Prints all avatar-customization in Spanish
+# Prints all moves in Spanish
 npm start -- "zh-TW" "move"
 
 ```
