@@ -11,7 +11,7 @@ export class CinematicMoves implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
     const cinematicMoves = _
       .chain(rawPokemon.pokemonSettings.cinematicMoves)
-      .uniqBy('id')
+      .uniq()
       .map(Util.SnakeCase2Identifyable)
       .value();
     pokemon.cinematicMoves = cinematicMoves;

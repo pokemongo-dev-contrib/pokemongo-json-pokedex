@@ -22,6 +22,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
             }
         ],
         "quickMoves": [
@@ -128,6 +136,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
             }
         ],
         "quickMoves": [
@@ -232,6 +248,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -330,6 +354,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Flame Burst",
+                "id": "FLAME_BURST"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -428,6 +460,14 @@
             {
                 "name": "Fire Punch",
                 "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Flame Burst",
+                "id": "FLAME_BURST"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -528,6 +568,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -627,6 +675,14 @@
             {
                 "name": "Aqua Jet",
                 "id": "AQUA_JET"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -725,6 +781,14 @@
             {
                 "name": "Aqua Jet",
                 "id": "AQUA_JET"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
             }
         ],
         "quickMoves": [
@@ -825,6 +889,14 @@
             {
                 "name": "Flash Cannon",
                 "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
             }
         ],
         "quickMoves": [
@@ -1115,6 +1187,14 @@
             {
                 "name": "Bug Buzz",
                 "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
             }
         ],
         "quickMoves": [
@@ -1419,6 +1499,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
@@ -1522,6 +1610,14 @@
             {
                 "name": "Twister",
                 "id": "TWISTER"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
             }
         ],
         "quickMoves": [
@@ -1628,6 +1724,14 @@
             {
                 "name": "Twister",
                 "id": "TWISTER"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
             }
         ],
         "quickMoves": [
@@ -1733,6 +1837,14 @@
             {
                 "name": "Hurricane",
                 "id": "HURRICANE"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
             }
         ],
         "quickMoves": [
@@ -1832,6 +1944,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Hyper Fang",
+                "id": "HYPER_FANG"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -1921,6 +2041,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Hyper Fang",
+                "id": "HYPER_FANG"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -2014,6 +2142,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Hyper Fang",
+                "id": "HYPER_FANG"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -2101,6 +2237,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Hyper Fang",
+                "id": "HYPER_FANG"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -2196,6 +2340,14 @@
             {
                 "name": "Aerial Ace",
                 "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Drill Peck",
+                "id": "DRILL_PECK"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
             }
         ],
         "quickMoves": [
@@ -2293,6 +2445,14 @@
             {
                 "name": "Aerial Ace",
                 "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
             }
         ],
         "quickMoves": [
@@ -2385,6 +2545,14 @@
             {
                 "name": "Wrap",
                 "id": "WRAP"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -2478,6 +2646,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
             }
         ],
         "quickMoves": [
@@ -2569,6 +2745,14 @@
             {
                 "name": "Discharge",
                 "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -2665,6 +2849,14 @@
             {
                 "name": "Brick Break",
                 "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -2759,6 +2951,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -2842,6 +3042,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
             }
         ],
         "quickMoves": [
@@ -2931,6 +3139,14 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
@@ -3024,6 +3240,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
             }
         ],
         "quickMoves": [
@@ -3111,6 +3335,14 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
             }
         ],
         "quickMoves": [
@@ -3202,6 +3434,14 @@
             {
                 "name": "Poison Fang",
                 "id": "POISON_FANG"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -3300,6 +3540,14 @@
             {
                 "name": "Poison Fang",
                 "id": "POISON_FANG"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -3400,6 +3648,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -3498,6 +3754,14 @@
             {
                 "name": "Horn Attack",
                 "id": "HORN_ATTACK"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -3596,6 +3860,14 @@
             {
                 "name": "Horn Attack",
                 "id": "HORN_ATTACK"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -3696,6 +3968,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
             }
         ],
         "quickMoves": [
@@ -3794,6 +4074,14 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -3894,6 +4182,14 @@
             {
                 "name": "Dazzling Gleam",
                 "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -3988,6 +4284,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
             }
         ],
         "quickMoves": [
@@ -4077,6 +4381,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -4170,6 +4482,14 @@
             {
                 "name": "Heat Wave",
                 "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -4261,6 +4581,14 @@
             {
                 "name": "Dazzling Gleam",
                 "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -4352,6 +4680,14 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -4456,6 +4792,14 @@
             {
                 "name": "Dazzling Gleam",
                 "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -4558,6 +4902,14 @@
             {
                 "name": "Poison Fang",
                 "id": "POISON_FANG"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -4665,6 +5017,14 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
             }
         ],
         "quickMoves": [
@@ -4766,6 +5126,14 @@
             {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -4879,6 +5247,14 @@
             {
                 "name": "Petal Blizzard",
                 "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -4994,6 +5370,14 @@
             {
                 "name": "Petal Blizzard",
                 "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -5092,6 +5476,14 @@
             {
                 "name": "Cross Poison",
                 "id": "CROSS_POISON"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
@@ -5185,6 +5577,14 @@
             {
                 "name": "Cross Poison",
                 "id": "CROSS_POISON"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -5276,6 +5676,14 @@
             {
                 "name": "Poison Fang",
                 "id": "POISON_FANG"
+            },
+            {
+                "name": "Psybeam",
+                "id": "PSYBEAM"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
             }
         ],
         "quickMoves": [
@@ -5373,6 +5781,14 @@
             {
                 "name": "Silver Wind",
                 "id": "SILVER_WIND"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
@@ -5465,6 +5881,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -5549,6 +5973,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -5641,6 +6073,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -5727,6 +6167,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
             }
         ],
         "quickMoves": [
@@ -5813,6 +6261,14 @@
             {
                 "name": "Night Slash",
                 "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -5902,6 +6358,14 @@
             {
                 "name": "Night Slash",
                 "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -5991,6 +6455,14 @@
             {
                 "name": "Foul Play",
                 "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -6078,6 +6550,14 @@
             {
                 "name": "Foul Play",
                 "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -6165,6 +6645,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Cross Chop",
+                "id": "CROSS_CHOP"
             }
         ],
         "quickMoves": [
@@ -6258,6 +6746,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -6345,6 +6841,14 @@
             {
                 "name": "Cross Chop",
                 "id": "CROSS_CHOP"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -6438,6 +6942,14 @@
             {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
@@ -6525,6 +7037,14 @@
             {
                 "name": "Flame Wheel",
                 "id": "FLAME_WHEEL"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -6618,6 +7138,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
@@ -6705,6 +7233,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -6818,6 +7354,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
             }
         ],
         "quickMoves": [
@@ -6929,6 +7473,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
             }
         ],
         "quickMoves": [
@@ -7027,6 +7579,14 @@
             {
                 "name": "Psyshock",
                 "id": "PSYSHOCK"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -7130,6 +7690,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -7230,6 +7798,14 @@
             {
                 "name": "Futuresight",
                 "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -7324,6 +7900,14 @@
             {
                 "name": "Low Sweep",
                 "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Cross Chop",
+                "id": "CROSS_CHOP"
             }
         ],
         "quickMoves": [
@@ -7426,6 +8010,14 @@
             {
                 "name": "Submission",
                 "id": "SUBMISSION"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
             }
         ],
         "quickMoves": [
@@ -7526,6 +8118,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
@@ -7620,6 +8220,14 @@
             {
                 "name": "Power Whip",
                 "id": "POWER_WHIP"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
@@ -7726,6 +8334,14 @@
             {
                 "name": "Power Whip",
                 "id": "POWER_WHIP"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
@@ -7831,6 +8447,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -7930,6 +8554,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
@@ -8028,6 +8660,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -8120,6 +8760,14 @@
             {
                 "name": "Rock Slide",
                 "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
@@ -8223,6 +8871,14 @@
             {
                 "name": "Rock Slide",
                 "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -8330,6 +8986,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -8434,6 +9098,14 @@
             {
                 "name": "Thunderbolt",
                 "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -8538,6 +9210,14 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -8640,6 +9320,14 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -8738,6 +9426,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Flame Wheel",
+                "id": "FLAME_WHEEL"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
@@ -8831,6 +9527,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
             }
         ],
         "quickMoves": [
@@ -8918,6 +9622,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
@@ -9026,6 +9738,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -9121,6 +9841,14 @@
             {
                 "name": "Discharge",
                 "id": "DISCHARGE"
+            },
+            {
+                "name": "Magnet Bomb",
+                "id": "MAGNET_BOMB"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -9215,6 +9943,14 @@
             {
                 "name": "Zap Cannon",
                 "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Magnet Bomb",
+                "id": "MAGNET_BOMB"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
             }
         ],
         "quickMoves": [
@@ -9303,6 +10039,14 @@
             {
                 "name": "Aerial Ace",
                 "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
             }
         ],
         "quickMoves": [
@@ -9386,6 +10130,14 @@
             {
                 "name": "Drill Peck",
                 "id": "DRILL_PECK"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
             }
         ],
         "quickMoves": [
@@ -9483,6 +10235,14 @@
             {
                 "name": "Drill Peck",
                 "id": "DRILL_PECK"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
             }
         ],
         "quickMoves": [
@@ -9574,6 +10334,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -9663,6 +10431,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -9759,6 +10535,14 @@
             {
                 "name": "Sludge",
                 "id": "SLUDGE"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -9852,6 +10636,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -9949,6 +10741,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
@@ -10040,6 +10840,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
@@ -10131,6 +10939,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
             }
         ],
         "quickMoves": [
@@ -10224,6 +11040,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
             }
         ],
         "quickMoves": [
@@ -10320,6 +11144,14 @@
             {
                 "name": "Night Shade",
                 "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -10427,6 +11259,14 @@
             {
                 "name": "Shadow Punch",
                 "id": "SHADOW_PUNCH"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -10532,6 +11372,14 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -10634,6 +11482,14 @@
             {
                 "name": "Sand Tomb",
                 "id": "SAND_TOMB"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
@@ -10731,6 +11587,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
@@ -10824,6 +11688,14 @@
             {
                 "name": "Futuresight",
                 "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
@@ -10911,6 +11783,14 @@
             {
                 "name": "Vice Grip",
                 "id": "VICE_GRIP"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -11004,6 +11884,14 @@
             {
                 "name": "Vice Grip",
                 "id": "VICE_GRIP"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -11091,6 +11979,14 @@
             {
                 "name": "Discharge",
                 "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
             }
         ],
         "quickMoves": [
@@ -11180,6 +12076,14 @@
             {
                 "name": "Discharge",
                 "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -11263,6 +12167,14 @@
             {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -11360,6 +12272,14 @@
             {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -11455,6 +12375,14 @@
             {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -11538,6 +12466,14 @@
             {
                 "name": "Bone Club",
                 "id": "BONE_CLUB"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
             }
         ],
         "quickMoves": [
@@ -11627,6 +12563,14 @@
             {
                 "name": "Bone Club",
                 "id": "BONE_CLUB"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -11714,6 +12658,14 @@
             {
                 "name": "Bone Club",
                 "id": "BONE_CLUB"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
             }
         ],
         "quickMoves": [
@@ -11801,6 +12753,14 @@
             {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -11892,6 +12852,18 @@
             {
                 "name": "Fire Punch",
                 "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
@@ -11979,6 +12951,14 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
             }
         ],
         "quickMoves": [
@@ -12062,6 +13042,14 @@
             {
                 "name": "Sludge",
                 "id": "SLUDGE"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
             }
         ],
         "quickMoves": [
@@ -12156,6 +13144,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
             }
         ],
         "quickMoves": [
@@ -12248,6 +13244,14 @@
             {
                 "name": "Bulldoze",
                 "id": "BULLDOZE"
+            },
+            {
+                "name": "Horn Attack",
+                "id": "HORN_ATTACK"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
@@ -12345,6 +13349,14 @@
             {
                 "name": "Surf",
                 "id": "SURF"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -12440,6 +13452,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -12529,6 +13549,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -12612,6 +13640,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
@@ -12691,6 +13727,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
             }
         ],
         "quickMoves": [
@@ -12798,6 +13842,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
             }
         ],
         "quickMoves": [
@@ -12899,6 +13951,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Horn Attack",
+                "id": "HORN_ATTACK"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -12993,6 +14053,14 @@
             {
                 "name": "Ice Beam",
                 "id": "ICE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
             }
         ],
         "quickMoves": [
@@ -13085,6 +14153,14 @@
             {
                 "name": "Swift",
                 "id": "SWIFT"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
             }
         ],
         "quickMoves": [
@@ -13174,6 +14250,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
@@ -13261,6 +14345,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -13348,6 +14440,14 @@
             {
                 "name": "Night Slash",
                 "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -13450,6 +14550,14 @@
             {
                 "name": "Draining Kiss",
                 "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -13545,6 +14653,14 @@
             {
                 "name": "Thunder Punch",
                 "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -13636,6 +14752,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -13727,6 +14851,14 @@
             {
                 "name": "Vice Grip",
                 "id": "VICE_GRIP"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
@@ -13810,6 +14942,14 @@
             {
                 "name": "Horn Attack",
                 "id": "HORN_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -13975,6 +15115,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
@@ -14071,6 +15219,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -14229,6 +15385,10 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -14346,6 +15506,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -14429,6 +15597,14 @@
             {
                 "name": "Discharge",
                 "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -14516,6 +15692,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -14607,6 +15791,14 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
             }
         ],
         "quickMoves": [
@@ -14697,6 +15889,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -14794,6 +15994,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -14885,6 +16093,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -14982,6 +16198,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -15077,6 +16301,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -15165,6 +16397,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -15248,6 +16488,14 @@
             {
                 "name": "Ice Beam",
                 "id": "ICE_BEAM"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -15332,6 +16580,14 @@
             {
                 "name": "Zap Cannon",
                 "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -15416,6 +16672,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -15496,6 +16760,14 @@
             {
                 "name": "Wrap",
                 "id": "WRAP"
+            },
+            {
+                "name": "Twister",
+                "id": "TWISTER"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -15598,6 +16870,14 @@
             {
                 "name": "Wrap",
                 "id": "WRAP"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
             }
         ],
         "quickMoves": [
@@ -15698,6 +16978,14 @@
             {
                 "name": "Hurricane",
                 "id": "HURRICANE"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
@@ -15801,6 +17089,18 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
@@ -15880,6 +17180,102 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
@@ -16006,6 +17402,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -16104,6 +17508,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -16204,6 +17616,14 @@
             {
                 "name": "Petal Blizzard",
                 "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -16298,6 +17718,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -16396,6 +17824,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -16496,6 +17932,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -16590,6 +18034,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -16688,6 +18140,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -16788,6 +18248,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -16882,6 +18350,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
@@ -16971,6 +18447,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -17058,6 +18542,14 @@
             {
                 "name": "Aerial Ace",
                 "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
             }
         ],
         "quickMoves": [
@@ -17155,6 +18647,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
             }
         ],
         "quickMoves": [
@@ -17251,6 +18751,14 @@
             {
                 "name": "Silver Wind",
                 "id": "SILVER_WIND"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -17349,6 +18857,14 @@
             {
                 "name": "Bug Buzz",
                 "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Silver Wind",
+                "id": "SILVER_WIND"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -17441,6 +18957,14 @@
             {
                 "name": "Night Slash",
                 "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
+            },
+            {
+                "name": "Cross Poison",
+                "id": "CROSS_POISON"
             }
         ],
         "quickMoves": [
@@ -17534,6 +19058,14 @@
             {
                 "name": "Shadow Sneak",
                 "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
+            },
+            {
+                "name": "Cross Poison",
+                "id": "CROSS_POISON"
             }
         ],
         "quickMoves": [
@@ -17629,6 +19161,14 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -17728,6 +19268,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
             }
         ],
         "quickMoves": [
@@ -17826,6 +19374,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -17922,6 +19478,14 @@
             {
                 "name": "Thunderbolt",
                 "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
             }
         ],
         "quickMoves": [
@@ -18019,6 +19583,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
             }
         ],
         "quickMoves": [
@@ -18116,6 +19688,14 @@
             {
                 "name": "Wild Charge",
                 "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
@@ -18222,6 +19802,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -18310,6 +19898,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -18406,6 +20002,14 @@
             {
                 "name": "Night Shade",
                 "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Drill Peck",
+                "id": "DRILL_PECK"
             }
         ],
         "quickMoves": [
@@ -18503,6 +20107,14 @@
             {
                 "name": "Ominous Wind",
                 "id": "OMINOUS_WIND"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -18595,6 +20207,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
             }
         ],
         "quickMoves": [
@@ -18693,6 +20313,14 @@
             {
                 "name": "Power Gem",
                 "id": "POWER_GEM"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
             }
         ],
         "quickMoves": [
@@ -18793,6 +20421,14 @@
             {
                 "name": "Zap Cannon",
                 "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -18887,6 +20523,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -18985,6 +20629,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -19085,6 +20737,14 @@
             {
                 "name": "Play Rough",
                 "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -19183,6 +20843,14 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
@@ -19258,6 +20926,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
@@ -19360,6 +21036,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
@@ -19467,6 +21151,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
@@ -19572,6 +21264,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -19671,6 +21371,14 @@
             {
                 "name": "Low Sweep",
                 "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -19754,6 +21462,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
@@ -19847,6 +21563,14 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -19938,6 +21662,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Silver Wind",
+                "id": "SILVER_WIND"
             }
         ],
         "quickMoves": [
@@ -20022,6 +21754,14 @@
             {
                 "name": "Mud Bomb",
                 "id": "MUD_BOMB"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -20119,6 +21859,14 @@
             {
                 "name": "Sludge Bomb",
                 "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -20210,6 +21958,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
             }
         ],
         "quickMoves": [
@@ -20296,6 +22052,10 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -20386,6 +22146,14 @@
             {
                 "name": "Drill Peck",
                 "id": "DRILL_PECK"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
             }
         ],
         "quickMoves": [
@@ -20473,6 +22241,14 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
             }
         ],
         "quickMoves": [
@@ -20569,6 +22345,14 @@
             {
                 "name": "Shadow Sneak",
                 "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Ominous Wind",
+                "id": "OMINOUS_WIND"
             }
         ],
         "quickMoves": [
@@ -20816,6 +22600,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
@@ -20899,6 +22691,14 @@
             {
                 "name": "Gyro Ball",
                 "id": "GYRO_BALL"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
             }
         ],
         "quickMoves": [
@@ -20992,6 +22792,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -21084,6 +22892,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
             }
         ],
         "quickMoves": [
@@ -21163,6 +22979,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
@@ -21251,6 +23075,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
@@ -21342,6 +23174,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -21435,6 +23275,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
@@ -21522,6 +23370,14 @@
             {
                 "name": "Aqua Tail",
                 "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
@@ -21610,6 +23466,14 @@
             {
                 "name": "X Scissor",
                 "id": "X_SCISSOR"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
@@ -21705,6 +23569,14 @@
             {
                 "name": "Rock Blast",
                 "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
             }
         ],
         "quickMoves": [
@@ -21792,6 +23664,14 @@
             {
                 "name": "Megahorn",
                 "id": "MEGAHORN"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -21875,6 +23755,14 @@
             {
                 "name": "Avalanche",
                 "id": "AVALANCHE"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -21958,6 +23846,14 @@
             {
                 "name": "Cross Chop",
                 "id": "CROSS_CHOP"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -22051,6 +23947,14 @@
             {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -22138,6 +24042,14 @@
             {
                 "name": "Flame Burst",
                 "id": "FLAME_BURST"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
@@ -22227,6 +24139,14 @@
             {
                 "name": "Heat Wave",
                 "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -22318,6 +24238,14 @@
             {
                 "name": "Icy Wind",
                 "id": "ICY_WIND"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
@@ -22415,6 +24343,14 @@
             {
                 "name": "Avalanche",
                 "id": "AVALANCHE"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -22506,6 +24442,14 @@
             {
                 "name": "Rock Blast",
                 "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
             }
         ],
         "quickMoves": [
@@ -22586,6 +24530,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -22676,6 +24628,14 @@
             {
                 "name": "Gunk Shot",
                 "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Aurora Beam",
+                "id": "AURORA_BEAM"
             }
         ],
         "quickMoves": [
@@ -22763,6 +24723,14 @@
             {
                 "name": "Ice Punch",
                 "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -22846,6 +24814,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -22934,6 +24910,14 @@
             {
                 "name": "Brave Bird",
                 "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
             }
         ],
         "quickMoves": [
@@ -23018,6 +25002,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
             }
         ],
         "quickMoves": [
@@ -23111,6 +25103,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -23206,6 +25206,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
@@ -23309,6 +25317,14 @@
             {
                 "name": "Bulldoze",
                 "id": "BULLDOZE"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -23402,6 +25418,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
             }
         ],
         "quickMoves": [
@@ -23489,6 +25513,14 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
             }
         ],
         "quickMoves": [
@@ -23581,6 +25613,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
             }
         ],
         "quickMoves": [
@@ -23739,6 +25779,14 @@
             {
                 "name": "Brick Break",
                 "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
             }
         ],
         "quickMoves": [
@@ -23841,6 +25889,14 @@
             {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -23932,6 +25988,14 @@
             {
                 "name": "Ice Beam",
                 "id": "ICE_BEAM"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -24028,6 +26092,14 @@
             {
                 "name": "Thunder Punch",
                 "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
             }
         ],
         "quickMoves": [
@@ -24120,6 +26192,14 @@
             {
                 "name": "Brick Break",
                 "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Flame Burst",
+                "id": "FLAME_BURST"
             }
         ],
         "quickMoves": [
@@ -24212,6 +26292,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
             }
         ],
         "quickMoves": [
@@ -24295,6 +26383,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -24386,6 +26482,14 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -24469,6 +26573,14 @@
             {
                 "name": "Flamethrower",
                 "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -24552,6 +26664,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -24631,6 +26751,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -24731,6 +26859,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -24835,6 +26971,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -24937,6 +27081,14 @@
             {
                 "name": "Sky Attack",
                 "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
             }
         ],
         "quickMoves": [
@@ -25025,6 +27177,14 @@
             {
                 "name": "Brave Bird",
                 "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -25109,6 +27269,14 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -25192,6 +27360,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
@@ -25290,6 +27466,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
@@ -25390,6 +27574,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -25484,6 +27676,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -25586,6 +27786,14 @@
             {
                 "name": "Flame Charge",
                 "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
@@ -25690,6 +27898,14 @@
             {
                 "name": "Focus Blast",
                 "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
             }
         ],
         "quickMoves": [
@@ -25788,6 +28004,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Sludge",
+                "id": "SLUDGE"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
@@ -25886,6 +28110,14 @@
             {
                 "name": "Mud Bomb",
                 "id": "MUD_BOMB"
+            },
+            {
+                "name": "Sludge",
+                "id": "SLUDGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
@@ -25990,6 +28222,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
@@ -26088,6 +28328,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
             }
         ],
         "quickMoves": [
@@ -26177,6 +28425,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
             }
         ],
         "quickMoves": [
@@ -26264,6 +28520,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -26353,6 +28617,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -26658,6 +28930,14 @@
             {
                 "name": "Silver Wind",
                 "id": "SILVER_WIND"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
@@ -26857,6 +29137,14 @@
             {
                 "name": "Silver Wind",
                 "id": "SILVER_WIND"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
@@ -26960,6 +29248,10 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
@@ -27066,6 +29358,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
@@ -27170,6 +29470,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -27268,6 +29576,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -27370,6 +29686,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -27474,6 +29798,14 @@
             {
                 "name": "Leaf Blade",
                 "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
             }
         ],
         "quickMoves": [
@@ -27669,6 +30001,14 @@
             {
                 "name": "Aerial Ace",
                 "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
             }
         ],
         "quickMoves": [
@@ -27765,6 +30105,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -27863,6 +30211,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
@@ -27955,6 +30311,14 @@
             {
                 "name": "Psyshock",
                 "id": "PSYSHOCK"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -28057,6 +30421,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -28161,6 +30533,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -28259,6 +30639,14 @@
             {
                 "name": "Aqua Jet",
                 "id": "AQUA_JET"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Signal Beam",
+                "id": "SIGNAL_BEAM"
             }
         ],
         "quickMoves": [
@@ -28356,6 +30744,14 @@
             {
                 "name": "Air Cutter",
                 "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Ominous Wind",
+                "id": "OMINOUS_WIND"
+            },
+            {
+                "name": "Silver Wind",
+                "id": "SILVER_WIND"
             }
         ],
         "quickMoves": [
@@ -28448,6 +30844,14 @@
             {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
@@ -28541,6 +30945,14 @@
             {
                 "name": "Dynamic Punch",
                 "id": "DYNAMIC_PUNCH"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -28636,6 +31048,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -28733,6 +31153,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -28833,6 +31261,14 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -28920,6 +31356,14 @@
             {
                 "name": "Night Slash",
                 "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -29024,6 +31468,14 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
@@ -29120,6 +31572,14 @@
             {
                 "name": "Shadow Sneak",
                 "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
@@ -29208,6 +31668,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -29310,6 +31778,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
@@ -29410,6 +31886,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
             }
         ],
         "quickMoves": [
@@ -29508,6 +31992,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Cross Chop",
+                "id": "CROSS_CHOP"
             }
         ],
         "quickMoves": [
@@ -29601,6 +32093,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
             }
         ],
         "quickMoves": [
@@ -29688,6 +32188,14 @@
             {
                 "name": "Bubble Beam",
                 "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -29794,6 +32302,14 @@
             {
                 "name": "Rock Blast",
                 "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -29873,6 +32389,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -29966,6 +32490,14 @@
             {
                 "name": "Play Rough",
                 "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
@@ -30053,6 +32585,14 @@
             {
                 "name": "Power Gem",
                 "id": "POWER_GEM"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -30136,6 +32676,14 @@
             {
                 "name": "Play Rough",
                 "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Vice Grip",
+                "id": "VICE_GRIP"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
             }
         ],
         "quickMoves": [
@@ -30219,6 +32767,14 @@
             {
                 "name": "Iron Head",
                 "id": "IRON_HEAD"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -30325,6 +32881,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
@@ -30429,6 +32993,14 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
@@ -30527,6 +33099,14 @@
             {
                 "name": "Ice Punch",
                 "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
             }
         ],
         "quickMoves": [
@@ -30624,6 +33204,14 @@
             {
                 "name": "Ice Punch",
                 "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
             }
         ],
         "quickMoves": [
@@ -30719,6 +33307,14 @@
             {
                 "name": "Thunderbolt",
                 "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -30812,6 +33408,14 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Flame Burst",
+                "id": "FLAME_BURST"
             }
         ],
         "quickMoves": [
@@ -30903,6 +33507,14 @@
             {
                 "name": "Thunderbolt",
                 "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -30986,6 +33598,14 @@
             {
                 "name": "Thunderbolt",
                 "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -31069,6 +33689,14 @@
             {
                 "name": "Signal Beam",
                 "id": "SIGNAL_BEAM"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -31152,6 +33780,14 @@
             {
                 "name": "Silver Wind",
                 "id": "SILVER_WIND"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -31231,6 +33867,14 @@
             {
                 "name": "Petal Blizzard",
                 "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -31314,6 +33958,14 @@
             {
                 "name": "Sludge",
                 "id": "SLUDGE"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -31407,6 +34059,14 @@
             {
                 "name": "Gunk Shot",
                 "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -31498,6 +34158,14 @@
             {
                 "name": "Aqua Jet",
                 "id": "AQUA_JET"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
             }
         ],
         "quickMoves": [
@@ -31596,6 +34264,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
             }
         ],
         "quickMoves": [
@@ -31692,6 +34368,14 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -31786,6 +34470,14 @@
             {
                 "name": "Surf",
                 "id": "SURF"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -31870,6 +34562,14 @@
             {
                 "name": "Bulldoze",
                 "id": "BULLDOZE"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
@@ -31967,6 +34667,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -32058,6 +34766,14 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -32134,6 +34850,14 @@
             {
                 "name": "Psybeam",
                 "id": "PSYBEAM"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
@@ -32227,6 +34951,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
@@ -32318,6 +35050,14 @@
             {
                 "name": "Dig",
                 "id": "DIG"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
             }
         ],
         "quickMoves": [
@@ -32397,6 +35137,14 @@
             {
                 "name": "Sand Tomb",
                 "id": "SAND_TOMB"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
@@ -32499,6 +35247,14 @@
             {
                 "name": "Sand Tomb",
                 "id": "SAND_TOMB"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
@@ -32604,6 +35360,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -32707,6 +35471,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
@@ -32800,6 +35572,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
@@ -32895,6 +35675,14 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -32992,6 +35780,14 @@
             {
                 "name": "Sky Attack",
                 "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
             }
         ],
         "quickMoves": [
@@ -33088,6 +35884,14 @@
             {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
@@ -33167,6 +35971,14 @@
             {
                 "name": "Poison Fang",
                 "id": "POISON_FANG"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
@@ -33250,6 +36062,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
             }
         ],
         "quickMoves": [
@@ -33334,6 +36154,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -33414,6 +36242,14 @@
             {
                 "name": "Aqua Tail",
                 "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
             }
         ],
         "quickMoves": [
@@ -33512,6 +36348,14 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
             }
         ],
         "quickMoves": [
@@ -33604,6 +36448,14 @@
             {
                 "name": "Vice Grip",
                 "id": "VICE_GRIP"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
             }
         ],
         "quickMoves": [
@@ -33697,6 +36549,14 @@
             {
                 "name": "Vice Grip",
                 "id": "VICE_GRIP"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
@@ -33788,6 +36648,14 @@
             {
                 "name": "Gyro Ball",
                 "id": "GYRO_BALL"
+            },
+            {
+                "name": "Psybeam",
+                "id": "PSYBEAM"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
@@ -33882,6 +36750,14 @@
             {
                 "name": "Gyro Ball",
                 "id": "GYRO_BALL"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -33974,6 +36850,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -34068,6 +36952,14 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
             }
         ],
         "quickMoves": [
@@ -34160,6 +37052,14 @@
             {
                 "name": "Cross Poison",
                 "id": "CROSS_POISON"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -34257,6 +37157,14 @@
             {
                 "name": "Cross Poison",
                 "id": "CROSS_POISON"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -34443,6 +37351,14 @@
             {
                 "name": "Surf",
                 "id": "SURF"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -34531,6 +37447,10 @@
             {
                 "name": "Hurricane",
                 "id": "HURRICANE"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
@@ -34611,6 +37531,10 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -34691,6 +37615,10 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
             }
         ],
         "quickMoves": [
@@ -34771,6 +37699,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -34851,6 +37783,26 @@
             {
                 "name": "Foul Play",
                 "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -34930,6 +37882,14 @@
             {
                 "name": "Ominous Wind",
                 "id": "OMINOUS_WIND"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -35024,6 +37984,14 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -35115,6 +38083,14 @@
             {
                 "name": "Ominous Wind",
                 "id": "OMINOUS_WIND"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
             }
         ],
         "quickMoves": [
@@ -35208,6 +38184,14 @@
             {
                 "name": "Shadow Punch",
                 "id": "SHADOW_PUNCH"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
             }
         ],
         "quickMoves": [
@@ -35299,6 +38283,14 @@
             {
                 "name": "Stomp",
                 "id": "STOMP"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
             }
         ],
         "quickMoves": [
@@ -35383,6 +38375,14 @@
             {
                 "name": "Energy Ball",
                 "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -35463,6 +38463,14 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
             }
         ],
         "quickMoves": [
@@ -35635,6 +38643,14 @@
             {
                 "name": "Avalanche",
                 "id": "AVALANCHE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -35728,6 +38744,14 @@
             {
                 "name": "Avalanche",
                 "id": "AVALANCHE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
@@ -35820,6 +38844,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -35926,6 +38958,14 @@
             {
                 "name": "Aurora Beam",
                 "id": "AURORA_BEAM"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -36030,6 +39070,14 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -36128,6 +39176,14 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -36220,6 +39276,14 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -36311,6 +39375,14 @@
             {
                 "name": "Draining Kiss",
                 "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -36402,6 +39474,14 @@
             {
                 "name": "Ancient Power",
                 "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
             }
         ],
         "quickMoves": [
@@ -36486,6 +39566,14 @@
             {
                 "name": "Draining Kiss",
                 "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
             }
         ],
         "quickMoves": [
@@ -36566,6 +39654,14 @@
             {
                 "name": "Flamethrower",
                 "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Twister",
+                "id": "TWISTER"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
@@ -36668,6 +39764,14 @@
             {
                 "name": "Flamethrower",
                 "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Twister",
+                "id": "TWISTER"
             }
         ],
         "quickMoves": [
@@ -36768,6 +39872,14 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Draco Meteor",
+                "id": "DRACO_METEOR"
             }
         ],
         "quickMoves": [
@@ -36966,6 +40078,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -37067,6 +40187,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -37165,6 +40293,14 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
@@ -37248,6 +40384,14 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
@@ -37331,6 +40475,14 @@
             {
                 "name": "Flash Cannon",
                 "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
@@ -37414,6 +40566,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -37506,6 +40666,14 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -37598,6 +40766,14 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
             }
         ],
         "quickMoves": [
@@ -37678,6 +40854,14 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
@@ -37758,6 +40942,14 @@
             {
                 "name": "Outrage",
                 "id": "OUTRAGE"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
@@ -37842,6 +41034,14 @@
             {
                 "name": "Dazzling Gleam",
                 "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Doom Desire",
+                "id": "DOOM_DESIRE"
             }
         ],
         "quickMoves": [
@@ -37930,6 +41130,14 @@
             {
                 "name": "Psycho Boost",
                 "id": "PSYCHO_BOOST"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -38013,6 +41221,14 @@
             {
                 "name": "Psycho Boost",
                 "id": "PSYCHO_BOOST"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -38096,6 +41312,14 @@
             {
                 "name": "Psycho Boost",
                 "id": "PSYCHO_BOOST"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -38179,6 +41403,14 @@
             {
                 "name": "Psycho Boost",
                 "id": "PSYCHO_BOOST"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
