@@ -8,12 +8,13 @@ import { Util } from '@util';
 })
 export class BuddySize implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-    if (rawPokemon.pokemonSettings.buddySize) {
-      pokemon.buddySize = {
-        id: rawPokemon.pokemonSettings.buddySize,
-        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.buddySize.replace('BUDDY_', ''))
-      }
+    const buddySize = rawPokemon.pokemonSettings.buddySize || 'BUDDY_MEDIUM';
+
+    pokemon.buddySize = {
+      id: buddySize,
+      name: Util.SnakeCase2HumanReadable(buddySize.replace('BUDDY_', ''))
     }
+
     return pokemon;
   }
 }

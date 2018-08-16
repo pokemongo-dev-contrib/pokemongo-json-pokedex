@@ -18,6 +18,10 @@
         "weight": 6.9,
         "modelScale": 1.09,
         "maxCP": 981,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Sludge Bomb",
@@ -350,6 +354,10 @@
         "weight": 8.5,
         "modelScale": 1.25,
         "maxCP": 831,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Charge",
@@ -456,6 +464,10 @@
         "weight": 19,
         "modelScale": 1.03,
         "maxCP": 1484,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Fire Punch",
@@ -671,6 +683,10 @@
         "weight": 9,
         "modelScale": 1.53,
         "maxCP": 808,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aqua Jet",
@@ -777,6 +793,10 @@
         "weight": 22.5,
         "modelScale": 1,
         "maxCP": 1324,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aqua Jet",
@@ -1088,6 +1108,10 @@
         "weight": 9.9,
         "modelScale": 1.17,
         "maxCP": 419,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -1396,6 +1420,10 @@
         "weight": 10,
         "modelScale": 1.25,
         "maxCP": 392,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -1940,6 +1968,10 @@
         "weight": 3.5,
         "modelScale": 1.26,
         "maxCP": 588,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -2037,6 +2069,10 @@
         "weight": 3.8,
         "modelScale": 1.26,
         "maxCP": 588,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -2138,6 +2174,10 @@
         "weight": 18.5,
         "modelScale": 1.17,
         "maxCP": 1549,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -2233,6 +2273,10 @@
         "weight": 25.5,
         "modelScale": 1.17,
         "maxCP": 1587,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -2541,6 +2585,10 @@
         "weight": 6.9,
         "modelScale": 1.73,
         "maxCP": 778,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Wrap",
@@ -2845,6 +2893,10 @@
         "weight": 30,
         "modelScale": 1.08,
         "maxCP": 2025,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Brick Break",
@@ -2947,6 +2999,10 @@
         "weight": 21,
         "modelScale": 1.08,
         "maxCP": 2143,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psychic",
@@ -3038,6 +3094,10 @@
         "weight": 12,
         "modelScale": 1.29,
         "maxCP": 1194,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -3135,6 +3195,10 @@
         "weight": 40,
         "modelScale": 1.29,
         "maxCP": 1219,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Blizzard",
@@ -3236,6 +3300,10 @@
         "weight": 29.5,
         "modelScale": 1,
         "maxCP": 2328,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Earthquake",
@@ -3331,6 +3399,10 @@
         "weight": 55,
         "modelScale": 1,
         "maxCP": 2366,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Blizzard",
@@ -3430,6 +3502,10 @@
         "weight": 7,
         "modelScale": 1.48,
         "maxCP": 736,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Poison Fang",
@@ -3536,6 +3612,10 @@
         "weight": 20,
         "modelScale": 1.17,
         "maxCP": 1218,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Poison Fang",
@@ -3750,6 +3830,10 @@
         "weight": 9,
         "modelScale": 1.26,
         "maxCP": 739,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Horn Attack",
@@ -3856,6 +3940,10 @@
         "weight": 19.5,
         "modelScale": 0.99,
         "maxCP": 1252,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Horn Attack",
@@ -4070,6 +4158,10 @@
         "weight": 7.5,
         "modelScale": 1.25,
         "maxCP": 1085,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Disarming Voice",
@@ -4280,6 +4372,10 @@
         "weight": 9.9,
         "modelScale": 1.26,
         "maxCP": 774,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Body Slam",
@@ -4377,6 +4473,10 @@
         "weight": 9.9,
         "modelScale": 1.26,
         "maxCP": 774,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dark Pulse",
@@ -4676,6 +4776,10 @@
         "weight": 5.5,
         "modelScale": 1.28,
         "maxCP": 713,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Disarming Voice",
@@ -5122,6 +5226,10 @@
         "weight": 5.4,
         "modelScale": 1.35,
         "maxCP": 1069,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Seed Bomb",
@@ -5243,6 +5351,10 @@
         "weight": 8.6,
         "modelScale": 1.1,
         "maxCP": 1512,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Petal Blizzard",
@@ -5472,6 +5584,10 @@
         "weight": 5.4,
         "modelScale": 1.28,
         "maxCP": 836,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Cross Poison",
@@ -5573,6 +5689,10 @@
         "weight": 29.5,
         "modelScale": 1.01,
         "maxCP": 1657,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Cross Poison",
@@ -5672,6 +5792,10 @@
         "weight": 30,
         "modelScale": 0.71,
         "maxCP": 902,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Poison Fang",
@@ -5877,6 +6001,10 @@
         "weight": 0.8,
         "modelScale": 2,
         "maxCP": 465,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -5969,6 +6097,10 @@
         "weight": 1,
         "modelScale": 2,
         "maxCP": 467,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -6257,6 +6389,10 @@
         "weight": 4.2,
         "modelScale": 1.6,
         "maxCP": 638,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Night Slash",
@@ -6354,6 +6490,10 @@
         "weight": 4.2,
         "modelScale": 1.6,
         "maxCP": 679,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Night Slash",
@@ -6451,6 +6591,10 @@
         "weight": 32,
         "modelScale": 0.82,
         "maxCP": 1539,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Foul Play",
@@ -6546,6 +6690,10 @@
         "weight": 33,
         "modelScale": 0.82,
         "maxCP": 1614,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Foul Play",
@@ -6641,6 +6789,10 @@
         "weight": 19.6,
         "modelScale": 0.97,
         "maxCP": 966,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psybeam",
@@ -6837,6 +6989,10 @@
         "weight": 28,
         "modelScale": 1.29,
         "maxCP": 1002,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Cross Chop",
@@ -7033,6 +7189,10 @@
         "weight": 19,
         "modelScale": 1.17,
         "maxCP": 1110,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Wheel",
@@ -7229,6 +7389,10 @@
         "weight": 12.4,
         "modelScale": 1.25,
         "maxCP": 695,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -7575,6 +7739,10 @@
         "weight": 19.5,
         "modelScale": 1.12,
         "maxCP": 1148,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psyshock",
@@ -7896,6 +8064,10 @@
         "weight": 19.5,
         "modelScale": 1.1,
         "maxCP": 1199,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Low Sweep",
@@ -8216,6 +8388,10 @@
         "weight": 4,
         "modelScale": 1.29,
         "maxCP": 916,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Power Whip",
@@ -8550,6 +8726,10 @@
         "weight": 45.5,
         "modelScale": 1.05,
         "maxCP": 956,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -8756,6 +8936,10 @@
         "weight": 20,
         "modelScale": 0.87,
         "maxCP": 1193,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Rock Slide",
@@ -8867,6 +9051,10 @@
         "weight": 20.3,
         "modelScale": 0.87,
         "maxCP": 1193,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Rock Slide",
@@ -9422,6 +9610,10 @@
         "weight": 30,
         "modelScale": 1.01,
         "maxCP": 1502,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Charge",
@@ -9618,6 +9810,10 @@
         "weight": 36,
         "modelScale": 0.79,
         "maxCP": 1204,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Water Pulse",
@@ -10035,6 +10231,10 @@
         "weight": 15,
         "modelScale": 1.13,
         "maxCP": 1092,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aerial Ace",
@@ -10126,6 +10326,10 @@
         "weight": 39.2,
         "modelScale": 0.88,
         "maxCP": 1011,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Drill Peck",
@@ -10330,6 +10534,10 @@
         "weight": 90,
         "modelScale": 1.1,
         "maxCP": 899,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aurora Beam",
@@ -10427,6 +10635,10 @@
         "weight": 120,
         "modelScale": 1.05,
         "maxCP": 1894,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aurora Beam",
@@ -10935,6 +11147,10 @@
         "weight": 4,
         "modelScale": 1.68,
         "maxCP": 958,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -11779,6 +11995,10 @@
         "weight": 6.5,
         "modelScale": 1.16,
         "maxCP": 1386,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Vice Grip",
@@ -11975,6 +12195,10 @@
         "weight": 10.4,
         "modelScale": 1.35,
         "maxCP": 857,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Discharge",
@@ -12163,6 +12387,10 @@
         "weight": 2.5,
         "modelScale": 1.03,
         "maxCP": 1102,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Seed Bomb",
@@ -12462,6 +12690,10 @@
         "weight": 6.5,
         "modelScale": 1.48,
         "maxCP": 943,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bone Club",
@@ -12559,6 +12791,10 @@
         "weight": 45,
         "modelScale": 1,
         "maxCP": 1691,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bone Club",
@@ -12654,6 +12890,10 @@
         "weight": 34,
         "modelScale": 1,
         "maxCP": 1691,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bone Club",
@@ -12947,6 +13187,10 @@
         "weight": 65.5,
         "modelScale": 0.92,
         "maxCP": 1322,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Hyper Beam",
@@ -13545,6 +13789,10 @@
         "weight": 35,
         "modelScale": 1,
         "maxCP": 2208,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Grass Knot",
@@ -13723,6 +13971,10 @@
         "weight": 8,
         "modelScale": 1.48,
         "maxCP": 921,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -13947,6 +14199,10 @@
         "weight": 15,
         "modelScale": 1.35,
         "maxCP": 1006,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Water Pulse",
@@ -14341,6 +14597,10 @@
         "weight": 54.5,
         "modelScale": 0.89,
         "maxCP": 1984,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psybeam",
@@ -15025,6 +15285,10 @@
         "weight": 10,
         "modelScale": 1.07,
         "maxCP": 220,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -15306,6 +15570,10 @@
         "weight": 4,
         "modelScale": 1.61,
         "maxCP": 718,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -15502,6 +15770,10 @@
         "weight": 29,
         "modelScale": 1.05,
         "maxCP": 3157,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Water Pulse",
@@ -15593,6 +15865,10 @@
         "weight": 24.5,
         "modelScale": 1.1,
         "maxCP": 2730,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Discharge",
@@ -15688,6 +15964,10 @@
         "weight": 25,
         "modelScale": 0.87,
         "maxCP": 2904,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Fire Blast",
@@ -15885,6 +16165,10 @@
         "weight": 7.5,
         "modelScale": 1.48,
         "maxCP": 1345,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ancient Power",
@@ -16089,6 +16373,10 @@
         "weight": 11.5,
         "modelScale": 1.35,
         "maxCP": 1172,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ancient Power",
@@ -16756,6 +17044,10 @@
         "weight": 3.3,
         "modelScale": 1.11,
         "maxCP": 860,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Wrap",
@@ -17176,6 +17468,10 @@
         "weight": 4,
         "modelScale": 1.41,
         "maxCP": 3090,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psychic",
@@ -17398,6 +17694,10 @@
         "weight": 6.4,
         "modelScale": 1.29,
         "maxCP": 801,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Energy Ball",
@@ -17504,6 +17804,10 @@
         "weight": 15.8,
         "modelScale": 0.89,
         "maxCP": 1296,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Energy Ball",
@@ -17714,6 +18018,10 @@
         "weight": 7.9,
         "modelScale": 1.4,
         "maxCP": 831,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Charge",
@@ -17820,6 +18128,10 @@
         "weight": 19,
         "modelScale": 0.98,
         "maxCP": 1484,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Charge",
@@ -18030,6 +18342,10 @@
         "weight": 9.5,
         "modelScale": 1.27,
         "maxCP": 1011,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -18136,6 +18452,10 @@
         "weight": 25,
         "modelScale": 0.98,
         "maxCP": 1598,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -18346,6 +18666,10 @@
         "weight": 6,
         "modelScale": 1.15,
         "maxCP": 519,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -18443,6 +18767,10 @@
         "weight": 32.5,
         "modelScale": 1.08,
         "maxCP": 1667,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -18538,6 +18866,10 @@
         "weight": 21.2,
         "modelScale": 1.17,
         "maxCP": 640,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aerial Ace",
@@ -18953,6 +19285,10 @@
         "weight": 8.5,
         "modelScale": 1.32,
         "maxCP": 685,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Night Slash",
@@ -19054,6 +19390,10 @@
         "weight": 33.5,
         "modelScale": 1.02,
         "maxCP": 1636,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Shadow Sneak",
@@ -19264,6 +19604,10 @@
         "weight": 12,
         "modelScale": 1.25,
         "maxCP": 1067,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Water Pulse",
@@ -19684,6 +20028,10 @@
         "weight": 1,
         "modelScale": 1.61,
         "maxCP": 512,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Wild Charge",
@@ -19894,6 +20242,10 @@
         "weight": 3.2,
         "modelScale": 1.25,
         "maxCP": 1543,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ancient Power",
@@ -20203,6 +20555,10 @@
         "weight": 7.8,
         "modelScale": 1.25,
         "maxCP": 887,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Body Slam",
@@ -20309,6 +20665,10 @@
         "weight": 13.3,
         "modelScale": 1.1,
         "maxCP": 1402,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Power Gem",
@@ -20519,6 +20879,10 @@
         "weight": 5.8,
         "modelScale": 1.48,
         "maxCP": 2108,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Leaf Blade",
@@ -20625,6 +20989,10 @@
         "weight": 8.5,
         "modelScale": 1.47,
         "maxCP": 420,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -20733,6 +21101,10 @@
         "weight": 28.5,
         "modelScale": 1.15,
         "maxCP": 1503,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Play Rough",
@@ -20839,6 +21211,10 @@
         "weight": 38,
         "modelScale": 0.92,
         "maxCP": 2065,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Stone Edge",
@@ -20922,6 +21298,10 @@
         "weight": 33.9,
         "modelScale": 0.96,
         "maxCP": 2371,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Hydro Pump",
@@ -21367,6 +21747,10 @@
         "weight": 11.5,
         "modelScale": 1.1,
         "maxCP": 1188,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Low Sweep",
@@ -21559,6 +21943,10 @@
         "weight": 8.5,
         "modelScale": 1.13,
         "maxCP": 2048,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Solar Beam",
@@ -21658,6 +22046,10 @@
         "weight": 38,
         "modelScale": 0.95,
         "maxCP": 1326,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ancient Power",
@@ -21750,6 +22142,10 @@
         "weight": 8.5,
         "modelScale": 1.48,
         "maxCP": 596,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Mud Bomb",
@@ -21954,6 +22350,10 @@
         "weight": 26.5,
         "modelScale": 1.16,
         "maxCP": 3000,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psybeam",
@@ -22048,6 +22448,10 @@
         "weight": 27,
         "modelScale": 1.03,
         "maxCP": 2052,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dark Pulse",
@@ -22429,6 +22833,10 @@
         "weight": 5,
         "modelScale": 1.35,
         "maxCP": 1022,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -22687,6 +23095,10 @@
         "weight": 7.2,
         "modelScale": 1.25,
         "maxCP": 1045,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Gyro Ball",
@@ -22888,6 +23300,10 @@
         "weight": 14,
         "modelScale": 0.84,
         "maxCP": 1615,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -22975,6 +23391,10 @@
         "weight": 64.8,
         "modelScale": 0.97,
         "maxCP": 1758,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -23170,6 +23590,10 @@
         "weight": 7.8,
         "modelScale": 1.2,
         "maxCP": 1124,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -23366,6 +23790,10 @@
         "weight": 3.9,
         "modelScale": 1.35,
         "maxCP": 1910,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aqua Tail",
@@ -23565,6 +23993,10 @@
         "weight": 20.5,
         "modelScale": 1.25,
         "maxCP": 300,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Rock Blast",
@@ -23751,6 +24183,10 @@
         "weight": 28,
         "modelScale": 1.1,
         "maxCP": 1868,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Avalanche",
@@ -23842,6 +24278,10 @@
         "weight": 8.8,
         "modelScale": 1.25,
         "maxCP": 1184,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Cross Chop",
@@ -24038,6 +24478,10 @@
         "weight": 35,
         "modelScale": 1.2,
         "maxCP": 750,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Burst",
@@ -24135,6 +24579,10 @@
         "weight": 55,
         "modelScale": 1.11,
         "maxCP": 1543,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Heat Wave",
@@ -24234,6 +24682,10 @@
         "weight": 6.5,
         "modelScale": 1.48,
         "maxCP": 663,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Icy Wind",
@@ -24438,6 +24890,10 @@
         "weight": 5,
         "modelScale": 1.25,
         "maxCP": 1214,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Rock Blast",
@@ -24526,6 +24982,10 @@
         "weight": 12,
         "modelScale": 1.29,
         "maxCP": 749,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aurora Beam",
@@ -24624,6 +25084,10 @@
         "weight": 28.5,
         "modelScale": 1.04,
         "maxCP": 2124,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Gunk Shot",
@@ -24719,6 +25183,10 @@
         "weight": 16,
         "modelScale": 1.1,
         "maxCP": 937,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ice Punch",
@@ -24998,6 +25466,10 @@
         "weight": 10.8,
         "modelScale": 1.25,
         "maxCP": 1110,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -25099,6 +25571,10 @@
         "weight": 35,
         "modelScale": 0.91,
         "maxCP": 2529,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -25313,6 +25789,10 @@
         "weight": 33.5,
         "modelScale": 1.35,
         "maxCP": 1175,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bulldoze",
@@ -25509,6 +25989,10 @@
         "weight": 32.5,
         "modelScale": 1.24,
         "maxCP": 2546,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Solar Beam",
@@ -25775,6 +26259,10 @@
         "weight": 21,
         "modelScale": 1.17,
         "maxCP": 404,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Brick Break",
@@ -25885,6 +26373,10 @@
         "weight": 48,
         "modelScale": 0.89,
         "maxCP": 1905,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Close Combat",
@@ -26747,6 +27239,10 @@
         "weight": 72,
         "modelScale": 1.24,
         "maxCP": 904,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Stomp",
@@ -26855,6 +27351,10 @@
         "weight": 152,
         "modelScale": 0.92,
         "maxCP": 1608,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -27265,6 +27765,10 @@
         "weight": 5,
         "modelScale": 1.2,
         "maxCP": 3090,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Hyper Beam",
@@ -27356,6 +27860,10 @@
         "weight": 5,
         "modelScale": 1.35,
         "maxCP": 923,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Energy Ball",
@@ -27462,6 +27970,10 @@
         "weight": 21.6,
         "modelScale": 1.09,
         "maxCP": 1508,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Leaf Blade",
@@ -27672,6 +28184,10 @@
         "weight": 2.5,
         "modelScale": 1.48,
         "maxCP": 959,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flame Charge",
@@ -28000,6 +28516,10 @@
         "weight": 7.6,
         "modelScale": 1.48,
         "maxCP": 981,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -28106,6 +28626,10 @@
         "weight": 28,
         "modelScale": 1.17,
         "maxCP": 1617,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Mud Bomb",
@@ -28324,6 +28848,10 @@
         "weight": 13.6,
         "modelScale": 1.35,
         "maxCP": 564,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -28421,6 +28949,10 @@
         "weight": 37,
         "modelScale": 1,
         "maxCP": 1783,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Crunch",
@@ -28516,6 +29048,10 @@
         "weight": 17.5,
         "modelScale": 0.96,
         "maxCP": 423,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -28613,6 +29149,10 @@
         "weight": 32.5,
         "modelScale": 0.78,
         "maxCP": 1533,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -28826,6 +29366,10 @@
         "weight": 10,
         "modelScale": 1.5,
         "maxCP": 517,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -29033,6 +29577,10 @@
         "weight": 11.5,
         "modelScale": 1.4,
         "maxCP": 517,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -29572,6 +30120,10 @@
         "weight": 4,
         "modelScale": 1.35,
         "maxCP": 526,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Energy Ball",
@@ -29900,6 +30452,10 @@
         "weight": 2.3,
         "modelScale": 1.68,
         "maxCP": 642,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aerial Ace",
@@ -30307,6 +30863,10 @@
         "weight": 6.6,
         "modelScale": 1.48,
         "maxCP": 436,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psyshock",
@@ -30417,6 +30977,10 @@
         "weight": 20.2,
         "modelScale": 1.3,
         "maxCP": 843,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psychic",
@@ -30635,6 +31199,10 @@
         "weight": 1.7,
         "modelScale": 1.35,
         "maxCP": 695,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aqua Jet",
@@ -30840,6 +31408,10 @@
         "weight": 4.5,
         "modelScale": 1.48,
         "maxCP": 722,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Seed Bomb",
@@ -31352,6 +31924,10 @@
         "weight": 5.5,
         "modelScale": 1.5,
         "maxCP": 674,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Night Slash",
@@ -31664,6 +32240,10 @@
         "weight": 16.3,
         "modelScale": 1.25,
         "maxCP": 603,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Stomp",
@@ -32184,6 +32764,10 @@
         "weight": 2,
         "modelScale": 1.65,
         "maxCP": 316,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bubble Beam",
@@ -32385,6 +32969,10 @@
         "weight": 11,
         "modelScale": 1.25,
         "maxCP": 659,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dig",
@@ -32581,6 +33169,10 @@
         "weight": 11,
         "modelScale": 1.35,
         "maxCP": 1305,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Power Gem",
@@ -32672,6 +33264,10 @@
         "weight": 11.5,
         "modelScale": 1.23,
         "maxCP": 1484,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Play Rough",
@@ -32763,6 +33359,10 @@
         "weight": 60,
         "modelScale": 1.48,
         "maxCP": 1232,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Iron Head",
@@ -33095,6 +33695,10 @@
         "weight": 11.2,
         "modelScale": 1.27,
         "maxCP": 555,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ice Punch",
@@ -33863,6 +34467,10 @@
         "weight": 2,
         "modelScale": 2,
         "maxCP": 1718,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Petal Blizzard",
@@ -33954,6 +34562,10 @@
         "weight": 10.3,
         "modelScale": 1.29,
         "maxCP": 788,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Sludge",
@@ -34558,6 +35170,10 @@
         "weight": 24,
         "modelScale": 1.17,
         "maxCP": 957,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Bulldoze",
@@ -34762,6 +35378,10 @@
         "weight": 80.4,
         "modelScale": 1.09,
         "maxCP": 2036,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Overheat",
@@ -34846,6 +35466,10 @@
         "weight": 30.6,
         "modelScale": 1.6,
         "maxCP": 1285,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Psybeam",
@@ -35133,6 +35757,10 @@
         "weight": 15,
         "modelScale": 1.2,
         "maxCP": 1092,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Sand Tomb",
@@ -35967,6 +36595,10 @@
         "weight": 52.5,
         "modelScale": 1.3,
         "maxCP": 1928,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Poison Fang",
@@ -36238,6 +36870,10 @@
         "weight": 1.9,
         "modelScale": 1.8,
         "maxCP": 716,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Aqua Tail",
@@ -36444,6 +37080,10 @@
         "weight": 11.5,
         "modelScale": 1.28,
         "maxCP": 1107,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Vice Grip",
@@ -36644,6 +37284,10 @@
         "weight": 21.5,
         "modelScale": 1.35,
         "maxCP": 676,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Gyro Ball",
@@ -37252,6 +37896,10 @@
         "weight": 7.4,
         "modelScale": 1.25,
         "maxCP": 220,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Mirror Coat",
@@ -37443,6 +38091,10 @@
         "weight": 0.8,
         "modelScale": 1.57,
         "maxCP": 1486,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Hurricane",
@@ -37527,6 +38179,10 @@
         "weight": 0.8,
         "modelScale": 1.57,
         "maxCP": 1486,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Hydro Pump",
@@ -37611,6 +38267,10 @@
         "weight": 0.8,
         "modelScale": 1.57,
         "maxCP": 1486,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Blizzard",
@@ -37695,6 +38355,10 @@
         "weight": 0.8,
         "modelScale": 1.57,
         "maxCP": 1486,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Fire Blast",
@@ -37779,6 +38443,10 @@
         "weight": 22,
         "modelScale": 1.02,
         "maxCP": 1924,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Foul Play",
@@ -37878,6 +38546,10 @@
         "weight": 2.3,
         "modelScale": 1.21,
         "maxCP": 872,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Ominous Wind",
@@ -38371,6 +39043,10 @@
         "weight": 1,
         "modelScale": 1.26,
         "maxCP": 2095,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Energy Ball",
@@ -38459,6 +39135,10 @@
         "weight": 47,
         "modelScale": 1,
         "maxCP": 2280,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dark Pulse",
@@ -38639,6 +39319,10 @@
         "weight": 16.8,
         "modelScale": 1.1,
         "maxCP": 772,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Avalanche",
@@ -39172,6 +39856,10 @@
         "weight": 52.5,
         "modelScale": 1.48,
         "maxCP": 1091,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Body Slam",
@@ -39562,6 +40250,10 @@
         "weight": 8.7,
         "modelScale": 1.25,
         "maxCP": 735,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Draining Kiss",
@@ -39650,6 +40342,10 @@
         "weight": 42.1,
         "modelScale": 1.2,
         "maxCP": 1053,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Flamethrower",
@@ -39975,6 +40671,10 @@
         "weight": 95.2,
         "modelScale": 1.33,
         "maxCP": 843,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Struggle",
@@ -41030,6 +41730,10 @@
         "weight": 1.1,
         "modelScale": 1.68,
         "maxCP": 3090,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
         "cinematicMoves": [
             {
                 "name": "Dazzling Gleam",
