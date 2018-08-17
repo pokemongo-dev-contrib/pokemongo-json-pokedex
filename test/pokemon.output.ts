@@ -80,7 +80,8 @@ describe('Pokemon Output', () => {
         const expectations = {
             'BULBASAUR': [
                 item => expect(item.evolution.futureBranches[0].costToEvolve.candyCost, 'Bulbasaur should require 25 candies to evolve into Ivysaur').to.equal(25),
-                item => expect(item.dex, 'Bulbasaur\'s dex number should be correct').to.equal(1)
+                item => expect(item.dex, 'Bulbasaur\'s dex number should be correct').to.equal(1),
+                item => expect(item.buddySize.id, 'Bulbasaur\'s buddy size should be medium').to.equal('BUDDY_MEDIUM')
             ],
             'EEVEE': [
                 item => expect(item.evolution.futureBranches.length, 'should have 5 nextEvolutionBranches for Eevee').to.equal(5),
@@ -151,7 +152,8 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.pastBranch.pastBranch, 'Charizard should have 2 pastEvolutions').to.not.be.empty,
                 item => expect(item.evolution.pastBranch.id, 'Charizard\'s first pastEvolution should be CHARMELEON').to.equal('CHARMELEON'),
                 item => expect(item.evolution.pastBranch.pastBranch.id, 'Charizard\'s second pastEvolution should be CHARMANDER').to.equal('CHARMANDER'),
-                item => expect(item.evolution.futureBranches, 'Charizard should not evolve').to.be.undefined
+                item => expect(item.evolution.futureBranches, 'Charizard should not evolve').to.be.undefined,
+                item => expect(item.buddySize.id, 'Charizard\'s buddy size should be big').to.equal('BUDDY_BIG')
             ],
             'CHARMANDER': [
                 item => expect(item.evolution.pastBranch, 'Charmander should not have past evolution').to.equal(undefined),
@@ -159,7 +161,8 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.futureBranches[0], 'Charmander should have a future evolution').to.not.be.empty,
                 item => expect(item.evolution.futureBranches[0].id, 'Charmander\'s first futureEvolution should be Charmeleon').to.equal('CHARMELEON'),
                 item => expect(item.evolution.futureBranches[0].futureBranches, 'Charmander should have two future evolutions').to.not.be.empty,
-                item => expect(item.evolution.futureBranches[0].futureBranches[0].id, 'Charmander\'s second futureEvolution should be Charizard').to.equal('CHARIZARD')
+                item => expect(item.evolution.futureBranches[0].futureBranches[0].id, 'Charmander\'s second futureEvolution should be Charizard').to.equal('CHARIZARD'),
+                item => expect(item.buddySize.id, 'Charmander\'s buddy size should be medium').to.equal('BUDDY_MEDIUM')
             ],
             'TYROGUE': [
                 item => expect(item.evolution.futureBranches.length, 'should have 3 nextEvolutionBranches for Tyrogue').to.equal(3),
