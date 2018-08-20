@@ -9,17 +9,17 @@ const dir = path.join(__dirname, '../src/data');
 const FETCH_URL = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/';
 const files = [
     {
-        from: 'decrypted_assets/pokemon.txt',
+        from: 'decrypted_assets/txt/pokemon.txt',
         to: 'POKEMON_TRANSLATIONS.json',
         csv: true
     },
     {
-        from: 'decrypted_assets/moves.txt',
+        from: 'decrypted_assets/txt/moves.txt',
         to: 'MOVES_TRANSLATIONS.json',
         csv: true
     },
     {
-        from: 'decrypted_assets/items.txt',
+        from: 'decrypted_assets/txt/items.txt',
         to: 'ITEMS_TRANSLATIONS.json',
         csv: true
     }
