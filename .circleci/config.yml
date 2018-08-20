@@ -56,7 +56,7 @@ workflows:
               ignore: /.*/
             tags:
               # Semantic Versioning
-              only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
+              only: /.*/
       - docker_deploy:
           requires:
             - test
@@ -66,4 +66,4 @@ workflows:
               ignore: /.*/
             tags:
               # Semantic Versioning
-              only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
+              only: /.*/
