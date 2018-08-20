@@ -6,13 +6,20 @@ defaults: &defaults
     - image: circleci/node:8.9.1
 
 jobs:
+  build:
+    machine: true
+    steps:
+      - checkout
+      - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex .
+      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex update
+      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex start
   test:
     machine: true
     steps:
       - checkout
-
-      - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG .
-      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG test
+      - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex .
+      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex update
+      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex test
 
   npm_deploy:
     <<: *defaults
@@ -46,9 +53,11 @@ workflows:
   version: 2
   test_and_deploy:
     jobs:
+      - build
       - test
       - npm_deploy:
-          requires: test
+          requires:
+            - test
           filters:
             branches:
               ignore: /.*/
@@ -56,7 +65,8 @@ workflows:
               # Semantiv Versioning
               only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
       - docker_deploy:
-          requires: test
+          requires:
+            - test
           filters:
             branches:
               ignore: /.*/
