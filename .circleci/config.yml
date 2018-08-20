@@ -12,7 +12,7 @@ jobs:
     steps:
       - checkout
       - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex .
-      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex update
+      - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex test
 
   npm_deploy:
     docker:
@@ -49,13 +49,13 @@ workflows:
       - test
       - npm_deploy:
           requires:
-            - build
             - test
+            - build
           filters:
             branches:
               ignore: /.*/
             tags:
-              # SemantivcVersioning
+              # Semantic Versioning
               only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
       - docker_deploy:
           requires:
