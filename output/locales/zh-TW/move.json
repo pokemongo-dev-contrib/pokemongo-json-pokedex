@@ -583,5 +583,8 @@
     },
     "HYDRO_CANNON": {
         "name": "加農水砲"
+    },
+    "LAST_RESORT": {
+        "name": "珍藏"
     }
 }

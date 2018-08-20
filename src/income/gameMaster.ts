@@ -16,6 +16,7 @@ export interface ItemTemplate {
   iapCategoryDisplay?: IapCategoryDisplay;
   iapSettings?: IapSettings;
   itemSettings?: ItemSettings;
+  luckyPokemonSettings?: LuckyPokemonSettings;
   playerLevel?: PlayerLevel;
   pokemonScaleSettings?: PokemonScaleSettings;
   typeEffective?: TypeEffective;
@@ -199,6 +200,9 @@ export interface PlayerLevel {
   maxEncounterPlayerLevel: number;
   maxQuestEncounterPlayerLevel: number;
 }
+export interface LuckyPokemonSettings {
+  powerUpStardustDiscountPercent: number;
+}
 export interface ItemSettings {
   itemId: string;
   itemType: string;
@@ -260,6 +264,8 @@ export interface IapCategoryDisplay {
   category: string;
   sortOrder: number;
   bannerEnabled?: boolean;
+  imageUrl?: string;
+  description?: string;
   bannerTitle?: string;
 }
 export interface GymLevel {

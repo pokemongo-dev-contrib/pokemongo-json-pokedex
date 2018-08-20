@@ -4009,5 +4009,26 @@
         },
         "name": "Hydro Cannon",
         "internalId": 299
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 90,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.065,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "last_resort",
+        "durationMs": 2900,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 2850,
+        "energyDelta": -50,
+        "id": "LAST_RESORT",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Last Resort",
+        "internalId": 300
     }
 ]

@@ -27287,12 +27287,14 @@
             }
         ],
         "encounter": {
+            "attackProbability": 0.3,
             "attackTimer": 20,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.4,
             "cameraDistance": 2.9,
             "collisionRadius": 0.2,
             "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
@@ -27761,7 +27763,7 @@
         ],
         "height": 0.61,
         "modelHeight": 0.65,
-        "kmBuddyDistance": 5,
+        "kmBuddyDistance": 20,
         "weight": 5,
         "modelScale": 1.2,
         "maxCP": 3090,
@@ -27819,7 +27821,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
-            "baseFleeRate": 0.04,
+            "baseCaptureRate": 100,
             "cameraDistance": 3.12,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,

@@ -583,5 +583,8 @@
     },
     "HYDRO_CANNON": {
         "name": "하이드로캐논"
+    },
+    "LAST_RESORT": {
+        "name": "뒀다쓰기"
     }
 }

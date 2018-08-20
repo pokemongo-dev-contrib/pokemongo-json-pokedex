@@ -583,5 +583,8 @@
     },
     "HYDRO_CANNON": {
         "name": "Hydro Cannon"
+    },
+    "LAST_RESORT": {
+        "name": "Last Resort"
     }
 }

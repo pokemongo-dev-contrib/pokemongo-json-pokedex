@@ -364,6 +364,17 @@
         "category": "Glasses"
     },
     {
+        "name": "Glasses Teardrop 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_teardrop_0",
+        "iconName": "f_glasses_teardrop_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
         "name": "Glasses Thick 0",
         "gender": "Female",
         "enabled": true,
@@ -786,6 +797,18 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Pikachufan 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_pikachufan_0",
+        "unlockBadgeLevel": 3,
+        "iconName": "f_hat_pikachufan_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Teamrocket 0",
         "gender": "Female",
         "enabled": true,
@@ -1132,6 +1155,18 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Pikachufan 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_pikachufan_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "f_pants_pikachufan_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Shorts 0",
         "gender": "Female",
         "enabled": true,
@@ -1444,6 +1479,18 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Pikachufan 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_pikachufan_0",
+        "unlockBadgeLevel": 300,
+        "iconName": "f_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Sweater 30 0",
         "gender": "Female",
         "enabled": true,
@@ -1683,6 +1730,17 @@
         "enabled": true,
         "id": "f_shirt_tshirt_fest_chicago_2017",
         "iconName": "f_shirt_tshirt_fest_chicago_2017_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Tshirt Fest Chicago 2018",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_tshirt_fest_chicago_2018",
+        "iconName": "f_shirt_tshirt_fest_chicago_2018_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1930,6 +1988,18 @@
         "id": "f_shoes_gymleader_2",
         "unlockBadgeLevel": 100,
         "iconName": "f_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Pikachufan 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_pikachufan_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "f_shoes_pikachufan_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -2229,6 +2299,17 @@
         "enabled": true,
         "id": "m_glasses_mask_1",
         "iconName": "m_glasses_mask_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Teardrop 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_teardrop_0",
+        "iconName": "m_glasses_teardrop_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -2637,6 +2718,18 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Pikachufan 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_pikachufan_0",
+        "unlockBadgeLevel": 3,
+        "iconName": "m_hat_pikachufan_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Teamrocket 0",
         "gender": "Male",
         "enabled": true,
@@ -2747,6 +2840,18 @@
         "id": "m_pants_jogger_0",
         "unlockBadgeLevel": 100,
         "iconName": "m_pants_jogger_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Pikachufan 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_pikachufan_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "m_pants_pikachufan_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -3144,6 +3249,18 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Pikachufan 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_pikachufan_0",
+        "unlockBadgeLevel": 300,
+        "iconName": "m_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Sweatshirt Sporty 0",
         "gender": "Male",
         "enabled": true,
@@ -3270,6 +3387,17 @@
         "enabled": true,
         "id": "m_shirt_tshirt_fest_chicago_2017",
         "iconName": "m_shirt_tshirt_fest_chicago_2017_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Tshirt Fest Chicago 2018",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_tshirt_fest_chicago_2018",
+        "iconName": "m_shirt_tshirt_fest_chicago_2018_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3566,6 +3694,18 @@
         "id": "m_shoes_jogger_0",
         "unlockBadgeLevel": 100,
         "iconName": "m_shoes_jogger_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Pikachufan 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_pikachufan_0",
+        "unlockBadgeLevel": 50,
+        "iconName": "m_shoes_pikachufan_bundle_icon",
         "slot": [
             "Shoes"
         ],

@@ -583,5 +583,8 @@
     },
     "HYDRO_CANNON": {
         "name": "Hidro Canhão"
+    },
+    "LAST_RESORT": {
+        "name": "Último Recurso"
     }
 }

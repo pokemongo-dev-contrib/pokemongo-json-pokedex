@@ -86,6 +86,9 @@
     "f_glasses_mask_1": {
         "name": "Maschera misteriosa"
     },
+    "f_glasses_teardrop_0": {
+        "name": "Occhiali da sole a goccia"
+    },
     "f_glasses_thick_0": {
         "name": "Occhiali da lettura"
     },
@@ -170,6 +173,9 @@
         "name": "Cappello Magikarp"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_pikachufan_0": {
+        "name": "Fascia fan di Pikachu"
+    },
     "f_hat_teamrocket_0": {
         "name": "Berretto Team Rocket"
     },
@@ -261,6 +267,9 @@
     "f_pants_neon_stripes_1": {
         "name": "Pantacollant vivaci"
     },
+    "f_pants_pikachufan_0": {
+        "name": "Pantaloncini fan di Pikachu"
+    },
     "f_pants_shorts_0": {
         "name": "Pantaloncini sportivi"
     },
@@ -343,6 +352,9 @@
     "f_shirt_mew_0": {
         "name": "T-shirt Mew"
     },
+    "f_shirt_pikachufan_0": {
+        "name": "Maglia fan di Pikachu"
+    },
     "f_shirt_sweater_30_0": {
         "name": "Maglia 30"
     },
@@ -407,6 +419,7 @@
         "name": "T-shirt sportiva"
     },
     "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_fest_chicago_2018": {},
     "f_shirt_tshirt_global_goals_2017": {},
     "f_shirt_tshirt_pikachu_0": {
         "name": "T-shirt Pikachu"
@@ -468,6 +481,9 @@
     },
     "f_shoes_gymleader_2": {
         "name": "Scarpe Capopalestra"
+    },
+    "f_shoes_pikachufan_0": {
+        "name": "Scarpe fan di Pikachu"
     },
     "f_shoes_teamrocket_0": {
         "name": "Stivali Team Rocket"
@@ -536,6 +552,7 @@
     "m_glasses_mask_1": {
         "name": "Maschera misteriosa"
     },
+    "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "Occhiali da lettura"
     },
@@ -630,6 +647,9 @@
         "name": "Cappello Magikarp"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_pikachufan_0": {
+        "name": "Fascia fan di Pikachu"
+    },
     "m_hat_teamrocket_0": {
         "name": "Berretto Team Rocket"
     },
@@ -657,6 +677,9 @@
     },
     "m_pants_jogger_0": {
         "name": "Pantaloncini Podista"
+    },
+    "m_pants_pikachufan_0": {
+        "name": "Pantaloncini fan di Pikachu"
     },
     "m_pants_skinnyjeans_0": {
         "name": "Jeans aderenti"
@@ -761,6 +784,9 @@
     "m_shirt_mew_0": {
         "name": "T-shirt Mew"
     },
+    "m_shirt_pikachufan_0": {
+        "name": "Maglia fan di Pikachu"
+    },
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Felpa sportiva"
     },
@@ -795,6 +821,7 @@
         "name": "Maglia Team Rainbow Rocket"
     },
     "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
         "name": "T-shirt diagonale"
     },
@@ -868,6 +895,9 @@
     },
     "m_shoes_jogger_0": {
         "name": "Scarpe Podista"
+    },
+    "m_shoes_pikachufan_0": {
+        "name": "Scarpe fan di Pikachu"
     },
     "m_shoes_teamrocket_0": {
         "name": "Stivali Team Rocket"

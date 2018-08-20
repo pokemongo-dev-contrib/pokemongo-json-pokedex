@@ -583,5 +583,8 @@
     },
     "HYDRO_CANNON": {
         "name": "Idrocannone"
+    },
+    "LAST_RESORT": {
+        "name": "Ultimascelta"
     }
 }

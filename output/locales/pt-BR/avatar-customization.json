@@ -86,6 +86,9 @@
     "f_glasses_mask_1": {
         "name": "Máscara misteriosa"
     },
+    "f_glasses_teardrop_0": {
+        "name": "Óculos escuros aviador"
+    },
     "f_glasses_thick_0": {
         "name": "Óculos para ler"
     },
@@ -170,6 +173,9 @@
         "name": "Chapéu de Magikarp"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_pikachufan_0": {
+        "name": "Gigolete Fã de Pikachu"
+    },
     "f_hat_teamrocket_0": {
         "name": "Chapéu da Equipe Rocket"
     },
@@ -261,6 +267,9 @@
     "f_pants_neon_stripes_1": {
         "name": "Calça legging"
     },
+    "f_pants_pikachufan_0": {
+        "name": "Short Fã de Pikachu"
+    },
     "f_pants_shorts_0": {
         "name": "Short curto"
     },
@@ -343,6 +352,9 @@
     "f_shirt_mew_0": {
         "name": "Camiseta de Mew"
     },
+    "f_shirt_pikachufan_0": {
+        "name": "Blusa Fã de Pikachu"
+    },
     "f_shirt_sweater_30_0": {
         "name": "Gola alta trinta"
     },
@@ -407,6 +419,7 @@
         "name": "Blusa esportiva"
     },
     "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_fest_chicago_2018": {},
     "f_shirt_tshirt_global_goals_2017": {},
     "f_shirt_tshirt_pikachu_0": {
         "name": "Blusa de Pikachu"
@@ -468,6 +481,9 @@
     },
     "f_shoes_gymleader_2": {
         "name": "Tênis de Líder de Ginásio"
+    },
+    "f_shoes_pikachufan_0": {
+        "name": "Tênis Fã de Pikachu"
     },
     "f_shoes_teamrocket_0": {
         "name": "Botas da Equipe Rocket"
@@ -536,6 +552,7 @@
     "m_glasses_mask_1": {
         "name": "Máscara misteriosa"
     },
+    "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "Óculos para ler"
     },
@@ -630,6 +647,9 @@
         "name": "Chapéu de Magikarp"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_pikachufan_0": {
+        "name": "Gigolete Fã de Pikachu"
+    },
     "m_hat_teamrocket_0": {
         "name": "Chapéu da Equipe Rocket"
     },
@@ -657,6 +677,9 @@
     },
     "m_pants_jogger_0": {
         "name": "Bermuda de corredor"
+    },
+    "m_pants_pikachufan_0": {
+        "name": "Bermuda Fã de Pikachu"
     },
     "m_pants_skinnyjeans_0": {
         "name": "Calça justa"
@@ -761,6 +784,9 @@
     "m_shirt_mew_0": {
         "name": "Camiseta de Mew"
     },
+    "m_shirt_pikachufan_0": {
+        "name": "Blusa Fã de Pikachu"
+    },
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Moletom esportivo"
     },
@@ -795,6 +821,7 @@
         "name": "Camisa da Equipe Rainbow Rocket"
     },
     "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
         "name": "Camisa diagonal"
     },
@@ -868,6 +895,9 @@
     },
     "m_shoes_jogger_0": {
         "name": "Tênis de corredor"
+    },
+    "m_shoes_pikachufan_0": {
+        "name": "Tênis Fã de Pikachu"
     },
     "m_shoes_teamrocket_0": {
         "name": "Botas da Equipe Rocket"

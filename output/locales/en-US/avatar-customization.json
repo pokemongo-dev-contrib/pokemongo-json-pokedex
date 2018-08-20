@@ -86,6 +86,9 @@
     "f_glasses_mask_1": {
         "name": "Mystery Mask"
     },
+    "f_glasses_teardrop_0": {
+        "name": "Aviator Sunglasses"
+    },
     "f_glasses_thick_0": {
         "name": "Focus Frames"
     },
@@ -170,6 +173,9 @@
         "name": "Magikarp Hat"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_pikachufan_0": {
+        "name": "Pikachu Fan Headband"
+    },
     "f_hat_teamrocket_0": {
         "name": "Team Rocket Hat"
     },
@@ -261,6 +267,9 @@
     "f_pants_neon_stripes_1": {
         "name": "Liquid Leggings"
     },
+    "f_pants_pikachufan_0": {
+        "name": "Pikachu Fan Shorts"
+    },
     "f_pants_shorts_0": {
         "name": "Track Shorts"
     },
@@ -343,6 +352,9 @@
     "f_shirt_mew_0": {
         "name": "Mew Shirt"
     },
+    "f_shirt_pikachufan_0": {
+        "name": "Pikachu Fan Shirt"
+    },
     "f_shirt_sweater_30_0": {
         "name": "The Thirty"
     },
@@ -407,6 +419,7 @@
         "name": "Active Tee"
     },
     "f_shirt_tshirt_fest_chicago_2017": {},
+    "f_shirt_tshirt_fest_chicago_2018": {},
     "f_shirt_tshirt_global_goals_2017": {},
     "f_shirt_tshirt_pikachu_0": {
         "name": "Pikachu Tee"
@@ -468,6 +481,9 @@
     },
     "f_shoes_gymleader_2": {
         "name": "Gym Leader Shoes"
+    },
+    "f_shoes_pikachufan_0": {
+        "name": "Pikachu Fan Shoes"
     },
     "f_shoes_teamrocket_0": {
         "name": "Team Rocket Boots"
@@ -536,6 +552,7 @@
     "m_glasses_mask_1": {
         "name": "Mystery Mask"
     },
+    "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "Focus Frames"
     },
@@ -630,6 +647,9 @@
         "name": "Magikarp Hat"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_pikachufan_0": {
+        "name": "Pikachu Fan Headband"
+    },
     "m_hat_teamrocket_0": {
         "name": "Team Rocket Hat"
     },
@@ -657,6 +677,9 @@
     },
     "m_pants_jogger_0": {
         "name": "Jogger Shorts"
+    },
+    "m_pants_pikachufan_0": {
+        "name": "Pikachu Fan Shorts"
     },
     "m_pants_skinnyjeans_0": {
         "name": "Skinny Jeans"
@@ -761,6 +784,9 @@
     "m_shirt_mew_0": {
         "name": "Mew Shirt"
     },
+    "m_shirt_pikachufan_0": {
+        "name": "Pikachu Fan Shirt"
+    },
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sports Hoodie"
     },
@@ -795,6 +821,7 @@
         "name": "Team Rainbow Rocket Top"
     },
     "m_shirt_tshirt_fest_chicago_2017": {},
+    "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
         "name": "Diagonal Tee"
     },
@@ -868,6 +895,9 @@
     },
     "m_shoes_jogger_0": {
         "name": "Jogger Shoes"
+    },
+    "m_shoes_pikachufan_0": {
+        "name": "Pikachu Fan Shoes"
     },
     "m_shoes_teamrocket_0": {
         "name": "Team Rocket Boots"
