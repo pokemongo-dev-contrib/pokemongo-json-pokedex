@@ -1,3 +1,13 @@
+# Version 3.2.3 (20.08.2018)
+
+## Features
+
+- **Fix(output)**: Pokemon without any `buddySize` are the type `medium`
+
+## Contributors
+
+- [luissmg](https://github.com/luissmg)
+
 # Version 3.2.2 (13.08.2018)
 
 ## Features
