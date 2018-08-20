@@ -1,0 +1,66 @@
+version: 2
+
+defaults: &defaults
+  working_directory: ~/repo
+  docker:
+    - image: circleci/node:8.9.1
+
+jobs:
+
+ test:
+   machine: true
+   steps:
+     - checkout
+
+     - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG .
+     - run: docker run -ti $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG test
+
+  npm_deploy:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/repo
+      - run:
+          name: Authenticate with registry
+          command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/repo/.npmrc
+      - run:
+          name: Publish package
+          command: npm publish
+
+ docker_deploy:
+   machine: true
+   steps:
+     - checkout
+     # with credentials stored in the UI
+     - run: docker login -u $DOCKER_USER -p $DOCKER_PASS
+
+     # build the application image
+     - run: docker build -t $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG .
+
+     - run: docker tag $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG $DOCKER_USER/pokemongo-json-pokedex:latest
+     # deploy the image
+     - run: docker push $DOCKER_USER/pokemongo-json-pokedex:$CIRCLE_TAG
+     - run: docker push $DOCKER_USER/pokemongo-json-pokedex:latest
+
+
+workflows:
+  version: 2
+  test_and_deploy:
+    jobs:
+      - test
+      - npm_deploy:
+          requires: test
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              # Semantiv Versioning
+              only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
+      - docker_deploy:
+          requires: test
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              # Semantiv Versioning
+              only: /^([0-9]+)\.([0-9]+)\.([0-9]+)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+[0-9A-Za-z-]+)?$/
