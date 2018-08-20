@@ -20,8 +20,34 @@ structure of the source files changed completely.
 
 ## Getting Started
 
+### With NPM
+
+You can install it with `npm install pokemongo-json-pokedex`.
+Make sure you have a least Node 8.x.x running on your machine.
+
+```JavaScript
+
+const pokemon = require('pokemongo-json-pokedex/output/pokemon.json');
+const move = require('pokemongo-json-pokedex/output/move.json');
+const type = require('pokemongo-json-pokedex/output/type.json');
+const avatarCustomization = require('pokemongo-json-pokedex/output/avatar-customization.json');
+const items = require('pokemongo-json-pokedex/output/item.json');
+
+```
+
+### With Docker
+
+Get the latest data with `Docker` into the `output` folder in your current directory.
+
+```bash
+
+docker run -v "$(pwd)/output:/var/lib/pokemongo-json-pokedex/output" brunnerlivio/pokemongo-json-pokedex:latest
+
+```
+
+### From Source
+
 You can get the latest version by executing the following command in your shell.
-Make sure you have `wget` installed
 
 ```bash
 
@@ -34,19 +60,6 @@ ls
 
 ```
 
-or you can use it with npm using `npm install pokemongo-json-pokedex`
-
-```JavaScript
-
-const pokemon = require('pokemongo-json-pokedex/output/pokemon.json');
-const move = require('pokemongo-json-pokedex/output/move.json');
-const type = require('pokemongo-json-pokedex/output/type.json');
-const avatarCustomization = require('pokemongo-json-pokedex/output/avatar-customization.json');
-const items = require('pokemongo-json-pokedex/output/item.json');
-
-```
-
-You can read about the output-data inside the [documentation](.github/model.md).
 
 ## Translations
 
