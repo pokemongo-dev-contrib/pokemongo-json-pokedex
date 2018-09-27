@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "リーフバッグ"
     },
+    "f_backpack_hgss_0": {
+        "name": "ジョウトバッグ"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "丸バックル"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "リーフハット"
     },
+    "f_hat_hgss_0": {
+        "name": "ジョウトキャップ"
+    },
     "f_hat_knitted_0": {
         "name": "ニットキャップ"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "ジムリーダースカート"
+    },
+    "f_pants_hgss_0": {
+        "name": "ジョウトパンツ"
     },
     "f_pants_miniskirt_0": {
         "name": "アクセントスカート"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "前開きシャツ"
     },
+    "f_shirt_celebi_0": {
+        "name": "セレビィＴシャツ"
+    },
     "f_shirt_default_0": {
         "name": "ショートトップ"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "ジムリーダートップス"
+    },
+    "f_shirt_hgss_0": {
+        "name": "ジョウトトップス"
     },
     "f_shirt_latias_latios_0": {
         "name": "ラティアス＆ラティオスＴシャツ"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "ジムリーダーシューズ"
     },
+    "f_shoes_hgss_0": {
+        "name": "ジョウトシューズ"
+    },
     "f_shoes_pikachufan_0": {
         "name": "ピカチュウだいすきシューズ"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "素足"
+    },
+    "f_socks_hgss_0": {
+        "name": "ジョウトソックス"
     },
     "f_socks_thighhighs_0": {
         "name": "ハイソックス"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "ファイアバックパック"
+    },
+    "m_backpack_hgss_0": {
+        "name": "ジョウトバッグ"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "ファイアキャップ"
     },
+    "m_hat_hgss_0": {
+        "name": "ジョウトキャップ"
+    },
     "m_hat_jogger_0": {
         "name": "ジョギングバイザー"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "ジムリーダーパンツ"
+    },
+    "m_pants_hgss_0": {
+        "name": "ジョウトパンツ"
     },
     "m_pants_jogger_0": {
         "name": "ジョギングパンツ"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "ブレザー"
+    },
+    "m_shirt_celebi_0": {
+        "name": "セレビィＴシャツ"
     },
     "m_shirt_default_0": {
         "name": "肩ラインパーカー"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "ジムリーダートップス"
+    },
+    "m_shirt_hgss_0": {
+        "name": "ジョウトトップス"
     },
     "m_shirt_jogger_0": {
         "name": "ジョギングシャツ"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "ジムリーダーシューズ"
+    },
+    "m_shoes_hgss_0": {
+        "name": "ジョウトシューズ"
     },
     "m_shoes_jogger_0": {
         "name": "ジョギングシューズ"

@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "Blattgrüne Tasche"
     },
+    "f_backpack_hgss_0": {
+        "name": "Johto-\\nTasche"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "Schnalle mit Ball"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "Blattgrüner Hut"
     },
+    "f_hat_hgss_0": {
+        "name": "Johto-\\nHut"
+    },
     "f_hat_knitted_0": {
         "name": "Pudelmütze"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "Arenaleiter-\\nRock"
+    },
+    "f_pants_hgss_0": {
+        "name": "Johto-\\nLatzshorts"
     },
     "f_pants_miniskirt_0": {
         "name": "Streifenrock"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "Bluse"
     },
+    "f_shirt_celebi_0": {
+        "name": "Celebi-Shirt"
+    },
     "f_shirt_default_0": {
         "name": "Jäckchen"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "Arenaleiter-\\nOberteil"
+    },
+    "f_shirt_hgss_0": {
+        "name": "Johto-\\nOberteil"
     },
     "f_shirt_latias_latios_0": {
         "name": "Latias & Latios-\\nShirt"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "Arenaleiter-\\nSchuhe"
     },
+    "f_shoes_hgss_0": {
+        "name": "Johto-\\nSchuhe"
+    },
     "f_shoes_pikachufan_0": {
         "name": "Pikachu-Fan-Schuhe"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "Keine Socken"
+    },
+    "f_socks_hgss_0": {
+        "name": "Johto-\\nStrümpfe"
     },
     "f_socks_thighhighs_0": {
         "name": "Wollstrümpfe"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "Feuerroter Rucksack"
+    },
+    "m_backpack_hgss_0": {
+        "name": "Johto-\\nTasche"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "Feuerrote Kappe"
     },
+    "m_hat_hgss_0": {
+        "name": "Johto-\\nKappe"
+    },
     "m_hat_jogger_0": {
         "name": "Jogger-Visor"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "Arenaleiter-\\nShorts"
+    },
+    "m_pants_hgss_0": {
+        "name": "Johto-\\nHose"
     },
     "m_pants_jogger_0": {
         "name": "Jogger-Shorts"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "Business-Blazer"
+    },
+    "m_shirt_celebi_0": {
+        "name": "Celebi-Shirt"
     },
     "m_shirt_default_0": {
         "name": "Diagonal- Hoodie"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "Arenaleiter-\\nOberteil"
+    },
+    "m_shirt_hgss_0": {
+        "name": "Johto-\\nOberteil"
     },
     "m_shirt_jogger_0": {
         "name": "Jogger-Tanktop"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "Arenaleiter-\\nSchuhe"
+    },
+    "m_shoes_hgss_0": {
+        "name": "Johto-\\nSchuhe"
     },
     "m_shoes_jogger_0": {
         "name": "Jogger-Schuhe"

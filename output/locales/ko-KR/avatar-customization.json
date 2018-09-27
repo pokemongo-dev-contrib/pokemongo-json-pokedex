@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "리프백"
     },
+    "f_backpack_hgss_0": {
+        "name": "성도백"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "둥근버클"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "리프해트"
     },
+    "f_hat_hgss_0": {
+        "name": "성도캡"
+    },
     "f_hat_knitted_0": {
         "name": "니트캡"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "체육관 리더 스커트"
+    },
+    "f_pants_hgss_0": {
+        "name": "성도 팬츠"
     },
     "f_pants_miniskirt_0": {
         "name": "스트라이프 스커트"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "피티드 셔츠"
     },
+    "f_shirt_celebi_0": {
+        "name": "세레비 티셔츠"
+    },
     "f_shirt_default_0": {
         "name": "클래식 롱슬리브"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "체육관 리더 상의"
+    },
+    "f_shirt_hgss_0": {
+        "name": "성도 상의"
     },
     "f_shirt_latias_latios_0": {
         "name": "라티아스&라티오스 티셔츠"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "체육관 리더 슈즈"
     },
+    "f_shoes_hgss_0": {
+        "name": "성도 슈즈"
+    },
     "f_shoes_pikachufan_0": {
         "name": "피카츄 애호가슈즈"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "양말 없음"
+    },
+    "f_socks_hgss_0": {
+        "name": "성도 양말"
     },
     "f_socks_thighhighs_0": {
         "name": "울레그워머"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "파이어백팩"
+    },
+    "m_backpack_hgss_0": {
+        "name": "성도백"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "파이어캡"
     },
+    "m_hat_hgss_0": {
+        "name": "성도캡"
+    },
     "m_hat_jogger_0": {
         "name": "조깅바이저"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "체육관 리더 팬츠"
+    },
+    "m_pants_hgss_0": {
+        "name": "성도 팬츠"
     },
     "m_pants_jogger_0": {
         "name": "조깅팬츠"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "비지니스 블레이저"
+    },
+    "m_shirt_celebi_0": {
+        "name": "세레비 티셔츠"
     },
     "m_shirt_default_0": {
         "name": "어깨라인 후드티"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "체육관 리더 상의"
+    },
+    "m_shirt_hgss_0": {
+        "name": "성도 상의"
     },
     "m_shirt_jogger_0": {
         "name": "조깅셔츠"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "체육관 리더 슈즈"
+    },
+    "m_shoes_hgss_0": {
+        "name": "성도 슈즈"
     },
     "m_shoes_jogger_0": {
         "name": "조깅슈즈"

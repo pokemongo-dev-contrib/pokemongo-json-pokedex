@@ -62,6 +62,36 @@
         "dropTrainerLevel": 100
     },
     {
+        "id": "GOLDEN_PINAP_BERRY",
+        "name": "Golden Pinap Berry",
+        "category": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "type": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "dropTrainerLevel": 20,
+        "food": {
+            "berryMultiplier": 2,
+            "remoteBerryMultiplier": 0.5,
+            "effect": [
+                {
+                    "name": "Candy Award",
+                    "id": "CANDY_AWARD",
+                    "effectPercent": 2
+                },
+                {
+                    "name": "Cap Chance Single Throw",
+                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "effectPercent": 1.8
+                }
+            ],
+            "growthPercent": 0.1
+        }
+    },
+    {
         "id": "GOLDEN_RAZZ_BERRY",
         "name": "Golden Razz Berry",
         "category": {

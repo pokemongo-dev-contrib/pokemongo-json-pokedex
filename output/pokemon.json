@@ -2640,10 +2640,7 @@
             "jumpTime": 1.25,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
+            "movementType": null,
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -35336,10 +35333,7 @@
             "jumpTime": 1.1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
+            "movementType": null,
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -35719,7 +35713,7 @@
             "cameraDistance": 4,
             "collisionRadius": 0.25,
             "dodgeDistance": 0.7,
-            "dodgeProbability": 0.4,
+            "dodgeProbability": 0.5,
             "jumpTime": 1.1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
@@ -38505,7 +38499,7 @@
             "attackTimer": 20,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 3.5,
+            "cameraDistance": 1.89,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -41827,7 +41821,7 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "maxCP": 15,
+        "maxCP": 2749,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -41842,8 +41836,8 @@
                 "id": "ZAP_CANNON"
             },
             {
-                "name": "Swift",
-                "id": "SWIFT"
+                "name": "Hyper Beam",
+                "id": "HYPER_BEAM"
             }
         ],
         "quickMoves": [
@@ -41852,8 +41846,8 @@
                 "id": "ZEN_HEADBUTT_FAST"
             },
             {
-                "name": "Counter Fast",
-                "id": "COUNTER_FAST"
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
             }
         ],
         "family": {
@@ -41861,9 +41855,9 @@
             "name": "Deoxys"
         },
         "stats": {
-            "baseAttack": 1,
-            "baseDefense": 1,
-            "baseStamina": 1
+            "baseAttack": 345,
+            "baseDefense": 115,
+            "baseStamina": 100
         },
         "types": [
             {
@@ -41879,7 +41873,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.01,
-            "baseCaptureRate": 0.02,
+            "baseCaptureRate": 0.06,
             "cameraDistance": 4,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,
@@ -41918,7 +41912,7 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "maxCP": 15,
+        "maxCP": 2244,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -41933,8 +41927,8 @@
                 "id": "ZAP_CANNON"
             },
             {
-                "name": "Swift",
-                "id": "SWIFT"
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
             }
         ],
         "quickMoves": [
@@ -41943,8 +41937,8 @@
                 "id": "ZEN_HEADBUTT_FAST"
             },
             {
-                "name": "Counter Fast",
-                "id": "COUNTER_FAST"
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -41952,9 +41946,9 @@
             "name": "Deoxys"
         },
         "stats": {
-            "baseAttack": 1,
-            "baseDefense": 1,
-            "baseStamina": 1
+            "baseAttack": 414,
+            "baseDefense": 46,
+            "baseStamina": 100
         },
         "types": [
             {
@@ -41970,7 +41964,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.01,
-            "baseCaptureRate": 0.02,
+            "baseCaptureRate": 0.06,
             "cameraDistance": 4,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,
@@ -42009,7 +42003,7 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "maxCP": 15,
+        "maxCP": 1978,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -42024,8 +42018,8 @@
                 "id": "ZAP_CANNON"
             },
             {
-                "name": "Swift",
-                "id": "SWIFT"
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
@@ -42043,9 +42037,9 @@
             "name": "Deoxys"
         },
         "stats": {
-            "baseAttack": 1,
-            "baseDefense": 1,
-            "baseStamina": 1
+            "baseAttack": 144,
+            "baseDefense": 330,
+            "baseStamina": 100
         },
         "types": [
             {
@@ -42061,7 +42055,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.01,
-            "baseCaptureRate": 0.02,
+            "baseCaptureRate": 0.06,
             "cameraDistance": 4,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,
@@ -42100,7 +42094,7 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "modelScale": 0.83,
-        "maxCP": 15,
+        "maxCP": 2504,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -42125,8 +42119,8 @@
                 "id": "ZEN_HEADBUTT_FAST"
             },
             {
-                "name": "Counter Fast",
-                "id": "COUNTER_FAST"
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
             }
         ],
         "family": {
@@ -42134,9 +42128,9 @@
             "name": "Deoxys"
         },
         "stats": {
-            "baseAttack": 1,
-            "baseDefense": 1,
-            "baseStamina": 1
+            "baseAttack": 230,
+            "baseDefense": 218,
+            "baseStamina": 100
         },
         "types": [
             {
@@ -42152,7 +42146,7 @@
             "attackProbability": 0.1,
             "attackTimer": 20,
             "baseFleeRate": 0.01,
-            "baseCaptureRate": 0.02,
+            "baseCaptureRate": 0.06,
             "cameraDistance": 4,
             "collisionRadius": 0.25,
             "dodgeDistance": 1,

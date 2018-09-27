@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Silberne Sananabeere",
+        "description": "Wenn du sie einem Pokémon zum Essen gibst, erhältst du mehr Bonbons, wenn du es fängst, und es lässt es sich leichter fangen."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Superball",

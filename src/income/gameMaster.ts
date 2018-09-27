@@ -325,7 +325,7 @@ export interface BattleSettings {
   minimumRaidPlayerLevel: number;
 }
 export interface BadgeSettings {
-  badgeType: string;
+  badgeType: number | string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;

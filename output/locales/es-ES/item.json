@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Baya Pinia plateada",
+        "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas y se captura con más facilidad en tu próximo lanzamiento."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Super Ball",

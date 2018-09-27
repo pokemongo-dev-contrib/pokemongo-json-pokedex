@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "Bolso\\nVerde Hoja"
     },
+    "f_backpack_hgss_0": {
+        "name": "Bolso\\nde Johto"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "Cinturón hebilla Ball"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "Sombrero\\nVerde Hoja"
     },
+    "f_hat_hgss_0": {
+        "name": "Gorro\\nde Johto"
+    },
     "f_hat_knitted_0": {
         "name": "Gorro de lana"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "Falda\\nde Líder de Gimnasio"
+    },
+    "f_pants_hgss_0": {
+        "name": "Pantalones de peto\\nde Johto"
     },
     "f_pants_miniskirt_0": {
         "name": "Minifalda con rayas"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "Camisa Ball"
     },
+    "f_shirt_celebi_0": {
+        "name": "Camiseta\\nde Celebi"
+    },
     "f_shirt_default_0": {
         "name": "Chaqueta corta"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "Camiseta\\nde Líder de Gimnasio"
+    },
+    "f_shirt_hgss_0": {
+        "name": "Sudadera\\nde Johto"
     },
     "f_shirt_latias_latios_0": {
         "name": "Camisa de Latios e Latias"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "Zapatos\\nde Líder de Gimnasio"
     },
+    "f_shoes_hgss_0": {
+        "name": "Zapatos\\nde Johto"
+    },
     "f_shoes_pikachufan_0": {
         "name": "Zapatillas Fan de Pikachu"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "Sin medias"
+    },
+    "f_socks_hgss_0": {
+        "name": "Calcetines\\nde Johto"
     },
     "f_socks_thighhighs_0": {
         "name": "Medias altas"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "Mochila\\nRojo Fuego"
+    },
+    "m_backpack_hgss_0": {
+        "name": "Bolsa\\nde Johto"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "Gorra\\nRojo Fuego"
     },
+    "m_hat_hgss_0": {
+        "name": "Gorra\\nde Johto"
+    },
     "m_hat_jogger_0": {
         "name": "Visera de corredor"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "Pantalones\\nde Líder de Gimnasio"
+    },
+    "m_pants_hgss_0": {
+        "name": "Pantalones\\nde Johto"
     },
     "m_pants_jogger_0": {
         "name": "Pantalón corto de corredor"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "Blazer"
+    },
+    "m_shirt_celebi_0": {
+        "name": "Camiseta\\nde Celebi"
     },
     "m_shirt_default_0": {
         "name": "Sudadera diagonal"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "Camiseta\\nde Líder de Gimnasio"
+    },
+    "m_shirt_hgss_0": {
+        "name": "Sudadera\\nde Johto"
     },
     "m_shirt_jogger_0": {
         "name": "Camiseta sin mangas de corredor"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "Zapatos\\nde Líder de Gimnasio"
+    },
+    "m_shoes_hgss_0": {
+        "name": "Zapatos\\nde Johto"
     },
     "m_shoes_jogger_0": {
         "name": "Zapatos de corredor"

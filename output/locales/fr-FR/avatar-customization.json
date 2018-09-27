@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "Sac Vert Feuille"
     },
+    "f_backpack_hgss_0": {
+        "name": "Sac Johto"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "Boucle Poké Ball"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "Chapeau Vert Feuille"
     },
+    "f_hat_hgss_0": {
+        "name": "Casquette Johto"
+    },
     "f_hat_knitted_0": {
         "name": "Bonnet de laine"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "Jupe de Championne d’Arène"
+    },
+    "f_pants_hgss_0": {
+        "name": "Salopette Johto"
     },
     "f_pants_miniskirt_0": {
         "name": "Jupe rayée"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "Pull ajusté"
     },
+    "f_shirt_celebi_0": {
+        "name": "T-shirt Celebi"
+    },
     "f_shirt_default_0": {
         "name": "Boléro manches longues"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "Haut de Championne d’Arène"
+    },
+    "f_shirt_hgss_0": {
+        "name": "Haut Johto"
     },
     "f_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "Chaussures de Championne d’Arène"
     },
+    "f_shoes_hgss_0": {
+        "name": "Chaussures Johto"
+    },
     "f_shoes_pikachufan_0": {
         "name": "Chaussures Fan de Pikachu"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "Aucunes jambières"
+    },
+    "f_socks_hgss_0": {
+        "name": "Chaussettes Johto"
     },
     "f_socks_thighhighs_0": {
         "name": "Jambières en laine"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "Sac Rouge Feu"
+    },
+    "m_backpack_hgss_0": {
+        "name": "Sac Johto"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "Casquette Rouge Feu"
     },
+    "m_hat_hgss_0": {
+        "name": "Casquette Johto"
+    },
     "m_hat_jogger_0": {
         "name": "Visière de joggeur"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "Short de Champion d’Arène"
+    },
+    "m_pants_hgss_0": {
+        "name": "Pantacourt Johto"
     },
     "m_pants_jogger_0": {
         "name": "Short de joggeur"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "Veste de costume"
+    },
+    "m_shirt_celebi_0": {
+        "name": "T-shirt Celebi"
     },
     "m_shirt_default_0": {
         "name": "Sweat diagonal"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "Haut de Champion d’Arène"
+    },
+    "m_shirt_hgss_0": {
+        "name": "Haut Johto"
     },
     "m_shirt_jogger_0": {
         "name": "Débardeur de joggeur"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "Chaussures de Champion d’Arène"
+    },
+    "m_shoes_hgss_0": {
+        "name": "Chaussures Johto"
     },
     "m_shoes_jogger_0": {
         "name": "Chaussures de joggeur"

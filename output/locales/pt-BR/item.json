@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Fruta Caxí prateada",
+        "description": "Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo. Será mais fácil pegar Pokémon com ela."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Grande Bola",

@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Silver Pinap Berry",
+        "description": "Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Great Ball",

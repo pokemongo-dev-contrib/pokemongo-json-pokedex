@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "ぎんのパイルのみ",
+        "description": "ポケモンに与えると捕まえやすくなり、捕まえたときにアメがかなり多めに手に入るきのみ。"
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "スーパーボール",

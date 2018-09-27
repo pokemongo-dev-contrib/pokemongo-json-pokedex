@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Baie Nanana argentée",
+        "description": "Si tu en donnes à manger à un Pokémon, il donnera plus de Bonbons quand tu l'attraperas et sera plus facile à capturer."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Super Ball",

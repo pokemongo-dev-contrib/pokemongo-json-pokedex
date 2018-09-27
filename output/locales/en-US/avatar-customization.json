@@ -20,6 +20,9 @@
     "f_backpack_frlg_0": {
         "name": "LeafGreen Bag"
     },
+    "f_backpack_hgss_0": {
+        "name": "Johto Bag"
+    },
     "f_backpack_ultra": {},
     "f_belt_default_0": {
         "name": "Ball Buckle"
@@ -163,6 +166,9 @@
     "f_hat_frlg_0": {
         "name": "LeafGreen Hat"
     },
+    "f_hat_hgss_0": {
+        "name": "Johto Cap"
+    },
     "f_hat_knitted_0": {
         "name": "Power-Up Knit Cap"
     },
@@ -230,6 +236,9 @@
     },
     "f_pants_gymleader_2": {
         "name": "Gym Leader Skirt"
+    },
+    "f_pants_hgss_0": {
+        "name": "Johto Pants"
     },
     "f_pants_miniskirt_0": {
         "name": "Striped Skirt"
@@ -304,6 +313,9 @@
     "f_shirt_buttondown_0": {
         "name": "Fitted Shirt"
     },
+    "f_shirt_celebi_0": {
+        "name": "Celebi Shirt"
+    },
     "f_shirt_default_0": {
         "name": "Classic Longsleeve"
     },
@@ -345,6 +357,9 @@
     },
     "f_shirt_gymleader_2": {
         "name": "Gym Leader Top"
+    },
+    "f_shirt_hgss_0": {
+        "name": "Johto Top"
     },
     "f_shirt_latias_latios_0": {
         "name": "Latias & Latios Shirt"
@@ -482,6 +497,9 @@
     "f_shoes_gymleader_2": {
         "name": "Gym Leader Shoes"
     },
+    "f_shoes_hgss_0": {
+        "name": "Johto Shoes"
+    },
     "f_shoes_pikachufan_0": {
         "name": "Pikachu Fan Shoes"
     },
@@ -503,6 +521,9 @@
     },
     "f_socks_empty": {
         "name": "No Socks"
+    },
+    "f_socks_hgss_0": {
+        "name": "Johto Socks"
     },
     "f_socks_thighhighs_0": {
         "name": "Wool Leg Warmers"
@@ -530,6 +551,9 @@
     },
     "m_backpack_frlg_0": {
         "name": "FireRed Backpack"
+    },
+    "m_backpack_hgss_0": {
+        "name": "Johto Bag"
     },
     "m_backpack_ultra": {},
     "m_eyes_0": {},
@@ -640,6 +664,9 @@
     "m_hat_frlg_0": {
         "name": "FireRed Cap"
     },
+    "m_hat_hgss_0": {
+        "name": "Johto Cap"
+    },
     "m_hat_jogger_0": {
         "name": "Jogger Visor"
     },
@@ -674,6 +701,9 @@
     },
     "m_pants_gymleader_2": {
         "name": "Gym Leader Shorts"
+    },
+    "m_pants_hgss_0": {
+        "name": "Johto Pants"
     },
     "m_pants_jogger_0": {
         "name": "Jogger Shorts"
@@ -711,6 +741,9 @@
     "m_pants_ultra_0": {},
     "m_shirt_blazer_0": {
         "name": "Business Blazer"
+    },
+    "m_shirt_celebi_0": {
+        "name": "Celebi Shirt"
     },
     "m_shirt_default_0": {
         "name": "Sash Hoodie"
@@ -756,6 +789,9 @@
     },
     "m_shirt_gymleader_2": {
         "name": "Gym Leader Top"
+    },
+    "m_shirt_hgss_0": {
+        "name": "Johto Top"
     },
     "m_shirt_jogger_0": {
         "name": "Jogger Tank Top"
@@ -892,6 +928,9 @@
     },
     "m_shoes_gymleader_2": {
         "name": "Gym Leader Shoes"
+    },
+    "m_shoes_hgss_0": {
+        "name": "Johto Shoes"
     },
     "m_shoes_jogger_0": {
         "name": "Jogger Shoes"

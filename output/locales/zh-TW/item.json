@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "銀色凰梨果",
+        "description": "寶可夢吃下這種樹果後，會變得更容易捕捉，而且會掉更多糖果。"
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "超級球",

@@ -78,6 +78,18 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "f_backpack_hgss_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Ultra 0",
         "gender": "Female",
         "enabled": true,
@@ -753,6 +765,18 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "f_hat_hgss_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Knitted 0",
         "gender": "Female",
         "enabled": true,
@@ -1017,6 +1041,18 @@
         "id": "f_pants_gymleader_2",
         "unlockBadgeLevel": 100,
         "iconName": "f_pants_gymleader_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "f_pants_hgss_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -1299,6 +1335,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Celebi 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_celebi_0",
+        "iconName": "f_shirt_celebi_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Default 0",
         "gender": "Female",
         "enabled": true,
@@ -1451,6 +1498,17 @@
         "id": "f_shirt_gymleader_2",
         "unlockBadgeLevel": 1000,
         "iconName": "f_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_hgss_0",
+        "iconName": "f_shirt_hgss_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1994,6 +2052,18 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "f_shoes_hgss_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Pikachufan 0",
         "gender": "Female",
         "enabled": true,
@@ -2077,6 +2147,18 @@
         "enabled": true,
         "id": "f_socks_empty",
         "iconName": "f_socks_empty_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks"
+    },
+    {
+        "name": "Socks Hgss 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "f_socks_hgss_bundle_icon",
         "slot": [
             "Socks"
         ],
@@ -2177,6 +2259,18 @@
         "id": "m_backpack_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_backpack_frlg_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Hgss 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "m_backpack_hgss_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -2684,6 +2778,18 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Hgss 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "m_hat_hgss_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Jogger 0",
         "gender": "Male",
         "enabled": true,
@@ -2834,6 +2940,18 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Hgss 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "m_pants_hgss_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Jogger 0",
         "gender": "Male",
         "enabled": true,
@@ -2973,6 +3091,17 @@
         "enabled": true,
         "id": "m_shirt_blazer_0",
         "iconName": "m_shirt_blazer_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Celebi 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_celebi_0",
+        "iconName": "m_shirt_celebi_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3143,6 +3272,18 @@
         "id": "m_shirt_gymleader_2",
         "unlockBadgeLevel": 1000,
         "iconName": "m_shirt_gymleader_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Hgss 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "m_shirt_hgss_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3682,6 +3823,18 @@
         "id": "m_shoes_gymleader_2",
         "unlockBadgeLevel": 100,
         "iconName": "m_shoes_gymleader_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Hgss 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_hgss_0",
+        "unlockBadgeLevel": 5,
+        "iconName": "m_shoes_hgss_bundle_icon",
         "slot": [
             "Shoes"
         ],

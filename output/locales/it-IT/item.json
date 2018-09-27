@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "Baccananas d'argento",
+        "description": "Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi e renderlo più facile da catturare."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "Mega Ball",

@@ -9,6 +9,10 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GOLDEN_PINAP_BERRY": {
+        "name": "은 파인열매",
+        "description": "포켓몬에게 주면 잡기 쉬워지고 잡았을 때 사탕을 많게 손에 넣을 수 있는 나무열매."
+    },
     "GOLDEN_RAZZ_BERRY": {},
     "GREAT_BALL": {
         "name": "수퍼볼",
