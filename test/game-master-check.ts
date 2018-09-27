@@ -19,9 +19,11 @@ describe('GAME_MASTER.json check', () => {
             const defaultPokemon = findById(newTemplateId);
             delete defaultPokemon.templateId;
             delete defaultPokemon.pokemonSettings.form;
+            delete defaultPokemon.cinemativMoves;
             delete normalPokemon.templateId;
             delete normalPokemon.pokemonSettings.form;
-            expect(defaultPokemon).to.deep.equal(normalPokemon);
+            delete defaultPokemon.cinemativMoves;
+            expect(defaultPokemon, newTemplateId).to.deep.equal(normalPokemon);
         });
     });
 });
