@@ -1,3 +1,13 @@
+# Version 3.3.1 (27.09.2018)
+
+## Features
+
+- **Update(GAME_MASTER)**: v1538439146003
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
 # Version 3.3.0 (20.08.2018)
 
 ## Features
