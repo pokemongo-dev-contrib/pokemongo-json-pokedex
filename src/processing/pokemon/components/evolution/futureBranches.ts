@@ -32,7 +32,8 @@ export class FutureBranches implements IComponent {
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
         return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
             const pokemonId = getPokemonIdByEvolutionBranch(branch);
-            return this.GetRawPokemonById(pokemonId)
+            const rawPokemon = this.GetRawPokemonById(pokemonId)
+            return rawPokemon;
         });
     }
 
@@ -84,11 +85,13 @@ export class FutureBranches implements IComponent {
         if (!futurePokemons.length) {
             return undefined;
         }
-        return futurePokemons.map(futurePokemon => ({
-            ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
-            futureBranches: this.GetFutureBranches(futurePokemon),
-            costToEvolve: this.GetEvolutionCost(TemplateIdToId(futurePokemon), rawPokemon),
-        } as FutureEvolutionBranch))
+        return futurePokemons
+            .filter(pokemon => pokemon !== undefined)
+            .map(futurePokemon => ({
+                ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
+                futureBranches: this.GetFutureBranches(futurePokemon),
+                costToEvolve: this.GetEvolutionCost(TemplateIdToId(futurePokemon), rawPokemon),
+            } as FutureEvolutionBranch))
     }
 
     Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[]): Pokemon[] {

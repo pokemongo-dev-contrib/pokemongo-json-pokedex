@@ -163,6 +163,7 @@
     "f_hat_fedora_1": {
         "name": "펠트페도라"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "리프해트"
     },
@@ -182,6 +183,12 @@
     "f_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "로켓단모자"
     },
@@ -346,6 +353,7 @@
     "f_shirt_earthday_2018": {
         "name": "파도타기 블루티셔츠"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "리프상의"
     },
@@ -661,6 +669,7 @@
     "m_hat_fisher_0": {
         "name": "낚시꾼캡"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "파이어캡"
     },
@@ -677,6 +686,12 @@
     "m_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "로켓단모자"
     },
@@ -778,6 +793,7 @@
     "m_shirt_fisher_0": {
         "name": "낚시꾼베스트"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "파이어상의"
     },

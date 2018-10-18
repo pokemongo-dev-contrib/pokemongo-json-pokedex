@@ -163,6 +163,7 @@
     "f_hat_fedora_1": {
         "name": "Felt Fedora"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "LeafGreen Hat"
     },
@@ -182,6 +183,12 @@
     "f_hat_pikachufan_0": {
         "name": "Pikachu Fan Headband"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "Team Rocket Hat"
     },
@@ -346,6 +353,7 @@
     "f_shirt_earthday_2018": {
         "name": "Surf Blue Shirt"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "LeafGreen Top"
     },
@@ -661,6 +669,7 @@
     "m_hat_fisher_0": {
         "name": "Fisherman Cap"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "FireRed Cap"
     },
@@ -677,6 +686,12 @@
     "m_hat_pikachufan_0": {
         "name": "Pikachu Fan Headband"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "Team Rocket Hat"
     },
@@ -778,6 +793,7 @@
     "m_shirt_fisher_0": {
         "name": "Fisherman Vest"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "FireRed Top"
     },

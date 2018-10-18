@@ -163,6 +163,7 @@
     "f_hat_fedora_1": {
         "name": "Fedora en feutre"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "Chapeau Vert Feuille"
     },
@@ -182,6 +183,12 @@
     "f_hat_pikachufan_0": {
         "name": "Serre-tête Fan de Pikachu"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "Chapeau Team Rocket"
     },
@@ -346,6 +353,7 @@
     "f_shirt_earthday_2018": {
         "name": "T-shirt surf Blue"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "Haut Vert Feuille"
     },
@@ -661,6 +669,7 @@
     "m_hat_fisher_0": {
         "name": "Casquette de pêcheur"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "Casquette Rouge Feu"
     },
@@ -677,6 +686,12 @@
     "m_hat_pikachufan_0": {
         "name": "Serre-tête Fan de Pikachu"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "Chapeau Team Rocket"
     },
@@ -778,6 +793,7 @@
     "m_shirt_fisher_0": {
         "name": "Gilet de pêcheur"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "Haut Rouge Feu"
     },
