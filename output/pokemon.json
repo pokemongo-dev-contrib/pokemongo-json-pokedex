@@ -111,7 +111,8 @@
                 }
             ]
         },
-        "id": "BULBASAUR"
+        "id": "BULBASAUR",
+        "forms": []
     },
     {
         "dex": 2,
@@ -223,7 +224,8 @@
                 }
             ]
         },
-        "id": "IVYSAUR"
+        "id": "IVYSAUR",
+        "forms": []
     },
     {
         "dex": 3,
@@ -333,7 +335,8 @@
                 "candyCost": 100
             }
         },
-        "id": "VENUSAUR"
+        "id": "VENUSAUR",
+        "forms": []
     },
     {
         "dex": 4,
@@ -443,7 +446,8 @@
                 }
             ]
         },
-        "id": "CHARMANDER"
+        "id": "CHARMANDER",
+        "forms": []
     },
     {
         "dex": 5,
@@ -551,7 +555,8 @@
                 }
             ]
         },
-        "id": "CHARMELEON"
+        "id": "CHARMELEON",
+        "forms": []
     },
     {
         "dex": 6,
@@ -662,7 +667,8 @@
                 "candyCost": 100
             }
         },
-        "id": "CHARIZARD"
+        "id": "CHARIZARD",
+        "forms": []
     },
     {
         "dex": 7,
@@ -772,7 +778,8 @@
                 }
             ]
         },
-        "id": "SQUIRTLE"
+        "id": "SQUIRTLE",
+        "forms": []
     },
     {
         "dex": 8,
@@ -880,7 +887,8 @@
                 }
             ]
         },
-        "id": "WARTORTLE"
+        "id": "WARTORTLE",
+        "forms": []
     },
     {
         "dex": 9,
@@ -986,7 +994,8 @@
                 "candyCost": 100
             }
         },
-        "id": "BLASTOISE"
+        "id": "BLASTOISE",
+        "forms": []
     },
     {
         "dex": 10,
@@ -1087,7 +1096,8 @@
                 }
             ]
         },
-        "id": "CATERPIE"
+        "id": "CATERPIE",
+        "forms": []
     },
     {
         "dex": 11,
@@ -1182,7 +1192,8 @@
                 }
             ]
         },
-        "id": "METAPOD"
+        "id": "METAPOD",
+        "forms": []
     },
     {
         "dex": 12,
@@ -1293,7 +1304,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BUTTERFREE"
+        "id": "BUTTERFREE",
+        "forms": []
     },
     {
         "dex": 13,
@@ -1399,7 +1411,8 @@
                 }
             ]
         },
-        "id": "WEEDLE"
+        "id": "WEEDLE",
+        "forms": []
     },
     {
         "dex": 14,
@@ -1498,7 +1511,8 @@
                 }
             ]
         },
-        "id": "KAKUNA"
+        "id": "KAKUNA",
+        "forms": []
     },
     {
         "dex": 15,
@@ -1609,7 +1623,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BEEDRILL"
+        "id": "BEEDRILL",
+        "forms": []
     },
     {
         "dex": 16,
@@ -1723,7 +1738,8 @@
                 }
             ]
         },
-        "id": "PIDGEY"
+        "id": "PIDGEY",
+        "forms": []
     },
     {
         "dex": 17,
@@ -1836,7 +1852,8 @@
                 }
             ]
         },
-        "id": "PIDGEOTTO"
+        "id": "PIDGEOTTO",
+        "forms": []
     },
     {
         "dex": 18,
@@ -1947,7 +1964,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PIDGEOT"
+        "id": "PIDGEOT",
+        "forms": []
     },
     {
         "dex": 19,
@@ -2048,7 +2066,17 @@
                 }
             ]
         },
-        "id": "RATTATA"
+        "id": "RATTATA",
+        "forms": [
+            {
+                "id": "RATTATA_NORMAL",
+                "name": "Rattata Normal"
+            },
+            {
+                "id": "RATTATA_ALOLA",
+                "name": "Rattata Alola"
+            }
+        ]
     },
     {
         "dex": 19,
@@ -2153,7 +2181,17 @@
                 }
             ]
         },
-        "id": "RATTATA_ALOLA"
+        "id": "RATTATA_ALOLA",
+        "forms": [
+            {
+                "id": "RATTATA_NORMAL",
+                "name": "Rattata Normal"
+            },
+            {
+                "id": "RATTATA_ALOLA",
+                "name": "Rattata Alola"
+            }
+        ]
     },
     {
         "dex": 20,
@@ -2252,7 +2290,17 @@
                 "candyCost": 25
             }
         },
-        "id": "RATICATE"
+        "id": "RATICATE",
+        "forms": [
+            {
+                "id": "RATICATE_NORMAL",
+                "name": "Raticate Normal"
+            },
+            {
+                "id": "RATICATE_ALOLA",
+                "name": "Raticate Alola"
+            }
+        ]
     },
     {
         "dex": 20,
@@ -2355,7 +2403,17 @@
                 "candyCost": 25
             }
         },
-        "id": "RATICATE_ALOLA"
+        "id": "RATICATE_ALOLA",
+        "forms": [
+            {
+                "id": "RATICATE_NORMAL",
+                "name": "Raticate Normal"
+            },
+            {
+                "id": "RATICATE_ALOLA",
+                "name": "Raticate Alola"
+            }
+        ]
     },
     {
         "dex": 21,
@@ -2460,7 +2518,8 @@
                 }
             ]
         },
-        "id": "SPEAROW"
+        "id": "SPEAROW",
+        "forms": []
     },
     {
         "dex": 22,
@@ -2564,7 +2623,8 @@
                 "candyCost": 50
             }
         },
-        "id": "FEAROW"
+        "id": "FEAROW",
+        "forms": []
     },
     {
         "dex": 23,
@@ -2665,7 +2725,8 @@
                 }
             ]
         },
-        "id": "EKANS"
+        "id": "EKANS",
+        "forms": []
     },
     {
         "dex": 24,
@@ -2764,7 +2825,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ARBOK"
+        "id": "ARBOK",
+        "forms": []
     },
     {
         "dex": 25,
@@ -2872,7 +2934,8 @@
                 }
             ]
         },
-        "id": "PIKACHU"
+        "id": "PIKACHU",
+        "forms": []
     },
     {
         "dex": 26,
@@ -2978,7 +3041,17 @@
                 "candyCost": 50
             }
         },
-        "id": "RAICHU"
+        "id": "RAICHU",
+        "forms": [
+            {
+                "id": "RAICHU_NORMAL",
+                "name": "Raichu Normal"
+            },
+            {
+                "id": "RAICHU_ALOLA",
+                "name": "Raichu Alola"
+            }
+        ]
     },
     {
         "dex": 26,
@@ -3073,7 +3146,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "RAICHU_ALOLA"
+        "id": "RAICHU_ALOLA",
+        "forms": [
+            {
+                "id": "RAICHU_NORMAL",
+                "name": "Raichu Normal"
+            },
+            {
+                "id": "RAICHU_ALOLA",
+                "name": "Raichu Alola"
+            }
+        ]
     },
     {
         "dex": 27,
@@ -3174,7 +3257,17 @@
                 }
             ]
         },
-        "id": "SANDSHREW"
+        "id": "SANDSHREW",
+        "forms": [
+            {
+                "id": "SANDSHREW_NORMAL",
+                "name": "Sandshrew Normal"
+            },
+            {
+                "id": "SANDSHREW_ALOLA",
+                "name": "Sandshrew Alola"
+            }
+        ]
     },
     {
         "dex": 27,
@@ -3279,7 +3372,17 @@
                 }
             ]
         },
-        "id": "SANDSHREW_ALOLA"
+        "id": "SANDSHREW_ALOLA",
+        "forms": [
+            {
+                "id": "SANDSHREW_NORMAL",
+                "name": "Sandshrew Normal"
+            },
+            {
+                "id": "SANDSHREW_ALOLA",
+                "name": "Sandshrew Alola"
+            }
+        ]
     },
     {
         "dex": 28,
@@ -3378,7 +3481,17 @@
                 "candyCost": 50
             }
         },
-        "id": "SANDSLASH"
+        "id": "SANDSLASH",
+        "forms": [
+            {
+                "id": "SANDSLASH_NORMAL",
+                "name": "Sandslash Normal"
+            },
+            {
+                "id": "SANDSLASH_ALOLA",
+                "name": "Sandslash Alola"
+            }
+        ]
     },
     {
         "dex": 28,
@@ -3481,7 +3594,17 @@
                 "candyCost": 50
             }
         },
-        "id": "SANDSLASH_ALOLA"
+        "id": "SANDSLASH_ALOLA",
+        "forms": [
+            {
+                "id": "SANDSLASH_NORMAL",
+                "name": "Sandslash Normal"
+            },
+            {
+                "id": "SANDSLASH_ALOLA",
+                "name": "Sandslash Alola"
+            }
+        ]
     },
     {
         "dex": 29,
@@ -3591,7 +3714,8 @@
                 }
             ]
         },
-        "id": "NIDORAN_FEMALE"
+        "id": "NIDORAN_FEMALE",
+        "forms": []
     },
     {
         "dex": 30,
@@ -3699,7 +3823,8 @@
                 }
             ]
         },
-        "id": "NIDORINA"
+        "id": "NIDORINA",
+        "forms": []
     },
     {
         "dex": 31,
@@ -3809,7 +3934,8 @@
                 "candyCost": 100
             }
         },
-        "id": "NIDOQUEEN"
+        "id": "NIDOQUEEN",
+        "forms": []
     },
     {
         "dex": 32,
@@ -3919,7 +4045,8 @@
                 }
             ]
         },
-        "id": "NIDORAN_MALE"
+        "id": "NIDORAN_MALE",
+        "forms": []
     },
     {
         "dex": 33,
@@ -4027,7 +4154,8 @@
                 }
             ]
         },
-        "id": "NIDORINO"
+        "id": "NIDORINO",
+        "forms": []
     },
     {
         "dex": 34,
@@ -4137,7 +4265,8 @@
                 "candyCost": 100
             }
         },
-        "id": "NIDOKING"
+        "id": "NIDOKING",
+        "forms": []
     },
     {
         "dex": 35,
@@ -4245,7 +4374,8 @@
                 }
             ]
         },
-        "id": "CLEFAIRY"
+        "id": "CLEFAIRY",
+        "forms": []
     },
     {
         "dex": 36,
@@ -4351,7 +4481,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CLEFABLE"
+        "id": "CLEFABLE",
+        "forms": []
     },
     {
         "dex": 37,
@@ -4452,7 +4583,17 @@
                 }
             ]
         },
-        "id": "VULPIX"
+        "id": "VULPIX",
+        "forms": [
+            {
+                "id": "VULPIX_NORMAL",
+                "name": "Vulpix Normal"
+            },
+            {
+                "id": "VULPIX_ALOLA",
+                "name": "Vulpix Alola"
+            }
+        ]
     },
     {
         "dex": 37,
@@ -4553,7 +4694,17 @@
                 }
             ]
         },
-        "id": "VULPIX_ALOLA"
+        "id": "VULPIX_ALOLA",
+        "forms": [
+            {
+                "id": "VULPIX_NORMAL",
+                "name": "Vulpix Normal"
+            },
+            {
+                "id": "VULPIX_ALOLA",
+                "name": "Vulpix Alola"
+            }
+        ]
     },
     {
         "dex": 38,
@@ -4652,7 +4803,17 @@
                 "candyCost": 50
             }
         },
-        "id": "NINETALES"
+        "id": "NINETALES",
+        "forms": [
+            {
+                "id": "NINETALES_NORMAL",
+                "name": "Ninetales Normal"
+            },
+            {
+                "id": "NINETALES_ALOLA",
+                "name": "Ninetales Alola"
+            }
+        ]
     },
     {
         "dex": 38,
@@ -4755,7 +4916,17 @@
                 "candyCost": 50
             }
         },
-        "id": "NINETALES_ALOLA"
+        "id": "NINETALES_ALOLA",
+        "forms": [
+            {
+                "id": "NINETALES_NORMAL",
+                "name": "Ninetales Normal"
+            },
+            {
+                "id": "NINETALES_ALOLA",
+                "name": "Ninetales Alola"
+            }
+        ]
     },
     {
         "dex": 39,
@@ -4867,7 +5038,8 @@
                 }
             ]
         },
-        "id": "JIGGLYPUFF"
+        "id": "JIGGLYPUFF",
+        "forms": []
     },
     {
         "dex": 40,
@@ -4977,7 +5149,8 @@
                 "candyCost": 50
             }
         },
-        "id": "WIGGLYTUFF"
+        "id": "WIGGLYTUFF",
+        "forms": []
     },
     {
         "dex": 41,
@@ -5092,7 +5265,8 @@
                 }
             ]
         },
-        "id": "ZUBAT"
+        "id": "ZUBAT",
+        "forms": []
     },
     {
         "dex": 42,
@@ -5205,7 +5379,8 @@
                 }
             ]
         },
-        "id": "GOLBAT"
+        "id": "GOLBAT",
+        "forms": []
     },
     {
         "dex": 43,
@@ -5330,7 +5505,8 @@
                 }
             ]
         },
-        "id": "ODDISH"
+        "id": "ODDISH",
+        "forms": []
     },
     {
         "dex": 44,
@@ -5453,7 +5629,8 @@
                 }
             ]
         },
-        "id": "GLOOM"
+        "id": "GLOOM",
+        "forms": []
     },
     {
         "dex": 45,
@@ -5563,7 +5740,8 @@
                 "candyCost": 100
             }
         },
-        "id": "VILEPLUME"
+        "id": "VILEPLUME",
+        "forms": []
     },
     {
         "dex": 46,
@@ -5668,7 +5846,8 @@
                 }
             ]
         },
-        "id": "PARAS"
+        "id": "PARAS",
+        "forms": []
     },
     {
         "dex": 47,
@@ -5771,7 +5950,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PARASECT"
+        "id": "PARASECT",
+        "forms": []
     },
     {
         "dex": 48,
@@ -5876,7 +6056,8 @@
                 }
             ]
         },
-        "id": "VENONAT"
+        "id": "VENONAT",
+        "forms": []
     },
     {
         "dex": 49,
@@ -5980,7 +6161,8 @@
                 "candyCost": 50
             }
         },
-        "id": "VENOMOTH"
+        "id": "VENOMOTH",
+        "forms": []
     },
     {
         "dex": 50,
@@ -6076,7 +6258,17 @@
                 }
             ]
         },
-        "id": "DIGLETT"
+        "id": "DIGLETT",
+        "forms": [
+            {
+                "id": "DIGLETT_NORMAL",
+                "name": "Diglett Normal"
+            },
+            {
+                "id": "DIGLETT_ALOLA",
+                "name": "Diglett Alola"
+            }
+        ]
     },
     {
         "dex": 50,
@@ -6176,7 +6368,17 @@
                 }
             ]
         },
-        "id": "DIGLETT_ALOLA"
+        "id": "DIGLETT_ALOLA",
+        "forms": [
+            {
+                "id": "DIGLETT_NORMAL",
+                "name": "Diglett Normal"
+            },
+            {
+                "id": "DIGLETT_ALOLA",
+                "name": "Diglett Alola"
+            }
+        ]
     },
     {
         "dex": 51,
@@ -6270,7 +6472,17 @@
                 "candyCost": 50
             }
         },
-        "id": "DUGTRIO"
+        "id": "DUGTRIO",
+        "forms": [
+            {
+                "id": "DUGTRIO_NORMAL",
+                "name": "Dugtrio Normal"
+            },
+            {
+                "id": "DUGTRIO_ALOLA",
+                "name": "Dugtrio Alola"
+            }
+        ]
     },
     {
         "dex": 51,
@@ -6368,7 +6580,17 @@
                 "candyCost": 50
             }
         },
-        "id": "DUGTRIO_ALOLA"
+        "id": "DUGTRIO_ALOLA",
+        "forms": [
+            {
+                "id": "DUGTRIO_NORMAL",
+                "name": "Dugtrio Normal"
+            },
+            {
+                "id": "DUGTRIO_ALOLA",
+                "name": "Dugtrio Alola"
+            }
+        ]
     },
     {
         "dex": 52,
@@ -6469,7 +6691,17 @@
                 }
             ]
         },
-        "id": "MEOWTH"
+        "id": "MEOWTH",
+        "forms": [
+            {
+                "id": "MEOWTH_NORMAL",
+                "name": "Meowth Normal"
+            },
+            {
+                "id": "MEOWTH_ALOLA",
+                "name": "Meowth Alola"
+            }
+        ]
     },
     {
         "dex": 52,
@@ -6570,7 +6802,17 @@
                 }
             ]
         },
-        "id": "MEOWTH_ALOLA"
+        "id": "MEOWTH_ALOLA",
+        "forms": [
+            {
+                "id": "MEOWTH_NORMAL",
+                "name": "Meowth Normal"
+            },
+            {
+                "id": "MEOWTH_ALOLA",
+                "name": "Meowth Alola"
+            }
+        ]
     },
     {
         "dex": 53,
@@ -6669,7 +6911,17 @@
                 "candyCost": 50
             }
         },
-        "id": "PERSIAN"
+        "id": "PERSIAN",
+        "forms": [
+            {
+                "id": "PERSIAN_NORMAL",
+                "name": "Persian Normal"
+            },
+            {
+                "id": "PERSIAN_ALOLA",
+                "name": "Persian Alola"
+            }
+        ]
     },
     {
         "dex": 53,
@@ -6768,7 +7020,17 @@
                 "candyCost": 50
             }
         },
-        "id": "PERSIAN_ALOLA"
+        "id": "PERSIAN_ALOLA",
+        "forms": [
+            {
+                "id": "PERSIAN_NORMAL",
+                "name": "Persian Normal"
+            },
+            {
+                "id": "PERSIAN_ALOLA",
+                "name": "Persian Alola"
+            }
+        ]
     },
     {
         "dex": 54,
@@ -6869,7 +7131,8 @@
                 }
             ]
         },
-        "id": "PSYDUCK"
+        "id": "PSYDUCK",
+        "forms": []
     },
     {
         "dex": 55,
@@ -6968,7 +7231,8 @@
                 "candyCost": 50
             }
         },
-        "id": "GOLDUCK"
+        "id": "GOLDUCK",
+        "forms": []
     },
     {
         "dex": 56,
@@ -7069,7 +7333,8 @@
                 }
             ]
         },
-        "id": "MANKEY"
+        "id": "MANKEY",
+        "forms": []
     },
     {
         "dex": 57,
@@ -7168,7 +7433,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PRIMEAPE"
+        "id": "PRIMEAPE",
+        "forms": []
     },
     {
         "dex": 58,
@@ -7269,7 +7535,8 @@
                 }
             ]
         },
-        "id": "GROWLITHE"
+        "id": "GROWLITHE",
+        "forms": []
     },
     {
         "dex": 59,
@@ -7368,7 +7635,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ARCANINE"
+        "id": "ARCANINE",
+        "forms": []
     },
     {
         "dex": 60,
@@ -7489,7 +7757,8 @@
                 }
             ]
         },
-        "id": "POLIWAG"
+        "id": "POLIWAG",
+        "forms": []
     },
     {
         "dex": 61,
@@ -7608,7 +7877,8 @@
                 }
             ]
         },
-        "id": "POLIWHIRL"
+        "id": "POLIWHIRL",
+        "forms": []
     },
     {
         "dex": 62,
@@ -7718,7 +7988,8 @@
                 "candyCost": 100
             }
         },
-        "id": "POLIWRATH"
+        "id": "POLIWRATH",
+        "forms": []
     },
     {
         "dex": 63,
@@ -7829,7 +8100,8 @@
                 }
             ]
         },
-        "id": "ABRA"
+        "id": "ABRA",
+        "forms": []
     },
     {
         "dex": 64,
@@ -7937,7 +8209,8 @@
                 }
             ]
         },
-        "id": "KADABRA"
+        "id": "KADABRA",
+        "forms": []
     },
     {
         "dex": 65,
@@ -8043,7 +8316,8 @@
                 "candyCost": 100
             }
         },
-        "id": "ALAKAZAM"
+        "id": "ALAKAZAM",
+        "forms": []
     },
     {
         "dex": 66,
@@ -8153,7 +8427,8 @@
                 }
             ]
         },
-        "id": "MACHOP"
+        "id": "MACHOP",
+        "forms": []
     },
     {
         "dex": 67,
@@ -8261,7 +8536,8 @@
                 }
             ]
         },
-        "id": "MACHOKE"
+        "id": "MACHOKE",
+        "forms": []
     },
     {
         "dex": 68,
@@ -8367,7 +8643,8 @@
                 "candyCost": 100
             }
         },
-        "id": "MACHAMP"
+        "id": "MACHAMP",
+        "forms": []
     },
     {
         "dex": 69,
@@ -8481,7 +8758,8 @@
                 }
             ]
         },
-        "id": "BELLSPROUT"
+        "id": "BELLSPROUT",
+        "forms": []
     },
     {
         "dex": 70,
@@ -8594,7 +8872,8 @@
                 }
             ]
         },
-        "id": "WEEPINBELL"
+        "id": "WEEPINBELL",
+        "forms": []
     },
     {
         "dex": 71,
@@ -8705,7 +8984,8 @@
                 "candyCost": 100
             }
         },
-        "id": "VICTREEBEL"
+        "id": "VICTREEBEL",
+        "forms": []
     },
     {
         "dex": 72,
@@ -8811,7 +9091,8 @@
                 }
             ]
         },
-        "id": "TENTACOOL"
+        "id": "TENTACOOL",
+        "forms": []
     },
     {
         "dex": 73,
@@ -8915,7 +9196,8 @@
                 "candyCost": 50
             }
         },
-        "id": "TENTACRUEL"
+        "id": "TENTACRUEL",
+        "forms": []
     },
     {
         "dex": 74,
@@ -9030,7 +9312,17 @@
                 }
             ]
         },
-        "id": "GEODUDE"
+        "id": "GEODUDE",
+        "forms": [
+            {
+                "id": "GEODUDE_NORMAL",
+                "name": "Geodude Normal"
+            },
+            {
+                "id": "GEODUDE_ALOLA",
+                "name": "Geodude Alola"
+            }
+        ]
     },
     {
         "dex": 74,
@@ -9145,7 +9437,17 @@
                 }
             ]
         },
-        "id": "GEODUDE_ALOLA"
+        "id": "GEODUDE_ALOLA",
+        "forms": [
+            {
+                "id": "GEODUDE_NORMAL",
+                "name": "Geodude Normal"
+            },
+            {
+                "id": "GEODUDE_ALOLA",
+                "name": "Geodude Alola"
+            }
+        ]
     },
     {
         "dex": 75,
@@ -9257,7 +9559,17 @@
                 }
             ]
         },
-        "id": "GRAVELER"
+        "id": "GRAVELER",
+        "forms": [
+            {
+                "id": "GRAVELER_NORMAL",
+                "name": "Graveler Normal"
+            },
+            {
+                "id": "GRAVELER_ALOLA",
+                "name": "Graveler Alola"
+            }
+        ]
     },
     {
         "dex": 75,
@@ -9369,7 +9681,17 @@
                 }
             ]
         },
-        "id": "GRAVELER_ALOLA"
+        "id": "GRAVELER_ALOLA",
+        "forms": [
+            {
+                "id": "GRAVELER_NORMAL",
+                "name": "Graveler Normal"
+            },
+            {
+                "id": "GRAVELER_ALOLA",
+                "name": "Graveler Alola"
+            }
+        ]
     },
     {
         "dex": 76,
@@ -9479,7 +9801,17 @@
                 "candyCost": 100
             }
         },
-        "id": "GOLEM"
+        "id": "GOLEM",
+        "forms": [
+            {
+                "id": "GOLEM_NORMAL",
+                "name": "Golem Normal"
+            },
+            {
+                "id": "GOLEM_ALOLA",
+                "name": "Golem Alola"
+            }
+        ]
     },
     {
         "dex": 76,
@@ -9589,7 +9921,17 @@
                 "candyCost": 100
             }
         },
-        "id": "GOLEM_ALOLA"
+        "id": "GOLEM_ALOLA",
+        "forms": [
+            {
+                "id": "GOLEM_NORMAL",
+                "name": "Golem Normal"
+            },
+            {
+                "id": "GOLEM_ALOLA",
+                "name": "Golem Alola"
+            }
+        ]
     },
     {
         "dex": 77,
@@ -9690,7 +10032,8 @@
                 }
             ]
         },
-        "id": "PONYTA"
+        "id": "PONYTA",
+        "forms": []
     },
     {
         "dex": 78,
@@ -9789,7 +10132,8 @@
                 "candyCost": 50
             }
         },
-        "id": "RAPIDASH"
+        "id": "RAPIDASH",
+        "forms": []
     },
     {
         "dex": 79,
@@ -9905,7 +10249,8 @@
                 }
             ]
         },
-        "id": "SLOWPOKE"
+        "id": "SLOWPOKE",
+        "forms": []
     },
     {
         "dex": 80,
@@ -10008,7 +10353,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SLOWBRO"
+        "id": "SLOWBRO",
+        "forms": []
     },
     {
         "dex": 81,
@@ -10110,7 +10456,8 @@
                 }
             ]
         },
-        "id": "MAGNEMITE"
+        "id": "MAGNEMITE",
+        "forms": []
     },
     {
         "dex": 82,
@@ -10210,7 +10557,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MAGNETON"
+        "id": "MAGNETON",
+        "forms": []
     },
     {
         "dex": 83,
@@ -10305,7 +10653,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "FARFETCHD"
+        "id": "FARFETCHD",
+        "forms": []
     },
     {
         "dex": 84,
@@ -10410,7 +10759,8 @@
                 }
             ]
         },
-        "id": "DODUO"
+        "id": "DODUO",
+        "forms": []
     },
     {
         "dex": 85,
@@ -10513,7 +10863,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DODRIO"
+        "id": "DODRIO",
+        "forms": []
     },
     {
         "dex": 86,
@@ -10614,7 +10965,8 @@
                 }
             ]
         },
-        "id": "SEEL"
+        "id": "SEEL",
+        "forms": []
     },
     {
         "dex": 87,
@@ -10718,7 +11070,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DEWGONG"
+        "id": "DEWGONG",
+        "forms": []
     },
     {
         "dex": 88,
@@ -10819,7 +11172,17 @@
                 }
             ]
         },
-        "id": "GRIMER"
+        "id": "GRIMER",
+        "forms": [
+            {
+                "id": "GRIMER_NORMAL",
+                "name": "Grimer Normal"
+            },
+            {
+                "id": "GRIMER_ALOLA",
+                "name": "Grimer Alola"
+            }
+        ]
     },
     {
         "dex": 88,
@@ -10924,7 +11287,17 @@
                 }
             ]
         },
-        "id": "GRIMER_ALOLA"
+        "id": "GRIMER_ALOLA",
+        "forms": [
+            {
+                "id": "GRIMER_NORMAL",
+                "name": "Grimer Normal"
+            },
+            {
+                "id": "GRIMER_ALOLA",
+                "name": "Grimer Alola"
+            }
+        ]
     },
     {
         "dex": 89,
@@ -11023,7 +11396,17 @@
                 "candyCost": 50
             }
         },
-        "id": "MUK"
+        "id": "MUK",
+        "forms": [
+            {
+                "id": "MUK_NORMAL",
+                "name": "Muk Normal"
+            },
+            {
+                "id": "MUK_ALOLA",
+                "name": "Muk Alola"
+            }
+        ]
     },
     {
         "dex": 89,
@@ -11126,7 +11509,17 @@
                 "candyCost": 50
             }
         },
-        "id": "MUK_ALOLA"
+        "id": "MUK_ALOLA",
+        "forms": [
+            {
+                "id": "MUK_NORMAL",
+                "name": "Muk Normal"
+            },
+            {
+                "id": "MUK_ALOLA",
+                "name": "Muk Alola"
+            }
+        ]
     },
     {
         "dex": 90,
@@ -11227,7 +11620,8 @@
                 }
             ]
         },
-        "id": "SHELLDER"
+        "id": "SHELLDER",
+        "forms": []
     },
     {
         "dex": 91,
@@ -11331,7 +11725,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CLOYSTER"
+        "id": "CLOYSTER",
+        "forms": []
     },
     {
         "dex": 92,
@@ -11446,7 +11841,8 @@
                 }
             ]
         },
-        "id": "GASTLY"
+        "id": "GASTLY",
+        "forms": []
     },
     {
         "dex": 93,
@@ -11559,7 +11955,8 @@
                 }
             ]
         },
-        "id": "HAUNTER"
+        "id": "HAUNTER",
+        "forms": []
     },
     {
         "dex": 94,
@@ -11669,7 +12066,8 @@
                 "candyCost": 100
             }
         },
-        "id": "GENGAR"
+        "id": "GENGAR",
+        "forms": []
     },
     {
         "dex": 95,
@@ -11774,7 +12172,8 @@
                 }
             ]
         },
-        "id": "ONIX"
+        "id": "ONIX",
+        "forms": []
     },
     {
         "dex": 96,
@@ -11875,7 +12274,8 @@
                 }
             ]
         },
-        "id": "DROWZEE"
+        "id": "DROWZEE",
+        "forms": []
     },
     {
         "dex": 97,
@@ -11974,7 +12374,8 @@
                 "candyCost": 50
             }
         },
-        "id": "HYPNO"
+        "id": "HYPNO",
+        "forms": []
     },
     {
         "dex": 98,
@@ -12075,7 +12476,8 @@
                 }
             ]
         },
-        "id": "KRABBY"
+        "id": "KRABBY",
+        "forms": []
     },
     {
         "dex": 99,
@@ -12174,7 +12576,8 @@
                 "candyCost": 50
             }
         },
-        "id": "KINGLER"
+        "id": "KINGLER",
+        "forms": []
     },
     {
         "dex": 100,
@@ -12271,7 +12674,8 @@
                 }
             ]
         },
-        "id": "VOLTORB"
+        "id": "VOLTORB",
+        "forms": []
     },
     {
         "dex": 101,
@@ -12366,7 +12770,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ELECTRODE"
+        "id": "ELECTRODE",
+        "forms": []
     },
     {
         "dex": 102,
@@ -12471,7 +12876,8 @@
                 }
             ]
         },
-        "id": "EXEGGCUTE"
+        "id": "EXEGGCUTE",
+        "forms": []
     },
     {
         "dex": 103,
@@ -12574,7 +12980,17 @@
                 "candyCost": 50
             }
         },
-        "id": "EXEGGUTOR"
+        "id": "EXEGGUTOR",
+        "forms": [
+            {
+                "id": "EXEGGUTOR_NORMAL",
+                "name": "Exeggutor Normal"
+            },
+            {
+                "id": "EXEGGUTOR_ALOLA",
+                "name": "Exeggutor Alola"
+            }
+        ]
     },
     {
         "dex": 103,
@@ -12669,7 +13085,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "EXEGGUTOR_ALOLA"
+        "id": "EXEGGUTOR_ALOLA",
+        "forms": [
+            {
+                "id": "EXEGGUTOR_NORMAL",
+                "name": "Exeggutor Normal"
+            },
+            {
+                "id": "EXEGGUTOR_ALOLA",
+                "name": "Exeggutor Alola"
+            }
+        ]
     },
     {
         "dex": 104,
@@ -12770,7 +13196,8 @@
                 }
             ]
         },
-        "id": "CUBONE"
+        "id": "CUBONE",
+        "forms": []
     },
     {
         "dex": 105,
@@ -12869,7 +13296,17 @@
                 "candyCost": 50
             }
         },
-        "id": "MAROWAK"
+        "id": "MAROWAK",
+        "forms": [
+            {
+                "id": "MAROWAK_NORMAL",
+                "name": "Marowak Normal"
+            },
+            {
+                "id": "MAROWAK_ALOLA",
+                "name": "Marowak Alola"
+            }
+        ]
     },
     {
         "dex": 105,
@@ -12964,7 +13401,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MAROWAK_ALOLA"
+        "id": "MAROWAK_ALOLA",
+        "forms": [
+            {
+                "id": "MAROWAK_NORMAL",
+                "name": "Marowak Normal"
+            },
+            {
+                "id": "MAROWAK_ALOLA",
+                "name": "Marowak Alola"
+            }
+        ]
     },
     {
         "dex": 106,
@@ -13063,7 +13510,8 @@
                 "candyCost": 25
             }
         },
-        "id": "HITMONLEE"
+        "id": "HITMONLEE",
+        "forms": []
     },
     {
         "dex": 107,
@@ -13166,7 +13614,8 @@
                 "candyCost": 25
             }
         },
-        "id": "HITMONCHAN"
+        "id": "HITMONCHAN",
+        "forms": []
     },
     {
         "dex": 108,
@@ -13257,7 +13706,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LICKITUNG"
+        "id": "LICKITUNG",
+        "forms": []
     },
     {
         "dex": 109,
@@ -13359,7 +13809,8 @@
                 }
             ]
         },
-        "id": "KOFFING"
+        "id": "KOFFING",
+        "forms": []
     },
     {
         "dex": 110,
@@ -13459,7 +13910,8 @@
                 "candyCost": 50
             }
         },
-        "id": "WEEZING"
+        "id": "WEEZING",
+        "forms": []
     },
     {
         "dex": 111,
@@ -13564,7 +14016,8 @@
                 }
             ]
         },
-        "id": "RHYHORN"
+        "id": "RHYHORN",
+        "forms": []
     },
     {
         "dex": 112,
@@ -13667,7 +14120,8 @@
                 "candyCost": 50
             }
         },
-        "id": "RHYDON"
+        "id": "RHYDON",
+        "forms": []
     },
     {
         "dex": 113,
@@ -13775,7 +14229,8 @@
                 }
             ]
         },
-        "id": "CHANSEY"
+        "id": "CHANSEY",
+        "forms": []
     },
     {
         "dex": 114,
@@ -13866,7 +14321,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TANGELA"
+        "id": "TANGELA",
+        "forms": []
     },
     {
         "dex": 115,
@@ -13957,7 +14413,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "KANGASKHAN"
+        "id": "KANGASKHAN",
+        "forms": []
     },
     {
         "dex": 116,
@@ -14072,7 +14529,8 @@
                 }
             ]
         },
-        "id": "HORSEA"
+        "id": "HORSEA",
+        "forms": []
     },
     {
         "dex": 117,
@@ -14185,7 +14643,8 @@
                 }
             ]
         },
-        "id": "SEADRA"
+        "id": "SEADRA",
+        "forms": []
     },
     {
         "dex": 118,
@@ -14287,7 +14746,8 @@
                 }
             ]
         },
-        "id": "GOLDEEN"
+        "id": "GOLDEEN",
+        "forms": []
     },
     {
         "dex": 119,
@@ -14387,7 +14847,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SEAKING"
+        "id": "SEAKING",
+        "forms": []
     },
     {
         "dex": 120,
@@ -14484,7 +14945,8 @@
                 }
             ]
         },
-        "id": "STARYU"
+        "id": "STARYU",
+        "forms": []
     },
     {
         "dex": 121,
@@ -14583,7 +15045,8 @@
                 "candyCost": 50
             }
         },
-        "id": "STARMIE"
+        "id": "STARMIE",
+        "forms": []
     },
     {
         "dex": 122,
@@ -14686,7 +15149,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MR_MIME"
+        "id": "MR_MIME",
+        "forms": []
     },
     {
         "dex": 123,
@@ -14796,7 +15260,8 @@
                 }
             ]
         },
-        "id": "SCYTHER"
+        "id": "SCYTHER",
+        "forms": []
     },
     {
         "dex": 124,
@@ -14899,7 +15364,8 @@
                 "candyCost": 25
             }
         },
-        "id": "JYNX"
+        "id": "JYNX",
+        "forms": []
     },
     {
         "dex": 125,
@@ -14998,7 +15464,8 @@
                 "candyCost": 25
             }
         },
-        "id": "ELECTABUZZ"
+        "id": "ELECTABUZZ",
+        "forms": []
     },
     {
         "dex": 126,
@@ -15097,7 +15564,8 @@
                 "candyCost": 25
             }
         },
-        "id": "MAGMAR"
+        "id": "MAGMAR",
+        "forms": []
     },
     {
         "dex": 127,
@@ -15188,7 +15656,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PINSIR"
+        "id": "PINSIR",
+        "forms": []
     },
     {
         "dex": 128,
@@ -15279,7 +15748,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TAUROS"
+        "id": "TAUROS",
+        "forms": []
     },
     {
         "dex": 129,
@@ -15365,7 +15835,8 @@
                 }
             ]
         },
-        "id": "MAGIKARP"
+        "id": "MAGIKARP",
+        "forms": []
     },
     {
         "dex": 130,
@@ -15469,7 +15940,8 @@
                 "candyCost": 400
             }
         },
-        "id": "GYARADOS"
+        "id": "GYARADOS",
+        "forms": []
     },
     {
         "dex": 131,
@@ -15564,7 +16036,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LAPRAS"
+        "id": "LAPRAS",
+        "forms": []
     },
     {
         "dex": 132,
@@ -15639,7 +16112,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DITTO"
+        "id": "DITTO",
+        "forms": []
     },
     {
         "dex": 133,
@@ -15764,7 +16238,8 @@
                 }
             ]
         },
-        "id": "EEVEE"
+        "id": "EEVEE",
+        "forms": []
     },
     {
         "dex": 134,
@@ -15859,7 +16334,8 @@
                 "candyCost": 25
             }
         },
-        "id": "VAPOREON"
+        "id": "VAPOREON",
+        "forms": []
     },
     {
         "dex": 135,
@@ -15958,7 +16434,8 @@
                 "candyCost": 25
             }
         },
-        "id": "JOLTEON"
+        "id": "JOLTEON",
+        "forms": []
     },
     {
         "dex": 136,
@@ -16057,7 +16534,8 @@
                 "candyCost": 25
             }
         },
-        "id": "FLAREON"
+        "id": "FLAREON",
+        "forms": []
     },
     {
         "dex": 137,
@@ -16159,7 +16637,8 @@
                 }
             ]
         },
-        "id": "PORYGON"
+        "id": "PORYGON",
+        "forms": []
     },
     {
         "dex": 138,
@@ -16264,7 +16743,8 @@
                 }
             ]
         },
-        "id": "OMANYTE"
+        "id": "OMANYTE",
+        "forms": []
     },
     {
         "dex": 139,
@@ -16367,7 +16847,8 @@
                 "candyCost": 50
             }
         },
-        "id": "OMASTAR"
+        "id": "OMASTAR",
+        "forms": []
     },
     {
         "dex": 140,
@@ -16472,7 +16953,8 @@
                 }
             ]
         },
-        "id": "KABUTO"
+        "id": "KABUTO",
+        "forms": []
     },
     {
         "dex": 141,
@@ -16575,7 +17057,8 @@
                 "candyCost": 50
             }
         },
-        "id": "KABUTOPS"
+        "id": "KABUTOPS",
+        "forms": []
     },
     {
         "dex": 142,
@@ -16671,7 +17154,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "AERODACTYL"
+        "id": "AERODACTYL",
+        "forms": []
     },
     {
         "dex": 143,
@@ -16770,7 +17254,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SNORLAX"
+        "id": "SNORLAX",
+        "forms": []
     },
     {
         "dex": 144,
@@ -16862,7 +17347,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARTICUNO"
+        "id": "ARTICUNO",
+        "forms": []
     },
     {
         "dex": 145,
@@ -16954,7 +17440,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ZAPDOS"
+        "id": "ZAPDOS",
+        "forms": []
     },
     {
         "dex": 146,
@@ -17046,7 +17533,8 @@
             "shoulderModeScale": 0.25
         },
         "evolution": {},
-        "id": "MOLTRES"
+        "id": "MOLTRES",
+        "forms": []
     },
     {
         "dex": 147,
@@ -17156,7 +17644,8 @@
                 }
             ]
         },
-        "id": "DRATINI"
+        "id": "DRATINI",
+        "forms": []
     },
     {
         "dex": 148,
@@ -17264,7 +17753,8 @@
                 }
             ]
         },
-        "id": "DRAGONAIR"
+        "id": "DRAGONAIR",
+        "forms": []
     },
     {
         "dex": 149,
@@ -17375,7 +17865,8 @@
                 "candyCost": 100
             }
         },
-        "id": "DRAGONITE"
+        "id": "DRAGONITE",
+        "forms": []
     },
     {
         "dex": 150,
@@ -17474,7 +17965,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MEWTWO"
+        "id": "MEWTWO",
+        "forms": []
     },
     {
         "dex": 151,
@@ -17700,7 +18192,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MEW"
+        "id": "MEW",
+        "forms": []
     },
     {
         "dex": 152,
@@ -17810,7 +18303,8 @@
                 }
             ]
         },
-        "id": "CHIKORITA"
+        "id": "CHIKORITA",
+        "forms": []
     },
     {
         "dex": 153,
@@ -17918,7 +18412,8 @@
                 }
             ]
         },
-        "id": "BAYLEEF"
+        "id": "BAYLEEF",
+        "forms": []
     },
     {
         "dex": 154,
@@ -18024,7 +18519,8 @@
                 "candyCost": 100
             }
         },
-        "id": "MEGANIUM"
+        "id": "MEGANIUM",
+        "forms": []
     },
     {
         "dex": 155,
@@ -18134,7 +18630,8 @@
                 }
             ]
         },
-        "id": "CYNDAQUIL"
+        "id": "CYNDAQUIL",
+        "forms": []
     },
     {
         "dex": 156,
@@ -18242,7 +18739,8 @@
                 }
             ]
         },
-        "id": "QUILAVA"
+        "id": "QUILAVA",
+        "forms": []
     },
     {
         "dex": 157,
@@ -18348,7 +18846,8 @@
                 "candyCost": 100
             }
         },
-        "id": "TYPHLOSION"
+        "id": "TYPHLOSION",
+        "forms": []
     },
     {
         "dex": 158,
@@ -18458,7 +18957,8 @@
                 }
             ]
         },
-        "id": "TOTODILE"
+        "id": "TOTODILE",
+        "forms": []
     },
     {
         "dex": 159,
@@ -18566,7 +19066,8 @@
                 }
             ]
         },
-        "id": "CROCONAW"
+        "id": "CROCONAW",
+        "forms": []
     },
     {
         "dex": 160,
@@ -18672,7 +19173,8 @@
                 "candyCost": 100
             }
         },
-        "id": "FERALIGATR"
+        "id": "FERALIGATR",
+        "forms": []
     },
     {
         "dex": 161,
@@ -18773,7 +19275,8 @@
                 }
             ]
         },
-        "id": "SENTRET"
+        "id": "SENTRET",
+        "forms": []
     },
     {
         "dex": 162,
@@ -18872,7 +19375,8 @@
                 "candyCost": 25
             }
         },
-        "id": "FURRET"
+        "id": "FURRET",
+        "forms": []
     },
     {
         "dex": 163,
@@ -18977,7 +19481,8 @@
                 }
             ]
         },
-        "id": "HOOTHOOT"
+        "id": "HOOTHOOT",
+        "forms": []
     },
     {
         "dex": 164,
@@ -19081,7 +19586,8 @@
                 "candyCost": 50
             }
         },
-        "id": "NOCTOWL"
+        "id": "NOCTOWL",
+        "forms": []
     },
     {
         "dex": 165,
@@ -19187,7 +19693,8 @@
                 }
             ]
         },
-        "id": "LEDYBA"
+        "id": "LEDYBA",
+        "forms": []
     },
     {
         "dex": 166,
@@ -19291,7 +19798,8 @@
                 "candyCost": 25
             }
         },
-        "id": "LEDIAN"
+        "id": "LEDIAN",
+        "forms": []
     },
     {
         "dex": 167,
@@ -19396,7 +19904,8 @@
                 }
             ]
         },
-        "id": "SPINARAK"
+        "id": "SPINARAK",
+        "forms": []
     },
     {
         "dex": 168,
@@ -19499,7 +20008,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ARIADOS"
+        "id": "ARIADOS",
+        "forms": []
     },
     {
         "dex": 169,
@@ -19610,7 +20120,8 @@
                 "candyCost": 100
             }
         },
-        "id": "CROBAT"
+        "id": "CROBAT",
+        "forms": []
     },
     {
         "dex": 170,
@@ -19716,7 +20227,8 @@
                 }
             ]
         },
-        "id": "CHINCHOU"
+        "id": "CHINCHOU",
+        "forms": []
     },
     {
         "dex": 171,
@@ -19820,7 +20332,8 @@
                 "candyCost": 50
             }
         },
-        "id": "LANTURN"
+        "id": "LANTURN",
+        "forms": []
     },
     {
         "dex": 172,
@@ -19925,7 +20438,8 @@
                 }
             ]
         },
-        "id": "PICHU"
+        "id": "PICHU",
+        "forms": []
     },
     {
         "dex": 173,
@@ -20034,7 +20548,8 @@
                 }
             ]
         },
-        "id": "CLEFFA"
+        "id": "CLEFFA",
+        "forms": []
     },
     {
         "dex": 174,
@@ -20148,7 +20663,8 @@
                 }
             ]
         },
-        "id": "IGGLYBUFF"
+        "id": "IGGLYBUFF",
+        "forms": []
     },
     {
         "dex": 175,
@@ -20248,7 +20764,8 @@
                 }
             ]
         },
-        "id": "TOGEPI"
+        "id": "TOGEPI",
+        "forms": []
     },
     {
         "dex": 176,
@@ -20352,7 +20869,8 @@
                 "candyCost": 50
             }
         },
-        "id": "TOGETIC"
+        "id": "TOGETIC",
+        "forms": []
     },
     {
         "dex": 177,
@@ -20457,7 +20975,8 @@
                 }
             ]
         },
-        "id": "NATU"
+        "id": "NATU",
+        "forms": []
     },
     {
         "dex": 178,
@@ -20561,7 +21080,8 @@
                 "candyCost": 50
             }
         },
-        "id": "XATU"
+        "id": "XATU",
+        "forms": []
     },
     {
         "dex": 179,
@@ -20671,7 +21191,8 @@
                 }
             ]
         },
-        "id": "MAREEP"
+        "id": "MAREEP",
+        "forms": []
     },
     {
         "dex": 180,
@@ -20779,7 +21300,8 @@
                 }
             ]
         },
-        "id": "FLAAFFY"
+        "id": "FLAAFFY",
+        "forms": []
     },
     {
         "dex": 181,
@@ -20885,7 +21407,8 @@
                 "candyCost": 100
             }
         },
-        "id": "AMPHAROS"
+        "id": "AMPHAROS",
+        "forms": []
     },
     {
         "dex": 182,
@@ -20995,7 +21518,8 @@
                 }
             }
         },
-        "id": "BELLOSSOM"
+        "id": "BELLOSSOM",
+        "forms": []
     },
     {
         "dex": 183,
@@ -21107,7 +21631,8 @@
                 }
             ]
         },
-        "id": "MARILL"
+        "id": "MARILL",
+        "forms": []
     },
     {
         "dex": 184,
@@ -21217,7 +21742,8 @@
                 "candyCost": 25
             }
         },
-        "id": "AZUMARILL"
+        "id": "AZUMARILL",
+        "forms": []
     },
     {
         "dex": 185,
@@ -21312,7 +21838,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SUDOWOODO"
+        "id": "SUDOWOODO",
+        "forms": []
     },
     {
         "dex": 186,
@@ -21422,7 +21949,8 @@
                 }
             }
         },
-        "id": "POLITOED"
+        "id": "POLITOED",
+        "forms": []
     },
     {
         "dex": 187,
@@ -21537,7 +22065,8 @@
                 }
             ]
         },
-        "id": "HOPPIP"
+        "id": "HOPPIP",
+        "forms": []
     },
     {
         "dex": 188,
@@ -21650,7 +22179,8 @@
                 }
             ]
         },
-        "id": "SKIPLOOM"
+        "id": "SKIPLOOM",
+        "forms": []
     },
     {
         "dex": 189,
@@ -21761,7 +22291,8 @@
                 "candyCost": 100
             }
         },
-        "id": "JUMPLUFF"
+        "id": "JUMPLUFF",
+        "forms": []
     },
     {
         "dex": 190,
@@ -21852,7 +22383,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "AIPOM"
+        "id": "AIPOM",
+        "forms": []
     },
     {
         "dex": 191,
@@ -21957,7 +22489,8 @@
                 }
             ]
         },
-        "id": "SUNKERN"
+        "id": "SUNKERN",
+        "forms": []
     },
     {
         "dex": 192,
@@ -22060,7 +22593,8 @@
                 }
             }
         },
-        "id": "SUNFLORA"
+        "id": "SUNFLORA",
+        "forms": []
     },
     {
         "dex": 193,
@@ -22156,7 +22690,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "YANMA"
+        "id": "YANMA",
+        "forms": []
     },
     {
         "dex": 194,
@@ -22261,7 +22796,8 @@
                 }
             ]
         },
-        "id": "WOOPER"
+        "id": "WOOPER",
+        "forms": []
     },
     {
         "dex": 195,
@@ -22364,7 +22900,8 @@
                 "candyCost": 50
             }
         },
-        "id": "QUAGSIRE"
+        "id": "QUAGSIRE",
+        "forms": []
     },
     {
         "dex": 196,
@@ -22462,7 +22999,8 @@
                 "candyCost": 25
             }
         },
-        "id": "ESPEON"
+        "id": "ESPEON",
+        "forms": []
     },
     {
         "dex": 197,
@@ -22556,7 +23094,8 @@
                 "candyCost": 25
             }
         },
-        "id": "UMBREON"
+        "id": "UMBREON",
+        "forms": []
     },
     {
         "dex": 198,
@@ -22651,7 +23190,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MURKROW"
+        "id": "MURKROW",
+        "forms": []
     },
     {
         "dex": 199,
@@ -22755,7 +23295,8 @@
                 }
             }
         },
-        "id": "SLOWKING"
+        "id": "SLOWKING",
+        "forms": []
     },
     {
         "dex": 200,
@@ -22847,7 +23388,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MISDREAVUS"
+        "id": "MISDREAVUS",
+        "forms": []
     },
     {
         "dex": 201,
@@ -22923,7 +23465,121 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "UNOWN"
+        "id": "UNOWN",
+        "forms": [
+            {
+                "id": "UNOWN_F",
+                "name": "Unown F"
+            },
+            {
+                "id": "UNOWN_A",
+                "name": "Unown A"
+            },
+            {
+                "id": "UNOWN_B",
+                "name": "Unown B"
+            },
+            {
+                "id": "UNOWN_C",
+                "name": "Unown C"
+            },
+            {
+                "id": "UNOWN_D",
+                "name": "Unown D"
+            },
+            {
+                "id": "UNOWN_E",
+                "name": "Unown E"
+            },
+            {
+                "id": "UNOWN_G",
+                "name": "Unown G"
+            },
+            {
+                "id": "UNOWN_H",
+                "name": "Unown H"
+            },
+            {
+                "id": "UNOWN_I",
+                "name": "Unown I"
+            },
+            {
+                "id": "UNOWN_J",
+                "name": "Unown J"
+            },
+            {
+                "id": "UNOWN_K",
+                "name": "Unown K"
+            },
+            {
+                "id": "UNOWN_L",
+                "name": "Unown L"
+            },
+            {
+                "id": "UNOWN_M",
+                "name": "Unown M"
+            },
+            {
+                "id": "UNOWN_N",
+                "name": "Unown N"
+            },
+            {
+                "id": "UNOWN_O",
+                "name": "Unown O"
+            },
+            {
+                "id": "UNOWN_P",
+                "name": "Unown P"
+            },
+            {
+                "id": "UNOWN_Q",
+                "name": "Unown Q"
+            },
+            {
+                "id": "UNOWN_R",
+                "name": "Unown R"
+            },
+            {
+                "id": "UNOWN_S",
+                "name": "Unown S"
+            },
+            {
+                "id": "UNOWN_T",
+                "name": "Unown T"
+            },
+            {
+                "id": "UNOWN_U",
+                "name": "Unown U"
+            },
+            {
+                "id": "UNOWN_V",
+                "name": "Unown V"
+            },
+            {
+                "id": "UNOWN_W",
+                "name": "Unown W"
+            },
+            {
+                "id": "UNOWN_X",
+                "name": "Unown X"
+            },
+            {
+                "id": "UNOWN_Y",
+                "name": "Unown Y"
+            },
+            {
+                "id": "UNOWN_Z",
+                "name": "Unown Z"
+            },
+            {
+                "id": "UNOWN_EXCLAMATION_POINT",
+                "name": "Unown Exclamation Point"
+            },
+            {
+                "id": "UNOWN_QUESTION_MARK",
+                "name": "Unown Question Mark"
+            }
+        ]
     },
     {
         "dex": 202,
@@ -23014,7 +23670,8 @@
                 "candyCost": 25
             }
         },
-        "id": "WOBBUFFET"
+        "id": "WOBBUFFET",
+        "forms": []
     },
     {
         "dex": 203,
@@ -23109,7 +23766,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GIRAFARIG"
+        "id": "GIRAFARIG",
+        "forms": []
     },
     {
         "dex": 204,
@@ -23210,7 +23868,8 @@
                 }
             ]
         },
-        "id": "PINECO"
+        "id": "PINECO",
+        "forms": []
     },
     {
         "dex": 205,
@@ -23314,7 +23973,8 @@
                 "candyCost": 50
             }
         },
-        "id": "FORRETRESS"
+        "id": "FORRETRESS",
+        "forms": []
     },
     {
         "dex": 206,
@@ -23405,7 +24065,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DUNSPARCE"
+        "id": "DUNSPARCE",
+        "forms": []
     },
     {
         "dex": 207,
@@ -23501,7 +24162,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GLIGAR"
+        "id": "GLIGAR",
+        "forms": []
     },
     {
         "dex": 208,
@@ -23604,7 +24266,8 @@
                 }
             }
         },
-        "id": "STEELIX"
+        "id": "STEELIX",
+        "forms": []
     },
     {
         "dex": 209,
@@ -23705,7 +24368,8 @@
                 }
             ]
         },
-        "id": "SNUBBULL"
+        "id": "SNUBBULL",
+        "forms": []
     },
     {
         "dex": 210,
@@ -23804,7 +24468,8 @@
                 "candyCost": 50
             }
         },
-        "id": "GRANBULL"
+        "id": "GRANBULL",
+        "forms": []
     },
     {
         "dex": 211,
@@ -23900,7 +24565,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "QWILFISH"
+        "id": "QWILFISH",
+        "forms": []
     },
     {
         "dex": 212,
@@ -24007,7 +24673,8 @@
                 }
             }
         },
-        "id": "SCIZOR"
+        "id": "SCIZOR",
+        "forms": []
     },
     {
         "dex": 213,
@@ -24102,7 +24769,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SHUCKLE"
+        "id": "SHUCKLE",
+        "forms": []
     },
     {
         "dex": 214,
@@ -24197,7 +24865,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "HERACROSS"
+        "id": "HERACROSS",
+        "forms": []
     },
     {
         "dex": 215,
@@ -24292,7 +24961,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SNEASEL"
+        "id": "SNEASEL",
+        "forms": []
     },
     {
         "dex": 216,
@@ -24393,7 +25063,8 @@
                 }
             ]
         },
-        "id": "TEDDIURSA"
+        "id": "TEDDIURSA",
+        "forms": []
     },
     {
         "dex": 217,
@@ -24492,7 +25163,8 @@
                 "candyCost": 50
             }
         },
-        "id": "URSARING"
+        "id": "URSARING",
+        "forms": []
     },
     {
         "dex": 218,
@@ -24593,7 +25265,8 @@
                 }
             ]
         },
-        "id": "SLUGMA"
+        "id": "SLUGMA",
+        "forms": []
     },
     {
         "dex": 219,
@@ -24696,7 +25369,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MAGCARGO"
+        "id": "MAGCARGO",
+        "forms": []
     },
     {
         "dex": 220,
@@ -24801,7 +25475,8 @@
                 }
             ]
         },
-        "id": "SWINUB"
+        "id": "SWINUB",
+        "forms": []
     },
     {
         "dex": 221,
@@ -24904,7 +25579,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PILOSWINE"
+        "id": "PILOSWINE",
+        "forms": []
     },
     {
         "dex": 222,
@@ -24996,7 +25672,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CORSOLA"
+        "id": "CORSOLA",
+        "forms": []
     },
     {
         "dex": 223,
@@ -25098,7 +25775,8 @@
                 }
             ]
         },
-        "id": "REMORAID"
+        "id": "REMORAID",
+        "forms": []
     },
     {
         "dex": 224,
@@ -25197,7 +25875,8 @@
                 "candyCost": 50
             }
         },
-        "id": "OCTILLERY"
+        "id": "OCTILLERY",
+        "forms": []
     },
     {
         "dex": 225,
@@ -25288,7 +25967,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DELIBIRD"
+        "id": "DELIBIRD",
+        "forms": []
     },
     {
         "dex": 226,
@@ -25390,7 +26070,8 @@
             },
             "costToEvolve": {}
         },
-        "id": "MANTINE"
+        "id": "MANTINE",
+        "forms": []
     },
     {
         "dex": 227,
@@ -25486,7 +26167,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SKARMORY"
+        "id": "SKARMORY",
+        "forms": []
     },
     {
         "dex": 228,
@@ -25591,7 +26273,8 @@
                 }
             ]
         },
-        "id": "HOUNDOUR"
+        "id": "HOUNDOUR",
+        "forms": []
     },
     {
         "dex": 229,
@@ -25694,7 +26377,8 @@
                 "candyCost": 50
             }
         },
-        "id": "HOUNDOOM"
+        "id": "HOUNDOOM",
+        "forms": []
     },
     {
         "dex": 230,
@@ -25809,7 +26493,8 @@
                 }
             }
         },
-        "id": "KINGDRA"
+        "id": "KINGDRA",
+        "forms": []
     },
     {
         "dex": 231,
@@ -25910,7 +26595,8 @@
                 }
             ]
         },
-        "id": "PHANPY"
+        "id": "PHANPY",
+        "forms": []
     },
     {
         "dex": 232,
@@ -26009,7 +26695,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DONPHAN"
+        "id": "DONPHAN",
+        "forms": []
     },
     {
         "dex": 233,
@@ -26109,7 +26796,8 @@
                 }
             }
         },
-        "id": "PORYGON2"
+        "id": "PORYGON2",
+        "forms": []
     },
     {
         "dex": 234,
@@ -26200,7 +26888,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "STANTLER"
+        "id": "STANTLER",
+        "forms": []
     },
     {
         "dex": 235,
@@ -26279,7 +26968,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SMEARGLE"
+        "id": "SMEARGLE",
+        "forms": []
     },
     {
         "dex": 236,
@@ -26393,7 +27083,8 @@
                 }
             ]
         },
-        "id": "TYROGUE"
+        "id": "TYROGUE",
+        "forms": []
     },
     {
         "dex": 237,
@@ -26492,7 +27183,8 @@
                 "candyCost": 25
             }
         },
-        "id": "HITMONTOP"
+        "id": "HITMONTOP",
+        "forms": []
     },
     {
         "dex": 238,
@@ -26596,7 +27288,8 @@
                 }
             ]
         },
-        "id": "SMOOCHUM"
+        "id": "SMOOCHUM",
+        "forms": []
     },
     {
         "dex": 239,
@@ -26696,7 +27389,8 @@
                 }
             ]
         },
-        "id": "ELEKID"
+        "id": "ELEKID",
+        "forms": []
     },
     {
         "dex": 240,
@@ -26796,7 +27490,8 @@
                 }
             ]
         },
-        "id": "MAGBY"
+        "id": "MAGBY",
+        "forms": []
     },
     {
         "dex": 241,
@@ -26887,7 +27582,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MILTANK"
+        "id": "MILTANK",
+        "forms": []
     },
     {
         "dex": 242,
@@ -26993,7 +27689,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BLISSEY"
+        "id": "BLISSEY",
+        "forms": []
     },
     {
         "dex": 243,
@@ -27084,7 +27781,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "RAIKOU"
+        "id": "RAIKOU",
+        "forms": []
     },
     {
         "dex": 244,
@@ -27175,7 +27873,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ENTEI"
+        "id": "ENTEI",
+        "forms": []
     },
     {
         "dex": 245,
@@ -27266,7 +27965,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SUICUNE"
+        "id": "SUICUNE",
+        "forms": []
     },
     {
         "dex": 246,
@@ -27380,7 +28080,8 @@
                 }
             ]
         },
-        "id": "LARVITAR"
+        "id": "LARVITAR",
+        "forms": []
     },
     {
         "dex": 247,
@@ -27492,7 +28193,8 @@
                 }
             ]
         },
-        "id": "PUPITAR"
+        "id": "PUPITAR",
+        "forms": []
     },
     {
         "dex": 248,
@@ -27602,7 +28304,8 @@
                 "candyCost": 100
             }
         },
-        "id": "TYRANITAR"
+        "id": "TYRANITAR",
+        "forms": []
     },
     {
         "dex": 249,
@@ -27698,7 +28401,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LUGIA"
+        "id": "LUGIA",
+        "forms": []
     },
     {
         "dex": 250,
@@ -27794,7 +28498,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "HO_OH"
+        "id": "HO_OH",
+        "forms": []
     },
     {
         "dex": 251,
@@ -27889,7 +28594,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CELEBI"
+        "id": "CELEBI",
+        "forms": []
     },
     {
         "dex": 252,
@@ -27999,7 +28705,8 @@
                 }
             ]
         },
-        "id": "TREECKO"
+        "id": "TREECKO",
+        "forms": []
     },
     {
         "dex": 253,
@@ -28107,7 +28814,8 @@
                 }
             ]
         },
-        "id": "GROVYLE"
+        "id": "GROVYLE",
+        "forms": []
     },
     {
         "dex": 254,
@@ -28213,7 +28921,8 @@
                 "candyCost": 100
             }
         },
-        "id": "SCEPTILE"
+        "id": "SCEPTILE",
+        "forms": []
     },
     {
         "dex": 255,
@@ -28323,7 +29032,8 @@
                 }
             ]
         },
-        "id": "TORCHIC"
+        "id": "TORCHIC",
+        "forms": []
     },
     {
         "dex": 256,
@@ -28435,7 +29145,8 @@
                 }
             ]
         },
-        "id": "COMBUSKEN"
+        "id": "COMBUSKEN",
+        "forms": []
     },
     {
         "dex": 257,
@@ -28545,7 +29256,8 @@
                 "candyCost": 100
             }
         },
-        "id": "BLAZIKEN"
+        "id": "BLAZIKEN",
+        "forms": []
     },
     {
         "dex": 258,
@@ -28655,7 +29367,8 @@
                 }
             ]
         },
-        "id": "MUDKIP"
+        "id": "MUDKIP",
+        "forms": []
     },
     {
         "dex": 259,
@@ -28767,7 +29480,8 @@
                 }
             ]
         },
-        "id": "MARSHTOMP"
+        "id": "MARSHTOMP",
+        "forms": []
     },
     {
         "dex": 260,
@@ -28877,7 +29591,8 @@
                 "candyCost": 100
             }
         },
-        "id": "SWAMPERT"
+        "id": "SWAMPERT",
+        "forms": []
     },
     {
         "dex": 261,
@@ -28978,7 +29693,8 @@
                 }
             ]
         },
-        "id": "POOCHYENA"
+        "id": "POOCHYENA",
+        "forms": []
     },
     {
         "dex": 262,
@@ -29077,7 +29793,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MIGHTYENA"
+        "id": "MIGHTYENA",
+        "forms": []
     },
     {
         "dex": 263,
@@ -29178,7 +29895,8 @@
                 }
             ]
         },
-        "id": "ZIGZAGOON"
+        "id": "ZIGZAGOON",
+        "forms": []
     },
     {
         "dex": 264,
@@ -29277,7 +29995,8 @@
                 "candyCost": 50
             }
         },
-        "id": "LINOONE"
+        "id": "LINOONE",
+        "forms": []
     },
     {
         "dex": 265,
@@ -29395,7 +30114,8 @@
                 }
             ]
         },
-        "id": "WURMPLE"
+        "id": "WURMPLE",
+        "forms": []
     },
     {
         "dex": 266,
@@ -29495,7 +30215,8 @@
                 }
             ]
         },
-        "id": "SILCOON"
+        "id": "SILCOON",
+        "forms": []
     },
     {
         "dex": 267,
@@ -29606,7 +30327,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BEAUTIFLY"
+        "id": "BEAUTIFLY",
+        "forms": []
     },
     {
         "dex": 268,
@@ -29706,7 +30428,8 @@
                 }
             ]
         },
-        "id": "CASCOON"
+        "id": "CASCOON",
+        "forms": []
     },
     {
         "dex": 269,
@@ -29817,7 +30540,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DUSTOX"
+        "id": "DUSTOX",
+        "forms": []
     },
     {
         "dex": 270,
@@ -29927,7 +30651,8 @@
                 }
             ]
         },
-        "id": "LOTAD"
+        "id": "LOTAD",
+        "forms": []
     },
     {
         "dex": 271,
@@ -30039,7 +30764,8 @@
                 }
             ]
         },
-        "id": "LOMBRE"
+        "id": "LOMBRE",
+        "forms": []
     },
     {
         "dex": 272,
@@ -30149,7 +30875,8 @@
                 "candyCost": 100
             }
         },
-        "id": "LUDICOLO"
+        "id": "LUDICOLO",
+        "forms": []
     },
     {
         "dex": 273,
@@ -30259,7 +30986,8 @@
                 }
             ]
         },
-        "id": "SEEDOT"
+        "id": "SEEDOT",
+        "forms": []
     },
     {
         "dex": 274,
@@ -30371,7 +31099,8 @@
                 }
             ]
         },
-        "id": "NUZLEAF"
+        "id": "NUZLEAF",
+        "forms": []
     },
     {
         "dex": 275,
@@ -30481,7 +31210,8 @@
                 "candyCost": 100
             }
         },
-        "id": "SHIFTRY"
+        "id": "SHIFTRY",
+        "forms": []
     },
     {
         "dex": 276,
@@ -30578,7 +31308,8 @@
                 }
             ]
         },
-        "id": "TAILLOW"
+        "id": "TAILLOW",
+        "forms": []
     },
     {
         "dex": 277,
@@ -30682,7 +31413,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SWELLOW"
+        "id": "SWELLOW",
+        "forms": []
     },
     {
         "dex": 278,
@@ -30788,7 +31520,8 @@
                 }
             ]
         },
-        "id": "WINGULL"
+        "id": "WINGULL",
+        "forms": []
     },
     {
         "dex": 279,
@@ -30892,7 +31625,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PELIPPER"
+        "id": "PELIPPER",
+        "forms": []
     },
     {
         "dex": 280,
@@ -31006,7 +31740,8 @@
                 }
             ]
         },
-        "id": "RALTS"
+        "id": "RALTS",
+        "forms": []
     },
     {
         "dex": 281,
@@ -31118,7 +31853,8 @@
                 }
             ]
         },
-        "id": "KIRLIA"
+        "id": "KIRLIA",
+        "forms": []
     },
     {
         "dex": 282,
@@ -31228,7 +31964,8 @@
                 "candyCost": 100
             }
         },
-        "id": "GARDEVOIR"
+        "id": "GARDEVOIR",
+        "forms": []
     },
     {
         "dex": 283,
@@ -31333,7 +32070,8 @@
                 }
             ]
         },
-        "id": "SURSKIT"
+        "id": "SURSKIT",
+        "forms": []
     },
     {
         "dex": 284,
@@ -31437,7 +32175,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MASQUERAIN"
+        "id": "MASQUERAIN",
+        "forms": []
     },
     {
         "dex": 285,
@@ -31538,7 +32277,8 @@
                 }
             ]
         },
-        "id": "SHROOMISH"
+        "id": "SHROOMISH",
+        "forms": []
     },
     {
         "dex": 286,
@@ -31641,7 +32381,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BRELOOM"
+        "id": "BRELOOM",
+        "forms": []
     },
     {
         "dex": 287,
@@ -31746,7 +32487,8 @@
                 }
             ]
         },
-        "id": "SLAKOTH"
+        "id": "SLAKOTH",
+        "forms": []
     },
     {
         "dex": 288,
@@ -31854,7 +32596,8 @@
                 }
             ]
         },
-        "id": "VIGOROTH"
+        "id": "VIGOROTH",
+        "forms": []
     },
     {
         "dex": 289,
@@ -31953,7 +32696,8 @@
                 "candyCost": 100
             }
         },
-        "id": "SLAKING"
+        "id": "SLAKING",
+        "forms": []
     },
     {
         "dex": 290,
@@ -32065,7 +32809,8 @@
                 }
             ]
         },
-        "id": "NINCADA"
+        "id": "NINCADA",
+        "forms": []
     },
     {
         "dex": 291,
@@ -32169,7 +32914,8 @@
                 "candyCost": 50
             }
         },
-        "id": "NINJASK"
+        "id": "NINJASK",
+        "forms": []
     },
     {
         "dex": 292,
@@ -32269,7 +33015,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SHEDINJA"
+        "id": "SHEDINJA",
+        "forms": []
     },
     {
         "dex": 293,
@@ -32379,7 +33126,8 @@
                 }
             ]
         },
-        "id": "WHISMUR"
+        "id": "WHISMUR",
+        "forms": []
     },
     {
         "dex": 294,
@@ -32487,7 +33235,8 @@
                 }
             ]
         },
-        "id": "LOUDRED"
+        "id": "LOUDRED",
+        "forms": []
     },
     {
         "dex": 295,
@@ -32593,7 +33342,8 @@
                 "candyCost": 50
             }
         },
-        "id": "EXPLOUD"
+        "id": "EXPLOUD",
+        "forms": []
     },
     {
         "dex": 296,
@@ -32694,7 +33444,8 @@
                 }
             ]
         },
-        "id": "MAKUHITA"
+        "id": "MAKUHITA",
+        "forms": []
     },
     {
         "dex": 297,
@@ -32793,7 +33544,8 @@
                 "candyCost": 50
             }
         },
-        "id": "HARIYAMA"
+        "id": "HARIYAMA",
+        "forms": []
     },
     {
         "dex": 298,
@@ -32907,7 +33659,8 @@
                 }
             ]
         },
-        "id": "AZURILL"
+        "id": "AZURILL",
+        "forms": []
     },
     {
         "dex": 299,
@@ -32998,7 +33751,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "NOSEPASS"
+        "id": "NOSEPASS",
+        "forms": []
     },
     {
         "dex": 300,
@@ -33099,7 +33853,8 @@
                 }
             ]
         },
-        "id": "SKITTY"
+        "id": "SKITTY",
+        "forms": []
     },
     {
         "dex": 301,
@@ -33198,7 +33953,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DELCATTY"
+        "id": "DELCATTY",
+        "forms": []
     },
     {
         "dex": 302,
@@ -33293,7 +34049,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SABLEYE"
+        "id": "SABLEYE",
+        "forms": []
     },
     {
         "dex": 303,
@@ -33388,7 +34145,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MAWILE"
+        "id": "MAWILE",
+        "forms": []
     },
     {
         "dex": 304,
@@ -33502,7 +34260,8 @@
                 }
             ]
         },
-        "id": "ARON"
+        "id": "ARON",
+        "forms": []
     },
     {
         "dex": 305,
@@ -33614,7 +34373,8 @@
                 }
             ]
         },
-        "id": "LAIRON"
+        "id": "LAIRON",
+        "forms": []
     },
     {
         "dex": 306,
@@ -33724,7 +34484,8 @@
                 "candyCost": 100
             }
         },
-        "id": "AGGRON"
+        "id": "AGGRON",
+        "forms": []
     },
     {
         "dex": 307,
@@ -33829,7 +34590,8 @@
                 }
             ]
         },
-        "id": "MEDITITE"
+        "id": "MEDITITE",
+        "forms": []
     },
     {
         "dex": 308,
@@ -33932,7 +34694,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MEDICHAM"
+        "id": "MEDICHAM",
+        "forms": []
     },
     {
         "dex": 309,
@@ -34033,7 +34796,8 @@
                 }
             ]
         },
-        "id": "ELECTRIKE"
+        "id": "ELECTRIKE",
+        "forms": []
     },
     {
         "dex": 310,
@@ -34132,7 +34896,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MANECTRIC"
+        "id": "MANECTRIC",
+        "forms": []
     },
     {
         "dex": 311,
@@ -34223,7 +34988,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PLUSLE"
+        "id": "PLUSLE",
+        "forms": []
     },
     {
         "dex": 312,
@@ -34314,7 +35080,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MINUN"
+        "id": "MINUN",
+        "forms": []
     },
     {
         "dex": 313,
@@ -34405,7 +35172,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "VOLBEAT"
+        "id": "VOLBEAT",
+        "forms": []
     },
     {
         "dex": 314,
@@ -34496,7 +35264,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ILLUMISE"
+        "id": "ILLUMISE",
+        "forms": []
     },
     {
         "dex": 315,
@@ -34599,7 +35368,8 @@
                 "candyCost": 25
             }
         },
-        "id": "ROSELIA"
+        "id": "ROSELIA",
+        "forms": []
     },
     {
         "dex": 316,
@@ -34700,7 +35470,8 @@
                 }
             ]
         },
-        "id": "GULPIN"
+        "id": "GULPIN",
+        "forms": []
     },
     {
         "dex": 317,
@@ -34799,7 +35570,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SWALOT"
+        "id": "SWALOT",
+        "forms": []
     },
     {
         "dex": 318,
@@ -34905,7 +35677,8 @@
                 }
             ]
         },
-        "id": "CARVANHA"
+        "id": "CARVANHA",
+        "forms": []
     },
     {
         "dex": 319,
@@ -35009,7 +35782,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SHARPEDO"
+        "id": "SHARPEDO",
+        "forms": []
     },
     {
         "dex": 320,
@@ -35111,7 +35885,8 @@
                 }
             ]
         },
-        "id": "WAILMER"
+        "id": "WAILMER",
+        "forms": []
     },
     {
         "dex": 321,
@@ -35207,7 +35982,8 @@
                 "candyCost": 400
             }
         },
-        "id": "WAILORD"
+        "id": "WAILORD",
+        "forms": []
     },
     {
         "dex": 322,
@@ -35312,7 +36088,8 @@
                 }
             ]
         },
-        "id": "NUMEL"
+        "id": "NUMEL",
+        "forms": []
     },
     {
         "dex": 323,
@@ -35412,7 +36189,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CAMERUPT"
+        "id": "CAMERUPT",
+        "forms": []
     },
     {
         "dex": 324,
@@ -35500,7 +36278,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TORKOAL"
+        "id": "TORKOAL",
+        "forms": []
     },
     {
         "dex": 325,
@@ -35601,7 +36380,8 @@
                 }
             ]
         },
-        "id": "SPOINK"
+        "id": "SPOINK",
+        "forms": []
     },
     {
         "dex": 326,
@@ -35700,7 +36480,8 @@
                 "candyCost": 50
             }
         },
-        "id": "GRUMPIG"
+        "id": "GRUMPIG",
+        "forms": []
     },
     {
         "dex": 327,
@@ -35791,7 +36572,41 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SPINDA"
+        "id": "SPINDA",
+        "forms": [
+            {
+                "id": "SPINDA_00",
+                "name": "Spinda 00"
+            },
+            {
+                "id": "SPINDA_01",
+                "name": "Spinda 01"
+            },
+            {
+                "id": "SPINDA_02",
+                "name": "Spinda 02"
+            },
+            {
+                "id": "SPINDA_03",
+                "name": "Spinda 03"
+            },
+            {
+                "id": "SPINDA_04",
+                "name": "Spinda 04"
+            },
+            {
+                "id": "SPINDA_05",
+                "name": "Spinda 05"
+            },
+            {
+                "id": "SPINDA_06",
+                "name": "Spinda 06"
+            },
+            {
+                "id": "SPINDA_07",
+                "name": "Spinda 07"
+            }
+        ]
     },
     {
         "dex": 328,
@@ -35901,7 +36716,8 @@
                 }
             ]
         },
-        "id": "TRAPINCH"
+        "id": "TRAPINCH",
+        "forms": []
     },
     {
         "dex": 329,
@@ -36014,7 +36830,8 @@
                 }
             ]
         },
-        "id": "VIBRAVA"
+        "id": "VIBRAVA",
+        "forms": []
     },
     {
         "dex": 330,
@@ -36125,7 +36942,8 @@
                 "candyCost": 100
             }
         },
-        "id": "FLYGON"
+        "id": "FLYGON",
+        "forms": []
     },
     {
         "dex": 331,
@@ -36226,7 +37044,8 @@
                 }
             ]
         },
-        "id": "CACNEA"
+        "id": "CACNEA",
+        "forms": []
     },
     {
         "dex": 332,
@@ -36329,7 +37148,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CACTURNE"
+        "id": "CACTURNE",
+        "forms": []
     },
     {
         "dex": 333,
@@ -36434,7 +37254,8 @@
                 }
             ]
         },
-        "id": "SWABLU"
+        "id": "SWABLU",
+        "forms": []
     },
     {
         "dex": 334,
@@ -36538,7 +37359,8 @@
                 "candyCost": 400
             }
         },
-        "id": "ALTARIA"
+        "id": "ALTARIA",
+        "forms": []
     },
     {
         "dex": 335,
@@ -36629,7 +37451,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ZANGOOSE"
+        "id": "ZANGOOSE",
+        "forms": []
     },
     {
         "dex": 336,
@@ -36720,7 +37543,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SEVIPER"
+        "id": "SEVIPER",
+        "forms": []
     },
     {
         "dex": 337,
@@ -36812,7 +37636,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LUNATONE"
+        "id": "LUNATONE",
+        "forms": []
     },
     {
         "dex": 338,
@@ -36904,7 +37729,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SOLROCK"
+        "id": "SOLROCK",
+        "forms": []
     },
     {
         "dex": 339,
@@ -37010,7 +37836,8 @@
                 }
             ]
         },
-        "id": "BARBOACH"
+        "id": "BARBOACH",
+        "forms": []
     },
     {
         "dex": 340,
@@ -37114,7 +37941,8 @@
                 "candyCost": 50
             }
         },
-        "id": "WHISCASH"
+        "id": "WHISCASH",
+        "forms": []
     },
     {
         "dex": 341,
@@ -37215,7 +38043,8 @@
                 }
             ]
         },
-        "id": "CORPHISH"
+        "id": "CORPHISH",
+        "forms": []
     },
     {
         "dex": 342,
@@ -37318,7 +38147,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CRAWDAUNT"
+        "id": "CRAWDAUNT",
+        "forms": []
     },
     {
         "dex": 343,
@@ -37420,7 +38250,8 @@
                 }
             ]
         },
-        "id": "BALTOY"
+        "id": "BALTOY",
+        "forms": []
     },
     {
         "dex": 344,
@@ -37520,7 +38351,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CLAYDOL"
+        "id": "CLAYDOL",
+        "forms": []
     },
     {
         "dex": 345,
@@ -37622,7 +38454,8 @@
                 }
             ]
         },
-        "id": "LILEEP"
+        "id": "LILEEP",
+        "forms": []
     },
     {
         "dex": 346,
@@ -37722,7 +38555,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CRADILY"
+        "id": "CRADILY",
+        "forms": []
     },
     {
         "dex": 347,
@@ -37827,7 +38661,8 @@
                 }
             ]
         },
-        "id": "ANORITH"
+        "id": "ANORITH",
+        "forms": []
     },
     {
         "dex": 348,
@@ -37930,7 +38765,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ARMALDO"
+        "id": "ARMALDO",
+        "forms": []
     },
     {
         "dex": 349,
@@ -38025,7 +38861,8 @@
                 }
             ]
         },
-        "id": "FEEBAS"
+        "id": "FEEBAS",
+        "forms": []
     },
     {
         "dex": 350,
@@ -38125,7 +38962,8 @@
                 "kmBuddyDistance": 20
             }
         },
-        "id": "MILOTIC"
+        "id": "MILOTIC",
+        "forms": []
     },
     {
         "dex": 351,
@@ -38213,7 +39051,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CASTFORM"
+        "id": "CASTFORM",
+        "forms": [
+            {
+                "id": "CASTFORM_NORMAL",
+                "name": "Castform Normal"
+            },
+            {
+                "id": "CASTFORM_SUNNY",
+                "name": "Castform Sunny"
+            },
+            {
+                "id": "CASTFORM_RAINY",
+                "name": "Castform Rainy"
+            },
+            {
+                "id": "CASTFORM_SNOWY",
+                "name": "Castform Snowy"
+            }
+        ]
     },
     {
         "dex": 351,
@@ -38301,7 +39157,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CASTFORM_RAINY"
+        "id": "CASTFORM_RAINY",
+        "forms": [
+            {
+                "id": "CASTFORM_NORMAL",
+                "name": "Castform Normal"
+            },
+            {
+                "id": "CASTFORM_SUNNY",
+                "name": "Castform Sunny"
+            },
+            {
+                "id": "CASTFORM_RAINY",
+                "name": "Castform Rainy"
+            },
+            {
+                "id": "CASTFORM_SNOWY",
+                "name": "Castform Snowy"
+            }
+        ]
     },
     {
         "dex": 351,
@@ -38389,7 +39263,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CASTFORM_SNOWY"
+        "id": "CASTFORM_SNOWY",
+        "forms": [
+            {
+                "id": "CASTFORM_NORMAL",
+                "name": "Castform Normal"
+            },
+            {
+                "id": "CASTFORM_SUNNY",
+                "name": "Castform Sunny"
+            },
+            {
+                "id": "CASTFORM_RAINY",
+                "name": "Castform Rainy"
+            },
+            {
+                "id": "CASTFORM_SNOWY",
+                "name": "Castform Snowy"
+            }
+        ]
     },
     {
         "dex": 351,
@@ -38477,7 +39369,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CASTFORM_SUNNY"
+        "id": "CASTFORM_SUNNY",
+        "forms": [
+            {
+                "id": "CASTFORM_NORMAL",
+                "name": "Castform Normal"
+            },
+            {
+                "id": "CASTFORM_SUNNY",
+                "name": "Castform Sunny"
+            },
+            {
+                "id": "CASTFORM_RAINY",
+                "name": "Castform Rainy"
+            },
+            {
+                "id": "CASTFORM_SNOWY",
+                "name": "Castform Snowy"
+            }
+        ]
     },
     {
         "dex": 352,
@@ -38580,7 +39490,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "KECLEON"
+        "id": "KECLEON",
+        "forms": []
     },
     {
         "dex": 353,
@@ -38682,7 +39593,8 @@
                 }
             ]
         },
-        "id": "SHUPPET"
+        "id": "SHUPPET",
+        "forms": []
     },
     {
         "dex": 354,
@@ -38781,7 +39693,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BANETTE"
+        "id": "BANETTE",
+        "forms": []
     },
     {
         "dex": 355,
@@ -38882,7 +39795,8 @@
                 }
             ]
         },
-        "id": "DUSKULL"
+        "id": "DUSKULL",
+        "forms": []
     },
     {
         "dex": 356,
@@ -38981,7 +39895,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DUSCLOPS"
+        "id": "DUSCLOPS",
+        "forms": []
     },
     {
         "dex": 357,
@@ -39077,7 +39992,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TROPIUS"
+        "id": "TROPIUS",
+        "forms": []
     },
     {
         "dex": 358,
@@ -39177,7 +40093,8 @@
                 "candyCost": 50
             }
         },
-        "id": "CHIMECHO"
+        "id": "CHIMECHO",
+        "forms": []
     },
     {
         "dex": 359,
@@ -39268,7 +40185,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ABSOL"
+        "id": "ABSOL",
+        "forms": []
     },
     {
         "dex": 360,
@@ -39361,7 +40279,8 @@
                 }
             ]
         },
-        "id": "WYNAUT"
+        "id": "WYNAUT",
+        "forms": []
     },
     {
         "dex": 361,
@@ -39462,7 +40381,8 @@
                 }
             ]
         },
-        "id": "SNORUNT"
+        "id": "SNORUNT",
+        "forms": []
     },
     {
         "dex": 362,
@@ -39562,7 +40482,8 @@
                 "candyCost": 50
             }
         },
-        "id": "GLALIE"
+        "id": "GLALIE",
+        "forms": []
     },
     {
         "dex": 363,
@@ -39676,7 +40597,8 @@
                 }
             ]
         },
-        "id": "SPHEAL"
+        "id": "SPHEAL",
+        "forms": []
     },
     {
         "dex": 364,
@@ -39788,7 +40710,8 @@
                 }
             ]
         },
-        "id": "SEALEO"
+        "id": "SEALEO",
+        "forms": []
     },
     {
         "dex": 365,
@@ -39898,7 +40821,8 @@
                 "candyCost": 100
             }
         },
-        "id": "WALREIN"
+        "id": "WALREIN",
+        "forms": []
     },
     {
         "dex": 366,
@@ -39998,7 +40922,8 @@
                 }
             ]
         },
-        "id": "CLAMPERL"
+        "id": "CLAMPERL",
+        "forms": []
     },
     {
         "dex": 367,
@@ -40097,7 +41022,8 @@
                 "candyCost": 50
             }
         },
-        "id": "HUNTAIL"
+        "id": "HUNTAIL",
+        "forms": []
     },
     {
         "dex": 368,
@@ -40196,7 +41122,8 @@
                 "candyCost": 50
             }
         },
-        "id": "GOREBYSS"
+        "id": "GOREBYSS",
+        "forms": []
     },
     {
         "dex": 369,
@@ -40292,7 +41219,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "RELICANTH"
+        "id": "RELICANTH",
+        "forms": []
     },
     {
         "dex": 370,
@@ -40384,7 +41312,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LUVDISC"
+        "id": "LUVDISC",
+        "forms": []
     },
     {
         "dex": 371,
@@ -40494,7 +41423,8 @@
                 }
             ]
         },
-        "id": "BAGON"
+        "id": "BAGON",
+        "forms": []
     },
     {
         "dex": 372,
@@ -40602,7 +41532,8 @@
                 }
             ]
         },
-        "id": "SHELGON"
+        "id": "SHELGON",
+        "forms": []
     },
     {
         "dex": 373,
@@ -40713,7 +41644,8 @@
                 "candyCost": 100
             }
         },
-        "id": "SALAMENCE"
+        "id": "SALAMENCE",
+        "forms": []
     },
     {
         "dex": 374,
@@ -40812,7 +41744,8 @@
                 }
             ]
         },
-        "id": "BELDUM"
+        "id": "BELDUM",
+        "forms": []
     },
     {
         "dex": 375,
@@ -40921,7 +41854,8 @@
                 }
             ]
         },
-        "id": "METANG"
+        "id": "METANG",
+        "forms": []
     },
     {
         "dex": 376,
@@ -41027,7 +41961,8 @@
                 "candyCost": 100
             }
         },
-        "id": "METAGROSS"
+        "id": "METAGROSS",
+        "forms": []
     },
     {
         "dex": 377,
@@ -41118,7 +42053,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "REGIROCK"
+        "id": "REGIROCK",
+        "forms": []
     },
     {
         "dex": 378,
@@ -41209,7 +42145,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "REGICE"
+        "id": "REGICE",
+        "forms": []
     },
     {
         "dex": 379,
@@ -41300,7 +42237,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "REGISTEEL"
+        "id": "REGISTEEL",
+        "forms": []
     },
     {
         "dex": 380,
@@ -41400,7 +42338,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LATIAS"
+        "id": "LATIAS",
+        "forms": []
     },
     {
         "dex": 381,
@@ -41500,7 +42439,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LATIOS"
+        "id": "LATIOS",
+        "forms": []
     },
     {
         "dex": 382,
@@ -41588,7 +42528,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "KYOGRE"
+        "id": "KYOGRE",
+        "forms": []
     },
     {
         "dex": 383,
@@ -41676,7 +42617,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GROUDON"
+        "id": "GROUDON",
+        "forms": []
     },
     {
         "dex": 384,
@@ -41772,7 +42714,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "RAYQUAZA"
+        "id": "RAYQUAZA",
+        "forms": []
     },
     {
         "dex": 385,
@@ -41868,7 +42811,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "JIRACHI"
+        "id": "JIRACHI",
+        "forms": []
     },
     {
         "dex": 386,
@@ -41959,7 +42903,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DEOXYS"
+        "id": "DEOXYS",
+        "forms": [
+            {
+                "id": "DEOXYS_NORMAL",
+                "name": "Deoxys Normal"
+            },
+            {
+                "id": "DEOXYS_ATTACK",
+                "name": "Deoxys Attack"
+            },
+            {
+                "id": "DEOXYS_DEFENSE",
+                "name": "Deoxys Defense"
+            },
+            {
+                "id": "DEOXYS_SPEED",
+                "name": "Deoxys Speed"
+            }
+        ]
     },
     {
         "dex": 386,
@@ -42050,7 +43012,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DEOXYS_ATTACK"
+        "id": "DEOXYS_ATTACK",
+        "forms": [
+            {
+                "id": "DEOXYS_NORMAL",
+                "name": "Deoxys Normal"
+            },
+            {
+                "id": "DEOXYS_ATTACK",
+                "name": "Deoxys Attack"
+            },
+            {
+                "id": "DEOXYS_DEFENSE",
+                "name": "Deoxys Defense"
+            },
+            {
+                "id": "DEOXYS_SPEED",
+                "name": "Deoxys Speed"
+            }
+        ]
     },
     {
         "dex": 386,
@@ -42141,7 +43121,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DEOXYS_DEFENSE"
+        "id": "DEOXYS_DEFENSE",
+        "forms": [
+            {
+                "id": "DEOXYS_NORMAL",
+                "name": "Deoxys Normal"
+            },
+            {
+                "id": "DEOXYS_ATTACK",
+                "name": "Deoxys Attack"
+            },
+            {
+                "id": "DEOXYS_DEFENSE",
+                "name": "Deoxys Defense"
+            },
+            {
+                "id": "DEOXYS_SPEED",
+                "name": "Deoxys Speed"
+            }
+        ]
     },
     {
         "dex": 386,
@@ -42232,7 +43230,25 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DEOXYS_SPEED"
+        "id": "DEOXYS_SPEED",
+        "forms": [
+            {
+                "id": "DEOXYS_NORMAL",
+                "name": "Deoxys Normal"
+            },
+            {
+                "id": "DEOXYS_ATTACK",
+                "name": "Deoxys Attack"
+            },
+            {
+                "id": "DEOXYS_DEFENSE",
+                "name": "Deoxys Defense"
+            },
+            {
+                "id": "DEOXYS_SPEED",
+                "name": "Deoxys Speed"
+            }
+        ]
     },
     {
         "dex": 387,
@@ -42342,7 +43358,8 @@
                 }
             ]
         },
-        "id": "TURTWIG"
+        "id": "TURTWIG",
+        "forms": []
     },
     {
         "dex": 388,
@@ -42450,7 +43467,8 @@
                 }
             ]
         },
-        "id": "GROTLE"
+        "id": "GROTLE",
+        "forms": []
     },
     {
         "dex": 389,
@@ -42557,7 +43575,8 @@
                 "candyCost": 100
             }
         },
-        "id": "TORTERRA"
+        "id": "TORTERRA",
+        "forms": []
     },
     {
         "dex": 390,
@@ -42667,7 +43686,8 @@
                 }
             ]
         },
-        "id": "CHIMCHAR"
+        "id": "CHIMCHAR",
+        "forms": []
     },
     {
         "dex": 391,
@@ -42779,7 +43799,8 @@
                 }
             ]
         },
-        "id": "MONFERNO"
+        "id": "MONFERNO",
+        "forms": []
     },
     {
         "dex": 392,
@@ -42889,7 +43910,8 @@
                 "candyCost": 100
             }
         },
-        "id": "INFERNAPE"
+        "id": "INFERNAPE",
+        "forms": []
     },
     {
         "dex": 393,
@@ -42999,7 +44021,8 @@
                 }
             ]
         },
-        "id": "PIPLUP"
+        "id": "PIPLUP",
+        "forms": []
     },
     {
         "dex": 394,
@@ -43107,7 +44130,8 @@
                 }
             ]
         },
-        "id": "PRINPLUP"
+        "id": "PRINPLUP",
+        "forms": []
     },
     {
         "dex": 395,
@@ -43217,7 +44241,8 @@
                 "candyCost": 100
             }
         },
-        "id": "EMPOLEON"
+        "id": "EMPOLEON",
+        "forms": []
     },
     {
         "dex": 396,
@@ -43327,7 +44352,8 @@
                 }
             ]
         },
-        "id": "STARLY"
+        "id": "STARLY",
+        "forms": []
     },
     {
         "dex": 397,
@@ -43440,7 +44466,8 @@
                 }
             ]
         },
-        "id": "STARAVIA"
+        "id": "STARAVIA",
+        "forms": []
     },
     {
         "dex": 398,
@@ -43551,7 +44578,8 @@
                 "candyCost": 100
             }
         },
-        "id": "STARAPTOR"
+        "id": "STARAPTOR",
+        "forms": []
     },
     {
         "dex": 399,
@@ -43652,7 +44680,8 @@
                 }
             ]
         },
-        "id": "BIDOOF"
+        "id": "BIDOOF",
+        "forms": []
     },
     {
         "dex": 400,
@@ -43755,7 +44784,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BIBAREL"
+        "id": "BIBAREL",
+        "forms": []
     },
     {
         "dex": 401,
@@ -43848,7 +44878,8 @@
                 }
             ]
         },
-        "id": "KRICKETOT"
+        "id": "KRICKETOT",
+        "forms": []
     },
     {
         "dex": 402,
@@ -43947,7 +44978,8 @@
                 "candyCost": 50
             }
         },
-        "id": "KRICKETUNE"
+        "id": "KRICKETUNE",
+        "forms": []
     },
     {
         "dex": 403,
@@ -44057,7 +45089,8 @@
                 }
             ]
         },
-        "id": "SHINX"
+        "id": "SHINX",
+        "forms": []
     },
     {
         "dex": 404,
@@ -44165,7 +45198,8 @@
                 }
             ]
         },
-        "id": "LUXIO"
+        "id": "LUXIO",
+        "forms": []
     },
     {
         "dex": 405,
@@ -44271,7 +45305,8 @@
                 "candyCost": 100
             }
         },
-        "id": "LUXRAY"
+        "id": "LUXRAY",
+        "forms": []
     },
     {
         "dex": 406,
@@ -44372,7 +45407,8 @@
                 }
             ]
         },
-        "id": "BUDEW"
+        "id": "BUDEW",
+        "forms": []
     },
     {
         "dex": 407,
@@ -44467,7 +45503,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROSERADE"
+        "id": "ROSERADE",
+        "forms": []
     },
     {
         "dex": 408,
@@ -44572,7 +45609,8 @@
                 }
             ]
         },
-        "id": "CRANIDOS"
+        "id": "CRANIDOS",
+        "forms": []
     },
     {
         "dex": 409,
@@ -44675,7 +45713,8 @@
                 "candyCost": 50
             }
         },
-        "id": "RAMPARDOS"
+        "id": "RAMPARDOS",
+        "forms": []
     },
     {
         "dex": 410,
@@ -44777,7 +45816,8 @@
                 }
             ]
         },
-        "id": "SHIELDON"
+        "id": "SHIELDON",
+        "forms": []
     },
     {
         "dex": 411,
@@ -44877,7 +45917,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BASTIODON"
+        "id": "BASTIODON",
+        "forms": []
     },
     {
         "dex": 412,
@@ -44992,7 +46033,8 @@
                 }
             ]
         },
-        "id": "BURMY"
+        "id": "BURMY",
+        "forms": []
     },
     {
         "dex": 413,
@@ -45079,7 +46121,21 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "WORMADAM"
+        "id": "WORMADAM",
+        "forms": [
+            {
+                "id": "WORMADAM_PLANT",
+                "name": "Wormadam Plant"
+            },
+            {
+                "id": "WORMADAM_SANDY",
+                "name": "Wormadam Sandy"
+            },
+            {
+                "id": "WORMADAM_TRASH",
+                "name": "Wormadam Trash"
+            }
+        ]
     },
     {
         "dex": 413,
@@ -45183,7 +46239,21 @@
                 "kmBuddyDistance": 50
             }
         },
-        "id": "WORMADAM_PLANT"
+        "id": "WORMADAM_PLANT",
+        "forms": [
+            {
+                "id": "WORMADAM_PLANT",
+                "name": "Wormadam Plant"
+            },
+            {
+                "id": "WORMADAM_SANDY",
+                "name": "Wormadam Sandy"
+            },
+            {
+                "id": "WORMADAM_TRASH",
+                "name": "Wormadam Trash"
+            }
+        ]
     },
     {
         "dex": 413,
@@ -45203,7 +46273,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1593,
+        "maxCP": 1773,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -45237,8 +46307,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 127,
-            "baseDefense": 175,
+            "baseAttack": 141,
+            "baseDefense": 180,
             "baseStamina": 155
         },
         "types": [
@@ -45286,7 +46356,21 @@
                 "candyCost": 50
             }
         },
-        "id": "WORMADAM_SANDY"
+        "id": "WORMADAM_SANDY",
+        "forms": [
+            {
+                "id": "WORMADAM_PLANT",
+                "name": "Wormadam Plant"
+            },
+            {
+                "id": "WORMADAM_SANDY",
+                "name": "Wormadam Sandy"
+            },
+            {
+                "id": "WORMADAM_TRASH",
+                "name": "Wormadam Trash"
+            }
+        ]
     },
     {
         "dex": 413,
@@ -45306,7 +46390,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1773,
+        "maxCP": 1593,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -45340,8 +46424,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 141,
-            "baseDefense": 180,
+            "baseAttack": 127,
+            "baseDefense": 175,
             "baseStamina": 155
         },
         "types": [
@@ -45389,7 +46473,21 @@
                 "candyCost": 50
             }
         },
-        "id": "WORMADAM_TRASH"
+        "id": "WORMADAM_TRASH",
+        "forms": [
+            {
+                "id": "WORMADAM_PLANT",
+                "name": "Wormadam Plant"
+            },
+            {
+                "id": "WORMADAM_SANDY",
+                "name": "Wormadam Sandy"
+            },
+            {
+                "id": "WORMADAM_TRASH",
+                "name": "Wormadam Trash"
+            }
+        ]
     },
     {
         "dex": 414,
@@ -45493,7 +46591,8 @@
                 "candyCost": 50
             }
         },
-        "id": "MOTHIM"
+        "id": "MOTHIM",
+        "forms": []
     },
     {
         "dex": 415,
@@ -45587,7 +46686,8 @@
                 }
             ]
         },
-        "id": "COMBEE"
+        "id": "COMBEE",
+        "forms": []
     },
     {
         "dex": 416,
@@ -45672,8 +46772,8 @@
                 "id": "MOVEMENT_PSYCHIC"
             },
             "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
+                "malePercent": 0,
+                "femalePercent": 1
             }
         },
         "camera": {
@@ -45691,7 +46791,8 @@
                 "candyCost": 50
             }
         },
-        "id": "VESPIQUEN"
+        "id": "VESPIQUEN",
+        "forms": []
     },
     {
         "dex": 417,
@@ -45782,7 +46883,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PACHIRISU"
+        "id": "PACHIRISU",
+        "forms": []
     },
     {
         "dex": 418,
@@ -45883,7 +46985,8 @@
                 }
             ]
         },
-        "id": "BUIZEL"
+        "id": "BUIZEL",
+        "forms": []
     },
     {
         "dex": 419,
@@ -45982,7 +47085,8 @@
                 "candyCost": 50
             }
         },
-        "id": "FLOATZEL"
+        "id": "FLOATZEL",
+        "forms": []
     },
     {
         "dex": 420,
@@ -46090,7 +47194,8 @@
                 }
             ]
         },
-        "id": "CHERUBI"
+        "id": "CHERUBI",
+        "forms": []
     },
     {
         "dex": 421,
@@ -46181,7 +47286,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CHERRIM"
+        "id": "CHERRIM",
+        "forms": [
+            {
+                "id": "CHERRIM_OVERCAST",
+                "name": "Cherrim Overcast"
+            },
+            {
+                "id": "CHERRIM_SUNNY",
+                "name": "Cherrim Sunny"
+            }
+        ]
     },
     {
         "dex": 421,
@@ -46280,7 +47395,17 @@
                 "candyCost": 50
             }
         },
-        "id": "CHERRIM_OVERCAST"
+        "id": "CHERRIM_OVERCAST",
+        "forms": [
+            {
+                "id": "CHERRIM_OVERCAST",
+                "name": "Cherrim Overcast"
+            },
+            {
+                "id": "CHERRIM_SUNNY",
+                "name": "Cherrim Sunny"
+            }
+        ]
     },
     {
         "dex": 421,
@@ -46379,7 +47504,17 @@
                 "candyCost": 50
             }
         },
-        "id": "CHERRIM_SUNNY"
+        "id": "CHERRIM_SUNNY",
+        "forms": [
+            {
+                "id": "CHERRIM_OVERCAST",
+                "name": "Cherrim Overcast"
+            },
+            {
+                "id": "CHERRIM_SUNNY",
+                "name": "Cherrim Sunny"
+            }
+        ]
     },
     {
         "dex": 422,
@@ -46480,7 +47615,17 @@
                 }
             ]
         },
-        "id": "SHELLOS"
+        "id": "SHELLOS",
+        "forms": [
+            {
+                "id": "SHELLOS_WEST_SEA",
+                "name": "Shellos West Sea"
+            },
+            {
+                "id": "SHELLOS_EAST_SEA",
+                "name": "Shellos East Sea"
+            }
+        ]
     },
     {
         "dex": 422,
@@ -46581,7 +47726,17 @@
                 }
             ]
         },
-        "id": "SHELLOS_EAST_SEA"
+        "id": "SHELLOS_EAST_SEA",
+        "forms": [
+            {
+                "id": "SHELLOS_WEST_SEA",
+                "name": "Shellos West Sea"
+            },
+            {
+                "id": "SHELLOS_EAST_SEA",
+                "name": "Shellos East Sea"
+            }
+        ]
     },
     {
         "dex": 422,
@@ -46682,7 +47837,17 @@
                 }
             ]
         },
-        "id": "SHELLOS_WEST_SEA"
+        "id": "SHELLOS_WEST_SEA",
+        "forms": [
+            {
+                "id": "SHELLOS_WEST_SEA",
+                "name": "Shellos West Sea"
+            },
+            {
+                "id": "SHELLOS_EAST_SEA",
+                "name": "Shellos East Sea"
+            }
+        ]
     },
     {
         "dex": 423,
@@ -46785,7 +47950,17 @@
                 "candyCost": 50
             }
         },
-        "id": "GASTRODON"
+        "id": "GASTRODON",
+        "forms": [
+            {
+                "id": "GASTRODON_WEST_SEA",
+                "name": "Gastrodon West Sea"
+            },
+            {
+                "id": "GASTRODON_EAST_SEA",
+                "name": "Gastrodon East Sea"
+            }
+        ]
     },
     {
         "dex": 423,
@@ -46880,7 +48055,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GASTRODON_EAST_SEA"
+        "id": "GASTRODON_EAST_SEA",
+        "forms": [
+            {
+                "id": "GASTRODON_WEST_SEA",
+                "name": "Gastrodon West Sea"
+            },
+            {
+                "id": "GASTRODON_EAST_SEA",
+                "name": "Gastrodon East Sea"
+            }
+        ]
     },
     {
         "dex": 423,
@@ -46983,7 +48168,17 @@
                 "candyCost": 50
             }
         },
-        "id": "GASTRODON_WEST_SEA"
+        "id": "GASTRODON_WEST_SEA",
+        "forms": [
+            {
+                "id": "GASTRODON_WEST_SEA",
+                "name": "Gastrodon West Sea"
+            },
+            {
+                "id": "GASTRODON_EAST_SEA",
+                "name": "Gastrodon East Sea"
+            }
+        ]
     },
     {
         "dex": 424,
@@ -47074,7 +48269,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "AMBIPOM"
+        "id": "AMBIPOM",
+        "forms": []
     },
     {
         "dex": 425,
@@ -47180,7 +48376,8 @@
                 }
             ]
         },
-        "id": "DRIFLOON"
+        "id": "DRIFLOON",
+        "forms": []
     },
     {
         "dex": 426,
@@ -47284,7 +48481,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DRIFBLIM"
+        "id": "DRIFBLIM",
+        "forms": []
     },
     {
         "dex": 427,
@@ -47381,7 +48579,8 @@
                 }
             ]
         },
-        "id": "BUNEARY"
+        "id": "BUNEARY",
+        "forms": []
     },
     {
         "dex": 428,
@@ -47480,7 +48679,8 @@
                 "candyCost": 50
             }
         },
-        "id": "LOPUNNY"
+        "id": "LOPUNNY",
+        "forms": []
     },
     {
         "dex": 429,
@@ -47571,7 +48771,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MISMAGIUS"
+        "id": "MISMAGIUS",
+        "forms": []
     },
     {
         "dex": 430,
@@ -47667,7 +48868,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "HONCHKROW"
+        "id": "HONCHKROW",
+        "forms": []
     },
     {
         "dex": 431,
@@ -47768,7 +48970,8 @@
                 }
             ]
         },
-        "id": "GLAMEOW"
+        "id": "GLAMEOW",
+        "forms": []
     },
     {
         "dex": 432,
@@ -47867,7 +49070,8 @@
                 "candyCost": 50
             }
         },
-        "id": "PURUGLY"
+        "id": "PURUGLY",
+        "forms": []
     },
     {
         "dex": 433,
@@ -47969,7 +49173,8 @@
                 }
             ]
         },
-        "id": "CHINGLING"
+        "id": "CHINGLING",
+        "forms": []
     },
     {
         "dex": 434,
@@ -48074,7 +49279,8 @@
                 }
             ]
         },
-        "id": "STUNKY"
+        "id": "STUNKY",
+        "forms": []
     },
     {
         "dex": 435,
@@ -48177,7 +49383,8 @@
                 "candyCost": 50
             }
         },
-        "id": "SKUNTANK"
+        "id": "SKUNTANK",
+        "forms": []
     },
     {
         "dex": 436,
@@ -48279,7 +49486,8 @@
                 }
             ]
         },
-        "id": "BRONZOR"
+        "id": "BRONZOR",
+        "forms": []
     },
     {
         "dex": 437,
@@ -48379,7 +49587,8 @@
                 "candyCost": 50
             }
         },
-        "id": "BRONZONG"
+        "id": "BRONZONG",
+        "forms": []
     },
     {
         "dex": 438,
@@ -48480,7 +49689,8 @@
                 }
             ]
         },
-        "id": "BONSLY"
+        "id": "BONSLY",
+        "forms": []
     },
     {
         "dex": 439,
@@ -48585,7 +49795,8 @@
                 }
             ]
         },
-        "id": "MIME_JR"
+        "id": "MIME_JR",
+        "forms": []
     },
     {
         "dex": 440,
@@ -48691,7 +49902,8 @@
                 }
             ]
         },
-        "id": "HAPPINY"
+        "id": "HAPPINY",
+        "forms": []
     },
     {
         "dex": 441,
@@ -48786,7 +49998,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CHATOT"
+        "id": "CHATOT",
+        "forms": []
     },
     {
         "dex": 442,
@@ -48878,7 +50091,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SPIRITOMB"
+        "id": "SPIRITOMB",
+        "forms": []
     },
     {
         "dex": 443,
@@ -48992,7 +50206,8 @@
                 }
             ]
         },
-        "id": "GIBLE"
+        "id": "GIBLE",
+        "forms": []
     },
     {
         "dex": 444,
@@ -49104,7 +50319,8 @@
                 }
             ]
         },
-        "id": "GABITE"
+        "id": "GABITE",
+        "forms": []
     },
     {
         "dex": 445,
@@ -49214,7 +50430,8 @@
                 "candyCost": 100
             }
         },
-        "id": "GARCHOMP"
+        "id": "GARCHOMP",
+        "forms": []
     },
     {
         "dex": 446,
@@ -49315,7 +50532,8 @@
                 }
             ]
         },
-        "id": "MUNCHLAX"
+        "id": "MUNCHLAX",
+        "forms": []
     },
     {
         "dex": 447,
@@ -49415,7 +50633,8 @@
                 }
             ]
         },
-        "id": "RIOLU"
+        "id": "RIOLU",
+        "forms": []
     },
     {
         "dex": 448,
@@ -49518,7 +50737,8 @@
                 "candyCost": 50
             }
         },
-        "id": "LUCARIO"
+        "id": "LUCARIO",
+        "forms": []
     },
     {
         "dex": 449,
@@ -49616,7 +50836,8 @@
                 }
             ]
         },
-        "id": "HIPPOPOTAS"
+        "id": "HIPPOPOTAS",
+        "forms": []
     },
     {
         "dex": 450,
@@ -49712,7 +50933,8 @@
                 "candyCost": 50
             }
         },
-        "id": "HIPPOWDON"
+        "id": "HIPPOWDON",
+        "forms": []
     },
     {
         "dex": 451,
@@ -49817,7 +51039,8 @@
                 }
             ]
         },
-        "id": "SKORUPI"
+        "id": "SKORUPI",
+        "forms": []
     },
     {
         "dex": 452,
@@ -49920,7 +51143,8 @@
                 "candyCost": 50
             }
         },
-        "id": "DRAPION"
+        "id": "DRAPION",
+        "forms": []
     },
     {
         "dex": 453,
@@ -50025,7 +51249,8 @@
                 }
             ]
         },
-        "id": "CROAGUNK"
+        "id": "CROAGUNK",
+        "forms": []
     },
     {
         "dex": 454,
@@ -50128,7 +51353,8 @@
                 "candyCost": 50
             }
         },
-        "id": "TOXICROAK"
+        "id": "TOXICROAK",
+        "forms": []
     },
     {
         "dex": 455,
@@ -50220,7 +51446,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CARNIVINE"
+        "id": "CARNIVINE",
+        "forms": []
     },
     {
         "dex": 456,
@@ -50321,7 +51548,8 @@
                 }
             ]
         },
-        "id": "FINNEON"
+        "id": "FINNEON",
+        "forms": []
     },
     {
         "dex": 457,
@@ -50420,7 +51648,8 @@
                 "candyCost": 50
             }
         },
-        "id": "LUMINEON"
+        "id": "LUMINEON",
+        "forms": []
     },
     {
         "dex": 458,
@@ -50523,7 +51752,8 @@
                 }
             ]
         },
-        "id": "MANTYKE"
+        "id": "MANTYKE",
+        "forms": []
     },
     {
         "dex": 459,
@@ -50628,7 +51858,8 @@
                 }
             ]
         },
-        "id": "SNOVER"
+        "id": "SNOVER",
+        "forms": []
     },
     {
         "dex": 460,
@@ -50728,7 +51959,8 @@
                 "candyCost": 50
             }
         },
-        "id": "ABOMASNOW"
+        "id": "ABOMASNOW",
+        "forms": []
     },
     {
         "dex": 461,
@@ -50823,7 +52055,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "WEAVILE"
+        "id": "WEAVILE",
+        "forms": []
     },
     {
         "dex": 462,
@@ -50915,7 +52148,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MAGNEZONE"
+        "id": "MAGNEZONE",
+        "forms": []
     },
     {
         "dex": 463,
@@ -51006,7 +52240,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LICKILICKY"
+        "id": "LICKILICKY",
+        "forms": []
     },
     {
         "dex": 464,
@@ -51101,7 +52336,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "RHYPERIOR"
+        "id": "RHYPERIOR",
+        "forms": []
     },
     {
         "dex": 465,
@@ -51192,7 +52428,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TANGROWTH"
+        "id": "TANGROWTH",
+        "forms": []
     },
     {
         "dex": 466,
@@ -51283,7 +52520,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ELECTIVIRE"
+        "id": "ELECTIVIRE",
+        "forms": []
     },
     {
         "dex": 467,
@@ -51374,7 +52612,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MAGMORTAR"
+        "id": "MAGMORTAR",
+        "forms": []
     },
     {
         "dex": 468,
@@ -51470,7 +52709,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "TOGEKISS"
+        "id": "TOGEKISS",
+        "forms": []
     },
     {
         "dex": 469,
@@ -51565,7 +52805,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "YANMEGA"
+        "id": "YANMEGA",
+        "forms": []
     },
     {
         "dex": 470,
@@ -51656,7 +52897,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "LEAFEON"
+        "id": "LEAFEON",
+        "forms": []
     },
     {
         "dex": 471,
@@ -51747,7 +52989,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GLACEON"
+        "id": "GLACEON",
+        "forms": []
     },
     {
         "dex": 472,
@@ -51843,7 +53086,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GLISCOR"
+        "id": "GLISCOR",
+        "forms": []
     },
     {
         "dex": 473,
@@ -51938,7 +53182,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MAMOSWINE"
+        "id": "MAMOSWINE",
+        "forms": []
     },
     {
         "dex": 474,
@@ -52026,7 +53271,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PORYGON_Z"
+        "id": "PORYGON_Z",
+        "forms": []
     },
     {
         "dex": 475,
@@ -52121,7 +53367,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GALLADE"
+        "id": "GALLADE",
+        "forms": []
     },
     {
         "dex": 476,
@@ -52214,7 +53461,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PROBOPASS"
+        "id": "PROBOPASS",
+        "forms": []
     },
     {
         "dex": 477,
@@ -52305,7 +53553,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DUSKNOIR"
+        "id": "DUSKNOIR",
+        "forms": []
     },
     {
         "dex": 478,
@@ -52401,7 +53650,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "FROSLASS"
+        "id": "FROSLASS",
+        "forms": []
     },
     {
         "dex": 479,
@@ -52421,7 +53671,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2579,
+        "maxCP": 2031,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -52455,8 +53705,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 204,
-            "baseDefense": 219,
+            "baseAttack": 185,
+            "baseDefense": 159,
             "baseStamina": 137
         },
         "types": [
@@ -52492,7 +53742,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM"
+        "id": "ROTOM",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 479,
@@ -52583,7 +53859,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM_FAN"
+        "id": "ROTOM_FAN",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 479,
@@ -52674,7 +53976,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM_FROST"
+        "id": "ROTOM_FROST",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 479,
@@ -52765,7 +54093,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM_HEAT"
+        "id": "ROTOM_HEAT",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 479,
@@ -52856,7 +54210,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM_MOW"
+        "id": "ROTOM_MOW",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 479,
@@ -52876,7 +54256,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2031,
+        "maxCP": 2579,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -52910,8 +54290,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 185,
-            "baseDefense": 159,
+            "baseAttack": 204,
+            "baseDefense": 219,
             "baseStamina": 137
         },
         "types": [
@@ -52947,7 +54327,33 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ROTOM_WASH"
+        "id": "ROTOM_WASH",
+        "forms": [
+            {
+                "id": "ROTOM_NORMAL",
+                "name": "Rotom Normal"
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost"
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan"
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow"
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash"
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat"
+            }
+        ]
     },
     {
         "dex": 480,
@@ -53039,7 +54445,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "UXIE"
+        "id": "UXIE",
+        "forms": []
     },
     {
         "dex": 481,
@@ -53131,7 +54538,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "MESPRIT"
+        "id": "MESPRIT",
+        "forms": []
     },
     {
         "dex": 482,
@@ -53223,7 +54631,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "AZELF"
+        "id": "AZELF",
+        "forms": []
     },
     {
         "dex": 483,
@@ -53318,7 +54727,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DIALGA"
+        "id": "DIALGA",
+        "forms": []
     },
     {
         "dex": 484,
@@ -53413,7 +54823,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "PALKIA"
+        "id": "PALKIA",
+        "forms": []
     },
     {
         "dex": 485,
@@ -53512,7 +54923,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "HEATRAN"
+        "id": "HEATRAN",
+        "forms": []
     },
     {
         "dex": 486,
@@ -53600,7 +55012,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "REGIGIGAS"
+        "id": "REGIGIGAS",
+        "forms": []
     },
     {
         "dex": 487,
@@ -53695,7 +55108,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GIRATINA"
+        "id": "GIRATINA",
+        "forms": [
+            {
+                "id": "GIRATINA_ALTERED",
+                "name": "Giratina Altered"
+            },
+            {
+                "id": "GIRATINA_ORIGIN",
+                "name": "Giratina Origin"
+            }
+        ]
     },
     {
         "dex": 487,
@@ -53790,7 +55213,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GIRATINA_ALTERED"
+        "id": "GIRATINA_ALTERED",
+        "forms": [
+            {
+                "id": "GIRATINA_ALTERED",
+                "name": "Giratina Altered"
+            },
+            {
+                "id": "GIRATINA_ORIGIN",
+                "name": "Giratina Origin"
+            }
+        ]
     },
     {
         "dex": 487,
@@ -53885,7 +55318,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "GIRATINA_ORIGIN"
+        "id": "GIRATINA_ORIGIN",
+        "forms": [
+            {
+                "id": "GIRATINA_ALTERED",
+                "name": "Giratina Altered"
+            },
+            {
+                "id": "GIRATINA_ORIGIN",
+                "name": "Giratina Origin"
+            }
+        ]
     },
     {
         "dex": 488,
@@ -53981,7 +55424,8 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "CRESSELIA"
+        "id": "CRESSELIA",
+        "forms": []
     },
     {
         "dex": 489,
@@ -54071,18 +55515,9 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Manaphy",
-                    "id": "MANAPHY",
-                    "costToEvolve": {
-                        "candyCost": 50
-                    }
-                }
-            ]
-        },
-        "id": "PHIONE"
+        "evolution": {},
+        "id": "PHIONE",
+        "forms": []
     },
     {
         "dex": 490,
@@ -54171,16 +55606,9 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {
-            "pastBranch": {
-                "name": "Phione",
-                "id": "PHIONE"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        },
-        "id": "MANAPHY"
+        "evolution": {},
+        "id": "MANAPHY",
+        "forms": []
     },
     {
         "dex": 491,
@@ -54271,191 +55699,12 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "DARKRAI"
+        "id": "DARKRAI",
+        "forms": []
     },
     {
         "dex": 492,
         "name": "Shaymin",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.2,
-        "modelHeight": 0.39,
-        "kmBuddyDistance": 20,
-        "weight": 2.1,
-        "modelScale": 1.26,
-        "maxCP": 3592,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Hidden Power Fast",
-                "id": "HIDDEN_POWER_FAST"
-            },
-            {
-                "name": "Zen Headbutt Fast",
-                "id": "ZEN_HEADBUTT_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_SHAYMIN",
-            "name": "Shaymin"
-        },
-        "stats": {
-            "baseAttack": 261,
-            "baseDefense": 166,
-            "baseStamina": 225
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GRASS",
-                "name": "Grass"
-            }
-        ],
-        "rarity": {
-            "id": "POKEMON_RARITY_MYTHIC",
-            "name": "Mythic"
-        },
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
-            "collisionRadius": 0.08,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.12,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "SHAYMIN"
-    },
-    {
-        "dex": 492,
-        "name": "Shaymin Land",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.2,
-        "modelHeight": 0.3,
-        "kmBuddyDistance": 20,
-        "weight": 2.1,
-        "modelScale": 1.26,
-        "maxCP": 3592,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Hidden Power Fast",
-                "id": "HIDDEN_POWER_FAST"
-            },
-            {
-                "name": "Zen Headbutt Fast",
-                "id": "ZEN_HEADBUTT_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_SHAYMIN",
-            "name": "Shaymin"
-        },
-        "stats": {
-            "baseAttack": 261,
-            "baseDefense": 166,
-            "baseStamina": 225
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GRASS",
-                "name": "Grass"
-            }
-        ],
-        "rarity": {
-            "id": "POKEMON_RARITY_MYTHIC",
-            "name": "Mythic"
-        },
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
-            "collisionRadius": 0.189,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.252,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "SHAYMIN_LAND"
-    },
-    {
-        "dex": 492,
-        "name": "Shaymin Sky",
         "animationTime": [
             1.9,
             0.6667,
@@ -54513,6 +55762,206 @@
             {
                 "id": "POKEMON_TYPE_GRASS",
                 "name": "Grass"
+            }
+        ],
+        "rarity": {
+            "id": "POKEMON_RARITY_MYTHIC",
+            "name": "Mythic"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.08,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.12,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "SHAYMIN",
+        "forms": [
+            {
+                "id": "SHAYMIN_LAND",
+                "name": "Shaymin Land"
+            },
+            {
+                "id": "SHAYMIN_SKY",
+                "name": "Shaymin Sky"
+            }
+        ]
+    },
+    {
+        "dex": 492,
+        "name": "Shaymin Land",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.3,
+        "kmBuddyDistance": 20,
+        "weight": 2.1,
+        "modelScale": 1.26,
+        "maxCP": 3265,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SHAYMIN",
+            "name": "Shaymin"
+        },
+        "stats": {
+            "baseAttack": 210,
+            "baseDefense": 210,
+            "baseStamina": 225
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GRASS",
+                "name": "Grass"
+            }
+        ],
+        "rarity": {
+            "id": "POKEMON_RARITY_MYTHIC",
+            "name": "Mythic"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.189,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.252,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "SHAYMIN_LAND",
+        "forms": [
+            {
+                "id": "SHAYMIN_LAND",
+                "name": "Shaymin Land"
+            },
+            {
+                "id": "SHAYMIN_SKY",
+                "name": "Shaymin Sky"
+            }
+        ]
+    },
+    {
+        "dex": 492,
+        "name": "Shaymin Sky",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.39,
+        "kmBuddyDistance": 20,
+        "weight": 2.1,
+        "modelScale": 1.26,
+        "maxCP": 3592,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SHAYMIN",
+            "name": "Shaymin"
+        },
+        "stats": {
+            "baseAttack": 261,
+            "baseDefense": 166,
+            "baseStamina": 225
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GRASS",
+                "name": "Grass"
             },
             {
                 "id": "POKEMON_TYPE_FLYING",
@@ -54545,7 +55994,17 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "SHAYMIN_SKY"
+        "id": "SHAYMIN_SKY",
+        "forms": [
+            {
+                "id": "SHAYMIN_LAND",
+                "name": "Shaymin Land"
+            },
+            {
+                "id": "SHAYMIN_SKY",
+                "name": "Shaymin Sky"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -54635,7 +56094,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS"
+        "id": "ARCEUS",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -54725,7 +56258,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_BUG"
+        "id": "ARCEUS_BUG",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -54815,7 +56422,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_DARK"
+        "id": "ARCEUS_DARK",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -54905,7 +56586,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_DRAGON"
+        "id": "ARCEUS_DRAGON",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -54995,7 +56750,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_ELECTRIC"
+        "id": "ARCEUS_ELECTRIC",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55085,7 +56914,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_FAIRY"
+        "id": "ARCEUS_FAIRY",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55175,7 +57078,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_FIGHTING"
+        "id": "ARCEUS_FIGHTING",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55265,7 +57242,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_FIRE"
+        "id": "ARCEUS_FIRE",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55355,7 +57406,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_FLYING"
+        "id": "ARCEUS_FLYING",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55445,7 +57570,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_GHOST"
+        "id": "ARCEUS_GHOST",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55535,7 +57734,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_GRASS"
+        "id": "ARCEUS_GRASS",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55625,7 +57898,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_GROUND"
+        "id": "ARCEUS_GROUND",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55715,7 +58062,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_ICE"
+        "id": "ARCEUS_ICE",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55805,7 +58226,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_POISON"
+        "id": "ARCEUS_POISON",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55895,7 +58390,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_PSYCHIC"
+        "id": "ARCEUS_PSYCHIC",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -55985,7 +58554,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_ROCK"
+        "id": "ARCEUS_ROCK",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -56075,7 +58718,81 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_STEEL"
+        "id": "ARCEUS_STEEL",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     },
     {
         "dex": 493,
@@ -56165,6 +58882,80 @@
             "shoulderModeScale": 0.5
         },
         "evolution": {},
-        "id": "ARCEUS_WATER"
+        "id": "ARCEUS_WATER",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal"
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting"
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying"
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison"
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground"
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock"
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug"
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost"
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel"
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire"
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water"
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass"
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric"
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic"
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice"
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon"
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark"
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy"
+            }
+        ]
     }
 ]

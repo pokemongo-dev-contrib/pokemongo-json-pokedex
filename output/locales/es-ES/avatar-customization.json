@@ -20,6 +20,7 @@
     "f_backpack_frlg_0": {
         "name": "Bolso\\nVerde Hoja"
     },
+    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Bolso\\nde Johto"
     },
@@ -154,6 +155,7 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "Sin sombrero"
     },
@@ -167,6 +169,7 @@
     "f_hat_frlg_0": {
         "name": "Sombrero\\nVerde Hoja"
     },
+    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Gorro\\nde Johto"
     },
@@ -180,6 +183,7 @@
         "name": "Gorro Magikarp"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
@@ -350,6 +354,7 @@
     "f_shirt_default_8": {
         "name": "Chaqueta corta"
     },
+    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "Camiseta Surf Blue"
     },
@@ -357,6 +362,7 @@
     "f_shirt_frlg_0": {
         "name": "Camiseta\\nVerde Hoja"
     },
+    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
     },
@@ -378,6 +384,7 @@
     "f_shirt_pikachufan_0": {
         "name": "Camiseta Fan de Pikachu"
     },
+    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "Cuello vuelto 30"
     },
@@ -560,6 +567,7 @@
     "m_backpack_frlg_0": {
         "name": "Mochila\\nRojo Fuego"
     },
+    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Bolsa\\nde Johto"
     },
@@ -657,6 +665,7 @@
     "m_hat_default_5": {
         "name": "Visera"
     },
+    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "Sin sombrero"
     },
@@ -673,6 +682,7 @@
     "m_hat_frlg_0": {
         "name": "Gorra\\nRojo Fuego"
     },
+    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Gorra\\nde Johto"
     },
@@ -683,6 +693,7 @@
         "name": "Gorro Magikarp"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
@@ -787,6 +798,7 @@
     "m_shirt_default_7": {
         "name": "Sudadera clásica"
     },
+    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "Camiseta Surf Blue"
     },
@@ -797,6 +809,7 @@
     "m_shirt_frlg_0": {
         "name": "Camiseta\\nRojo Fuego"
     },
+    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
     },
@@ -839,6 +852,7 @@
     "m_shirt_pikachufan_0": {
         "name": "Camiseta Fan de Pikachu"
     },
+    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sudadera deportiva"
     },
