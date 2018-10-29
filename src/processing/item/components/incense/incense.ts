@@ -11,7 +11,11 @@ export class Incense implements IComponent {
      * Sets the incense object and maps generic properties
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        const incense = rawItem.itemSettings.incense;
+
+        // TODO - This is a temporary hack to get to build
+        // const incense = rawItem.itemSettings.incense;
+        const incense = null;
+
         // Is an incense
         if (!incense) {
             return item;

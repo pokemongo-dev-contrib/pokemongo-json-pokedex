@@ -78,6 +78,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_gengar_0",
+        "iconName": "f_backpack_gengar_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -720,6 +731,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Drifloon 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_drifloon_0",
+        "iconName": "f_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Empty",
         "gender": "Female",
         "enabled": true,
@@ -776,6 +798,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gengar_0",
+        "iconName": "f_hat_gengar_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -826,6 +859,17 @@
         "enabled": true,
         "id": "f_hat_mimikyu_0",
         "iconName": "f_hat_mimikyu_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Mismagius 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_mismagius_0",
+        "iconName": "f_hat_mismagius_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1522,6 +1566,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Drifblim 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_drifblim_0",
+        "iconName": "f_shirt_drifblim_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Female",
         "enabled": true,
@@ -1550,6 +1605,17 @@
         "id": "f_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gengar_0",
+        "iconName": "f_shirt_gengar_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1631,6 +1697,17 @@
         "id": "f_shirt_pikachufan_0",
         "unlockBadgeLevel": 300,
         "iconName": "f_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spiritomb 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_spiritomb_0",
+        "iconName": "f_shirt_spiritomb_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2353,6 +2430,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_gengar_0",
+        "iconName": "m_backpack_gengar_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -2809,6 +2897,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Drifloon 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_drifloon_0",
+        "iconName": "m_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Empty",
         "gender": "Male",
         "enabled": true,
@@ -2877,6 +2976,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gengar_0",
+        "iconName": "m_hat_gengar_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -2917,6 +3027,17 @@
         "enabled": true,
         "id": "m_hat_mimikyu_0",
         "iconName": "m_hat_mimikyu_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Mismagius 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_mismagius_0",
+        "iconName": "m_hat_mismagius_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -3372,6 +3493,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Drifblim 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_drifblim_0",
+        "iconName": "m_shirt_drifblim_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Male",
         "enabled": true,
@@ -3412,6 +3544,17 @@
         "id": "m_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gengar_0",
+        "iconName": "m_shirt_gengar_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3572,6 +3715,17 @@
         "id": "m_shirt_pikachufan_0",
         "unlockBadgeLevel": 300,
         "iconName": "m_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spiritomb 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_spiritomb_0",
+        "iconName": "m_shirt_spiritomb_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
