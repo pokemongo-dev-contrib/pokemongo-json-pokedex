@@ -12,9 +12,7 @@ export class Incense implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
 
-        // TODO - This is a temporary hack to get to build
-        // const incense = rawItem.itemSettings.incense;
-        const incense = null;
+        const incense = rawItem.itemSettings.incense;
 
         // Is an incense
         if (!incense) {
