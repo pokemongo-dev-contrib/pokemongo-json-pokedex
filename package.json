@@ -1,6 +1,6 @@
 {
   "name": "pokemongo-json-pokedex",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "This program transforms the data from the Pokemon GO master files to a better readable & processable JSON file.",
   "main": "lib/index.js",
   "scripts": {
