@@ -1,3 +1,17 @@
+# Version 3.4.0 (31.10.2018)
+
+## Features
+
+- **Update(GAME_MASTER)** v1542581210773
+- **Add(output)** Pokemon forms attribute
+- **Fix(output)** Incense got removed from the GAME_MASTER.json
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+- [bytelabsco](https://github.com/bytelabsco)
+
+
 # Version 3.3.1 (27.09.2018)
 
 ## Features
