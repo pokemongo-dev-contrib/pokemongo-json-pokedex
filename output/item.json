@@ -159,13 +159,7 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "dropTrainerLevel": 100,
-        "incense": {
-            "distanceRequiredForShorterIntervalMeters": 200,
-            "incenseLifeTimeSceonds": 1800,
-            "movingTimeBetweenEncounterSeconds": 60,
-            "standingTimeBetweenEncountersSeconds": 300
-        }
+        "dropTrainerLevel": 100
     },
     {
         "id": "INCUBATOR_BASIC",

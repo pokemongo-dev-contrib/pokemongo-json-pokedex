@@ -13,7 +13,6 @@ describe('Pokemon Output', () => {
 
     it('should have pokemons', () => {
         expect(input.length).to.not.equal(0);
-        expect(input.length).to.equal(410);
     });
 
     it('should have unique id', () => {
@@ -36,7 +35,7 @@ describe('Pokemon Output', () => {
             item => expect(item.animationTime.length, 'animationTime length').to.not.equal(0),
             item => expect(item.id, 'id').to.not.equal(undefined),
             item => expect(item.name, 'name').to.not.equal(undefined),
-            item => expect(item.dex, 'dex').to.be.within(1, 386),
+            item => expect(item.dex, 'dex').to.be.within(1, 493),
             item => expect(Array.isArray(item.cinematicMoves), 'cinematicMoves type').to.equal(true),
             item => expect(item.cinematicMoves.length, 'cinematicMoves length').to.not.equal(0),
             item => expect(Array.isArray(item.quickMoves), 'quickMoves array').to.equal(true),
@@ -104,7 +103,7 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.futureBranches, 'Flareon should not evolve').to.be.undefined
             ],
             'SNORLAX': [
-                item => expect(item.evolution.pastBranch, 'Snorlax should not have past evolution').to.equal(undefined),
+                item => expect(item.evolution.pastBranch, 'Snorlax should have past evolution').to.not.be.undefined,
                 item => expect(item.evolution.futureBranches, 'Snorlax should not evolve').to.be.undefined
             ],
             'SEADRA': [

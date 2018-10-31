@@ -20,6 +20,7 @@
     "f_backpack_frlg_0": {
         "name": "リーフバッグ"
     },
+    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "ジョウトバッグ"
     },
@@ -154,6 +155,7 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "無帽"
     },
@@ -163,9 +165,11 @@
     "f_hat_fedora_1": {
         "name": "フェルトハット"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "リーフハット"
     },
+    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "ジョウトキャップ"
     },
@@ -179,9 +183,16 @@
         "name": "コイキング帽子"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "ピカチュウカチューシャ"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "ロケット団帽子"
     },
@@ -343,12 +354,15 @@
     "f_shirt_default_8": {
         "name": "ショートトップ"
     },
+    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "なみのりブルーTシャツ"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "リーフトップス"
     },
+    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "ジムリーダートップス"
     },
@@ -370,6 +384,7 @@
     "f_shirt_pikachufan_0": {
         "name": "ピカチュウだいすきTシャツ"
     },
+    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "ザ・サーティ"
     },
@@ -552,6 +567,7 @@
     "m_backpack_frlg_0": {
         "name": "ファイアバックパック"
     },
+    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "ジョウトバッグ"
     },
@@ -649,6 +665,7 @@
     "m_hat_default_5": {
         "name": "サンバイザー"
     },
+    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "無帽"
     },
@@ -661,9 +678,11 @@
     "m_hat_fisher_0": {
         "name": "つりびとキャップ"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "ファイアキャップ"
     },
+    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "ジョウトキャップ"
     },
@@ -674,9 +693,16 @@
         "name": "コイキング帽子"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "ピカチュウカチューシャ"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "ロケット団帽子"
     },
@@ -772,15 +798,18 @@
     "m_shirt_default_7": {
         "name": "べーシックパーカー"
     },
+    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "なみのりブルーTシャツ"
     },
     "m_shirt_fisher_0": {
         "name": "つりびとベスト"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "ファイアトップス"
     },
+    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "ジムリーダートップス"
     },
@@ -823,6 +852,7 @@
     "m_shirt_pikachufan_0": {
         "name": "ピカチュウだいすきTシャツ"
     },
+    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "スポーツパーカー"
     },

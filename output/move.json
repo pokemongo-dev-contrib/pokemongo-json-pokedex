@@ -4030,5 +4030,26 @@
         },
         "name": "Last Resort",
         "internalId": 300
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 100,
+        "criticalChance": 0.05,
+        "staminaLossScalar": 0.065,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "meteor_mash",
+        "durationMs": 2600,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50,
+        "id": "METEOR_MASH",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Meteor Mash",
+        "internalId": 301
     }
 ]
