@@ -223,6 +223,34 @@ describe('Pokemon Output', () => {
         });
     });
 
+    it('should have multiple forms for certain pokemon, like alolan', () => {
+        const expectations = {
+            'RATTATA': [
+                item => expect(item.forms.length, 'Rattata should have 2 forms').to.equal(2),
+                item => expect(item.forms[0].id, 'Rattata first form id should be RATTATA').to.equal('RATTATA'),
+                item => expect(item.forms[0].name, 'Rattata first form name should be Rattata').to.equal('Rattata'),
+                item => expect(item.forms[1].id, 'Rattata second form id should be RATTATA_ALOLA').to.equal('RATTATA_ALOLA'),
+                item => expect(item.forms[1].name, 'Rattata second form name should be Rattata Alola').to.equal('Rattata Alola')
+            ],
+            'RATTATA_ALOLA': [
+                item => expect(item.forms.length, 'Rattata should have 2 forms').to.equal(2),
+                item => expect(item.forms[0].id, 'Rattata first form id should be RATTATA').to.equal('RATTATA'),
+                item => expect(item.forms[0].name, 'Rattata first form name should be Rattata').to.equal('Rattata'),
+                item => expect(item.forms[1].id, 'Rattata second form id should be RATTATA_ALOLA').to.equal('RATTATA_ALOLA'),
+                item => expect(item.forms[1].name, 'Rattata second form name should be Rattata Alola').to.equal('Rattata Alola')
+            ]
+        }
+
+        input.forEach(mon => {
+            if (mon.id in expectations) {
+                let testFunctions = expectations[mon.id];
+                testFunctions.forEach(func => {
+                    func(mon);
+                });
+            }
+        });
+    });
+
     // it('should match moves', () => {
     //     input.forEach(item => {
     //         if (item.quickMoves) {
