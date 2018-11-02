@@ -2069,8 +2069,8 @@
         "id": "RATTATA",
         "forms": [
             {
-                "id": "RATTATA_NORMAL",
-                "name": "Rattata Normal"
+                "id": "RATTATA",
+                "name": "Rattata"
             },
             {
                 "id": "RATTATA_ALOLA",
@@ -2184,8 +2184,8 @@
         "id": "RATTATA_ALOLA",
         "forms": [
             {
-                "id": "RATTATA_NORMAL",
-                "name": "Rattata Normal"
+                "id": "RATTATA",
+                "name": "Rattata"
             },
             {
                 "id": "RATTATA_ALOLA",
@@ -2293,8 +2293,8 @@
         "id": "RATICATE",
         "forms": [
             {
-                "id": "RATICATE_NORMAL",
-                "name": "Raticate Normal"
+                "id": "RATICATE",
+                "name": "Raticate"
             },
             {
                 "id": "RATICATE_ALOLA",
@@ -2406,8 +2406,8 @@
         "id": "RATICATE_ALOLA",
         "forms": [
             {
-                "id": "RATICATE_NORMAL",
-                "name": "Raticate Normal"
+                "id": "RATICATE",
+                "name": "Raticate"
             },
             {
                 "id": "RATICATE_ALOLA",
@@ -3044,8 +3044,8 @@
         "id": "RAICHU",
         "forms": [
             {
-                "id": "RAICHU_NORMAL",
-                "name": "Raichu Normal"
+                "id": "RAICHU",
+                "name": "Raichu"
             },
             {
                 "id": "RAICHU_ALOLA",
@@ -3149,8 +3149,8 @@
         "id": "RAICHU_ALOLA",
         "forms": [
             {
-                "id": "RAICHU_NORMAL",
-                "name": "Raichu Normal"
+                "id": "RAICHU",
+                "name": "Raichu"
             },
             {
                 "id": "RAICHU_ALOLA",
@@ -3260,8 +3260,8 @@
         "id": "SANDSHREW",
         "forms": [
             {
-                "id": "SANDSHREW_NORMAL",
-                "name": "Sandshrew Normal"
+                "id": "SANDSHREW",
+                "name": "Sandshrew"
             },
             {
                 "id": "SANDSHREW_ALOLA",
@@ -3375,8 +3375,8 @@
         "id": "SANDSHREW_ALOLA",
         "forms": [
             {
-                "id": "SANDSHREW_NORMAL",
-                "name": "Sandshrew Normal"
+                "id": "SANDSHREW",
+                "name": "Sandshrew"
             },
             {
                 "id": "SANDSHREW_ALOLA",
@@ -3484,8 +3484,8 @@
         "id": "SANDSLASH",
         "forms": [
             {
-                "id": "SANDSLASH_NORMAL",
-                "name": "Sandslash Normal"
+                "id": "SANDSLASH",
+                "name": "Sandslash"
             },
             {
                 "id": "SANDSLASH_ALOLA",
@@ -3597,8 +3597,8 @@
         "id": "SANDSLASH_ALOLA",
         "forms": [
             {
-                "id": "SANDSLASH_NORMAL",
-                "name": "Sandslash Normal"
+                "id": "SANDSLASH",
+                "name": "Sandslash"
             },
             {
                 "id": "SANDSLASH_ALOLA",
@@ -4586,8 +4586,8 @@
         "id": "VULPIX",
         "forms": [
             {
-                "id": "VULPIX_NORMAL",
-                "name": "Vulpix Normal"
+                "id": "VULPIX",
+                "name": "Vulpix"
             },
             {
                 "id": "VULPIX_ALOLA",
@@ -4697,8 +4697,8 @@
         "id": "VULPIX_ALOLA",
         "forms": [
             {
-                "id": "VULPIX_NORMAL",
-                "name": "Vulpix Normal"
+                "id": "VULPIX",
+                "name": "Vulpix"
             },
             {
                 "id": "VULPIX_ALOLA",
@@ -4806,8 +4806,8 @@
         "id": "NINETALES",
         "forms": [
             {
-                "id": "NINETALES_NORMAL",
-                "name": "Ninetales Normal"
+                "id": "NINETALES",
+                "name": "Ninetales"
             },
             {
                 "id": "NINETALES_ALOLA",
@@ -4919,8 +4919,8 @@
         "id": "NINETALES_ALOLA",
         "forms": [
             {
-                "id": "NINETALES_NORMAL",
-                "name": "Ninetales Normal"
+                "id": "NINETALES",
+                "name": "Ninetales"
             },
             {
                 "id": "NINETALES_ALOLA",
@@ -6261,8 +6261,8 @@
         "id": "DIGLETT",
         "forms": [
             {
-                "id": "DIGLETT_NORMAL",
-                "name": "Diglett Normal"
+                "id": "DIGLETT",
+                "name": "Diglett"
             },
             {
                 "id": "DIGLETT_ALOLA",
@@ -6371,8 +6371,8 @@
         "id": "DIGLETT_ALOLA",
         "forms": [
             {
-                "id": "DIGLETT_NORMAL",
-                "name": "Diglett Normal"
+                "id": "DIGLETT",
+                "name": "Diglett"
             },
             {
                 "id": "DIGLETT_ALOLA",
@@ -6475,8 +6475,8 @@
         "id": "DUGTRIO",
         "forms": [
             {
-                "id": "DUGTRIO_NORMAL",
-                "name": "Dugtrio Normal"
+                "id": "DUGTRIO",
+                "name": "Dugtrio"
             },
             {
                 "id": "DUGTRIO_ALOLA",
@@ -6583,8 +6583,8 @@
         "id": "DUGTRIO_ALOLA",
         "forms": [
             {
-                "id": "DUGTRIO_NORMAL",
-                "name": "Dugtrio Normal"
+                "id": "DUGTRIO",
+                "name": "Dugtrio"
             },
             {
                 "id": "DUGTRIO_ALOLA",
@@ -6694,8 +6694,8 @@
         "id": "MEOWTH",
         "forms": [
             {
-                "id": "MEOWTH_NORMAL",
-                "name": "Meowth Normal"
+                "id": "MEOWTH",
+                "name": "Meowth"
             },
             {
                 "id": "MEOWTH_ALOLA",
@@ -6805,8 +6805,8 @@
         "id": "MEOWTH_ALOLA",
         "forms": [
             {
-                "id": "MEOWTH_NORMAL",
-                "name": "Meowth Normal"
+                "id": "MEOWTH",
+                "name": "Meowth"
             },
             {
                 "id": "MEOWTH_ALOLA",
@@ -6914,8 +6914,8 @@
         "id": "PERSIAN",
         "forms": [
             {
-                "id": "PERSIAN_NORMAL",
-                "name": "Persian Normal"
+                "id": "PERSIAN",
+                "name": "Persian"
             },
             {
                 "id": "PERSIAN_ALOLA",
@@ -7023,8 +7023,8 @@
         "id": "PERSIAN_ALOLA",
         "forms": [
             {
-                "id": "PERSIAN_NORMAL",
-                "name": "Persian Normal"
+                "id": "PERSIAN",
+                "name": "Persian"
             },
             {
                 "id": "PERSIAN_ALOLA",
@@ -9315,8 +9315,8 @@
         "id": "GEODUDE",
         "forms": [
             {
-                "id": "GEODUDE_NORMAL",
-                "name": "Geodude Normal"
+                "id": "GEODUDE",
+                "name": "Geodude"
             },
             {
                 "id": "GEODUDE_ALOLA",
@@ -9440,8 +9440,8 @@
         "id": "GEODUDE_ALOLA",
         "forms": [
             {
-                "id": "GEODUDE_NORMAL",
-                "name": "Geodude Normal"
+                "id": "GEODUDE",
+                "name": "Geodude"
             },
             {
                 "id": "GEODUDE_ALOLA",
@@ -9562,8 +9562,8 @@
         "id": "GRAVELER",
         "forms": [
             {
-                "id": "GRAVELER_NORMAL",
-                "name": "Graveler Normal"
+                "id": "GRAVELER",
+                "name": "Graveler"
             },
             {
                 "id": "GRAVELER_ALOLA",
@@ -9684,8 +9684,8 @@
         "id": "GRAVELER_ALOLA",
         "forms": [
             {
-                "id": "GRAVELER_NORMAL",
-                "name": "Graveler Normal"
+                "id": "GRAVELER",
+                "name": "Graveler"
             },
             {
                 "id": "GRAVELER_ALOLA",
@@ -9804,8 +9804,8 @@
         "id": "GOLEM",
         "forms": [
             {
-                "id": "GOLEM_NORMAL",
-                "name": "Golem Normal"
+                "id": "GOLEM",
+                "name": "Golem"
             },
             {
                 "id": "GOLEM_ALOLA",
@@ -9924,8 +9924,8 @@
         "id": "GOLEM_ALOLA",
         "forms": [
             {
-                "id": "GOLEM_NORMAL",
-                "name": "Golem Normal"
+                "id": "GOLEM",
+                "name": "Golem"
             },
             {
                 "id": "GOLEM_ALOLA",
@@ -11175,8 +11175,8 @@
         "id": "GRIMER",
         "forms": [
             {
-                "id": "GRIMER_NORMAL",
-                "name": "Grimer Normal"
+                "id": "GRIMER",
+                "name": "Grimer"
             },
             {
                 "id": "GRIMER_ALOLA",
@@ -11290,8 +11290,8 @@
         "id": "GRIMER_ALOLA",
         "forms": [
             {
-                "id": "GRIMER_NORMAL",
-                "name": "Grimer Normal"
+                "id": "GRIMER",
+                "name": "Grimer"
             },
             {
                 "id": "GRIMER_ALOLA",
@@ -11399,8 +11399,8 @@
         "id": "MUK",
         "forms": [
             {
-                "id": "MUK_NORMAL",
-                "name": "Muk Normal"
+                "id": "MUK",
+                "name": "Muk"
             },
             {
                 "id": "MUK_ALOLA",
@@ -11512,8 +11512,8 @@
         "id": "MUK_ALOLA",
         "forms": [
             {
-                "id": "MUK_NORMAL",
-                "name": "Muk Normal"
+                "id": "MUK",
+                "name": "Muk"
             },
             {
                 "id": "MUK_ALOLA",
@@ -12983,8 +12983,8 @@
         "id": "EXEGGUTOR",
         "forms": [
             {
-                "id": "EXEGGUTOR_NORMAL",
-                "name": "Exeggutor Normal"
+                "id": "EXEGGUTOR",
+                "name": "Exeggutor"
             },
             {
                 "id": "EXEGGUTOR_ALOLA",
@@ -13088,8 +13088,8 @@
         "id": "EXEGGUTOR_ALOLA",
         "forms": [
             {
-                "id": "EXEGGUTOR_NORMAL",
-                "name": "Exeggutor Normal"
+                "id": "EXEGGUTOR",
+                "name": "Exeggutor"
             },
             {
                 "id": "EXEGGUTOR_ALOLA",
@@ -13299,8 +13299,8 @@
         "id": "MAROWAK",
         "forms": [
             {
-                "id": "MAROWAK_NORMAL",
-                "name": "Marowak Normal"
+                "id": "MAROWAK",
+                "name": "Marowak"
             },
             {
                 "id": "MAROWAK_ALOLA",
@@ -13404,8 +13404,8 @@
         "id": "MAROWAK_ALOLA",
         "forms": [
             {
-                "id": "MAROWAK_NORMAL",
-                "name": "Marowak Normal"
+                "id": "MAROWAK",
+                "name": "Marowak"
             },
             {
                 "id": "MAROWAK_ALOLA",
@@ -39054,8 +39054,8 @@
         "id": "CASTFORM",
         "forms": [
             {
-                "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "id": "CASTFORM",
+                "name": "Castform"
             },
             {
                 "id": "CASTFORM_SUNNY",
@@ -39160,8 +39160,8 @@
         "id": "CASTFORM_RAINY",
         "forms": [
             {
-                "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "id": "CASTFORM",
+                "name": "Castform"
             },
             {
                 "id": "CASTFORM_SUNNY",
@@ -39266,8 +39266,8 @@
         "id": "CASTFORM_SNOWY",
         "forms": [
             {
-                "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "id": "CASTFORM",
+                "name": "Castform"
             },
             {
                 "id": "CASTFORM_SUNNY",
@@ -39372,8 +39372,8 @@
         "id": "CASTFORM_SUNNY",
         "forms": [
             {
-                "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "id": "CASTFORM",
+                "name": "Castform"
             },
             {
                 "id": "CASTFORM_SUNNY",
@@ -42906,8 +42906,8 @@
         "id": "DEOXYS",
         "forms": [
             {
-                "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "id": "DEOXYS",
+                "name": "Deoxys"
             },
             {
                 "id": "DEOXYS_ATTACK",
@@ -43015,8 +43015,8 @@
         "id": "DEOXYS_ATTACK",
         "forms": [
             {
-                "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "id": "DEOXYS",
+                "name": "Deoxys"
             },
             {
                 "id": "DEOXYS_ATTACK",
@@ -43124,8 +43124,8 @@
         "id": "DEOXYS_DEFENSE",
         "forms": [
             {
-                "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "id": "DEOXYS",
+                "name": "Deoxys"
             },
             {
                 "id": "DEOXYS_ATTACK",
@@ -43233,8 +43233,8 @@
         "id": "DEOXYS_SPEED",
         "forms": [
             {
-                "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "id": "DEOXYS",
+                "name": "Deoxys"
             },
             {
                 "id": "DEOXYS_ATTACK",
@@ -53745,8 +53745,8 @@
         "id": "ROTOM",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -53862,8 +53862,8 @@
         "id": "ROTOM_FAN",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -53979,8 +53979,8 @@
         "id": "ROTOM_FROST",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -54096,8 +54096,8 @@
         "id": "ROTOM_HEAT",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -54213,8 +54213,8 @@
         "id": "ROTOM_MOW",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -54330,8 +54330,8 @@
         "id": "ROTOM_WASH",
         "forms": [
             {
-                "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "id": "ROTOM",
+                "name": "Rotom"
             },
             {
                 "id": "ROTOM_FROST",
@@ -56097,8 +56097,8 @@
         "id": "ARCEUS",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -56261,8 +56261,8 @@
         "id": "ARCEUS_BUG",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -56425,8 +56425,8 @@
         "id": "ARCEUS_DARK",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -56589,8 +56589,8 @@
         "id": "ARCEUS_DRAGON",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -56753,8 +56753,8 @@
         "id": "ARCEUS_ELECTRIC",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -56917,8 +56917,8 @@
         "id": "ARCEUS_FAIRY",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57081,8 +57081,8 @@
         "id": "ARCEUS_FIGHTING",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57245,8 +57245,8 @@
         "id": "ARCEUS_FIRE",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57409,8 +57409,8 @@
         "id": "ARCEUS_FLYING",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57573,8 +57573,8 @@
         "id": "ARCEUS_GHOST",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57737,8 +57737,8 @@
         "id": "ARCEUS_GRASS",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -57901,8 +57901,8 @@
         "id": "ARCEUS_GROUND",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58065,8 +58065,8 @@
         "id": "ARCEUS_ICE",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58229,8 +58229,8 @@
         "id": "ARCEUS_POISON",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58393,8 +58393,8 @@
         "id": "ARCEUS_PSYCHIC",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58557,8 +58557,8 @@
         "id": "ARCEUS_ROCK",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58721,8 +58721,8 @@
         "id": "ARCEUS_STEEL",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",
@@ -58885,8 +58885,8 @@
         "id": "ARCEUS_WATER",
         "forms": [
             {
-                "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "id": "ARCEUS",
+                "name": "Arceus"
             },
             {
                 "id": "ARCEUS_FIGHTING",

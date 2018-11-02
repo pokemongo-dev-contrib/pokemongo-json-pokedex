@@ -45,13 +45,29 @@ export class Forms implements IComponent {
         if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
 
             itemTemplate.formSettings.forms.forEach(f => {
+
+                const formName = this.removeSuffixIfNeeded(f.form);
+
                 forms.push({
-                    id: f.form,
-                    name: Util.SnakeCase2HumanReadable(f.form)
+                    id: formName,
+                    name: Util.SnakeCase2HumanReadable(formName)
                 });
             });
         }
 
         return forms;
+    }
+
+    private removeSuffixIfNeeded(name: string): string {
+
+        const normalSuffix: string = '_NORMAL';
+
+        const normalIndex = name.indexOf(normalSuffix);
+
+        if (normalIndex >= 0) {
+            name = name.substring(0, normalIndex);
+        }
+
+        return name;
     }
 }
