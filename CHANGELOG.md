@@ -1,3 +1,14 @@
+# Version 3.4.2 (02.11.2018)
+
+## Features
+
+- **Fix(output)** Normal forms from `form` map
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+- [bytelabsco](https://github.com/bytelabsco)
+
 # Version 3.4.0 (31.10.2018)
 
 ## Features
