@@ -20,6 +20,7 @@
     "f_backpack_frlg_0": {
         "name": "Borsa Verde Foglia"
     },
+    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Borsa Johto"
     },
@@ -154,6 +155,7 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "Senza cappello"
     },
@@ -163,9 +165,11 @@
     "f_hat_fedora_1": {
         "name": "Fedora"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "Cappello Verde Foglia"
     },
+    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Berretto Johto"
     },
@@ -179,9 +183,16 @@
         "name": "Cappello Magikarp"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "Fascia fan di Pikachu"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "Berretto Team Rocket"
     },
@@ -343,12 +354,15 @@
     "f_shirt_default_8": {
         "name": "Bolero"
     },
+    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "T-shirt Surf Blue"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "Top Verde Foglia"
     },
+    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "Maglia Capopalestra"
     },
@@ -370,6 +384,7 @@
     "f_shirt_pikachufan_0": {
         "name": "Maglia fan di Pikachu"
     },
+    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "Maglia 30"
     },
@@ -552,6 +567,7 @@
     "m_backpack_frlg_0": {
         "name": "Zaino Rosso Fuoco"
     },
+    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Borsa Johto"
     },
@@ -649,6 +665,7 @@
     "m_hat_default_5": {
         "name": "Visiera Allenatore"
     },
+    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "Senza cappello"
     },
@@ -661,9 +678,11 @@
     "m_hat_fisher_0": {
         "name": "Berretto Pescatore"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "Berretto Rosso Fuoco"
     },
+    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Berretto Johto"
     },
@@ -674,9 +693,16 @@
         "name": "Cappello Magikarp"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "Fascia fan di Pikachu"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "Berretto Team Rocket"
     },
@@ -772,15 +798,18 @@
     "m_shirt_default_7": {
         "name": "Felpa classica"
     },
+    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "T-shirt Surf Blue"
     },
     "m_shirt_fisher_0": {
         "name": "Gilet Pescatore"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "Maglia Rosso Fuoco"
     },
+    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "Maglia Capopalestra"
     },
@@ -823,6 +852,7 @@
     "m_shirt_pikachufan_0": {
         "name": "Maglia fan di Pikachu"
     },
+    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Felpa sportiva"
     },

@@ -9,6 +9,7 @@ export interface ItemTemplate {
   badgeSettings?: BadgeSettings;
   battleSettings?: BattleSettings;
   encounterSettings?: EncounterSettings;
+  exRaidSettings?: ExRaidSettings;
   formSettings?: FormSettings;
   friendshipMilestoneSettings?: FriendshipMilestoneSettings;
   gymBadgeSettings?: GymBadgeSettings;
@@ -114,14 +115,17 @@ export interface PokemonSettings {
   buddyOffsetMale: number[];
   buddyOffsetFemale: number[];
   buddyScale: number;
+  buddyPortraitOffset: number[];
+  isTransferable?: boolean;
+  isDeployable?: boolean;
   parentPokemonId?: string;
   buddySize?: string;
   form?: string;
   rarity?: string;
 }
 export interface EvolutionBranch {
-  evolution: string;
-  candyCost: number;
+  evolution?: string;
+  candyCost?: number;
   form?: string;
   evolutionItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
@@ -210,7 +214,6 @@ export interface ItemSettings {
   dropTrainerLevel: number;
   food?: Food;
   potion?: Potion;
-  incense?: Incense;
   eggIncubator?: EggIncubator;
   inventoryUpgrade?: InventoryUpgrade;
   xpBoost?: XpBoost;
@@ -236,12 +239,6 @@ export interface EggIncubator {
   incubatorType: string;
   uses?: number;
   distanceMultiplier: number;
-}
-export interface Incense {
-  incenseLifetimeSeconds: number;
-  standingTimeBetweenEncountersSeconds: number;
-  movingTimeBetweenEncounterSeconds: number;
-  distanceRequiredForShorterIntervalMeters: number;
 }
 export interface Potion {
   staAmount?: number;
@@ -298,6 +295,9 @@ export interface Form {
   form: string;
   assetBundleValue?: number;
 }
+export interface ExRaidSettings {
+  minimumExRaidShareLevel: string;
+}
 export interface EncounterSettings {
   spinBonusThreshold: number;
   excellentThrowThreshold: number;
@@ -325,7 +325,7 @@ export interface BattleSettings {
   minimumRaidPlayerLevel: number;
 }
 export interface BadgeSettings {
-  badgeType: number | string;
+  badgeType: string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;

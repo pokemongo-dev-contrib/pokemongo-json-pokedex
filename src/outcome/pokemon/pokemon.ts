@@ -3,6 +3,7 @@ import { PokemonCamera } from './pokemonCamera';
 import { PokemonEncounter } from './pokemonEncounter';
 import { PokemonEvolution } from './evolution';
 import { PokemonStats } from './pokemonStats';
+import { PokemonForm } from './pokemonForm';
 
 /**
  * Represents one Pokemon of PokemonGO
@@ -160,6 +161,10 @@ interface Pokemon {
      * Evolution related data
      */
     evolution: PokemonEvolution;
+    /**
+     * Forms that the pokemon can take
+     */
+    forms: PokemonForm[];
 }
 
 export { Pokemon };
