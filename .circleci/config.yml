@@ -1,5 +1,4 @@
 version: 2
-
 jobs:
   build:
     machine: true
@@ -18,12 +17,13 @@ jobs:
     docker:
       - image: circleci/node:8.9.1
     steps:
+      - checkout
       - run:
-          name: Authenticate with registry
-          command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
+          name: install
+          command: npm install
       - run:
-          name: Publish package
-          command: npm publish
+          name: release
+          command: npm run semantic-release || true
 
   docker_deploy:
     machine: true
@@ -49,21 +49,14 @@ workflows:
       - test
       - npm_deploy:
           requires:
-            - test
             - build
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              # Semantic Versioning
-              only: /.*/
+            - test
       - docker_deploy:
           requires:
-            - test
             - build
+            - test
           filters:
             branches:
               ignore: /.*/
             tags:
-              # Semantic Versioning
-              only: /.*/
+              only: /^.*/

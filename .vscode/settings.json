@@ -8,5 +8,8 @@
 	},
 	"search.exclude": {
 		"**/docs": true
+	},
+	"files.associations": {
+		".releaserc": "json"
 	}
 }
