@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baya Pinia plateada",
         "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas y se captura con más facilidad en tu próximo lanzamiento."
@@ -22,6 +23,7 @@
         "name": "Hiperpoción",
         "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Incienso",
         "description": "Incienso con una fragancia misteriosa que atrae a los Pokémon salvajes hacia donde estás durante 30 minutos."

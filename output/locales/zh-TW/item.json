@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "銀色凰梨果",
         "description": "寶可夢吃下這種樹果後，會變得更容易捕捉，而且會掉更多糖果。"
@@ -22,6 +23,7 @@
         "name": "厲害傷藥",
         "description": "噴霧式傷藥。能讓1隻寶可夢的HP回復{1}。"
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "薰香",
         "description": "擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。"

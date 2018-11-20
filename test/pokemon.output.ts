@@ -35,7 +35,7 @@ describe('Pokemon Output', () => {
             item => expect(item.animationTime.length, 'animationTime length').to.not.equal(0),
             item => expect(item.id, 'id').to.not.equal(undefined),
             item => expect(item.name, 'name').to.not.equal(undefined),
-            item => expect(item.dex, 'dex').to.be.within(1, 493),
+            item => expect(item.dex, 'dex').to.be.within(1, 809),
             item => expect(Array.isArray(item.cinematicMoves), 'cinematicMoves type').to.equal(true),
             item => expect(item.cinematicMoves.length, 'cinematicMoves length').to.not.equal(0),
             item => expect(Array.isArray(item.quickMoves), 'quickMoves array').to.equal(true),
@@ -139,7 +139,7 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.pastBranch, 'Magmar should have past evolution').to.not.be.empty,
                 item => expect(item.evolution.pastBranch.pastBranch, 'Magmar should only have one pastEvolution').to.be.undefined,
                 item => expect(item.evolution.pastBranch.id, 'Magmar\'s only pastEvolution should be Magby').to.equal('MAGBY'),
-                item => expect(item.evolution.futureBranches, 'Magmar should not evolve').to.be.undefined
+                item => expect(item.evolution.futureBranches[0].id, 'Magmar should evolve into MAGMORTAR').to.be.equal('MAGMORTAR')
             ],
             'GOLDUCK': [
                 item => expect(item.evolution.pastBranch, 'Golduck should have past evolution').to.not.be.empty,

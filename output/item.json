@@ -62,6 +62,19 @@
         "dropTrainerLevel": 100
     },
     {
+        "id": "GEN4_EVOLUTION_STONE",
+        "name": "Gen4 Evolution Stone",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
+    },
+    {
         "id": "GOLDEN_PINAP_BERRY",
         "name": "Golden Pinap Berry",
         "category": {
@@ -147,6 +160,19 @@
         "potion": {
             "staminaAmount": 200
         }
+    },
+    {
+        "id": "INCENSE_BELUGA_BOX",
+        "name": "Incense Beluga Box",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "type": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 100
     },
     {
         "id": "INCENSE_ORDINARY",

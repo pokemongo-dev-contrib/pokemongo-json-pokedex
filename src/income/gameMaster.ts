@@ -6,8 +6,10 @@ export interface RootObject {
 export interface ItemTemplate {
   templateId: string;
   avatarCustomization?: AvatarCustomization;
+  backgroundModeSettings?: BackgroundModeSettings;
   badgeSettings?: BadgeSettings;
   battleSettings?: BattleSettings;
+  belugaPokemonWhitelist?: BelugaPokemonWhitelist;
   encounterSettings?: EncounterSettings;
   exRaidSettings?: ExRaidSettings;
   formSettings?: FormSettings;
@@ -124,10 +126,10 @@ export interface PokemonSettings {
   rarity?: string;
 }
 export interface EvolutionBranch {
-  evolution?: string;
+  evolution: string;
   candyCost?: number;
   form?: string;
-  evolutionItemRequirement?: string;
+  evolutionItemRequirement?: number | string;
   kmBuddyDistanceRequirement?: number;
 }
 export interface Stats {
@@ -208,7 +210,7 @@ export interface LuckyPokemonSettings {
   powerUpStardustDiscountPercent: number;
 }
 export interface ItemSettings {
-  itemId: string;
+  itemId: number | string;
   itemType: string;
   category: string;
   dropTrainerLevel: number;
@@ -308,6 +310,12 @@ export interface EncounterSettings {
   arCloseProximityThreshold: number;
   arLowAwarenessThreshold: number;
 }
+export interface BelugaPokemonWhitelist {
+  maxAllowedPokemonPokedexNumber: number;
+  additionalPokemonAllowed: string[];
+  formsAllowed: string[];
+  costumesAllowed: string[];
+}
 export interface BattleSettings {
   retargetSeconds: number;
   enemyAttackInterval: number;
@@ -329,6 +337,11 @@ export interface BadgeSettings {
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;
+}
+export interface BackgroundModeSettings {
+  weeklyFitnessGoalLevel1DistanceKm: number;
+  weeklyFitnessGoalLevel2DistanceKm: number;
+  weeklyFitnessGoalLevel3DistanceKm: number;
 }
 export interface AvatarCustomization {
   enabled?: boolean;

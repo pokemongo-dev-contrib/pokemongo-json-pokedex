@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "은 파인열매",
         "description": "포켓몬에게 주면 잡기 쉬워지고 잡았을 때 사탕을 많게 손에 넣을 수 있는 나무열매."
@@ -22,6 +23,7 @@
         "name": "고급상처약",
         "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "향로",
         "description": "이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다."

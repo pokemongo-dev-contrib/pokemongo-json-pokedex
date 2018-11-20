@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baie Nanana argentée",
         "description": "Si tu en donnes à manger à un Pokémon, il donnera plus de Bonbons quand tu l'attraperas et sera plus facile à capturer."
@@ -22,6 +23,7 @@
         "name": "Hyper Potion",
         "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Encens",
         "description": "Une senteur qui attire les Pokémon vers toi pendant 30 minutes."
