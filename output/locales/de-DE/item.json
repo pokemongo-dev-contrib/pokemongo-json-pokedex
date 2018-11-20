@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Silberne Sananabeere",
         "description": "Wenn du sie einem Pokémon zum Essen gibst, erhältst du mehr Bonbons, wenn du es fängst, und es lässt es sich leichter fangen."
@@ -22,6 +23,7 @@
         "name": "Hypertrank",
         "description": "Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Rauch",
         "description": "Ein wohlriechender Rauch, der 30 Minuten lang wilde Pokémon zu dir lockt."

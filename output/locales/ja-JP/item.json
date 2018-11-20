@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "ぎんのパイルのみ",
         "description": "ポケモンに与えると捕まえやすくなり、捕まえたときにアメがかなり多めに手に入るきのみ。"
@@ -22,6 +23,7 @@
         "name": "すごいキズぐすり",
         "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "おこう",
         "description": "不思議な香りのおこう。30分香りを出し野生のポケモンを呼び寄せる。"

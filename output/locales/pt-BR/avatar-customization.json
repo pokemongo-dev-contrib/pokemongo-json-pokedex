@@ -375,6 +375,9 @@
     "f_shirt_hgss_0": {
         "name": "Blusa de Johto"
     },
+    "f_shirt_ingress_0": {},
+    "f_shirt_ingress_e_0": {},
+    "f_shirt_ingress_r_0": {},
     "f_shirt_latias_latios_0": {
         "name": "Blusa de Latios e Latias"
     },
@@ -822,6 +825,9 @@
     "m_shirt_hgss_0": {
         "name": "Casaco de Johto"
     },
+    "m_shirt_ingress_0": {},
+    "m_shirt_ingress_e_0": {},
+    "m_shirt_ingress_r_0": {},
     "m_shirt_jogger_0": {
         "name": "Top de corredor"
     },

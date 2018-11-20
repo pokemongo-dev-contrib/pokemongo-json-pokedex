@@ -1669,6 +1669,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ingress 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_0",
+        "iconName": "f_shirt_ingress_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress E 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_e_0",
+        "iconName": "f_shirt_ingress_e_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress R 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_r_0",
+        "iconName": "f_shirt_ingress_r_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Latias Latios 0",
         "gender": "Female",
         "enabled": true,
@@ -3603,6 +3636,39 @@
         "id": "m_shirt_hgss_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shirt_hgss_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_0",
+        "iconName": "m_shirt_ingress_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress E 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_e_0",
+        "iconName": "m_shirt_ingress_e_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress R 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_r_0",
+        "iconName": "m_shirt_ingress_r_bundle_icon",
         "slot": [
             "Shirt"
         ],

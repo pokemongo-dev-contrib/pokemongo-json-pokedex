@@ -1,3 +1,13 @@
+# Version 3.4.3 (20.11.2018)
+
+## Features
+
+- **chore: Update to GAME_MASTER v1542581210773** 
+
+## Contributors
+
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
 # Version 3.4.2 (02.11.2018)
 
 ## Features

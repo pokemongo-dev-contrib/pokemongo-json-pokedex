@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Fruta Caxí prateada",
         "description": "Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo. Será mais fácil pegar Pokémon com ela."
@@ -22,6 +23,7 @@
         "name": "Hiperpoção",
         "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Incenso",
         "description": "Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos."

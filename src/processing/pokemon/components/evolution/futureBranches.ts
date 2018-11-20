@@ -9,6 +9,7 @@ import { Identifyable } from '@core';
 import { Id } from '../id';
 import { TemplateIdToId } from '../shared/templateIdToId';
 import { getPokemonIdByEvolutionBranch } from './shared/getPokemonIdByEvolutionBranch';
+import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequirement';
 
 @Component({
     pipeline: 'pokemon',
@@ -54,10 +55,7 @@ export class FutureBranches implements IComponent {
         // Make evolutionItemRequirement to Identifyable
         let evolutionItem: Identifyable;
         if (evolutionBranch.evolutionItemRequirement) {
-            evolutionItem = {
-                id: evolutionBranch.evolutionItemRequirement,
-                name: Util.SnakeCase2HumanReadable(evolutionBranch.evolutionItemRequirement.replace('ITEM_', ''))
-            };
+            evolutionItem = GetEvolutionItemRequirement(evolutionBranch.evolutionItemRequirement)
         }
 
         // Return evolutionCost Object

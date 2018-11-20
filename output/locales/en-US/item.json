@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Silver Pinap Berry",
         "description": "Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch."
@@ -22,6 +23,7 @@
         "name": "Hyper Potion",
         "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Incense",
         "description": "Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes."
