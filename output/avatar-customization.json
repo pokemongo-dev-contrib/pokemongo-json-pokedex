@@ -78,6 +78,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_gengar_0",
+        "iconName": "f_backpack_gengar_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -720,6 +731,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Drifloon 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_drifloon_0",
+        "iconName": "f_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Empty",
         "gender": "Female",
         "enabled": true,
@@ -753,12 +775,34 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Fragment 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_fragment_0",
+        "iconName": "f_hat_fragment_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Frlg 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_hat_frlg_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gengar_0",
+        "iconName": "f_hat_gengar_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -821,12 +865,89 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Mismagius 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_mismagius_0",
+        "iconName": "f_hat_mismagius_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Pikachufan 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_pikachufan_0",
         "unlockBadgeLevel": 3,
         "iconName": "f_hat_pikachufan_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_pkmncap_0",
+        "iconName": "f_hat_pkmncap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_pkmncap_1",
+        "iconName": "f_hat_pkmncap_1_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_pkmncap_2",
+        "iconName": "f_hat_pkmncap_2_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_teamleadercap_0",
+        "iconName": "f_hat_teamleadercap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_teamleadercap_1",
+        "iconName": "f_hat_teamleadercap_1_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_teamleadercap_2",
+        "iconName": "f_hat_teamleadercap_2_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1445,11 +1566,33 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Drifblim 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_drifblim_0",
+        "iconName": "f_shirt_drifblim_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_earthday_2018",
         "iconName": "f_shirt_earthday_2018_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Fragment 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_fragment_0",
+        "iconName": "f_shirt_fragment_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1462,6 +1605,17 @@
         "id": "f_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gengar 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gengar_0",
+        "iconName": "f_shirt_gengar_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -1515,6 +1669,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ingress 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_0",
+        "iconName": "f_shirt_ingress_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress E 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_e_0",
+        "iconName": "f_shirt_ingress_e_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress R 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ingress_r_0",
+        "iconName": "f_shirt_ingress_r_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Latias Latios 0",
         "gender": "Female",
         "enabled": true,
@@ -1543,6 +1730,17 @@
         "id": "f_shirt_pikachufan_0",
         "unlockBadgeLevel": 300,
         "iconName": "f_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spiritomb 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_spiritomb_0",
+        "iconName": "f_shirt_spiritomb_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2265,6 +2463,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_gengar_0",
+        "iconName": "m_backpack_gengar_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -2721,6 +2930,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Drifloon 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_drifloon_0",
+        "iconName": "m_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Empty",
         "gender": "Male",
         "enabled": true,
@@ -2766,12 +2986,34 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Fragment 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_fragment_0",
+        "iconName": "m_hat_fragment_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Frlg 0",
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_hat_frlg_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gengar_0",
+        "iconName": "m_hat_gengar_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2824,12 +3066,89 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Mismagius 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_mismagius_0",
+        "iconName": "m_hat_mismagius_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Pikachufan 0",
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_pikachufan_0",
         "unlockBadgeLevel": 3,
         "iconName": "m_hat_pikachufan_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_pkmncap_0",
+        "iconName": "m_hat_pkmncap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_pkmncap_1",
+        "iconName": "m_hat_pkmncap_1_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pkmncap 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_pkmncap_2",
+        "iconName": "m_hat_pkmncap_2_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_teamleadercap_0",
+        "iconName": "m_hat_teamleadercap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_teamleadercap_1",
+        "iconName": "m_hat_teamleadercap_1_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamleadercap 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_teamleadercap_2",
+        "iconName": "m_hat_teamleadercap_2_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -3207,6 +3526,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Drifblim 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_drifblim_0",
+        "iconName": "m_shirt_drifblim_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Male",
         "enabled": true,
@@ -3230,12 +3560,34 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Fragment 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_fragment_0",
+        "iconName": "m_shirt_fragment_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Frlg 0",
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shirt_frlg_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gengar 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gengar_0",
+        "iconName": "m_shirt_gengar_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3284,6 +3636,39 @@
         "id": "m_shirt_hgss_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shirt_hgss_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_0",
+        "iconName": "m_shirt_ingress_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress E 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_e_0",
+        "iconName": "m_shirt_ingress_e_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ingress R 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ingress_r_0",
+        "iconName": "m_shirt_ingress_r_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3396,6 +3781,17 @@
         "id": "m_shirt_pikachufan_0",
         "unlockBadgeLevel": 300,
         "iconName": "m_shirt_pikachufan_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spiritomb 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_spiritomb_0",
+        "iconName": "m_shirt_spiritomb_0_bundle_icon",
         "slot": [
             "Shirt"
         ],

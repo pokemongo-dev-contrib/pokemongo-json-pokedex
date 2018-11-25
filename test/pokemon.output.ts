@@ -13,7 +13,6 @@ describe('Pokemon Output', () => {
 
     it('should have pokemons', () => {
         expect(input.length).to.not.equal(0);
-        expect(input.length).to.equal(410);
     });
 
     it('should have unique id', () => {
@@ -36,7 +35,7 @@ describe('Pokemon Output', () => {
             item => expect(item.animationTime.length, 'animationTime length').to.not.equal(0),
             item => expect(item.id, 'id').to.not.equal(undefined),
             item => expect(item.name, 'name').to.not.equal(undefined),
-            item => expect(item.dex, 'dex').to.be.within(1, 386),
+            item => expect(item.dex, 'dex').to.be.within(1, 809),
             item => expect(Array.isArray(item.cinematicMoves), 'cinematicMoves type').to.equal(true),
             item => expect(item.cinematicMoves.length, 'cinematicMoves length').to.not.equal(0),
             item => expect(Array.isArray(item.quickMoves), 'quickMoves array').to.equal(true),
@@ -104,7 +103,7 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.futureBranches, 'Flareon should not evolve').to.be.undefined
             ],
             'SNORLAX': [
-                item => expect(item.evolution.pastBranch, 'Snorlax should not have past evolution').to.equal(undefined),
+                item => expect(item.evolution.pastBranch, 'Snorlax should have past evolution').to.not.be.undefined,
                 item => expect(item.evolution.futureBranches, 'Snorlax should not evolve').to.be.undefined
             ],
             'SEADRA': [
@@ -140,7 +139,7 @@ describe('Pokemon Output', () => {
                 item => expect(item.evolution.pastBranch, 'Magmar should have past evolution').to.not.be.empty,
                 item => expect(item.evolution.pastBranch.pastBranch, 'Magmar should only have one pastEvolution').to.be.undefined,
                 item => expect(item.evolution.pastBranch.id, 'Magmar\'s only pastEvolution should be Magby').to.equal('MAGBY'),
-                item => expect(item.evolution.futureBranches, 'Magmar should not evolve').to.be.undefined
+                item => expect(item.evolution.futureBranches[0].id, 'Magmar should evolve into MAGMORTAR').to.be.equal('MAGMORTAR')
             ],
             'GOLDUCK': [
                 item => expect(item.evolution.pastBranch, 'Golduck should have past evolution').to.not.be.empty,
@@ -220,6 +219,34 @@ describe('Pokemon Output', () => {
             if (pokemon.encounter.gender) {
                 expect(pokemon.encounter.gender.femalePercent, `pokemon.encounter.gender.femalePercent ${pokemon.id}`).not.to.equal(undefined);
                 expect(pokemon.encounter.gender.malePercent, `pokemon.encounter.gender.malePercent ${pokemon.id}`).not.to.equal(undefined);
+            }
+        });
+    });
+
+    it('should have multiple forms for certain pokemon, like alolan', () => {
+        const expectations = {
+            'RATTATA': [
+                item => expect(item.forms.length, 'Rattata should have 2 forms').to.equal(2),
+                item => expect(item.forms[0].id, 'Rattata first form id should be RATTATA').to.equal('RATTATA'),
+                item => expect(item.forms[0].name, 'Rattata first form name should be Rattata').to.equal('Rattata'),
+                item => expect(item.forms[1].id, 'Rattata second form id should be RATTATA_ALOLA').to.equal('RATTATA_ALOLA'),
+                item => expect(item.forms[1].name, 'Rattata second form name should be Rattata Alola').to.equal('Rattata Alola')
+            ],
+            'RATTATA_ALOLA': [
+                item => expect(item.forms.length, 'Rattata should have 2 forms').to.equal(2),
+                item => expect(item.forms[0].id, 'Rattata first form id should be RATTATA').to.equal('RATTATA'),
+                item => expect(item.forms[0].name, 'Rattata first form name should be Rattata').to.equal('Rattata'),
+                item => expect(item.forms[1].id, 'Rattata second form id should be RATTATA_ALOLA').to.equal('RATTATA_ALOLA'),
+                item => expect(item.forms[1].name, 'Rattata second form name should be Rattata Alola').to.equal('Rattata Alola')
+            ]
+        }
+
+        input.forEach(mon => {
+            if (mon.id in expectations) {
+                let testFunctions = expectations[mon.id];
+                testFunctions.forEach(func => {
+                    func(mon);
+                });
             }
         });
     });

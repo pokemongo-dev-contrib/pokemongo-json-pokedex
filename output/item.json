@@ -62,6 +62,19 @@
         "dropTrainerLevel": 100
     },
     {
+        "id": "GEN4_EVOLUTION_STONE",
+        "name": "Gen4 Evolution Stone",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
+    },
+    {
         "id": "GOLDEN_PINAP_BERRY",
         "name": "Golden Pinap Berry",
         "category": {
@@ -149,6 +162,19 @@
         }
     },
     {
+        "id": "INCENSE_BELUGA_BOX",
+        "name": "Incense Beluga Box",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "type": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
         "id": "INCENSE_ORDINARY",
         "name": "Incense Ordinary",
         "category": {
@@ -159,13 +185,7 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "dropTrainerLevel": 100,
-        "incense": {
-            "distanceRequiredForShorterIntervalMeters": 200,
-            "incenseLifeTimeSceonds": 1800,
-            "movingTimeBetweenEncounterSeconds": 60,
-            "standingTimeBetweenEncountersSeconds": 300
-        }
+        "dropTrainerLevel": 100
     },
     {
         "id": "INCUBATOR_BASIC",

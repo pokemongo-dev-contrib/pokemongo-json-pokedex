@@ -9,6 +9,7 @@ import { Identifyable } from '@core';
 import { Id } from '../id';
 import { TemplateIdToId } from '../shared/templateIdToId';
 import { getPokemonIdByEvolutionBranch } from './shared/getPokemonIdByEvolutionBranch';
+import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequirement';
 
 @Component({
     pipeline: 'pokemon',
@@ -32,7 +33,8 @@ export class FutureBranches implements IComponent {
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
         return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
             const pokemonId = getPokemonIdByEvolutionBranch(branch);
-            return this.GetRawPokemonById(pokemonId)
+            const rawPokemon = this.GetRawPokemonById(pokemonId)
+            return rawPokemon;
         });
     }
 
@@ -53,10 +55,7 @@ export class FutureBranches implements IComponent {
         // Make evolutionItemRequirement to Identifyable
         let evolutionItem: Identifyable;
         if (evolutionBranch.evolutionItemRequirement) {
-            evolutionItem = {
-                id: evolutionBranch.evolutionItemRequirement,
-                name: Util.SnakeCase2HumanReadable(evolutionBranch.evolutionItemRequirement.replace('ITEM_', ''))
-            };
+            evolutionItem = GetEvolutionItemRequirement(evolutionBranch.evolutionItemRequirement)
         }
 
         // Return evolutionCost Object
@@ -84,11 +83,13 @@ export class FutureBranches implements IComponent {
         if (!futurePokemons.length) {
             return undefined;
         }
-        return futurePokemons.map(futurePokemon => ({
-            ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
-            futureBranches: this.GetFutureBranches(futurePokemon),
-            costToEvolve: this.GetEvolutionCost(TemplateIdToId(futurePokemon), rawPokemon),
-        } as FutureEvolutionBranch))
+        return futurePokemons
+            .filter(pokemon => pokemon !== undefined)
+            .map(futurePokemon => ({
+                ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
+                futureBranches: this.GetFutureBranches(futurePokemon),
+                costToEvolve: this.GetEvolutionCost(TemplateIdToId(futurePokemon), rawPokemon),
+            } as FutureEvolutionBranch))
     }
 
     Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[]): Pokemon[] {

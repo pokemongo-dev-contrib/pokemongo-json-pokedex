@@ -20,6 +20,7 @@
     "f_backpack_frlg_0": {
         "name": "리프백"
     },
+    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "성도백"
     },
@@ -154,6 +155,7 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "모자 없음"
     },
@@ -163,9 +165,11 @@
     "f_hat_fedora_1": {
         "name": "펠트페도라"
     },
+    "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "리프해트"
     },
+    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "성도캡"
     },
@@ -179,9 +183,16 @@
         "name": "잉어킹모자"
     },
     "f_hat_mimikyu_0": {},
+    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
+    "f_hat_pkmncap_0": {},
+    "f_hat_pkmncap_1": {},
+    "f_hat_pkmncap_2": {},
+    "f_hat_teamleadercap_0": {},
+    "f_hat_teamleadercap_1": {},
+    "f_hat_teamleadercap_2": {},
     "f_hat_teamrocket_0": {
         "name": "로켓단모자"
     },
@@ -343,12 +354,15 @@
     "f_shirt_default_8": {
         "name": "클래식 롱슬리브"
     },
+    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "파도타기 블루티셔츠"
     },
+    "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "리프상의"
     },
+    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "체육관 리더 상의"
     },
@@ -361,6 +375,9 @@
     "f_shirt_hgss_0": {
         "name": "성도 상의"
     },
+    "f_shirt_ingress_0": {},
+    "f_shirt_ingress_e_0": {},
+    "f_shirt_ingress_r_0": {},
     "f_shirt_latias_latios_0": {
         "name": "라티아스&라티오스 티셔츠"
     },
@@ -370,6 +387,7 @@
     "f_shirt_pikachufan_0": {
         "name": "피카츄 애호가티셔츠"
     },
+    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "The Thirty"
     },
@@ -552,6 +570,7 @@
     "m_backpack_frlg_0": {
         "name": "파이어백팩"
     },
+    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "성도백"
     },
@@ -649,6 +668,7 @@
     "m_hat_default_5": {
         "name": "트레이너바이저"
     },
+    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "모자 없음"
     },
@@ -661,9 +681,11 @@
     "m_hat_fisher_0": {
         "name": "낚시꾼캡"
     },
+    "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "파이어캡"
     },
+    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "성도캡"
     },
@@ -674,9 +696,16 @@
         "name": "잉어킹모자"
     },
     "m_hat_mimikyu_0": {},
+    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
+    "m_hat_pkmncap_0": {},
+    "m_hat_pkmncap_1": {},
+    "m_hat_pkmncap_2": {},
+    "m_hat_teamleadercap_0": {},
+    "m_hat_teamleadercap_1": {},
+    "m_hat_teamleadercap_2": {},
     "m_hat_teamrocket_0": {
         "name": "로켓단모자"
     },
@@ -772,15 +801,18 @@
     "m_shirt_default_7": {
         "name": "클래식 후드티"
     },
+    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "파도타기 블루티셔츠"
     },
     "m_shirt_fisher_0": {
         "name": "낚시꾼베스트"
     },
+    "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "파이어상의"
     },
+    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "체육관 리더 상의"
     },
@@ -793,6 +825,9 @@
     "m_shirt_hgss_0": {
         "name": "성도 상의"
     },
+    "m_shirt_ingress_0": {},
+    "m_shirt_ingress_e_0": {},
+    "m_shirt_ingress_r_0": {},
     "m_shirt_jogger_0": {
         "name": "조깅셔츠"
     },
@@ -823,6 +858,7 @@
     "m_shirt_pikachufan_0": {
         "name": "피카츄 애호가티셔츠"
     },
+    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "스포츠 후드티"
     },

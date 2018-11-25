@@ -9,6 +9,7 @@
     },
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
+    "GEN4_EVOLUTION_STONE": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baccananas d'argento",
         "description": "Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi e renderlo più facile da catturare."
@@ -22,6 +23,7 @@
         "name": "Iperpozione",
         "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."
     },
+    "INCENSE_BELUGA_BOX": {},
     "INCENSE_ORDINARY": {
         "name": "Aroma",
         "description": "Un intenso profumo che attrae i Pokémon selvatici per 30 minuti."

@@ -6,9 +6,12 @@ export interface RootObject {
 export interface ItemTemplate {
   templateId: string;
   avatarCustomization?: AvatarCustomization;
+  backgroundModeSettings?: BackgroundModeSettings;
   badgeSettings?: BadgeSettings;
   battleSettings?: BattleSettings;
+  belugaPokemonWhitelist?: BelugaPokemonWhitelist;
   encounterSettings?: EncounterSettings;
+  exRaidSettings?: ExRaidSettings;
   formSettings?: FormSettings;
   friendshipMilestoneSettings?: FriendshipMilestoneSettings;
   gymBadgeSettings?: GymBadgeSettings;
@@ -114,6 +117,9 @@ export interface PokemonSettings {
   buddyOffsetMale: number[];
   buddyOffsetFemale: number[];
   buddyScale: number;
+  buddyPortraitOffset: number[];
+  isTransferable?: boolean;
+  isDeployable?: boolean;
   parentPokemonId?: string;
   buddySize?: string;
   form?: string;
@@ -121,9 +127,9 @@ export interface PokemonSettings {
 }
 export interface EvolutionBranch {
   evolution: string;
-  candyCost: number;
+  candyCost?: number;
   form?: string;
-  evolutionItemRequirement?: string;
+  evolutionItemRequirement?: number | string;
   kmBuddyDistanceRequirement?: number;
 }
 export interface Stats {
@@ -204,13 +210,12 @@ export interface LuckyPokemonSettings {
   powerUpStardustDiscountPercent: number;
 }
 export interface ItemSettings {
-  itemId: string;
+  itemId: number | string;
   itemType: string;
   category: string;
   dropTrainerLevel: number;
   food?: Food;
   potion?: Potion;
-  incense?: Incense;
   eggIncubator?: EggIncubator;
   inventoryUpgrade?: InventoryUpgrade;
   xpBoost?: XpBoost;
@@ -236,12 +241,6 @@ export interface EggIncubator {
   incubatorType: string;
   uses?: number;
   distanceMultiplier: number;
-}
-export interface Incense {
-  incenseLifetimeSeconds: number;
-  standingTimeBetweenEncountersSeconds: number;
-  movingTimeBetweenEncounterSeconds: number;
-  distanceRequiredForShorterIntervalMeters: number;
 }
 export interface Potion {
   staAmount?: number;
@@ -298,6 +297,9 @@ export interface Form {
   form: string;
   assetBundleValue?: number;
 }
+export interface ExRaidSettings {
+  minimumExRaidShareLevel: string;
+}
 export interface EncounterSettings {
   spinBonusThreshold: number;
   excellentThrowThreshold: number;
@@ -307,6 +309,12 @@ export interface EncounterSettings {
   arPlusModeEnabled: boolean;
   arCloseProximityThreshold: number;
   arLowAwarenessThreshold: number;
+}
+export interface BelugaPokemonWhitelist {
+  maxAllowedPokemonPokedexNumber: number;
+  additionalPokemonAllowed: string[];
+  formsAllowed: string[];
+  costumesAllowed: string[];
 }
 export interface BattleSettings {
   retargetSeconds: number;
@@ -325,10 +333,15 @@ export interface BattleSettings {
   minimumRaidPlayerLevel: number;
 }
 export interface BadgeSettings {
-  badgeType: number | string;
+  badgeType: string;
   badgeRank: number;
   targets: number[];
   eventBadge?: boolean;
+}
+export interface BackgroundModeSettings {
+  weeklyFitnessGoalLevel1DistanceKm: number;
+  weeklyFitnessGoalLevel2DistanceKm: number;
+  weeklyFitnessGoalLevel3DistanceKm: number;
 }
 export interface AvatarCustomization {
   enabled?: boolean;
