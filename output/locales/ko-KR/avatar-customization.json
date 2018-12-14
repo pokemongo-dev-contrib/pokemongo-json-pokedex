@@ -137,10 +137,22 @@
     },
     "f_hair_default_0": {},
     "f_hair_default_1": {},
+    "f_hair_default_10": {},
+    "f_hair_default_11": {},
+    "f_hair_default_12": {},
+    "f_hair_default_13": {},
+    "f_hair_default_14": {},
+    "f_hair_default_15": {},
+    "f_hair_default_16": {},
+    "f_hair_default_17": {},
     "f_hair_default_2": {},
     "f_hair_default_3": {},
     "f_hair_default_4": {},
     "f_hair_default_5": {},
+    "f_hair_default_6": {},
+    "f_hair_default_7": {},
+    "f_hair_default_8": {},
+    "f_hair_default_9": {},
     "f_hat_adventure_0": {
         "name": "탐험가모자"
     },
@@ -156,6 +168,7 @@
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
     "f_hat_drifloon_0": {},
+    "f_hat_eeveecap_0": {},
     "f_hat_empty": {
         "name": "모자 없음"
     },
@@ -184,6 +197,7 @@
     },
     "f_hat_mimikyu_0": {},
     "f_hat_mismagius_0": {},
+    "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
@@ -272,6 +286,7 @@
     "f_pants_miniskirt_wave_2": {
         "name": "웨이브 스커트"
     },
+    "f_pants_misty_0": {},
     "f_pants_neon_solid_0": {
         "name": "리퀴드 레깅스"
     },
@@ -384,6 +399,7 @@
     "f_shirt_mew_0": {
         "name": "뮤티셔츠"
     },
+    "f_shirt_misty_0": {},
     "f_shirt_pikachufan_0": {
         "name": "피카츄 애호가티셔츠"
     },
@@ -518,6 +534,7 @@
     "f_shoes_hgss_0": {
         "name": "성도 슈즈"
     },
+    "f_shoes_misty_0": {},
     "f_shoes_pikachufan_0": {
         "name": "피카츄 애호가슈즈"
     },
@@ -640,10 +657,22 @@
     },
     "m_hair_default_0": {},
     "m_hair_default_1": {},
+    "m_hair_default_10": {},
+    "m_hair_default_11": {},
+    "m_hair_default_12": {},
+    "m_hair_default_13": {},
+    "m_hair_default_14": {},
+    "m_hair_default_15": {},
+    "m_hair_default_16": {},
+    "m_hair_default_17": {},
     "m_hair_default_2": {},
     "m_hair_default_3": {},
     "m_hair_default_4": {},
     "m_hair_default_5": {},
+    "m_hair_default_6": {},
+    "m_hair_default_7": {},
+    "m_hair_default_8": {},
+    "m_hair_default_9": {},
     "m_hat_adventure_0": {
         "name": "탐험가모자"
     },
@@ -669,6 +698,7 @@
         "name": "트레이너바이저"
     },
     "m_hat_drifloon_0": {},
+    "m_hat_eeveecap_0": {},
     "m_hat_empty": {
         "name": "모자 없음"
     },
@@ -697,6 +727,7 @@
     },
     "m_hat_mimikyu_0": {},
     "m_hat_mismagius_0": {},
+    "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
     },
@@ -713,6 +744,7 @@
         "name": "톱 해트"
     },
     "m_hat_ultra_0": {},
+    "m_pants_brock_0": {},
     "m_pants_default_0": {
         "name": "트레이너 반바지"
     },
@@ -771,6 +803,7 @@
     "m_shirt_blazer_0": {
         "name": "비지니스 블레이저"
     },
+    "m_shirt_brock_0": {},
     "m_shirt_celebi_0": {
         "name": "세레비 티셔츠"
     },
@@ -926,6 +959,7 @@
         "name": "더 30"
     },
     "m_shirt_ultra_0": {},
+    "m_shoes_brock_0": {},
     "m_shoes_default_0": {
         "name": "런닝슈즈"
     },

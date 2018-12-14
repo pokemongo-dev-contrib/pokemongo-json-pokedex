@@ -577,6 +577,94 @@
         "category": "Hair"
     },
     {
+        "name": "Hair Default 10",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_10",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 11",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_11",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 12",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_12",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 13",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_13",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 14",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_14",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 15",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_15",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 16",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_16",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 17",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_17",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
         "name": "Hair Default 2",
         "gender": "Female",
         "enabled": true,
@@ -614,6 +702,50 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_5",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 6",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_6",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 7",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_7",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 8",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_8",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 9",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_9",
         "iconName": "f_group_hair",
         "slot": [
             "Hair"
@@ -736,6 +868,17 @@
         "enabled": true,
         "id": "f_hat_drifloon_0",
         "iconName": "f_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Eeveecap",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_eeveecap_0",
+        "iconName": "f_hat_eeveecap_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -870,6 +1013,17 @@
         "enabled": true,
         "id": "f_hat_mismagius_0",
         "iconName": "f_hat_mismagius_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Pikachucap",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_pikachucap_0",
+        "iconName": "f_hat_pikachucap_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1251,6 +1405,17 @@
         "enabled": true,
         "id": "f_pants_miniskirt_wave_2",
         "iconName": "f_pants_miniskirt_wave_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Misty",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_misty_0",
+        "iconName": "f_pants_misty_0_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -1718,6 +1883,17 @@
         "enabled": true,
         "id": "f_shirt_mew_0",
         "iconName": "f_shirt_mew_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Misty",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_misty_0",
+        "iconName": "f_shirt_misty_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2262,6 +2438,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Misty",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_misty_0",
+        "iconName": "f_shoes_misty_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Pikachufan 0",
         "gender": "Female",
         "enabled": true,
@@ -2798,6 +2985,94 @@
         "category": "Hair"
     },
     {
+        "name": "Hair Default 10",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_10",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 11",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_11",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 12",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_12",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 13",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_13",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 14",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_14",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 15",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_15",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 16",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_16",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 17",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_17",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
         "name": "Hair Default 2",
         "gender": "Male",
         "enabled": true,
@@ -2835,6 +3110,50 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_5",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 6",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_6",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 7",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_7",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 8",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_8",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 9",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_9",
         "iconName": "m_group_hair",
         "slot": [
             "Hair"
@@ -2935,6 +3254,17 @@
         "enabled": true,
         "id": "m_hat_drifloon_0",
         "iconName": "m_hat_drifloon_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Eeveecap",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_eeveecap_0",
+        "iconName": "m_hat_eeveecap_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -3077,6 +3407,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Pikachucap",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_pikachucap_0",
+        "iconName": "m_hat_pikachucap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Pikachufan 0",
         "gender": "Male",
         "enabled": true,
@@ -3186,6 +3527,17 @@
             "Hat"
         ],
         "category": "Hat"
+    },
+    {
+        "name": "Pants Brock",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_brock_0",
+        "iconName": "m_pants_brock_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
     },
     {
         "name": "Pants Default 0",
@@ -3410,6 +3762,17 @@
         "enabled": true,
         "id": "m_shirt_blazer_0",
         "iconName": "m_shirt_blazer_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Brock",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_brock_0",
+        "iconName": "m_shirt_brock_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4075,6 +4438,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shoes Brock",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_brock_0",
+        "iconName": "m_shoes_brock_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
     },
     {
         "name": "Shoes Default 0",

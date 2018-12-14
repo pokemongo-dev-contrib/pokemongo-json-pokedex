@@ -10,6 +10,11 @@ export interface ItemTemplate {
   badgeSettings?: BadgeSettings;
   battleSettings?: BattleSettings;
   belugaPokemonWhitelist?: BelugaPokemonWhitelist;
+  combatLeague?: CombatLeague;
+  combatLeagueSettings?: CombatLeagueSettings;
+  combatSettings?: CombatSettings;
+  combatStatStageSettings?: CombatStatStageSettings;
+  combatMove?: CombatMove;
   encounterSettings?: EncounterSettings;
   exRaidSettings?: ExRaidSettings;
   formSettings?: FormSettings;
@@ -26,6 +31,8 @@ export interface ItemTemplate {
   pokemonUpgrades?: PokemonUpgrades;
   questSettings?: QuestSettings;
   genderSettings?: GenderSettings;
+  combatNpcTrainer?: CombatNpcTrainer;
+  combatNpcPersonality?: CombatNpcPersonality;
   pokemonSettings?: PokemonSettings;
   moveSettings?: MoveSettings;
   weatherAffinities?: WeatherAffinities;
@@ -118,18 +125,27 @@ export interface PokemonSettings {
   buddyOffsetFemale: number[];
   buddyScale: number;
   buddyPortraitOffset: number[];
+  thirdMove: ThirdMove;
   isTransferable?: boolean;
   isDeployable?: boolean;
   parentPokemonId?: string;
   buddySize?: string;
+  combatShoulderCameraAngle?: number[];
+  combatDefaultCameraAngle?: number[];
+  combatPlayerFocusCameraAngle?: number[];
   form?: string;
   rarity?: string;
+  combatOpponentFocusCameraAngle?: number[];
+}
+export interface ThirdMove {
+  stardustToUnlock: number;
+  candyToUnlock: number;
 }
 export interface EvolutionBranch {
   evolution: string;
   candyCost?: number;
   form?: string;
-  evolutionItemRequirement?: number | string;
+  evolutionItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
 }
 export interface Stats {
@@ -163,6 +179,32 @@ export interface Camera {
   cylinderHeightM: number;
   shoulderModeScale?: number;
   cylinderGroundM?: number;
+}
+export interface CombatNpcPersonality {
+  personalityName: string;
+  superEffectiveChance: number;
+  specialChance: number;
+  offensiveMinimumScore: number;
+  offensiveMaximumScore: number;
+}
+export interface CombatNpcTrainer {
+  trainerName: string;
+  combatLeagueTemplateId: string;
+  combatPersonalityId: string;
+  avatar: Avatar;
+  availablePokemon: AvailablePokemon[];
+  trainerTitle: string;
+  trainerQuote: string;
+}
+export interface AvailablePokemon {
+  pokemonType: string;
+  pokemonDisplay?: PokemonDisplay;
+}
+export interface PokemonDisplay {
+  form: string;
+}
+export interface Avatar {
+  avatar: number;
 }
 export interface GenderSettings {
   pokemon: string;
@@ -210,7 +252,7 @@ export interface LuckyPokemonSettings {
   powerUpStardustDiscountPercent: number;
 }
 export interface ItemSettings {
-  itemId: number | string;
+  itemId: string;
   itemType: string;
   category: string;
   dropTrainerLevel: number;
@@ -309,6 +351,65 @@ export interface EncounterSettings {
   arPlusModeEnabled: boolean;
   arCloseProximityThreshold: number;
   arLowAwarenessThreshold: number;
+}
+export interface CombatMove {
+  uniqueId: string;
+  type: string;
+  power?: number;
+  vfxName: string;
+  energyDelta?: number;
+  durationTurns?: number;
+}
+export interface CombatStatStageSettings {
+  minimumStatStage: number;
+  maximumStatStage: number;
+  attackBuffMultiplier: number[];
+  defenseBuffMultiplier: number[];
+}
+export interface CombatSettings {
+  roundDurationSeconds: number;
+  turnDurationSeconds: number;
+  minigameDurationSeconds: number;
+  sameTypeAttackBonusMultiplier: number;
+  fastAttackBonusMultiplier: number;
+  chargeAttackBonusMultiplier: number;
+  defenseBonusMultiplier: number;
+  minigameBonusBaseMultiplier: number;
+  minigameBonusVariableMultiplier: number;
+  maxEnergy: number;
+  defenderMinigameMultiplier: number;
+  changePokemonDurationSeconds: number;
+  minigameSubmitScoreDurationSeconds: number;
+  quickSwapCooldownDurationSeconds: number;
+}
+export interface CombatLeagueSettings {
+  combatLeagueTemplateId: string[];
+}
+export interface CombatLeague {
+  title: string;
+  enabled: boolean;
+  pokemonCondition: PokemonCondition[];
+  iconUrl: string;
+  pokemonCount: number;
+  bannedPokemon: string[];
+  badgeType: string;
+  unlockCondition?: UnlockCondition[];
+}
+export interface UnlockCondition {
+  type: string;
+  minPokemonCount: number;
+  withPokemonCpLimit: WithPokemonCpLimit2;
+}
+export interface WithPokemonCpLimit2 {
+  minCp: number;
+  maxCp: number;
+}
+export interface PokemonCondition {
+  type: string;
+  withPokemonCpLimit: WithPokemonCpLimit;
+}
+export interface WithPokemonCpLimit {
+  maxCp: number;
 }
 export interface BelugaPokemonWhitelist {
   maxAllowedPokemonPokedexNumber: number;
