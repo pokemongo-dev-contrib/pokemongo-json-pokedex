@@ -28,7 +28,7 @@ const LOCALES = ['de-DE', 'en-US', 'zh-TW', 'fr-FR', 'es-ES', 'ja-JP', 'it-IT', 
 
 const done = (err, name) =>
     err ?
-        (console.log(`${chalk.red('✘')} Error while writing ${name}:`) || console.error(err)) :
+        console.log(`${chalk.red('✘')} Error while writing ${name}:`) :
         console.log(`${chalk.green('✔')} Successfully written ${name}`);
 
 const write = async (file: string, pipeline: Pipeline, name: string) => {
