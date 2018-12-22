@@ -1,6 +1,6 @@
 {
   "name": "pokemongo-json-pokedex",
-  "version": "3.4.4",
+  "version": "3.4.6",
   "description": "This program transforms the data from the Pokemon GO master files to a better readable & processable JSON file.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "docs": "node_modules/.bin/typedoc --out docs src",
     "lint": "tslint src/**/*.ts test/**/*.ts",
     "generate-interfaces": "node bin/generate-interfaces.js",
-    "fetch-game-master": "node bin/get-latest-game-master.js",
+    "fetch-game-master": "git submodule foreach git pull origin master",
     "fetch-assets": "node bin/get-latest-assets",
     "update": "npm run fetch-game-master && npm run fetch-assets && npm run generate-interfaces",
     "prepare": "npm run update",

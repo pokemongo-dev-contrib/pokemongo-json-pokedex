@@ -51,7 +51,7 @@ You can get the latest version by executing the following command in your shell.
 
 ```bash
 
-git clone https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex.git
+git clone --recurse-submodules https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex.git
 
 # Go to the assets
 cd pokemongo-json-pokedex/output

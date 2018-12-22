@@ -1,3 +1,14 @@
+# Version 3.4.6 (22.12.2018)
+
+## Features
+
+- **feat(pokemon): Add legacy moves**
+
+## Contributors
+
+- [broglep](https://github.com/broglep)
+- [BrunnerLivio](https://github.com/BrunnerLivio/)
+
 # Version 3.4.4 (14.12.2018)
 
 ## Features
