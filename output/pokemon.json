@@ -262,6 +262,11 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Frenzy Plant",
+                "id": "FRENZY_PLANT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -593,6 +598,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Blast Burn",
+                "id": "BLAST_BURN",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -925,6 +935,11 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Hydro Cannon",
+                "id": "HYDRO_CANNON",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -2863,6 +2878,11 @@
             {
                 "name": "Wild Charge",
                 "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16198,6 +16218,11 @@
             {
                 "name": "Swift",
                 "id": "SWIFT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16328,6 +16353,11 @@
             {
                 "name": "Aqua Tail",
                 "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16424,6 +16454,11 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16524,6 +16559,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17357,6 +17397,11 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17456,6 +17501,11 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST",
+                "legacy": true
             }
         ],
         "family": {
@@ -17543,6 +17593,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17856,6 +17911,11 @@
             {
                 "name": "Outrage",
                 "id": "OUTRAGE"
+            },
+            {
+                "name": "Draco Meteor",
+                "id": "DRACO_METEOR",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -18515,6 +18575,11 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Frenzy Plant",
+                "id": "FRENZY_PLANT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -18842,6 +18907,11 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Blast Burn",
+                "id": "BLAST_BURN",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -21429,6 +21499,11 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -23029,6 +23104,11 @@
             {
                 "name": "Futuresight",
                 "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -23124,6 +23204,11 @@
             {
                 "name": "Foul Play",
                 "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -28427,6 +28512,11 @@
             {
                 "name": "Iron Tail Fast",
                 "id": "IRON_TAIL_FAST"
+            },
+            {
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST",
+                "legacy": true
             }
         ],
         "family": {
@@ -42102,6 +42192,11 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Meteor Mash",
+                "id": "METEOR_MASH",
+                "legacy": true
             }
         ],
         "quickMoves": [
